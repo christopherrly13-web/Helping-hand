@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Helping Hand — Things to Do with Kids in Toronto</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Epilogue:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #F5F0E8; --white: #FDFAF4; --charcoal: #1A1A1A; --muted: #6A6560;
+      --border: #E2DAD0; --yellow: #F5C842; --yellow-dark: #D4A800;
+      --blue: #2B5BA8; --blue-light: #EBF0FB; --coral: #E85D40; --coral-light: #FDECEA;
+      --green: #2D7A4F; --green-light: #E6F4EC; --card: #FFFFFF;
+    }
+    html { scroll-behavior: smooth; }
+    body { font-family: 'Epilogue', sans-serif; background: var(--bg); color: var(--charcoal); line-height: 1.6; overflow-x: hidden; }
+    nav { background: var(--white); border-bottom: 1px solid var(--border); padding: 0 5%; height: 64px; display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0; z-index: 200; }
+    .logo { font-family: 'Fraunces', serif; font-size: 1.4rem; font-weight: 700; color: var(--charcoal); text-decoration: none; display: flex; align-items: center; gap: 10px; }
+    .logo-mark { background: var(--yellow); width: 32px; height: 32px; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 1rem; }
+    .nav-right { display: flex; align-items: center; gap: 24px; }
+    .nav-link { text-decoration: none; color: var(--muted); font-size: 0.9rem; font-weight: 500; transition: color 0.15s; }
+    .nav-link:hover { color: var(--charcoal); }
+    .btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 9px 20px; border-radius: 8px; font-family: 'Epilogue', sans-serif; font-size: 0.9rem; font-weight: 600; cursor: pointer; text-decoration: none; transition: all 0.18s; border: none; }
+    .btn-yellow { background: var(--yellow); color: var(--charcoal); }
+    .btn-yellow:hover { background: var(--yellow-dark); color: white; }
+    .btn-outline { background: transparent; color: var(--charcoal); border: 1.5px solid var(--border); }
+    .btn-outline:hover { border-color: var(--charcoal); }
+    .btn-lg { padding: 14px 28px; font-size: 1rem; border-radius: 10px; }
+    .btn-blue { background: var(--blue); color: white; }
+    .btn-blue:hover { background: #1f4a8a; }
+    .hero { padding: 64px 5% 0; max-width: 1280px; margin: 0 auto; }
+    .hero-top { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 60px; align-items: end; margin-bottom: 48px; }
+    .hero-tag { display: inline-flex; align-items: center; gap: 8px; background: var(--yellow); color: var(--charcoal); font-size: 0.78rem; font-weight: 700; padding: 5px 12px; border-radius: 100px; margin-bottom: 20px; letter-spacing: 0.06em; text-transform: uppercase; }
+    .hero h1 { font-family: 'Fraunces', serif; font-size: clamp(2.6rem, 4.5vw, 4rem); line-height: 1.1; font-weight: 700; margin-bottom: 20px; letter-spacing: -0.02em; }
+    .hero h1 .line-italic { font-style: italic; color: var(--blue); display: block; }
+    .hero-sub { font-size: 1.05rem; color: var(--muted); max-width: 460px; font-weight: 300; line-height: 1.75; }
+    .hero-stats { display: flex; flex-direction: column; gap: 16px; padding-bottom: 8px; }
+    .stat-card { background: var(--card); border: 1.5px solid var(--border); border-radius: 12px; padding: 18px 22px; display: flex; align-items: center; gap: 16px; }
+    .stat-icon { width: 44px; height: 44px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; flex-shrink: 0; }
+    .stat-num { font-family: 'Fraunces', serif; font-size: 1.6rem; font-weight: 700; line-height: 1; margin-bottom: 2px; }
+    .stat-label { font-size: 0.82rem; color: var(--muted); font-weight: 400; }
+    .search-section { background: var(--card); border: 1.5px solid var(--border); border-radius: 16px; padding: 20px; margin-bottom: 32px; box-shadow: 0 4px 24px rgba(0,0,0,0.04); }
+    .search-row { display: flex; gap: 12px; margin-bottom: 16px; align-items: center; flex-wrap: wrap; }
+    .search-input-wrap { flex: 1; min-width: 200px; display: flex; align-items: center; gap: 10px; background: var(--bg); border: 1.5px solid var(--border); border-radius: 10px; padding: 11px 16px; transition: border-color 0.2s; }
+    .search-input-wrap:focus-within { border-color: var(--blue); }
+    .search-input-wrap input { border: none; outline: none; background: transparent; font-family: 'Epilogue', sans-serif; font-size: 0.95rem; color: var(--charcoal); width: 100%; }
+    .search-input-wrap input::placeholder { color: #ABABAB; }
+    .filters-row { display: flex; gap: 10px; flex-wrap: wrap; }
+    .filter-chip { display: flex; align-items: center; gap: 6px; background: var(--bg); border: 1.5px solid var(--border); border-radius: 8px; padding: 7px 14px; font-family: 'Epilogue', sans-serif; font-size: 0.85rem; font-weight: 500; color: var(--charcoal); cursor: pointer; transition: all 0.15s; }
+    .filter-chip:hover, .filter-chip.active { border-color: var(--blue); background: var(--blue-light); color: var(--blue); }
+    .filter-chip select { border: none; outline: none; background: transparent; font-family: 'Epilogue', sans-serif; font-size: 0.85rem; font-weight: 500; color: inherit; cursor: pointer; }
+    .view-toggle { display: flex; align-items: center; gap: 8px; }
+    .toggle-btn { width: 36px; height: 36px; border-radius: 8px; border: 1.5px solid var(--border); background: var(--bg); display: flex; align-items: center; justify-content: center; cursor: pointer; transition: all 0.15s; color: var(--muted); }
+    .toggle-btn.active { background: var(--charcoal); border-color: var(--charcoal); color: white; }
+    .category-tabs { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px; margin-bottom: 32px; scrollbar-width: none; }
+    .category-tabs::-webkit-scrollbar { display: none; }
+    .cat-tab { display: flex; align-items: center; gap: 8px; padding: 10px 18px; border-radius: 100px; border: 1.5px solid var(--border); background: var(--white); font-family: 'Epilogue', sans-serif; font-size: 0.88rem; font-weight: 500; color: var(--muted); cursor: pointer; white-space: nowrap; transition: all 0.15s; }
+    .cat-tab:hover { color: var(--charcoal); border-color: var(--charcoal); }
+    .cat-tab.active { background: var(--charcoal); border-color: var(--charcoal); color: white; }
+    .results-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; }
+    .results-count { font-family: 'Fraunces', serif; font-size: 1.3rem; font-weight: 600; }
+    .results-count span { color: var(--muted); font-family: 'Epilogue', sans-serif; font-size: 0.9rem; font-weight: 400; }
+    .activity-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-bottom: 48px; }
+    .activity-card { background: var(--card); border: 1.5px solid var(--border); border-radius: 14px; overflow: hidden; cursor: pointer; transition: all 0.2s; text-decoration: none; display: block; position: relative; }
+    .activity-card:hover { transform: translateY(-3px); box-shadow: 0 12px 32px rgba(0,0,0,0.08); border-color: transparent; }
+    .card-image { height: 160px; display: flex; align-items: center; justify-content: center; font-size: 3.5rem; position: relative; }
+    .card-badge { position: absolute; top: 12px; left: 12px; font-size: 0.72rem; font-weight: 700; padding: 4px 10px; border-radius: 100px; letter-spacing: 0.04em; text-transform: uppercase; }
+    .badge-city { background: var(--blue-light); color: var(--blue); }
+    .badge-private { background: var(--coral-light); color: var(--coral); }
+    .badge-free { background: var(--green-light); color: var(--green); }
+    .badge-event { background: #FFF3E0; color: #E65100; }
+    .card-dropoff { position: absolute; top: 12px; right: 12px; font-size: 0.72rem; font-weight: 600; padding: 4px 10px; border-radius: 100px; background: rgba(255,255,255,0.92); color: var(--charcoal); border: 1px solid var(--border); }
+    .card-body { padding: 16px 18px 18px; }
+    .card-meta { display: flex; align-items: center; gap: 12px; margin-bottom: 8px; }
+    .card-age { font-size: 0.78rem; color: var(--muted); font-weight: 500; }
+    .card-dot { width: 3px; height: 3px; background: var(--border); border-radius: 50%; }
+    .card-neighbourhood { font-size: 0.78rem; color: var(--muted); }
+    .card-title { font-family: 'Fraunces', serif; font-size: 1.05rem; font-weight: 600; color: var(--charcoal); margin-bottom: 8px; line-height: 1.3; }
+    .card-details { display: flex; align-items: center; justify-content: space-between; margin-top: 12px; }
+    .card-time { font-size: 0.82rem; color: var(--muted); display: flex; align-items: center; gap: 5px; }
+    .card-price { font-size: 0.88rem; font-weight: 700; color: var(--charcoal); }
+    .card-price.free { color: var(--green); }
+    .map-view { display: none; background: var(--card); border: 1.5px solid var(--border); border-radius: 14px; height: 500px; align-items: center; justify-content: center; flex-direction: column; gap: 16px; margin-bottom: 48px; color: var(--muted); }
+    .map-view.visible { display: flex; }
+    .activity-grid.hidden { display: none; }
+    .neighbourhoods { background: var(--white); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); padding: 64px 5%; }
+    .section-wrap { max-width: 1280px; margin: 0 auto; }
+    .section-eyebrow { font-size: 0.78rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); margin-bottom: 10px; }
+    .section-title { font-family: 'Fraunces', serif; font-size: clamp(1.8rem, 3vw, 2.4rem); font-weight: 700; color: var(--charcoal); margin-bottom: 36px; letter-spacing: -0.01em; }
+    .neighbourhood-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+    .neighbourhood-card { background: var(--bg); border: 1.5px solid var(--border); border-radius: 12px; padding: 20px; cursor: pointer; transition: all 0.18s; text-decoration: none; display: block; }
+    .neighbourhood-card:hover { border-color: var(--blue); background: var(--blue-light); }
+    .hood-name { font-family: 'Fraunces', serif; font-size: 1rem; font-weight: 600; color: var(--charcoal); margin-bottom: 4px; }
+    .hood-count { font-size: 0.82rem; color: var(--muted); }
+    .featured { padding: 64px 5%; max-width: 1280px; margin: 0 auto; }
+    .featured-grid { display: grid; grid-template-columns: 1.4fr 1fr; gap: 20px; }
+    .featured-big { background: var(--blue); border-radius: 16px; padding: 40px; color: white; display: flex; flex-direction: column; justify-content: flex-end; min-height: 320px; position: relative; overflow: hidden; text-decoration: none; transition: transform 0.2s; }
+    .featured-big:hover { transform: translateY(-3px); }
+    .featured-big-icon { font-size: 5rem; position: absolute; top: 24px; right: 24px; opacity: 0.4; }
+    .featured-big-tag { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; background: rgba(255,255,255,0.2); display: inline-block; padding: 4px 10px; border-radius: 100px; margin-bottom: 12px; color: white; }
+    .featured-big h3 { font-family: 'Fraunces', serif; font-size: 1.8rem; font-weight: 700; line-height: 1.2; margin-bottom: 10px; color: white; }
+    .featured-big p { font-size: 0.9rem; opacity: 0.75; line-height: 1.6; max-width: 320px; }
+    .featured-smalls { display: flex; flex-direction: column; gap: 14px; }
+    .featured-small { background: var(--card); border: 1.5px solid var(--border); border-radius: 12px; padding: 20px 22px; display: flex; align-items: center; gap: 16px; cursor: pointer; transition: all 0.18s; text-decoration: none; }
+    .featured-small:hover { border-color: var(--charcoal); transform: translateX(4px); }
+    .small-icon { width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; flex-shrink: 0; }
+    .small-title { font-family: 'Fraunces', serif; font-size: 0.98rem; font-weight: 600; margin-bottom: 3px; }
+    .small-meta { font-size: 0.8rem; color: var(--muted); }
+    .small-arrow { margin-left: auto; color: var(--muted); font-size: 1.1rem; }
+    .cta-band { background: var(--yellow); padding: 64px 5%; text-align: center; }
+    .cta-band h2 { font-family: 'Fraunces', serif; font-size: clamp(1.8rem, 3vw, 2.6rem); font-weight: 700; margin-bottom: 14px; letter-spacing: -0.01em; }
+    .cta-band p { font-size: 1rem; color: rgba(26,26,26,0.7); margin-bottom: 28px; font-weight: 300; }
+    .cta-buttons { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+    footer { background: var(--charcoal); color: rgba(255,255,255,0.5); padding: 40px 5%; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
+    .footer-logo { font-family: 'Fraunces', serif; font-size: 1.1rem; color: white; font-weight: 700; }
+    footer p { font-size: 0.83rem; }
+    .footer-links { display: flex; gap: 20px; list-style: none; }
+    .footer-links a { color: rgba(255,255,255,0.4); text-decoration: none; font-size: 0.83rem; transition: color 0.15s; }
+    .footer-links a:hover { color: white; }
+    @keyframes fadeUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+    .hero-top > * { animation: fadeUp 0.5s ease forwards; opacity: 0; }
+    .hero-top > *:nth-child(1) { animation-delay: 0.05s; }
+    .hero-top > *:nth-child(2) { animation-delay: 0.2s; }
+    .search-section { animation: fadeUp 0.5s ease 0.3s forwards; opacity: 0; }
+    @media (max-width: 900px) {
+      .hero-top { grid-template-columns: 1fr; gap: 32px; }
+      .activity-grid { grid-template-columns: repeat(2, 1fr); }
+      .neighbourhood-grid { grid-template-columns: repeat(2, 1fr); }
+      .featured-grid { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 600px) {
+      .activity-grid { grid-template-columns: 1fr; }
+      .nav-right .nav-link { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <a href="#" class="logo">
+      <div class="logo-mark">🤝</div>
+      Helping Hand
+    </a>
+    <div class="nav-right">
+      <a href="#" class="nav-link">Browse activities</a>
+      <a href="#" class="nav-link">Neighbourhoods</a>
+      <a href="#" class="nav-link">List your program</a>
+      <a href="#" class="btn btn-outline">Sign in</a>
+      <a href="#" class="btn btn-yellow">Get started</a>
+    </div>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-top">
+      <div class="hero-content">
+        <div class="hero-tag">🗺️ Toronto's kids activity guide</div>
+        <h1>
+          Everything to do
+          <span class="line-italic">with your kids</span>
+          in Toronto
+        </h1>
+        <p class="hero-sub">City programs, private classes, parks, events — all in one place. Find drop-off programs or family activities near you, filtered for what actually matters.</p>
+      </div>
+      <div class="hero-stats">
+        <div class="stat-card">
+          <div class="stat-icon" style="background:#EBF0FB;">🏛️</div>
+          <div>
+            <div class="stat-num" style="color:var(--blue);">21,500+</div>
+            <div class="stat-label">City of Toronto programs</div>
+          </div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon" style="background:#FDECEA;">🎨</div>
+          <div>
+            <div class="stat-num" style="color:var(--coral);">300+</div>
+            <div class="stat-label">Private classes & studios</div>
+          </div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon" style="background:#E6F4EC;">🌳</div>
+          <div>
+            <div class="stat-num" style="color:var(--green);">1,500+</div>
+            <div class="stat-label">Parks & outdoor spaces</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="search-section">
+      <div class="search-row">
+        <div class="search-input-wrap" style="max-width:300px;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#ABABAB" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          <input type="text" placeholder="Postal code or neighbourhood" />
+        </div>
+        <div class="search-input-wrap">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#ABABAB" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          <input type="text" placeholder='Search "swimming", "art class", "soccer"' />
+        </div>
+        <button class="btn btn-blue btn-lg">Search</button>
+        <div class="view-toggle">
+          <button class="toggle-btn active" id="gridBtn" onclick="setView('grid')" title="Grid view">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+          </button>
+          <button class="toggle-btn" id="mapBtn" onclick="setView('map')" title="Map view">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"/><line x1="8" y1="2" x2="8" y2="18"/><line x1="16" y1="6" x2="16" y2="22"/></svg>
+          </button>
+        </div>
+      </div>
+      <div class="filters-row">
+        <div class="filter-chip">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+          <select><option>Any time</option><option>Today</option><option>This weekend</option><option>This week</option></select>
+        </div>
+        <div class="filter-chip">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>
+          <select><option>All ages</option><option>0–2 yrs</option><option>3–5 yrs</option><option>6–9 yrs</option><option>10–12 yrs</option><option>13+ yrs</option></select>
+        </div>
+        <div class="filter-chip">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+          <select><option>Any price</option><option>Free only</option><option>Under $50</option><option>Under $100</option></select>
+        </div>
+        <div class="filter-chip" onclick="toggleChip(this)">🏠 Indoor</div>
+        <div class="filter-chip" onclick="toggleChip(this)">🌳 Outdoor</div>
+        <div class="filter-chip" onclick="toggleChip(this)">👋 Drop-off</div>
+        <div class="filter-chip" onclick="toggleChip(this)">👨‍👧 Together</div>
+      </div>
+    </div>
+
+    <div class="category-tabs">
+      <button class="cat-tab active">All activities</button>
+      <button class="cat-tab">🏊 Swimming</button>
+      <button class="cat-tab">⛸️ Skating</button>
+      <button class="cat-tab">🎨 Arts & crafts</button>
+      <button class="cat-tab">⚽ Sports</button>
+      <button class="cat-tab">💃 Dance</button>
+      <button class="cat-tab">🎭 Performing arts</button>
+      <button class="cat-tab">🌿 Nature & outdoors</button>
+      <button class="cat-tab">🔬 Science</button>
+      <button class="cat-tab">🏕️ Camps</button>
+      <button class="cat-tab">♿ Adapted</button>
+    </div>
+
+    <div class="results-header">
+      <div class="results-count">Featured activities <span>· Toronto, ON</span></div>
+      <a href="#" class="btn btn-outline" style="font-size:0.85rem;padding:8px 16px;">View all →</a>
+    </div>
+
+    <div class="activity-grid" id="activityGrid">
+      <a href="#" class="activity-card">
+        <div class="card-image" style="background:#EBF0FB;">🏊</div>
+        <span class="card-badge badge-city">City program</span>
+        <span class="card-dropoff">Drop-off</span>
+        <div class="card-body">
+          <div class="card-meta"><span class="card-age">Ages 4–10</span><div class="card-dot"></div><span class="card-neighbourhood">North York</span></div>
+          <div class="card-title">Learn to Swim — Preschool & Youth</div>
+          <div class="card-details"><span class="card-time"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>Sat · 9:00 AM</span><span class="card-price">$42.50</span></div>
+        </div>
+      </a>
+      <a href="#" class="activity-card">
+        <div class="card-image" style="background:#FFF3E0;">⛸️</div>
+        <span class="card-badge badge-free">Free</span>
+        <span class="card-dropoff">Together</span>
+        <div class="card-body">
+          <div class="card-meta"><span class="card-age">All ages</span><div class="card-dot"></div><span class="card-neighbourhood">Harbourfront</span></div>
+          <div class="card-title">Drop-in Public Skating</div>
+          <div class="card-details"><span class="card-time"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>Daily · 12:00 PM</span><span class="card-price free">Free</span></div>
+        </div>
+      </a>
+      <a href="#" class="activity-card">
+        <div class="card-image" style="background:#FDECEA;">🎨</div>
+        <span class="card-badge badge-private">Private</span>
+        <span class="card-dropoff">Drop-off</span>
+        <div class="card-body">
+          <div class="card-meta"><span class="card-age">Ages 5–12</span><div class="card-dot"></div><span class="card-neighbourhood">Leslieville</span></div>
+          <div class="card-title">Creative Art Studio — Saturday Class</div>
+          <div class="card-details"><span class="card-time"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>Sat · 10:00 AM</span><span class="card-price">$28.00</span></div>
+        </div>
+      </a>
+      <a href="#" class="activity-card">
+        <div class="card-image" style="background:#E6F4EC;">⚽</div>
+        <span class="card-badge badge-city">City program</span>
+        <span class="card-dropoff">Drop-off</span>
+        <div class="card-body">
+          <div class="card-meta"><span class="card-age">Ages 6–10</span><div class="card-dot"></div><span class="card-neighbourhood">Scarborough</span></div>
+          <div class="card-title">Youth Soccer — Spring Session</div>
+          <div class="card-details"><span class="card-time"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>Sun · 11:00 AM</span><span class="card-price">$65.00</span></div>
+        </div>
+      </a>
+      <a href="#" class="activity-card">
+        <div class="card-image" style="background:#F3E8FF;">💃</div>
+        <span class="card-badge badge-event">Event</span>
+        <span class="card-dropoff">Together</span>
+        <div class="card-body">
+          <div class="card-meta"><span class="card-age">Ages 4–8</span><div class="card-dot"></div><span class="card-neighbourhood">Bloor West</span></div>
+          <div class="card-title">Ballet & Movement — Spring Showcase</div>
+          <div class="card-details"><span class="card-time"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>Apr 12 · 2:00 PM</span><span class="card-price">$15.00</span></div>
+        </div>
+      </a>
+      <a href="#" class="activity-card">
+        <div class="card-image" style="background:#E6F4EC;">♿</div>
+        <span class="card-badge badge-city">City program</span>
+        <span class="card-dropoff">Drop-off</span>
+        <div class="card-body">
+          <div class="card-meta"><span class="card-age">Ages 5–14</span><div class="card-dot"></div><span class="card-neighbourhood">Multiple locations</span></div>
+          <div class="card-title">Adapted Active8 — Spring Program</div>
+          <div class="card-details"><span class="card-time"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>Weekdays · 9:30 AM</span><span class="card-price">$143.00</span></div>
+        </div>
+      </a>
+    </div>
+
+    <div class="map-view" id="mapView">
+      <div style="font-size:3rem;">🗺️</div>
+      <div style="font-family:'Fraunces',serif;font-size:1.2rem;font-weight:600;">Map view coming soon</div>
+      <p style="color:var(--muted);font-size:0.9rem;text-align:center;max-width:300px;">We're building an interactive map of all kids activities across Toronto.</p>
+      <button class="btn btn-blue" onclick="setView('grid')">Switch to grid view</button>
+    </div>
+  </section>
+
+  <section class="neighbourhoods">
+    <div class="section-wrap">
+      <div class="section-eyebrow">Browse by area</div>
+      <h2 class="section-title">Find activities near you</h2>
+      <div class="neighbourhood-grid">
+        <a href="#" class="neighbourhood-card"><div class="hood-name">Downtown & Waterfront</div><div class="hood-count">840+ activities</div></a>
+        <a href="#" class="neighbourhood-card"><div class="hood-name">North York</div><div class="hood-count">620+ activities</div></a>
+        <a href="#" class="neighbourhood-card"><div class="hood-name">Scarborough</div><div class="hood-count">510+ activities</div></a>
+        <a href="#" class="neighbourhood-card"><div class="hood-name">Etobicoke</div><div class="hood-count">430+ activities</div></a>
+        <a href="#" class="neighbourhood-card"><div class="hood-name">East End</div><div class="hood-count">380+ activities</div></a>
+        <a href="#" class="neighbourhood-card"><div class="hood-name">West End</div><div class="hood-count">350+ activities</div></a>
+        <a href="#" class="neighbourhood-card"><div class="hood-name">Midtown</div><div class="hood-count">290+ activities</div></a>
+        <a href="#" class="neighbourhood-card"><div class="hood-name">York</div><div class="hood-count">240+ activities</div></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="featured">
+    <div class="section-eyebrow">Curated picks</div>
+    <h2 class="section-title">Collections for every family</h2>
+    <div class="featured-grid">
+      <a href="#" class="featured-big">
+        <div class="featured-big-icon">🏊</div>
+        <div class="featured-big-tag">Most popular</div>
+        <h3>Free & low-cost programs this spring</h3>
+        <p>City-run drop-in programs, free skating, splash pads, and more — no budget required.</p>
+      </a>
+      <div class="featured-smalls">
+        <a href="#" class="featured-small"><div class="small-icon" style="background:#FFF3E0;">🏕️</div><div><div class="small-title">Summer camps 2026</div><div class="small-meta">Registration opening soon · 200+ camps</div></div><span class="small-arrow">→</span></a>
+        <a href="#" class="featured-small"><div class="small-icon" style="background:#E6F4EC;">🌳</div><div><div class="small-title">Best parks for kids</div><div class="small-meta">Splash pads, playgrounds & trails · 150+ parks</div></div><span class="small-arrow">→</span></a>
+        <a href="#" class="featured-small"><div class="small-icon" style="background:#EBF0FB;">♿</div><div><div class="small-title">Adapted & inclusive programs</div><div class="small-meta">City programs for kids with disabilities · 80+ options</div></div><span class="small-arrow">→</span></a>
+        <a href="#" class="featured-small"><div class="small-icon" style="background:#FDECEA;">🎭</div><div><div class="small-title">Weekend events this month</div><div class="small-meta">One-time & seasonal events · Updated weekly</div></div><span class="small-arrow">→</span></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-band">
+    <h2>Run a kids program in Toronto?</h2>
+    <p>List your classes, camps, or events for free and reach thousands of Toronto families.</p>
+    <div class="cta-buttons">
+      <a href="#" class="btn btn-blue btn-lg">List your program</a>
+      <a href="#" class="btn btn-outline btn-lg">Learn more</a>
+    </div>
+  </section>
+
+  <footer>
+    <div class="footer-logo">🤝 Helping Hand</div>
+    <p>The definitive guide to kids activities in Toronto. &copy; 2026</p>
+    <ul class="footer-links">
+      <li><a href="#">About</a></li>
+      <li><a href="#">List a program</a></li>
+      <li><a href="#">Privacy</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </footer>
+
+  <script>
+    function setView(view) {
+      const grid = document.getElementById('activityGrid');
+      const map = document.getElementById('mapView');
+      const gridBtn = document.getElementById('gridBtn');
+      const mapBtn = document.getElementById('mapBtn');
+      if (view === 'grid') {
+        grid.classList.remove('hidden'); map.classList.remove('visible');
+        gridBtn.classList.add('active'); mapBtn.classList.remove('active');
+      } else {
+        grid.classList.add('hidden'); map.classList.add('visible');
+        mapBtn.classList.add('active'); gridBtn.classList.remove('active');
+      }
+    }
+    function toggleChip(el) { el.classList.toggle('active'); }
+    document.querySelectorAll('.cat-tab').forEach(tab => {
+      tab.addEventListener('click', function() {
+        document.querySelectorAll('.cat-tab').forEach(t => t.classList.remove('active'));
+        this.classList.add('active');
+      });
+    });
+  </script>
+</body>
+</html>
