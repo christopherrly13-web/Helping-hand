@@ -366,7 +366,7 @@
 
     async function loadPrograms() {
       try {
-        const res = await fetch('programs.json');
+       const res = await fetch('/Helping-hand/programs.json');
         const data = await res.json();
         allPrograms = data.programs;
 
