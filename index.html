@@ -12,6 +12,7 @@
       --border: #E2DAD0; --yellow: #F5C842; --yellow-dark: #D4A800;
       --blue: #2B5BA8; --blue-light: #EBF0FB; --coral: #E85D40; --coral-light: #FDECEA;
       --green: #2D7A4F; --green-light: #E6F4EC; --card: #FFFFFF;
+      --purple: #6B3FA0; --purple-light: #F0EAF8;
     }
     html { scroll-behavior: smooth; }
     body { font-family: 'Epilogue', sans-serif; background: var(--bg); color: var(--charcoal); line-height: 1.6; overflow-x: hidden; }
@@ -58,6 +59,7 @@
     .cat-tab { display: flex; align-items: center; gap: 8px; padding: 10px 18px; border-radius: 100px; border: 1.5px solid var(--border); background: var(--white); font-family: 'Epilogue', sans-serif; font-size: 0.88rem; font-weight: 500; color: var(--muted); cursor: pointer; white-space: nowrap; transition: all 0.15s; }
     .cat-tab:hover { color: var(--charcoal); border-color: var(--charcoal); }
     .cat-tab.active { background: var(--charcoal); border-color: var(--charcoal); color: white; }
+    .cat-tab.library-tab.active { background: var(--purple); border-color: var(--purple); color: white; }
     .results-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; }
     .results-count { font-family: 'Fraunces', serif; font-size: 1.3rem; font-weight: 600; }
     .results-count span { color: var(--muted); font-family: 'Epilogue', sans-serif; font-size: 0.9rem; font-weight: 400; }
@@ -68,7 +70,7 @@
     .card-badge { position: absolute; top: 12px; left: 12px; font-size: 0.72rem; font-weight: 700; padding: 4px 10px; border-radius: 100px; letter-spacing: 0.04em; text-transform: uppercase; }
     .badge-city { background: var(--blue-light); color: var(--blue); }
     .badge-free { background: var(--green-light); color: var(--green); }
-    .badge-full { background: #FFF3E0; color: #E65100; }
+    .badge-library { background: var(--purple-light); color: var(--purple); }
     .card-status { position: absolute; top: 12px; right: 12px; font-size: 0.72rem; font-weight: 600; padding: 4px 10px; border-radius: 100px; background: rgba(255,255,255,0.92); color: var(--charcoal); border: 1px solid var(--border); }
     .card-body { padding: 16px 18px 18px; }
     .card-meta { display: flex; align-items: center; gap: 12px; margin-bottom: 8px; flex-wrap: wrap; }
@@ -99,7 +101,7 @@
     .hood-count { font-size: 0.82rem; color: var(--muted); }
     .featured { padding: 64px 5%; max-width: 1280px; margin: 0 auto; }
     .featured-grid { display: grid; grid-template-columns: 1.4fr 1fr; gap: 20px; }
-    .featured-big { background: var(--blue); border-radius: 16px; padding: 40px; color: white; display: flex; flex-direction: column; justify-content: flex-end; min-height: 320px; position: relative; overflow: hidden; text-decoration: none; transition: transform 0.2s; }
+    .featured-big { background: var(--purple); border-radius: 16px; padding: 40px; color: white; display: flex; flex-direction: column; justify-content: flex-end; min-height: 320px; position: relative; overflow: hidden; text-decoration: none; transition: transform 0.2s; cursor: pointer; }
     .featured-big:hover { transform: translateY(-3px); }
     .featured-big-icon { font-size: 5rem; position: absolute; top: 24px; right: 24px; opacity: 0.4; }
     .featured-big-tag { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; background: rgba(255,255,255,0.2); display: inline-block; padding: 4px 10px; border-radius: 100px; margin-bottom: 12px; color: white; }
@@ -164,7 +166,7 @@
           <span class="line-italic">with your kids</span>
           in Toronto
         </h1>
-        <p class="hero-sub">City programs, private classes, parks, events — all in one place. Find drop-off programs or family activities near you, filtered for what actually matters.</p>
+        <p class="hero-sub">City programs, library events, parks — all in one place. Find activities near you, filtered for what actually matters.</p>
       </div>
       <div class="hero-stats">
         <div class="stat-card">
@@ -175,10 +177,10 @@
           </div>
         </div>
         <div class="stat-card">
-          <div class="stat-icon" style="background:#FDECEA;">🎨</div>
+          <div class="stat-icon" style="background:var(--purple-light);">📚</div>
           <div>
-            <div class="stat-num" style="color:var(--coral);">300+</div>
-            <div class="stat-label">Private classes & studios</div>
+            <div class="stat-num" style="color:var(--purple);" id="statLibrary">—</div>
+            <div class="stat-label">Toronto Public Library events</div>
           </div>
         </div>
         <div class="stat-card">
@@ -199,7 +201,7 @@
         </div>
         <div class="search-input-wrap">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#ABABAB" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-          <input type="text" id="keywordInput" placeholder='Search "swimming", "art class", "soccer"' />
+          <input type="text" id="keywordInput" placeholder='Search "swimming", "storytime", "soccer"' />
         </div>
         <button class="btn btn-blue btn-lg" onclick="applyFilters()">Search</button>
         <div class="view-toggle">
@@ -224,11 +226,9 @@
           <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>
           <select id="ageFilter" onchange="applyFilters()">
             <option value="">All ages</option>
-            <option value="0">0–2 yrs</option>
-            <option value="3">3–5 yrs</option>
-            <option value="6">6–9 yrs</option>
-            <option value="10">10–12 yrs</option>
-            <option value="13">13+ yrs</option>
+            <option value="0">Ages 0–5</option>
+            <option value="6">Ages 6–12</option>
+            <option value="13">Ages 13+</option>
           </select>
         </div>
         <div class="filter-chip" id="chipAvailable" onclick="toggleChip(this, 'available')">✅ Available only</div>
@@ -237,6 +237,7 @@
 
     <div class="category-tabs">
       <button class="cat-tab active" onclick="setCategory(this, '')">All activities</button>
+      <button class="cat-tab library-tab" onclick="setCategory(this, 'library')">📚 Library events</button>
       <button class="cat-tab" onclick="setCategory(this, 'swim')">🏊 Swimming</button>
       <button class="cat-tab" onclick="setCategory(this, 'skate')">⛸️ Skating</button>
       <button class="cat-tab" onclick="setCategory(this, 'arts')">🎨 Arts & crafts</button>
@@ -246,19 +247,20 @@
       <button class="cat-tab" onclick="setCategory(this, 'camp')">🏕️ Camps</button>
       <button class="cat-tab" onclick="setCategory(this, 'adapted')">♿ Adapted</button>
       <button class="cat-tab" onclick="setCategory(this, 'early')">👶 Early years</button>
+      <button class="cat-tab" onclick="setCategory(this, 'stem')">🔬 STEM</button>
     </div>
 
     <div class="last-updated" id="lastUpdated"></div>
 
     <div class="results-header">
-      <div class="results-count" id="resultsCount">Loading programs... <span>· Toronto, ON</span></div>
+      <div class="results-count" id="resultsCount">Loading... <span>· Toronto, ON</span></div>
       <button class="btn btn-outline" style="font-size:0.85rem;padding:8px 16px;" onclick="showMore()">View more →</button>
     </div>
 
     <div class="activity-grid" id="activityGrid">
       <div class="loading" style="grid-column:1/-1;">
         <div class="loading-spinner"></div>
-        <p>Loading Toronto programs...</p>
+        <p>Loading Toronto programs and library events...</p>
       </div>
     </div>
 
@@ -275,14 +277,14 @@
       <div class="section-eyebrow">Browse by area</div>
       <h2 class="section-title">Find activities near you</h2>
       <div class="neighbourhood-grid">
-        <a href="#" class="neighbourhood-card" onclick="filterByLocation('Downtown')"><div class="hood-name">Downtown & Waterfront</div><div class="hood-count">Loading...</div></a>
-        <a href="#" class="neighbourhood-card" onclick="filterByLocation('North York')"><div class="hood-name">North York</div><div class="hood-count">Loading...</div></a>
-        <a href="#" class="neighbourhood-card" onclick="filterByLocation('Scarborough')"><div class="hood-name">Scarborough</div><div class="hood-count">Loading...</div></a>
-        <a href="#" class="neighbourhood-card" onclick="filterByLocation('Etobicoke')"><div class="hood-name">Etobicoke</div><div class="hood-count">Loading...</div></a>
-        <a href="#" class="neighbourhood-card" onclick="filterByLocation('East York')"><div class="hood-name">East York</div><div class="hood-count">Loading...</div></a>
-        <a href="#" class="neighbourhood-card" onclick="filterByLocation('York')"><div class="hood-name">York</div><div class="hood-count">Loading...</div></a>
-        <a href="#" class="neighbourhood-card" onclick="filterByLocation('Midtown')"><div class="hood-name">Midtown</div><div class="hood-count">Loading...</div></a>
-        <a href="#" class="neighbourhood-card" onclick="filterByLocation('Etobicoke')"><div class="hood-name">West End</div><div class="hood-count">Loading...</div></a>
+        <a href="#" class="neighbourhood-card" onclick="filterByLocation('Downtown');return false;"><div class="hood-name">Downtown & Waterfront</div><div class="hood-count">Loading...</div></a>
+        <a href="#" class="neighbourhood-card" onclick="filterByLocation('North York');return false;"><div class="hood-name">North York</div><div class="hood-count">Loading...</div></a>
+        <a href="#" class="neighbourhood-card" onclick="filterByLocation('Scarborough');return false;"><div class="hood-name">Scarborough</div><div class="hood-count">Loading...</div></a>
+        <a href="#" class="neighbourhood-card" onclick="filterByLocation('Etobicoke');return false;"><div class="hood-name">Etobicoke</div><div class="hood-count">Loading...</div></a>
+        <a href="#" class="neighbourhood-card" onclick="filterByLocation('East York');return false;"><div class="hood-name">East York</div><div class="hood-count">Loading...</div></a>
+        <a href="#" class="neighbourhood-card" onclick="filterByLocation('York');return false;"><div class="hood-name">York</div><div class="hood-count">Loading...</div></a>
+        <a href="#" class="neighbourhood-card" onclick="filterByLocation('Midtown');return false;"><div class="hood-name">Midtown</div><div class="hood-count">Loading...</div></a>
+        <a href="#" class="neighbourhood-card" onclick="filterByLocation('Etobicoke');return false;"><div class="hood-name">West End</div><div class="hood-count">Loading...</div></a>
       </div>
     </div>
   </section>
@@ -291,17 +293,17 @@
     <div class="section-eyebrow">Curated picks</div>
     <h2 class="section-title">Collections for every family</h2>
     <div class="featured-grid">
-      <a href="#" class="featured-big" onclick="filterFree()">
-        <div class="featured-big-icon">🏊</div>
-        <div class="featured-big-tag">Most popular</div>
-        <h3>Free & low-cost programs this spring</h3>
-        <p>City-run drop-in programs, free skating, splash pads, and more — no budget required.</p>
+      <a href="#" class="featured-big" onclick="setCategory(document.querySelector('.library-tab'),'library');return false;">
+        <div class="featured-big-icon">📚</div>
+        <div class="featured-big-tag">Always free</div>
+        <h3>Toronto Public Library events</h3>
+        <p>Storytime, STEM workshops, crafts, and more — free for all ages at branches across the city.</p>
       </a>
       <div class="featured-smalls">
-        <a href="#" class="featured-small" onclick="setCategory(null,'camp')"><div class="small-icon" style="background:#FFF3E0;">🏕️</div><div><div class="small-title">Summer camps 2026</div><div class="small-meta">CampTO & more · Updated live</div></div><span class="small-arrow">→</span></a>
-        <a href="#" class="featured-small" onclick="setCategory(null,'adapted')"><div class="small-icon" style="background:#EBF0FB;">♿</div><div><div class="small-title">Adapted & inclusive programs</div><div class="small-meta">City programs for all kids · Updated live</div></div><span class="small-arrow">→</span></a>
-        <a href="#" class="featured-small" onclick="setCategory(null,'early')"><div class="small-icon" style="background:#E6F4EC;">👶</div><div><div class="small-title">Early years programs</div><div class="small-meta">Ages 0–5 · Drop-in & registered</div></div><span class="small-arrow">→</span></a>
-        <a href="#" class="featured-small" onclick="setCategory(null,'dance')"><div class="small-icon" style="background:#FDECEA;">💃</div><div><div class="small-title">Dance & performing arts</div><div class="small-meta">Classes across Toronto · Updated live</div></div><span class="small-arrow">→</span></a>
+        <a href="#" class="featured-small" onclick="setCategory(null,'camp');return false;"><div class="small-icon" style="background:#FFF3E0;">🏕️</div><div><div class="small-title">Summer camps 2026</div><div class="small-meta">CampTO & more · Updated live</div></div><span class="small-arrow">→</span></a>
+        <a href="#" class="featured-small" onclick="setCategory(null,'adapted');return false;"><div class="small-icon" style="background:#EBF0FB;">♿</div><div><div class="small-title">Adapted & inclusive programs</div><div class="small-meta">City programs for all kids · Updated live</div></div><span class="small-arrow">→</span></a>
+        <a href="#" class="featured-small" onclick="setCategory(null,'early');return false;"><div class="small-icon" style="background:#E6F4EC;">👶</div><div><div class="small-title">Early years programs</div><div class="small-meta">Ages 0–5 · City + Library</div></div><span class="small-arrow">→</span></a>
+        <a href="#" class="featured-small" onclick="setCategory(null,'stem');return false;"><div class="small-icon" style="background:var(--purple-light);">🔬</div><div><div class="small-title">STEM & science</div><div class="small-meta">Library workshops + City programs</div></div><span class="small-arrow">→</span></a>
       </div>
     </div>
   </section>
@@ -317,7 +319,7 @@
 
   <footer>
     <div class="footer-logo">🤝 Helping Hand</div>
-    <p>The definitive guide to kids activities in Toronto. &copy; 2026</p>
+    <p>The definitive guide to kids activities in Toronto. © 2026</p>
     <ul class="footer-links">
       <li><a href="#">About</a></li>
       <li><a href="#">List a program</a></li>
@@ -327,55 +329,152 @@
   </footer>
 
   <script>
-    let allPrograms = [];
+    let allItems = [];
     let filtered = [];
     let visibleCount = 12;
     let activeCategory = '';
     let activeChips = {};
 
     const CATEGORY_MAP = {
-      swim: ['swim', 'aquatic', 'pool'],
-      skate: ['skate', 'hockey', 'ice'],
-      arts: ['art', 'craft', 'visual', 'paint', 'draw'],
-      sports: ['sport', 'soccer', 'basketball', 'baseball', 'volleyball', 'badminton', 'tennis', 'gymnastics', 'golf'],
-      dance: ['dance'],
-      performing: ['performing', 'theatre', 'theater', 'music'],
-      camp: ['camp'],
-      adapted: ['adapted', 'inclusive'],
-      early: ['early years', 'preschool', 'tiny tots']
+      swim:      ['swim', 'aquatic', 'pool'],
+      skate:     ['skate', 'hockey', 'ice'],
+      arts:      ['art', 'craft', 'visual', 'paint', 'draw', 'maker'],
+      sports:    ['sport', 'soccer', 'basketball', 'baseball', 'volleyball', 'badminton', 'tennis', 'gymnastics', 'golf', 'fitness'],
+      dance:     ['dance'],
+      performing:['performing', 'theatre', 'theater', 'music', 'drama'],
+      camp:      ['camp'],
+      adapted:   ['adapted', 'inclusive'],
+      early:     ['early years', 'preschool', 'tiny tots', 'toddler', 'baby', 'infant', 'lapsit', 'laptime'],
+      stem:      ['stem', 'science', 'technology', 'coding', 'robot', 'lego', 'minecraft', 'digital', '3d print'],
+      library:   []
     };
 
     const CARD_COLORS = {
       swim: '#EBF0FB', skate: '#E8F5FF', arts: '#FDECEA',
       sports: '#E6F4EC', dance: '#F3E8FF', performing: '#FFF3E0',
-      camp: '#FFF8E1', adapted: '#E6F4EC', early: '#FEF3E2', default: '#F5F0E8'
+      camp: '#FFF8E1', adapted: '#E6F4EC', early: '#FEF3E2',
+      stem: '#F0EAF8', library: '#F0EAF8', default: '#F5F0E8'
     };
 
     const CARD_EMOJIS = {
       swim: '🏊', skate: '⛸️', arts: '🎨', sports: '⚽',
-      dance: '💃', performing: '🎭', camp: '🏕️', adapted: '♿', early: '👶', default: '🎯'
+      dance: '💃', performing: '🎭', camp: '🏕️', adapted: '♿',
+      early: '👶', stem: '🔬', library: '📚', default: '🎯'
     };
 
-    function getCategoryKey(program) {
-      const text = (program.name + ' ' + program.category).toLowerCase();
+    function getCategoryKey(item) {
+      if (item.source === 'tpl') {
+        // Library events: check their categories for a more specific key
+        const cats = ((item.categories || []).join(' ') + ' ' + item.name).toLowerCase();
+        for (const [key, keywords] of Object.entries(CATEGORY_MAP)) {
+          if (key === 'library') continue;
+          if (keywords.some(k => cats.includes(k))) return key;
+        }
+        return 'library';
+      }
+      const text = (item.name + ' ' + (item.category || '')).toLowerCase();
       for (const [key, keywords] of Object.entries(CATEGORY_MAP)) {
+        if (key === 'library') continue;
         if (keywords.some(k => text.includes(k))) return key;
       }
       return 'default';
     }
 
-    async function loadPrograms() {
+    function matchesCategory(item, cat) {
+      if (!cat) return true;
+      if (cat === 'library') return item.source === 'tpl';
+      if (item.source === 'tpl') {
+        // Library events also show in relevant category tabs
+        const keywords = CATEGORY_MAP[cat] || [];
+        const text = (item.name + ' ' + (item.categories||[]).join(' ') + ' ' + item.description).toLowerCase();
+        return keywords.some(k => text.includes(k));
+      }
+      const keywords = CATEGORY_MAP[cat] || [];
+      const text = (item.name + ' ' + (item.category||'') + ' ' + item.description).toLowerCase();
+      return keywords.some(k => text.includes(k));
+    }
+
+    function normalizeCity(p) {
+      return {
+        id: 'city_' + p.id,
+        source: 'city',
+        name: p.name,
+        description: p.description || '',
+        category: p.category || '',
+        categories: [],
+        location: p.location,
+        ages: p.ages,
+        ageMin: p.ageMin || 0,
+        ageMax: p.ageMax || 99,
+        time: (p.days || '') + (p.time ? ' · ' + p.time : ''),
+        isFree: p.isFree,
+        fee: p.fee,
+        isFull: p.isFull,
+        status: p.status,
+        url: p.detailUrl,
+        startDate: p.dateStart || null,
+      };
+    }
+
+    function normalizeLibrary(e) {
+      const ageGroup = e.ageGroup || '';
+      const ageMin = ageGroup === '0-5' ? 0 : ageGroup === '6-12' ? 6 : 13;
+      const ageMax = ageGroup === '0-5' ? 5 : ageGroup === '6-12' ? 12 : 17;
+      return {
+        id: e.id,
+        source: 'tpl',
+        name: e.title,
+        description: e.description || '',
+        category: 'Library Event',
+        categories: e.categories || [],
+        location: e.location,
+        ages: e.ages || ('Ages ' + ageGroup),
+        ageMin,
+        ageMax,
+        time: e.startDate ? formatLibDate(e.startDate) : 'Upcoming',
+        isFree: true,
+        fee: 'Free',
+        isFull: e.isFull || false,
+        status: e.isFull ? 'Full' : '',
+        url: e.url,
+        startDate: e.startDate || null,
+      };
+    }
+
+    function formatLibDate(s) {
+      if (!s) return '';
       try {
-       const res = await fetch('/Helping-hand/programs.json');
-        const data = await res.json();
-        allPrograms = data.programs;
+        const d = new Date(s.replace(' ', 'T'));
+        return d.toLocaleDateString('en-CA', { month: 'short', day: 'numeric' }) +
+               ' · ' + d.toLocaleTimeString('en-CA', { hour: 'numeric', minute: '2-digit' });
+      } catch { return s.slice(0, 10); }
+    }
 
-        document.getElementById('statPrograms').textContent = data.totalPrograms.toLocaleString() + '+';
+    async function loadAll() {
+      try {
+        const [cityRes, libRes] = await Promise.allSettled([
+          fetch('/Helping-hand/programs.json'),
+          fetch('/Helping-hand/library-events.json')
+        ]);
 
-        const updated = new Date(data.lastUpdated);
-        document.getElementById('lastUpdated').textContent =
-          'Last updated: ' + updated.toLocaleDateString('en-CA', { month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+        let cityItems = [], libItems = [];
 
+        if (cityRes.status === 'fulfilled' && cityRes.value.ok) {
+          const data = await cityRes.value.json();
+          cityItems = (data.programs || []).map(normalizeCity);
+          document.getElementById('statPrograms').textContent = data.totalPrograms.toLocaleString() + '+';
+          const d = new Date(data.lastUpdated);
+          document.getElementById('lastUpdated').textContent =
+            'Last updated: ' + d.toLocaleDateString('en-CA', { month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+        }
+
+        if (libRes.status === 'fulfilled' && libRes.value.ok) {
+          const data = await libRes.value.json();
+          libItems = (data.events || []).map(normalizeLibrary);
+          document.getElementById('statLibrary').textContent = data.totalEvents.toLocaleString() + '+';
+        }
+
+        allItems = mergeFeeds(cityItems, libItems);
         applyFilters();
         updateNeighbourhoodCounts();
 
@@ -385,6 +484,23 @@
       }
     }
 
+    function mergeFeeds(city, library) {
+      // Sort library events by date ascending
+      const sortedLib = [...library].sort((a, b) => {
+        if (!a.startDate) return 1;
+        if (!b.startDate) return -1;
+        return new Date(a.startDate) - new Date(b.startDate);
+      });
+      // Interleave: 4 city programs then 1 library event
+      const merged = [];
+      let ci = 0, li = 0;
+      while (ci < city.length || li < sortedLib.length) {
+        for (let i = 0; i < 4 && ci < city.length; i++) merged.push(city[ci++]);
+        if (li < sortedLib.length) merged.push(sortedLib[li++]);
+      }
+      return merged;
+    }
+
     function applyFilters() {
       const keyword = document.getElementById('keywordInput').value.toLowerCase();
       const location = document.getElementById('locationInput').value.toLowerCase();
@@ -392,23 +508,20 @@
       const age = document.getElementById('ageFilter').value;
       const availableOnly = activeChips['available'];
 
-      filtered = allPrograms.filter(p => {
-        const text = (p.name + ' ' + p.description + ' ' + p.category).toLowerCase();
-        if (keyword && !text.includes(keyword)) return false;
+      filtered = allItems.filter(p => {
+        const text = (p.name + ' ' + p.description + ' ' + p.category + ' ' + (p.categories||[]).join(' ')).toLowerCase();
+        if (keyword && !text.includes(keyword) && !p.location.toLowerCase().includes(keyword)) return false;
         if (location && !p.location.toLowerCase().includes(location)) return false;
         if (price === 'free' && !p.isFree) return false;
         if (price === 'paid' && p.isFree) return false;
         if (availableOnly && p.isFull) return false;
-        if (age) {
+        if (age !== '') {
           const ageNum = parseInt(age);
-          if (p.ageMin > ageNum + 4) return false;
+          const ageMax = ageNum === 0 ? 5 : ageNum === 6 ? 12 : 99;
+          if (p.ageMin > ageMax) return false;
           if (p.ageMax > 0 && p.ageMax < ageNum) return false;
         }
-        if (activeCategory) {
-          const keywords = CATEGORY_MAP[activeCategory] || [];
-          const text2 = (p.name + ' ' + p.category).toLowerCase();
-          if (!keywords.some(k => text2.includes(k))) return false;
-        }
+        if (!matchesCategory(p, activeCategory)) return false;
         return true;
       });
 
@@ -418,37 +531,36 @@
 
     function renderCards() {
       const grid = document.getElementById('activityGrid');
-      const count = document.getElementById('resultsCount');
-
-      count.innerHTML = `${filtered.length.toLocaleString()} programs <span>· Toronto, ON</span>`;
+      document.getElementById('resultsCount').innerHTML =
+        `${filtered.length.toLocaleString()} activities <span>· Toronto, ON</span>`;
 
       if (filtered.length === 0) {
-        grid.innerHTML = '<div class="no-results" style="grid-column:1/-1;"><p>No programs found. Try adjusting your filters.</p></div>';
+        grid.innerHTML = '<div class="no-results" style="grid-column:1/-1;"><p>No activities found. Try adjusting your filters.</p></div>';
         return;
       }
-
-      const toShow = filtered.slice(0, visibleCount);
-      grid.innerHTML = toShow.map(p => renderCard(p)).join('');
+      grid.innerHTML = filtered.slice(0, visibleCount).map(renderCard).join('');
     }
 
     function renderCard(p) {
       const catKey = getCategoryKey(p);
       const color = CARD_COLORS[catKey] || CARD_COLORS.default;
       const emoji = CARD_EMOJIS[catKey] || CARD_EMOJIS.default;
-      const badge = p.isFree
-        ? '<span class="card-badge badge-free">Free</span>'
-        : '<span class="card-badge badge-city">City program</span>';
+
+      const badge = p.source === 'tpl'
+        ? '<span class="card-badge badge-library">📚 Library</span>'
+        : p.isFree
+          ? '<span class="card-badge badge-free">Free</span>'
+          : '<span class="card-badge badge-city">City</span>';
+
       const statusBadge = p.isFull
-        ? '<span class="card-status" style="background:#FFF3E0;color:#E65100;">Full</span>'
-        : p.status && p.status.includes('space')
-        ? `<span class="card-status" style="background:var(--green-light);color:var(--green);">${p.status}</span>`
-        : '';
+        ? '<span class="card-status" style="background:#FFF3E0;color:#E65100;">Full</span>' : '';
+
       const price = p.isFree
         ? '<span class="card-price free">Free</span>'
         : `<span class="card-price">${p.fee}</span>`;
 
       return `
-        <a href="${p.detailUrl}" target="_blank" class="activity-card">
+        <a href="${p.url}" target="_blank" class="activity-card">
           <div class="card-image" style="background:${color};">${emoji}${badge}${statusBadge}</div>
           <div class="card-body">
             <div class="card-meta">
@@ -460,7 +572,7 @@
             <div class="card-details">
               <span class="card-time">
                 <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-                ${p.days} · ${p.time}
+                ${p.time}
               </span>
               ${price}
             </div>
@@ -468,22 +580,19 @@
         </a>`;
     }
 
-    function showMore() {
-      visibleCount += 12;
-      renderCards();
-    }
+    function showMore() { visibleCount += 12; renderCards(); }
 
     function setView(view) {
       const grid = document.getElementById('activityGrid');
       const map = document.getElementById('mapView');
-      const gridBtn = document.getElementById('gridBtn');
-      const mapBtn = document.getElementById('mapBtn');
       if (view === 'grid') {
         grid.classList.remove('hidden'); map.classList.remove('visible');
-        gridBtn.classList.add('active'); mapBtn.classList.remove('active');
+        document.getElementById('gridBtn').classList.add('active');
+        document.getElementById('mapBtn').classList.remove('active');
       } else {
         grid.classList.add('hidden'); map.classList.add('visible');
-        mapBtn.classList.add('active'); gridBtn.classList.remove('active');
+        document.getElementById('mapBtn').classList.add('active');
+        document.getElementById('gridBtn').classList.remove('active');
       }
     }
 
@@ -507,33 +616,23 @@
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
-    function filterFree() {
-      document.getElementById('priceFilter').value = 'free';
-      applyFilters();
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
-
     function updateNeighbourhoodCounts() {
       const hoods = [
-        { name: 'Downtown', keywords: ['downtown', 'waterfront', 'harbourfront', 'st. lawrence', 'distillery'] },
-        { name: 'North York', keywords: ['north york', 'willowdale', 'york mills', 'don mills'] },
-        { name: 'Scarborough', keywords: ['scarborough', 'agincourt', 'malvern', 'rouge'] },
-        { name: 'Etobicoke', keywords: ['etobicoke', 'mimico', 'long branch', 'humber'] },
-        { name: 'East York', keywords: ['east york', 'danforth', 'beaches', 'leslieville'] },
-        { name: 'York', keywords: ['york', 'weston', 'mount dennis'] },
-        { name: 'Midtown', keywords: ['midtown', 'davisville', 'rosedale', 'forest hill'] },
-        { name: 'West End', keywords: ['west end', 'bloor west', 'junction', 'parkdale'] }
+        ['downtown', 'waterfront', 'harbourfront'],
+        ['north york', 'willowdale', 'york mills'],
+        ['scarborough', 'agincourt', 'malvern'],
+        ['etobicoke', 'mimico', 'long branch'],
+        ['east york', 'danforth', 'beaches'],
+        ['york', 'weston', 'mount dennis'],
+        ['midtown', 'davisville', 'rosedale'],
+        ['west end', 'bloor west', 'junction']
       ];
-
-      const cards = document.querySelectorAll('.neighbourhood-card');
-      hoods.forEach((hood, i) => {
-        const count = allPrograms.filter(p =>
-          hood.keywords.some(k => p.location.toLowerCase().includes(k))
+      document.querySelectorAll('.neighbourhood-card').forEach((card, i) => {
+        if (!hoods[i]) return;
+        const count = allItems.filter(p =>
+          hoods[i].some(k => p.location.toLowerCase().includes(k))
         ).length;
-        if (cards[i]) {
-          cards[i].querySelector('.hood-count').textContent =
-            count > 0 ? `${count}+ activities` : 'View activities';
-        }
+        card.querySelector('.hood-count').textContent = count > 0 ? `${count}+ activities` : 'View activities';
       });
     }
 
@@ -541,7 +640,7 @@
       if (e.key === 'Enter') applyFilters();
     });
 
-    loadPrograms();
+    loadAll();
   </script>
 </body>
 </html>
