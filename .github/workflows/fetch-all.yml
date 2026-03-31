@@ -1,0 +1,36 @@
+name: Fetch Programs and Library Events
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'   # every 3 hours
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch City programs (ACTIVENet)
+        run: node api/fetch-programs.js
+
+      - name: Fetch TPL library events
+        run: node api/fetch-library.js
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add programs.json library-events.json
+          git diff --staged --quiet || git commit -m "Auto-update programs and library events [skip ci]"
+          git push
