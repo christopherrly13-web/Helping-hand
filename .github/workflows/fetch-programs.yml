@@ -1,0 +1,31 @@
+name: Fetch Toronto Programs
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # runs every 3 hours
+  workflow_dispatch:  # allows manual trigger
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install axios
+
+      - name: Fetch Toronto programs
+        run: node api/fetch-programs.js
+
+      - name: Commit and push programs.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add programs.json
+          git diff --staged --quiet || git commit -m "Update Toronto programs data"
+          git push
