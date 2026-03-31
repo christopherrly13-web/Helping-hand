@@ -335,18 +335,33 @@
     let activeCategory = '';
     let activeChips = {};
 
-    const CATEGORY_MAP = {
-      swim:      ['swim', 'aquatic', 'pool'],
-      skate:     ['skate', 'hockey', 'ice'],
-      arts:      ['art', 'craft', 'visual', 'paint', 'draw', 'maker'],
-      sports:    ['sport', 'soccer', 'basketball', 'baseball', 'volleyball', 'badminton', 'tennis', 'gymnastics', 'golf', 'fitness'],
-      dance:     ['dance'],
-      performing:['performing', 'theatre', 'theater', 'music', 'drama'],
+    // City programs: map the scraper's exact category field to a tab key.
+    // These are the category names assigned by fetch-programs.js.
+    const CITY_CATEGORY_MAP = {
+      swim:      ['Preschool Swim', 'Youth Swim', 'Adapted Swim'],
+      skate:     ['Learn to Skate'],
+      arts:      ['Visual Arts'],
+      sports:    ['Soccer', 'Basketball', 'Gymnastics'],
+      dance:     ['Dance'],
+      performing:['Performing Arts'],
+      camp:      ['CampTO', 'Adapted CampTO'],
+      adapted:   ['Adapted Activities', 'Adapted Swim', 'Adapted CampTO', 'Adapted Inclusive'],
+      early:     ['Early Years'],
+    };
+
+    // Library events: keyword match against title + BiblioCommons category tags.
+    // These are looser because we don't control the source taxonomy.
+    const LIB_KEYWORDS = {
+      swim:      ['swim', 'aquatic'],
+      skate:     ['skate', 'skating'],
+      arts:      ['art', 'craft', 'draw', 'paint', 'maker', 'origami', 'collage'],
+      sports:    ['sport', 'soccer', 'basketball', 'baseball', 'gymnastics', 'fitness', 'yoga'],
+      dance:     ['dance', 'movement'],
+      performing:['performing', 'theatre', 'theater', 'music', 'drama', 'puppet', 'storytelling'],
       camp:      ['camp'],
-      adapted:   ['adapted', 'inclusive'],
-      early:     ['early years', 'preschool', 'tiny tots', 'toddler', 'baby', 'infant', 'lapsit', 'laptime'],
-      stem:      ['stem', 'science', 'technology', 'coding', 'robot', 'lego', 'minecraft', 'digital', '3d print'],
-      library:   []
+      adapted:   ['adapted', 'inclusive', 'accessibility'],
+      early:     ['baby', 'infant', 'toddler', 'preschool', 'lapsit', 'laptime', 'storytime', 'early years', 'family literacy'],
+      stem:      ['stem', 'science', 'technology', 'coding', 'robot', 'lego', 'minecraft', 'digital', '3d print', 'maker'],
     };
 
     const CARD_COLORS = {
@@ -362,36 +377,39 @@
       early: '👶', stem: '🔬', library: '📚', default: '🎯'
     };
 
+    // Returns the display key used for card colour/emoji
     function getCategoryKey(item) {
       if (item.source === 'tpl') {
-        // Library events: check their categories for a more specific key
-        const cats = ((item.categories || []).join(' ') + ' ' + item.name).toLowerCase();
-        for (const [key, keywords] of Object.entries(CATEGORY_MAP)) {
-          if (key === 'library') continue;
-          if (keywords.some(k => cats.includes(k))) return key;
+        const text = ((item.categories || []).join(' ') + ' ' + item.name).toLowerCase();
+        for (const [key, kws] of Object.entries(LIB_KEYWORDS)) {
+          if (kws.some(k => text.includes(k))) return key;
         }
         return 'library';
       }
-      const text = (item.name + ' ' + (item.category || '')).toLowerCase();
-      for (const [key, keywords] of Object.entries(CATEGORY_MAP)) {
-        if (key === 'library') continue;
-        if (keywords.some(k => text.includes(k))) return key;
+      // City program: match on the exact category string from the scraper
+      const cat = item.category || '';
+      for (const [key, cats] of Object.entries(CITY_CATEGORY_MAP)) {
+        if (cats.includes(cat)) return key;
       }
       return 'default';
     }
 
+    // Returns true if the item should appear under the given tab
     function matchesCategory(item, cat) {
       if (!cat) return true;
       if (cat === 'library') return item.source === 'tpl';
+
       if (item.source === 'tpl') {
-        // Library events also show in relevant category tabs
-        const keywords = CATEGORY_MAP[cat] || [];
-        const text = (item.name + ' ' + (item.categories||[]).join(' ') + ' ' + item.description).toLowerCase();
-        return keywords.some(k => text.includes(k));
+        const kws = LIB_KEYWORDS[cat] || [];
+        if (!kws.length) return false;
+        const text = ((item.categories || []).join(' ') + ' ' + item.name + ' ' + item.description).toLowerCase();
+        return kws.some(k => text.includes(k));
       }
-      const keywords = CATEGORY_MAP[cat] || [];
-      const text = (item.name + ' ' + (item.category||'') + ' ' + item.description).toLowerCase();
-      return keywords.some(k => text.includes(k));
+
+      // City program: exact category match only (no fuzzy name matching)
+      const allowedCats = CITY_CATEGORY_MAP[cat] || [];
+      if (cat === 'stem') return false; // no city STEM category exists
+      return allowedCats.includes(item.category || '');
     }
 
     function normalizeCity(p) {
