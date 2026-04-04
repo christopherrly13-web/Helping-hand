@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T22:04:28.389Z",
+  "lastUpdated": "2026-04-04T05:17:24.196Z",
   "totalEvents": 2350,
   "source": "Toronto Public Library",
   "events": [
@@ -24479,7 +24479,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69af0ef1b48451fc3c07b9cc",
       "phone": "(416) 395-5460",
@@ -45277,30 +45277,6 @@
       "locationId": "JO"
     },
     {
-      "id": "tpl_698babef6724c63d00f1dd61",
-      "source": "tpl",
-      "title": "Youth Hub: Board Games",
-      "description": "Roll the dice and challenge your friends in some classic games!&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "Richview",
-      "address": "1806 Islington Avenue, Toronto",
-      "startDate": "2026-04-03 15:30",
-      "endDate": "2026-04-03 19:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Games & Sports"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/698babef6724c63d00f1dd61",
-      "phone": "(416) 394-5120",
-      "isRecurring": true,
-      "locationId": "RI"
-    },
-    {
       "id": "tpl_696ba10e94297d3600a5b9b5",
       "source": "tpl",
       "title": "Knitting Circle",
@@ -45414,7 +45390,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69b60c978d5e2d0933655f45",
       "phone": "(416) 393-7783",
@@ -46485,28 +46461,28 @@
       "locationId": "AG"
     },
     {
-      "id": "tpl_6997640d4a9fd98b7f7f1ebf",
+      "id": "tpl_69b05105cbf6405d3569eeff",
       "source": "tpl",
-      "title": "Digital Art with Photoshop",
-      "description": "In this workshop, participants will have an opportunity to learn some of the basic techniques to create digital art Photoshop and WACOM tablet and pen. Registration is required.&nbsp; Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program registration, delivery and evaluation. Questions about how the library handles you",
-      "location": "Lillian H. Smith",
-      "address": "239 College Street, Toronto",
-      "startDate": "2026-04-10 14:00",
-      "endDate": "2026-04-10 15:30",
+      "title": "Youth Hub: Custom Travel Cups",
+      "description": "Customize a tumbler with your own art using infusible ink! Create your own patterns or artwork so you can stay hydrated in style. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "Maria A. Shchuka",
+      "address": "1745 Eglinton Avenue West, Toronto",
+      "startDate": "2026-04-08 16:00",
+      "endDate": "2026-04-08 18:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Audio & Visual"
+        "Crafts & Hobbies"
       ],
-      "isDropIn": false,
-      "isFull": true,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6997640d4a9fd98b7f7f1ebf",
-      "phone": "(416) 393-7746",
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69b05105cbf6405d3569eeff",
+      "phone": "(416) 394-1000",
       "isRecurring": false,
-      "locationId": "LS"
+      "locationId": "MAS"
     },
     {
       "id": "tpl_69b612b9b48451fc3c090145",
@@ -47699,28 +47675,28 @@
       "locationId": "BRW"
     },
     {
-      "id": "tpl_69b30d088089f23c6761a91c",
+      "id": "tpl_69adc0c181b67dfe32ab3281",
       "source": "tpl",
-      "title": "Youth Hub: Design Your Room Door Sign",
-      "description": "Your room, your rules! Design a one-of-a-kind door sign that shows&nbsp;off your style and personality. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "Don Mills",
-      "address": "888 Lawrence Avenue East, Toronto",
-      "startDate": "2026-04-15 16:00",
-      "endDate": "2026-04-15 17:30",
+      "title": "Teen Game Night",
+      "description": "Drop-in every first Monday of the month&nbsp;to play our&nbsp;Xbox One S&nbsp;and board games! All games available on a first come, first serve basis.&nbsp;Hang out, and connect with friends in a relaxed, welcoming space. Teen nights happen every first Monday of the month except in April due to Easter.",
+      "location": "Cliffcrest",
+      "address": "3017 Kingston Road, Toronto",
+      "startDate": "2026-04-13 16:00",
+      "endDate": "2026-04-13 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Crafts & Hobbies"
+        "Games & Sports"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69b30d088089f23c6761a91c",
-      "phone": "(416) 395-5710",
+      "url": "https://tpl.bibliocommons.com/events/69adc0c181b67dfe32ab3281",
+      "phone": "(416) 396-8916",
       "isRecurring": false,
-      "locationId": "DM"
+      "locationId": "CC"
     },
     {
       "id": "tpl_69b9858cb48451fc3c098409",
@@ -48906,14 +48882,14 @@
       "locationId": "YW"
     },
     {
-      "id": "tpl_69af1327491b809c6f1f32b6",
+      "id": "tpl_69b834b681b67dfe32acec31",
       "source": "tpl",
-      "title": "Youth Hub: Ps5 2K26 Tournament",
-      "description": "Drop into the Hub for a week of intense matches, strategic gameplay of Ps5 2k26 and Fc26 tournaments. Winners will win a prize! This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "Agincourt",
-      "address": "155 Bonis Ave, Toronto",
-      "startDate": "2026-04-20 16:00",
-      "endDate": "2026-04-24 18:00",
+      "title": "Youth Hub: Game Night",
+      "description": "Join us every Friday and play your favourite games with your friends. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "Brentwood",
+      "address": "36 Brentwood Road North, Toronto",
+      "startDate": "2026-04-17 15:30",
+      "endDate": "2026-04-17 19:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
@@ -48924,10 +48900,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69af1327491b809c6f1f32b6",
-      "phone": "(416) 396-8943",
-      "isRecurring": false,
-      "locationId": "AG"
+      "url": "https://tpl.bibliocommons.com/events/69b834b681b67dfe32acec31",
+      "phone": "(416) 394-5240",
+      "isRecurring": true,
+      "locationId": "BR"
     },
     {
       "id": "tpl_69b97d07a14a0f8f21ac6edf",
@@ -50114,29 +50090,28 @@
       "locationId": "MAS"
     },
     {
-      "id": "tpl_69b1dbdb491b809c6f1fba0d",
+      "id": "tpl_69c6b28d8d5e2d093367f588",
       "source": "tpl",
-      "title": "Teen Zone: Bad Art Night",
-      "description": "Introducing Teen Zone, a space for teens to hang out, play games and vibe to some music.&nbsp; The first session will be Bad Art Night! Whether you're a seasoned artist or a total newbie who can't draw a straight line, this is your moment to shine.&nbsp;Players will draw within the time limit and the vote as a group on who has the worst art. The player with worst art collection&nbsp;will receive some TPL goodies.&nbsp; Drop-in&nbsp; The program will take place in the Auditorium located in the ba",
-      "location": "Bendale",
-      "address": "1515 Danforth Road, Toronto",
-      "startDate": "2026-04-24 16:00",
-      "endDate": "2026-04-24 17:00",
+      "title": "Youth Hub: Earth Day Activities",
+      "description": "Join us in the Youth Hub to celebrate Earth&nbsp;Day with some nature-inspired activities! This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "Sanderson",
+      "address": "327 Bathurst Street, Toronto",
+      "startDate": "2026-04-22 16:00",
+      "endDate": "2026-04-22 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69b1dbdb491b809c6f1fba0d",
-      "phone": "(416) 396-8910",
+      "url": "https://tpl.bibliocommons.com/events/69c6b28d8d5e2d093367f588",
+      "phone": "(416) 393-7653",
       "isRecurring": false,
-      "locationId": "BD"
+      "locationId": "SA"
     },
     {
       "id": "tpl_69b2f4521e64afd01e61a544",
@@ -51329,28 +51304,28 @@
       "locationId": "CL"
     },
     {
-      "id": "tpl_69b61b858d5e2d0933656101",
+      "id": "tpl_69b867dcb48451fc3c0955aa",
       "source": "tpl",
-      "title": "Photo Editing with Adobe Photoshop",
-      "description": "Adobe Photoshop is the world’s best imaging and graphic design software and is at the core of just about every creative project, from photo editing and compositing to digital painting, animation, and graphic design. Join us for an introductory lesson and learn about the most common tools. We'll explore the workspace and enhance images while investigating tools such as crop, levels, colour balance and more. See how an image can be altered and repaired using patch tools such as the clone and heali",
-      "location": "Danforth/Coxwell",
-      "address": "1675 Danforth Ave, Toronto",
-      "startDate": "2026-04-30 14:00",
-      "endDate": "2026-04-30 16:00",
+      "title": "Coding with Python",
+      "description": "Python is an open source programming language that is used for creating web applications, web content, mathematics and system scripting. In this course you will learn how Python code works and given time to practice. Prior coding knowledge is not necessary for this introductory class. Key takeaways will include a working knowledge of variables, loops, conditional arguments and more. Registration is required.&nbsp; Information Collection Notice: The personal information on this form is collected ",
+      "location": "Maria A. Shchuka",
+      "address": "1745 Eglinton Avenue West, Toronto",
+      "startDate": "2026-04-27 18:00",
+      "endDate": "2026-04-27 20:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Audio & Visual"
+        "Coding & Robotics"
       ],
       "isDropIn": false,
       "isFull": false,
       "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/69b61b858d5e2d0933656101",
-      "phone": "(416) 393-7783",
+      "url": "https://tpl.bibliocommons.com/events/69b867dcb48451fc3c0955aa",
+      "phone": "(416) 394-1000",
       "isRecurring": false,
-      "locationId": "DA"
+      "locationId": "MAS"
     },
     {
       "id": "tpl_69c45deeb48451fc3c0b46ca",
@@ -52538,28 +52513,28 @@
       "locationId": "EA"
     },
     {
-      "id": "tpl_6967cef8c719ac98c336e383",
+      "id": "tpl_69b58a471e64afd01e621a49",
       "source": "tpl",
-      "title": "Youth Hub: Video Games",
-      "description": "Drop in to the Youth Hub every Tuesday and Thursday to play video games. Play with friends, by yourself, or maybe someone new.&nbsp; Tuesdays will be Nintendo Switch days and Thursdays will be PS4 days.&nbsp; *NEW* Starting at 3:30 pm, teens can sign up for a time slot to use the consoles. If there is no demand, gaming will be awarded on a first come first serve basis.&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, wher",
-      "location": "S. Walter Stewart",
-      "address": "170 Memorial Park Avenue, Toronto",
-      "startDate": "2026-05-14 15:45",
-      "endDate": "2026-05-14 19:00",
+      "title": "*Registration Full* Basic Tech Help: Seniors E-Connect",
+      "description": "Are you 55+? Do you have a phone, tablet or computer you don't know how to use or want to learn to use better? Do you enjoy meeting new people?&nbsp;Seniors E-Connect will help you learn tech topics in a fun group setting, but with the one-on-one help of a teen volunteer. If you're a teen between ages 13 - 17 interested in applying to become a volunteer, email bestaff@tpl.ca or ask front desk for Seniors E-Connect application form. *Registration Full*",
+      "location": "Beaches",
+      "address": "2161 Queen Street East, Toronto",
+      "startDate": "2026-05-05 16:00",
+      "endDate": "2026-05-05 17:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Games & Sports"
+        "Computer Basics & Office Software"
       ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6967cef8c719ac98c336e383",
-      "phone": "(416) 396-3975",
+      "isDropIn": false,
+      "isFull": true,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/69b58a471e64afd01e621a49",
+      "phone": "(416) 393-7703",
       "isRecurring": true,
-      "locationId": "SWS"
+      "locationId": "BE"
     },
     {
       "id": "tpl_69711f61c967cb4120833b6d",
@@ -53745,29 +53720,28 @@
       "locationId": "BL"
     },
     {
-      "id": "tpl_69b175fc8089f23c676153f8",
+      "id": "tpl_69cd2155fca21471b7ede430",
       "source": "tpl",
-      "title": "NatureTO: Trees Around the Branch Tour",
-      "description": "The Hillcrest Library&nbsp;and its neighbourhood is home to a variety of trees. Join the City of Toronto Urban Forestry staff to explore the natural world on a local neighbourhood tour. Learn how to recognize different species and fun facts about their cultural and ecological importance. Children under 12 must be accompanied by a parent/caregiver. Registration is required. The tour will start and end at the Hillcrest Library and will be guided by the City of Toronto Urban Forestry staff. There m",
-      "location": "Hillcrest",
-      "address": "5801 Leslie Street, Toronto",
-      "startDate": "2026-06-05 14:00",
-      "endDate": "2026-06-05 15:30",
+      "title": "Introduction to 3D Printing",
+      "description": "Learn how 3D printers work and how you can print at the Toronto Public Library’s Digital Innovation Hubs. This class includes hands-on instruction with Prusa Slicer, the software used to prepare your 3D object file for printing on a Prusa MK3S+ 3D printer. Note: Customers are no longer required to attend a mandatory 3D printing class prior to using a 3D printer at the Toronto Public Library’s Digital Innovation Hubs. This class is for those who are interested in learning more about 3D printing a",
+      "location": "Leaside",
+      "address": "165 McRae Drive, Toronto",
+      "startDate": "2026-05-23 10:00",
+      "endDate": "2026-05-23 11:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Library Visits & Tours",
-        "Nature & the Environment"
+        "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/69b175fc8089f23c676153f8",
-      "phone": "(416) 395-5830",
+      "url": "https://tpl.bibliocommons.com/events/69cd2155fca21471b7ede430",
+      "phone": "(416) 396-3835",
       "isRecurring": false,
-      "locationId": "HIL"
+      "locationId": "LE"
     },
     {
       "id": "tpl_6971201c91e4576f847de1dc",
@@ -54955,28 +54929,28 @@
       "locationId": "DA"
     },
     {
-      "id": "tpl_6967cef8c719ac98c336e395",
+      "id": "tpl_697010861e64afd01e5598c6",
       "source": "tpl",
-      "title": "Youth Hub: Video Games",
-      "description": "Drop in to the Youth Hub every Tuesday and Thursday to play video games. Play with friends, by yourself, or maybe someone new.&nbsp; Tuesdays will be Nintendo Switch days and Thursdays will be PS4 days.&nbsp; *NEW* Starting at 3:30 pm, teens can sign up for a time slot to use the consoles. If there is no demand, gaming will be awarded on a first come first serve basis.&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, wher",
-      "location": "S. Walter Stewart",
-      "address": "170 Memorial Park Avenue, Toronto",
-      "startDate": "2026-07-16 15:45",
-      "endDate": "2026-07-16 19:00",
+      "title": "Sunday Family Game Time",
+      "description": "Join us for a family games afternoon from Lego to Uno.&nbsp; Every Sunday afternoon all ages welcome",
+      "location": "Taylor Memorial",
+      "address": "1440 Kingston Road, Toronto",
+      "startDate": "2026-06-21 14:00",
+      "endDate": "2026-06-21 16:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Games & Sports"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6967cef8c719ac98c336e395",
-      "phone": "(416) 396-3975",
+      "url": "https://tpl.bibliocommons.com/events/697010861e64afd01e5598c6",
+      "phone": "(416) 396-8939",
       "isRecurring": true,
-      "locationId": "SWS"
+      "locationId": "TA"
     },
     {
       "id": "tpl_69711f61c967cb4120833b76",
@@ -56157,14 +56131,14 @@
       "locationId": "EA"
     },
     {
-      "id": "tpl_6971201c91e4576f847de1ed",
+      "id": "tpl_69711d50992fc18a86deb19b",
       "source": "tpl",
-      "title": "Youth Hub: Video Game Café ",
-      "description": "Join us in the Youth Hub every Friday to play video games on our Nintendo Switch or PS5 with your friends! Ask us for our list of video games, and check our monthly calendar for Gaming Tournaments with prizes! This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "title": "Youth Hub: Board Game Café ",
+      "description": "Join us in the Youth Hub every Tuesday to play board games with your friends! Ask us for our list of board games, and check our monthly calendar for Tournaments with prizes! All materials provided.&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
       "location": "Eatonville",
       "address": "430 Burnhampthorpe Road, Toronto",
-      "startDate": "2026-10-02 16:00",
-      "endDate": "2026-10-02 18:00",
+      "startDate": "2026-08-18 16:00",
+      "endDate": "2026-08-18 18:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
@@ -56175,7 +56149,7 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6971201c91e4576f847de1ed",
+      "url": "https://tpl.bibliocommons.com/events/69711d50992fc18a86deb19b",
       "phone": "(416) 394-5270",
       "isRecurring": true,
       "locationId": "EA"
@@ -57355,6 +57329,30 @@
       "phone": "(416) 396-8850",
       "isRecurring": true,
       "locationId": "CED"
+    },
+    {
+      "id": "tpl_69711b92c967cb412083387a",
+      "source": "tpl",
+      "title": "Youth Hub: Mindful Mondays",
+      "description": "Every Monday, enjoy a series of stress-relieving mindfulness activities, crafts, and games to help ease anxiety and give you a moment of Zen. Enjoy mindful colouring sheets, rainbow scratch art, mindfulness card decks, gratitude journals, and more. All materials provided.&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by ",
+      "location": "Eatonville",
+      "address": "430 Burnhampthorpe Road, Toronto",
+      "startDate": "2026-11-23 16:00",
+      "endDate": "2026-11-23 18:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Health & Wellness"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69711b92c967cb412083387a",
+      "phone": "(416) 394-5270",
+      "isRecurring": true,
+      "locationId": "EA"
     }
   ]
 }
