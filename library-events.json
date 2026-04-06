@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T22:00:45.094Z",
+  "lastUpdated": "2026-04-06T06:21:02.290Z",
   "totalEvents": 2310,
   "source": "Toronto Public Library",
   "events": [
@@ -4315,30 +4315,6 @@
       "locationId": "TH"
     },
     {
-      "id": "tpl_69cc650efca21471b7eddd75",
-      "source": "tpl",
-      "title": "Family Storytime and Craft",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;Family Time runs from [2:00 pm] to [3:00 pm] . Children, parents and caregivers are invited to Stay and Play from [2:00 pm] to [3:00 pm] .",
-      "location": "Kennedy/Eglinton",
-      "address": "2380 Eglinton Avenue East, Toronto",
-      "startDate": "2026-04-18 14:00",
-      "endDate": "2026-04-18 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69cc650efca21471b7eddd75",
-      "phone": "(416) 396-8924",
-      "isRecurring": true,
-      "locationId": "KE"
-    },
-    {
       "id": "tpl_69d16086491b809c6f253664",
       "source": "tpl",
       "title": "Chess Club",
@@ -4361,6 +4337,30 @@
       "phone": "(416) 393-7706",
       "isRecurring": false,
       "locationId": "FH"
+    },
+    {
+      "id": "tpl_69cc650efca21471b7eddd75",
+      "source": "tpl",
+      "title": "Family Storytime and Craft",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;Family Time runs from [2:00 pm] to [3:00 pm] . Children, parents and caregivers are invited to Stay and Play from [2:00 pm] to [3:00 pm] .",
+      "location": "Kennedy/Eglinton",
+      "address": "2380 Eglinton Avenue East, Toronto",
+      "startDate": "2026-04-18 14:00",
+      "endDate": "2026-04-18 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69cc650efca21471b7eddd75",
+      "phone": "(416) 396-8924",
+      "isRecurring": true,
+      "locationId": "KE"
     },
     {
       "id": "tpl_696aba094a9fd98b7f780dd9",
@@ -9647,30 +9647,6 @@
       "locationId": "CH"
     },
     {
-      "id": "tpl_69ce9cc09057005337d20c90",
-      "source": "tpl",
-      "title": "Fay & Fluffy's Story Time",
-      "description": "Join Fay & Fluffy (stars of Family Jr’s The Fabulous Show with Fay & Fluffy) as they share some of their favourite books and stories. Fay & Fluffy’s main goal is to share the message of inclusivity wherever they go, cheering on all the kids who see them be proud of who they are, loving themselves, and being kind to one another. Drop-in. No registration required.",
-      "location": "Queen/Saulter",
-      "address": "765 Queen Street East, Toronto",
-      "startDate": "2026-05-09 10:30",
-      "endDate": "2026-05-09 11:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69ce9cc09057005337d20c90",
-      "phone": "(416) 393-7723",
-      "isRecurring": false,
-      "locationId": "QS"
-    },
-    {
       "id": "tpl_69d133e081b67dfe32b11487",
       "source": "tpl",
       "title": "Family Time",
@@ -9693,6 +9669,30 @@
       "phone": "(416) 395-5420",
       "isRecurring": true,
       "locationId": "AP"
+    },
+    {
+      "id": "tpl_69ce9cc09057005337d20c90",
+      "source": "tpl",
+      "title": "Fay & Fluffy's Story Time",
+      "description": "Join Fay & Fluffy (stars of Family Jr’s The Fabulous Show with Fay & Fluffy) as they share some of their favourite books and stories. Fay & Fluffy’s main goal is to share the message of inclusivity wherever they go, cheering on all the kids who see them be proud of who they are, loving themselves, and being kind to one another. Drop-in. No registration required.",
+      "location": "Queen/Saulter",
+      "address": "765 Queen Street East, Toronto",
+      "startDate": "2026-05-09 10:30",
+      "endDate": "2026-05-09 11:30",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69ce9cc09057005337d20c90",
+      "phone": "(416) 393-7723",
+      "isRecurring": false,
+      "locationId": "QS"
     },
     {
       "id": "tpl_6973b3bc377f55c8ec1512ba",
@@ -13544,30 +13544,6 @@
       "locationId": "ACD"
     },
     {
-      "id": "tpl_69ce78d44dacf581ff8608ec",
-      "source": "tpl",
-      "title": "Fay & Fluffy's Story Time",
-      "description": "Join Fay & Fluffy (stars of Family Jr’s The Fabulous Show with Fay & Fluffy) as they share some of their favourite books and stories. Fay & Fluffy’s main goal is to share the message of inclusivity wherever they go, cheering on all the kids who see them be proud of who they are, loving themselves, and being kind to one another. Drop-in. No registration required.",
-      "location": "Bloor/Gladstone",
-      "address": "1101 Bloor Street West, Toronto",
-      "startDate": "2026-05-30 10:30",
-      "endDate": "2026-05-30 11:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69ce78d44dacf581ff8608ec",
-      "phone": "(416) 393-7674",
-      "isRecurring": false,
-      "locationId": "BL"
-    },
-    {
       "id": "tpl_69d133e081b67dfe32b1148a",
       "source": "tpl",
       "title": "Family Time",
@@ -13590,6 +13566,30 @@
       "phone": "(416) 395-5420",
       "isRecurring": true,
       "locationId": "AP"
+    },
+    {
+      "id": "tpl_69ce78d44dacf581ff8608ec",
+      "source": "tpl",
+      "title": "Fay & Fluffy's Story Time",
+      "description": "Join Fay & Fluffy (stars of Family Jr’s The Fabulous Show with Fay & Fluffy) as they share some of their favourite books and stories. Fay & Fluffy’s main goal is to share the message of inclusivity wherever they go, cheering on all the kids who see them be proud of who they are, loving themselves, and being kind to one another. Drop-in. No registration required.",
+      "location": "Bloor/Gladstone",
+      "address": "1101 Bloor Street West, Toronto",
+      "startDate": "2026-05-30 10:30",
+      "endDate": "2026-05-30 11:30",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69ce78d44dacf581ff8608ec",
+      "phone": "(416) 393-7674",
+      "isRecurring": false,
+      "locationId": "BL"
     },
     {
       "id": "tpl_69aa10608966a226aae10c98",
@@ -24592,7 +24592,7 @@
         "Games & Sports"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69af1e6b1e64afd01e60eeaa",
       "phone": "(416) 396-8969",
@@ -28562,6 +28562,30 @@
       "locationId": "AG"
     },
     {
+      "id": "tpl_69cb0660db57df044298077e",
+      "source": "tpl",
+      "title": "Sunday Techday",
+      "description": "Explore the world of tech through robots or Snap Circuits.&nbsp; Drop-in Sessions recommended for ages 5 to 12.",
+      "location": "St. Clair/Silverthorn",
+      "address": "1748 St. Clair Avenue West, Toronto",
+      "startDate": "2026-04-19 14:00",
+      "endDate": "2026-04-19 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Coding & Robotics"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69cb0660db57df044298077e",
+      "phone": "(416) 393-7709",
+      "isRecurring": true,
+      "locationId": "SI"
+    },
+    {
       "id": "tpl_69cace039057005337d15a05",
       "source": "tpl",
       "title": "Scavenger Hunt Sundays",
@@ -28610,30 +28634,6 @@
       "phone": "(416) 396-8979",
       "isRecurring": true,
       "locationId": "WS"
-    },
-    {
-      "id": "tpl_69cb0660db57df044298077e",
-      "source": "tpl",
-      "title": "Sunday Techday",
-      "description": "Explore the world of tech through robots or Snap Circuits.&nbsp; Drop-in Sessions recommended for ages 5 to 12.",
-      "location": "St. Clair/Silverthorn",
-      "address": "1748 St. Clair Avenue West, Toronto",
-      "startDate": "2026-04-19 14:00",
-      "endDate": "2026-04-19 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Coding & Robotics"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69cb0660db57df044298077e",
-      "phone": "(416) 393-7709",
-      "isRecurring": true,
-      "locationId": "SI"
     },
     {
       "id": "tpl_69546b1e6724c63d00e96a76",
@@ -30685,6 +30685,30 @@
       "locationId": "AG"
     },
     {
+      "id": "tpl_69cb0660db57df044298077f",
+      "source": "tpl",
+      "title": "Sunday Techday",
+      "description": "Explore the world of tech through robots or Snap Circuits.&nbsp; Drop-in Sessions recommended for ages 5 to 12.",
+      "location": "St. Clair/Silverthorn",
+      "address": "1748 St. Clair Avenue West, Toronto",
+      "startDate": "2026-04-26 14:00",
+      "endDate": "2026-04-26 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Coding & Robotics"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69cb0660db57df044298077f",
+      "phone": "(416) 393-7709",
+      "isRecurring": true,
+      "locationId": "SI"
+    },
+    {
       "id": "tpl_69cace039057005337d15a06",
       "source": "tpl",
       "title": "Scavenger Hunt Sundays",
@@ -30733,30 +30757,6 @@
       "phone": "(416) 396-8979",
       "isRecurring": true,
       "locationId": "WS"
-    },
-    {
-      "id": "tpl_69cb0660db57df044298077f",
-      "source": "tpl",
-      "title": "Sunday Techday",
-      "description": "Explore the world of tech through robots or Snap Circuits.&nbsp; Drop-in Sessions recommended for ages 5 to 12.",
-      "location": "St. Clair/Silverthorn",
-      "address": "1748 St. Clair Avenue West, Toronto",
-      "startDate": "2026-04-26 14:00",
-      "endDate": "2026-04-26 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Coding & Robotics"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69cb0660db57df044298077f",
-      "phone": "(416) 393-7709",
-      "isRecurring": true,
-      "locationId": "SI"
     },
     {
       "id": "tpl_69546b1e6724c63d00e96a77",
@@ -36409,31 +36409,6 @@
       "locationId": "HP"
     },
     {
-      "id": "tpl_69a8c194b48451fc3c06bf51",
-      "source": "tpl",
-      "title": "Music and AI for Kids!",
-      "description": "For ages 8-12. Join us for 4 weeks of goofy, musical fun! Our Innovator in Residence, Joel S. Silver, will show you how AI works to help you create music. Create songs with the silliest lyrics you can think of, create a soundtrack for your own skits, even&nbsp;write a theme song for the library! No music or computer experience needed - just bring your creativity! Drop-in. No registration required, but space is limited. This program is part of the Innovator in Residence (AI and Music Production) ",
-      "location": "Fairview",
-      "address": "35 Fairview Mall Drive, Toronto",
-      "startDate": "2026-05-26 16:00",
-      "endDate": "2026-05-26 17:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Artificial Intelligence",
-        "Audio & Visual"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69a8c194b48451fc3c06bf51",
-      "phone": "(416) 395-5750",
-      "isRecurring": true,
-      "locationId": "FV"
-    },
-    {
       "id": "tpl_69d116a41e64afd01e66e696",
       "source": "tpl",
       "title": "Discovery Club: Dungeons and Dragons",
@@ -36457,6 +36432,31 @@
       "phone": "(416) 395-5710",
       "isRecurring": true,
       "locationId": "DM"
+    },
+    {
+      "id": "tpl_69a8c194b48451fc3c06bf51",
+      "source": "tpl",
+      "title": "Music and AI for Kids!",
+      "description": "For ages 8-12. Join us for 4 weeks of goofy, musical fun! Our Innovator in Residence, Joel S. Silver, will show you how AI works to help you create music. Create songs with the silliest lyrics you can think of, create a soundtrack for your own skits, even&nbsp;write a theme song for the library! No music or computer experience needed - just bring your creativity! Drop-in. No registration required, but space is limited. This program is part of the Innovator in Residence (AI and Music Production) ",
+      "location": "Fairview",
+      "address": "35 Fairview Mall Drive, Toronto",
+      "startDate": "2026-05-26 16:00",
+      "endDate": "2026-05-26 17:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Artificial Intelligence",
+        "Audio & Visual"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69a8c194b48451fc3c06bf51",
+      "phone": "(416) 395-5750",
+      "isRecurring": true,
+      "locationId": "FV"
     },
     {
       "id": "tpl_69739fb31e64afd01e5636a0",
@@ -52523,30 +52523,6 @@
       "locationId": "HP"
     },
     {
-      "id": "tpl_69cdb7e31e64afd01e665079",
-      "source": "tpl",
-      "title": "Introduction to 3D Printing",
-      "description": "Learn how 3D printers work and how you can print at the Toronto Public Library’s Digital Innovation Hubs. This class includes hands-on instruction with Prusa Slicer, the software used to prepare your 3D object file for printing on a Prusa MK3S+ 3D printer. DROP IN Note: Customers are no longer required to attend a mandatory 3D printing class prior to using a 3D printer at the Toronto Public Library’s Digital Innovation Hubs. This class is for those who are interested in learning more about 3D pr",
-      "location": "Long Branch",
-      "address": "3500 Lake Shore Boulevard West, Toronto",
-      "startDate": "2026-05-21 18:00",
-      "endDate": "2026-05-21 19:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "3D Printing"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69cdb7e31e64afd01e665079",
-      "phone": "(416) 394-5320",
-      "isRecurring": false,
-      "locationId": "LB"
-    },
-    {
       "id": "tpl_69c29efebf48d63c596c9a1e",
       "source": "tpl",
       "title": "Indigenous Film Screening - Nechako: It Will Be a Big River Again",
@@ -52570,6 +52546,30 @@
       "phone": "(416) 396-8890",
       "isRecurring": false,
       "locationId": "ACD"
+    },
+    {
+      "id": "tpl_69cdb7e31e64afd01e665079",
+      "source": "tpl",
+      "title": "Introduction to 3D Printing",
+      "description": "Learn how 3D printers work and how you can print at the Toronto Public Library’s Digital Innovation Hubs. This class includes hands-on instruction with Prusa Slicer, the software used to prepare your 3D object file for printing on a Prusa MK3S+ 3D printer. DROP IN Note: Customers are no longer required to attend a mandatory 3D printing class prior to using a 3D printer at the Toronto Public Library’s Digital Innovation Hubs. This class is for those who are interested in learning more about 3D pr",
+      "location": "Long Branch",
+      "address": "3500 Lake Shore Boulevard West, Toronto",
+      "startDate": "2026-05-21 18:00",
+      "endDate": "2026-05-21 19:30",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "3D Printing"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69cdb7e31e64afd01e665079",
+      "phone": "(416) 394-5320",
+      "isRecurring": false,
+      "locationId": "LB"
     },
     {
       "id": "tpl_69cd1fe9deee9abd8ee68414",
@@ -53663,30 +53663,6 @@
       "locationId": "EA"
     },
     {
-      "id": "tpl_69cd86adfca21471b7edf1b5",
-      "source": "tpl",
-      "title": "Teen Study Hall",
-      "description": "Need a quiet space to study for exams? Join us after school for Teen Study Hall. Drop-in, space is limited.",
-      "location": "Runnymede",
-      "address": "2178 Bloor Street West, Toronto",
-      "startDate": "2026-06-16 16:00",
-      "endDate": "2026-06-16 20:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Personal Development"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69cd86adfca21471b7edf1b5",
-      "phone": "(416) 393-7697",
-      "isRecurring": true,
-      "locationId": "RN"
-    },
-    {
       "id": "tpl_69d116a41e64afd01e66e699",
       "source": "tpl",
       "title": "Discovery Club: Dungeons and Dragons",
@@ -53710,6 +53686,30 @@
       "phone": "(416) 395-5710",
       "isRecurring": true,
       "locationId": "DM"
+    },
+    {
+      "id": "tpl_69cd86adfca21471b7edf1b5",
+      "source": "tpl",
+      "title": "Teen Study Hall",
+      "description": "Need a quiet space to study for exams? Join us after school for Teen Study Hall. Drop-in, space is limited.",
+      "location": "Runnymede",
+      "address": "2178 Bloor Street West, Toronto",
+      "startDate": "2026-06-16 16:00",
+      "endDate": "2026-06-16 20:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Personal Development"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69cd86adfca21471b7edf1b5",
+      "phone": "(416) 393-7697",
+      "isRecurring": true,
+      "locationId": "RN"
     },
     {
       "id": "tpl_69739fb31e64afd01e5636a3",
