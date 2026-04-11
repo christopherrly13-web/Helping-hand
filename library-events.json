@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T11:00:30.178Z",
+  "lastUpdated": "2026-04-11T14:08:33.426Z",
   "totalEvents": 2300,
   "source": "Toronto Public Library",
   "events": [
@@ -24478,30 +24478,6 @@
       "locationId": "SJ"
     },
     {
-      "id": "tpl_69b1dbd14dacf581ff814208",
-      "source": "tpl",
-      "title": "Family Fibers ",
-      "description": "Join us on Saturday afternoon for our knitting and crochet family social. Bring your work in progress and enjoy the company of other knitters and crocheters. A great place to show off your work, get advice, swap pattern ideas or just relax alongside fellow fiber enthusiasts with some tea and snacks. Free yarn,&nbsp;clothing patterns and fabric while supplies lasts. Drop-in!&nbsp; Ages 6 & up&nbsp; The program will take place in the Auditorium located in the basement. Elevator on site. If you hav",
-      "location": "Bendale",
-      "address": "1515 Danforth Road, Toronto",
-      "startDate": "2026-04-11 14:00",
-      "endDate": "2026-04-11 15:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Crafts & Hobbies"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69b1dbd14dacf581ff814208",
-      "phone": "(416) 396-8910",
-      "isRecurring": false,
-      "locationId": "BD"
-    },
-    {
       "id": "tpl_69bad3374dacf581ff82df23",
       "source": "tpl",
       "title": "Saturday Movie: The Lion, the Witch and the Wardrobe",
@@ -24572,6 +24548,30 @@
       "phone": "(416) 396-8924",
       "isRecurring": true,
       "locationId": "KE"
+    },
+    {
+      "id": "tpl_69b1dbd14dacf581ff814208",
+      "source": "tpl",
+      "title": "Family Fibers ",
+      "description": "Join us on Saturday afternoon for our knitting and crochet family social. Bring your work in progress and enjoy the company of other knitters and crocheters. A great place to show off your work, get advice, swap pattern ideas or just relax alongside fellow fiber enthusiasts with some tea and snacks. Free yarn,&nbsp;clothing patterns and fabric while supplies lasts. Drop-in!&nbsp; Ages 6 & up&nbsp; The program will take place in the Auditorium located in the basement. Elevator on site. If you hav",
+      "location": "Bendale",
+      "address": "1515 Danforth Road, Toronto",
+      "startDate": "2026-04-11 14:00",
+      "endDate": "2026-04-11 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69b1dbd14dacf581ff814208",
+      "phone": "(416) 396-8910",
+      "isRecurring": false,
+      "locationId": "BD"
     },
     {
       "id": "tpl_69b9e81767801235ed72c873",
@@ -44208,7 +44208,7 @@
       "location": "Bendale",
       "address": "1515 Danforth Road, Toronto",
       "startDate": "2026-04-11 14:00",
-      "endDate": "2026-04-11 15:30",
+      "endDate": "2026-04-11 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
@@ -50008,30 +50008,6 @@
       "locationId": "TRL"
     },
     {
-      "id": "tpl_69d7d5e55c04bc0fc061dba8",
-      "source": "tpl",
-      "title": "Youth Hub: Ping Pong",
-      "description": "A ping pong table will be available to play with in the Youth Hub. Equipment will be provided. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "York Woods",
-      "address": "1785 Finch Avenue West, Toronto",
-      "startDate": "2026-05-04 15:30",
-      "endDate": "2026-05-04 17:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Games & Sports"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69d7d5e55c04bc0fc061dba8",
-      "phone": "(416) 395-5980",
-      "isRecurring": true,
-      "locationId": "YW"
-    },
-    {
       "id": "tpl_69d961e25c04bc0fc0620231",
       "source": "tpl",
       "title": "Youth Hub: Choose Your Own Craft",
@@ -50054,6 +50030,30 @@
       "phone": "(416) 394-1000",
       "isRecurring": true,
       "locationId": "MAS"
+    },
+    {
+      "id": "tpl_69d7d5e55c04bc0fc061dba8",
+      "source": "tpl",
+      "title": "Youth Hub: Ping Pong",
+      "description": "A ping pong table will be available to play with in the Youth Hub. Equipment will be provided. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "York Woods",
+      "address": "1785 Finch Avenue West, Toronto",
+      "startDate": "2026-05-04 15:30",
+      "endDate": "2026-05-04 17:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Games & Sports"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69d7d5e55c04bc0fc061dba8",
+      "phone": "(416) 395-5980",
+      "isRecurring": true,
+      "locationId": "YW"
     },
     {
       "id": "tpl_69c1659f2866a5b48843df0c",
@@ -50250,30 +50250,6 @@
       "locationId": "TRL"
     },
     {
-      "id": "tpl_69d7d5e55c04bc0fc061dba9",
-      "source": "tpl",
-      "title": "Youth Hub: Ping Pong",
-      "description": "A ping pong table will be available to play with in the Youth Hub. Equipment will be provided. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "York Woods",
-      "address": "1785 Finch Avenue West, Toronto",
-      "startDate": "2026-05-11 15:30",
-      "endDate": "2026-05-11 17:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Games & Sports"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69d7d5e55c04bc0fc061dba9",
-      "phone": "(416) 395-5980",
-      "isRecurring": true,
-      "locationId": "YW"
-    },
-    {
       "id": "tpl_69d961e25c04bc0fc0620232",
       "source": "tpl",
       "title": "Youth Hub: Choose Your Own Craft",
@@ -50296,6 +50272,30 @@
       "phone": "(416) 394-1000",
       "isRecurring": true,
       "locationId": "MAS"
+    },
+    {
+      "id": "tpl_69d7d5e55c04bc0fc061dba9",
+      "source": "tpl",
+      "title": "Youth Hub: Ping Pong",
+      "description": "A ping pong table will be available to play with in the Youth Hub. Equipment will be provided. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "York Woods",
+      "address": "1785 Finch Avenue West, Toronto",
+      "startDate": "2026-05-11 15:30",
+      "endDate": "2026-05-11 17:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Games & Sports"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69d7d5e55c04bc0fc061dba9",
+      "phone": "(416) 395-5980",
+      "isRecurring": true,
+      "locationId": "YW"
     },
     {
       "id": "tpl_69711b91c967cb412083385e",
@@ -51260,31 +51260,6 @@
       "locationId": "GW"
     },
     {
-      "id": "tpl_69c1659f2866a5b48843df0e",
-      "source": "tpl",
-      "title": "FRESH Movie Saturdays",
-      "description": "This program helps people stay active, make friends, learn new skills, and have fun. Meet new folks, build connections, and tell us about programs and services you would like to see in the neighbourhood! Come join us every Saturday for screenings of your favourite movies. In addition to this, enjoy cuddles with a therapy dog!&nbsp;Therapy dog Goose visits Fort York Branch on&nbsp;alternate Saturdays from 11:00AM-12:00PM. We'll be showing the following films: April 4-Honey I Shrunk the Kids April",
-      "location": "Fort York",
-      "address": "190 Fort York Boulevard, Toronto",
-      "startDate": "2026-05-23 11:00",
-      "endDate": "2026-05-23 13:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Culture, Arts & Entertainment",
-        "Health & Wellness"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69c1659f2866a5b48843df0e",
-      "phone": "(416) 393-6240",
-      "isRecurring": true,
-      "locationId": "FO"
-    },
-    {
       "id": "tpl_695c3f868b29ea2800c7b66c",
       "source": "tpl",
       "title": "Saturday Chess Club",
@@ -51454,30 +51429,6 @@
       "locationId": "TA"
     },
     {
-      "id": "tpl_69d7d5e55c04bc0fc061dbab",
-      "source": "tpl",
-      "title": "Youth Hub: Ping Pong",
-      "description": "A ping pong table will be available to play with in the Youth Hub. Equipment will be provided. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "York Woods",
-      "address": "1785 Finch Avenue West, Toronto",
-      "startDate": "2026-05-25 15:30",
-      "endDate": "2026-05-25 17:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Games & Sports"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69d7d5e55c04bc0fc061dbab",
-      "phone": "(416) 395-5980",
-      "isRecurring": true,
-      "locationId": "YW"
-    },
-    {
       "id": "tpl_69d961e25c04bc0fc0620233",
       "source": "tpl",
       "title": "Youth Hub: Choose Your Own Craft",
@@ -51500,6 +51451,30 @@
       "phone": "(416) 394-1000",
       "isRecurring": true,
       "locationId": "MAS"
+    },
+    {
+      "id": "tpl_69d7d5e55c04bc0fc061dbab",
+      "source": "tpl",
+      "title": "Youth Hub: Ping Pong",
+      "description": "A ping pong table will be available to play with in the Youth Hub. Equipment will be provided. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "York Woods",
+      "address": "1785 Finch Avenue West, Toronto",
+      "startDate": "2026-05-25 15:30",
+      "endDate": "2026-05-25 17:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Games & Sports"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69d7d5e55c04bc0fc061dbab",
+      "phone": "(416) 395-5980",
+      "isRecurring": true,
+      "locationId": "YW"
     },
     {
       "id": "tpl_69711b91c967cb4120833860",
@@ -52471,28 +52446,28 @@
       "locationId": "CL"
     },
     {
-      "id": "tpl_69d94c0ae2a2952aed0df354",
+      "id": "tpl_697010861e64afd01e5598c3",
       "source": "tpl",
-      "title": "Friday Teen Social",
-      "description": "Drop in after school&nbsp;on Friday's&nbsp;to have fun with your friends,&nbsp;meet new folks, build connections, and tell us about programs and services you would like to see in the neighborhood!",
-      "location": "Guildwood",
-      "address": "123 Guildwood Parkway, Toronto",
-      "startDate": "2026-06-12 16:00",
-      "endDate": "2026-06-12 17:30",
+      "title": "Sunday Family Game Time",
+      "description": "Join us for a family games afternoon from Lego to Uno.&nbsp; Every Sunday afternoon all ages welcome",
+      "location": "Taylor Memorial",
+      "address": "1440 Kingston Road, Toronto",
+      "startDate": "2026-05-31 14:00",
+      "endDate": "2026-05-31 16:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Culture, Arts & Entertainment"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69d94c0ae2a2952aed0df354",
-      "phone": "(416) 396-8872",
+      "url": "https://tpl.bibliocommons.com/events/697010861e64afd01e5598c3",
+      "phone": "(416) 396-8939",
       "isRecurring": true,
-      "locationId": "GW"
+      "locationId": "TA"
     },
     {
       "id": "tpl_699caa1581b67dfe32a84ef1",
@@ -53681,28 +53656,29 @@
       "locationId": "GW"
     },
     {
-      "id": "tpl_69cc4934ad384e40edb809cf",
+      "id": "tpl_699caa1581b67dfe32a84ef3",
       "source": "tpl",
-      "title": "Chess Club",
-      "description": "Drop in for a casual game of chess in a welcoming environment. Improve your chess skills or learn how to play. Sets are provided. All ages.&nbsp;Drop-in.",
-      "location": "Richview",
-      "address": "1806 Islington Avenue, Toronto",
-      "startDate": "2026-07-23 16:00",
-      "endDate": "2026-07-23 17:00",
+      "title": "Chess Club ",
+      "description": "Join us at the Bloor/Gladstone Library to play chess with friends, family, and fellow enthusiasts! Players of all ages and strengths are welcome, no previous experience is required. Drop in. No registration required.",
+      "location": "Bloor/Gladstone",
+      "address": "1101 Bloor Street West, Toronto",
+      "startDate": "2026-06-26 17:00",
+      "endDate": "2026-06-26 19:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Crafts & Hobbies"
+        "Crafts & Hobbies",
+        "Games & Sports"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69cc4934ad384e40edb809cf",
-      "phone": "(416) 394-5120",
+      "url": "https://tpl.bibliocommons.com/events/699caa1581b67dfe32a84ef3",
+      "phone": "(416) 393-7674",
       "isRecurring": true,
-      "locationId": "RI"
+      "locationId": "BL"
     },
     {
       "id": "tpl_69cd609281b67dfe32b06880",
@@ -54883,25 +54859,25 @@
       "locationId": "RI"
     },
     {
-      "id": "tpl_69711f61c967cb4120833b83",
+      "id": "tpl_6971201c91e4576f847de1e8",
       "source": "tpl",
-      "title": "Youth Hub: Crafty Thursdays",
-      "description": "Join us in the Youth Hub every Thursday for a series of crafting activities like painting, clay sculpting, sewing and embroidery, resin art, jewelry making, perler beads, block printing, and more! Check tpl.ca or&nbsp;our monthly calendar for the activity of the week. All materials provided. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.",
+      "title": "Youth Hub: Video Game Café ",
+      "description": "Join us in the Youth Hub every Friday to play video games on our Nintendo Switch or PS5 with your friends! Ask us for our list of video games, and check our monthly calendar for Gaming Tournaments with prizes! This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
       "location": "Eatonville",
       "address": "430 Burnhampthorpe Road, Toronto",
-      "startDate": "2026-10-15 16:00",
-      "endDate": "2026-10-15 18:00",
+      "startDate": "2026-08-28 16:00",
+      "endDate": "2026-08-28 18:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Crafts & Hobbies"
+        "Games & Sports"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69711f61c967cb4120833b83",
+      "url": "https://tpl.bibliocommons.com/events/6971201c91e4576f847de1e8",
       "phone": "(416) 394-5270",
       "isRecurring": true,
       "locationId": "EA"
@@ -56081,6 +56057,30 @@
       "phone": "(416) 396-8850",
       "isRecurring": true,
       "locationId": "CED"
+    },
+    {
+      "id": "tpl_6942f4eb6f926136000b6c8e",
+      "source": "tpl",
+      "title": "Youth Hub:  Nail Night",
+      "description": "Unleash your creativity as you design your own stunning nail art! Join us for one or all of our fabulous Nail Nights on the first Monday of every month.&nbsp;Drop-in, no registration required. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "S. Walter Stewart",
+      "address": "170 Memorial Park Avenue, Toronto",
+      "startDate": "2026-12-07 15:30",
+      "endDate": "2026-12-07 18:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Crafts & Hobbies"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6942f4eb6f926136000b6c8e",
+      "phone": "(416) 396-3975",
+      "isRecurring": true,
+      "locationId": "SWS"
     }
   ]
 }
