@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T21:41:27.174Z",
+  "lastUpdated": "2026-04-26T03:24:13.287Z",
   "totalEvents": 2215,
   "source": "Toronto Public Library",
   "events": [
@@ -26916,30 +26916,6 @@
       "locationId": "MAS"
     },
     {
-      "id": "tpl_69dd509ab6c4ac1fedcc20be",
-      "source": "tpl",
-      "title": "Family Fibers ",
-      "description": "Join us on Saturday afternoon for our knitting and crochet family&nbsp;social. Bring your work in progress and enjoy the company of other knitters and crocheters. A great place to show off your work, get advice, swap pattern ideas or just relax alongside fellow fiber enthusiasts.&nbsp; Amateur lessons available.&nbsp; Free yarn,&nbsp;clothing patterns and fabric while supplies lasts.&nbsp; Drop-in Ages 6 & up. The program will take place in the Auditorium located in the basement. Elevator on sit",
-      "location": "Bendale",
-      "address": "1515 Danforth Road, Toronto",
-      "startDate": "2026-05-09 14:00",
-      "endDate": "2026-05-09 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Crafts & Hobbies"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69dd509ab6c4ac1fedcc20be",
-      "phone": "(416) 396-8910",
-      "isRecurring": false,
-      "locationId": "BD"
-    },
-    {
       "id": "tpl_69ed2064cdd2f7e31fe345d3",
       "source": "tpl",
       "title": "Dash Robotics for Kids",
@@ -26962,6 +26938,30 @@
       "phone": "(416) 396-3599",
       "isRecurring": false,
       "locationId": "SC"
+    },
+    {
+      "id": "tpl_69dd509ab6c4ac1fedcc20be",
+      "source": "tpl",
+      "title": "Family Fibers ",
+      "description": "Join us on Saturday afternoon for our knitting and crochet family&nbsp;social. Bring your work in progress and enjoy the company of other knitters and crocheters. A great place to show off your work, get advice, swap pattern ideas or just relax alongside fellow fiber enthusiasts.&nbsp; Amateur lessons available.&nbsp; Free yarn,&nbsp;clothing patterns and fabric while supplies lasts.&nbsp; Drop-in Ages 6 & up. The program will take place in the Auditorium located in the basement. Elevator on sit",
+      "location": "Bendale",
+      "address": "1515 Danforth Road, Toronto",
+      "startDate": "2026-05-09 14:00",
+      "endDate": "2026-05-09 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69dd509ab6c4ac1fedcc20be",
+      "phone": "(416) 396-8910",
+      "isRecurring": false,
+      "locationId": "BD"
     },
     {
       "id": "tpl_6999f6548d5e2d093360ae4e",
