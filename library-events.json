@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T11:09:32.020Z",
+  "lastUpdated": "2026-04-27T14:03:56.208Z",
   "totalEvents": 2217,
   "source": "Toronto Public Library",
   "events": [
@@ -22685,7 +22685,7 @@
         "Health & Wellness"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69a21806491b809c6f1d05d6",
       "phone": "(416) 396-3854",
@@ -26212,7 +26212,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69d801ffc1cf6f9a75844787",
       "phone": "(416) 396-8969",
@@ -27730,7 +27730,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69e38eceb1165a41a6600289",
       "phone": "(416) 396-3599",
