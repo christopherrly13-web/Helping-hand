@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-29T11:00:45.820Z",
-  "totalEvents": 2359,
+  "lastUpdated": "2026-04-29T14:07:59.849Z",
+  "totalEvents": 2360,
   "source": "Toronto Public Library",
   "events": [
     {
@@ -1687,6 +1687,30 @@
       "locationId": "JO"
     },
     {
+      "id": "tpl_69d7e1a5dcd22510c03c04c7",
+      "source": "tpl",
+      "title": "Sunday Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
+      "location": "Pape/Danforth",
+      "address": "701 Pape Avenue, Toronto",
+      "startDate": "2026-05-03 13:30",
+      "endDate": "2026-05-03 14:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04c7",
+      "phone": "(416) 393-7727",
+      "isRecurring": true,
+      "locationId": "PA"
+    },
+    {
       "id": "tpl_697bfaa91e64afd01e57cb1d",
       "source": "tpl",
       "title": "Family Storytime",
@@ -2098,30 +2122,6 @@
       "phone": "(416) 393-7610",
       "isRecurring": true,
       "locationId": "ND"
-    },
-    {
-      "id": "tpl_69d7e1a5dcd22510c03c04c7",
-      "source": "tpl",
-      "title": "Sunday Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
-      "location": "Pape/Danforth",
-      "address": "701 Pape Avenue, Toronto",
-      "startDate": "2026-05-03 14:30",
-      "endDate": "2026-05-03 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04c7",
-      "phone": "(416) 393-7727",
-      "isRecurring": true,
-      "locationId": "PA"
     },
     {
       "id": "tpl_69deb59e491b809c6f276add",
@@ -3757,6 +3757,30 @@
       "locationId": "JO"
     },
     {
+      "id": "tpl_69d7e1a5dcd22510c03c04c8",
+      "source": "tpl",
+      "title": "Sunday Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
+      "location": "Pape/Danforth",
+      "address": "701 Pape Avenue, Toronto",
+      "startDate": "2026-05-10 13:30",
+      "endDate": "2026-05-10 14:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04c8",
+      "phone": "(416) 393-7727",
+      "isRecurring": true,
+      "locationId": "PA"
+    },
+    {
       "id": "tpl_697bfaa91e64afd01e57cb1e",
       "source": "tpl",
       "title": "Family Storytime",
@@ -4170,30 +4194,6 @@
       "phone": "(416) 393-7610",
       "isRecurring": true,
       "locationId": "ND"
-    },
-    {
-      "id": "tpl_69d7e1a5dcd22510c03c04c8",
-      "source": "tpl",
-      "title": "Sunday Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
-      "location": "Pape/Danforth",
-      "address": "701 Pape Avenue, Toronto",
-      "startDate": "2026-05-10 14:30",
-      "endDate": "2026-05-10 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04c8",
-      "phone": "(416) 393-7727",
-      "isRecurring": true,
-      "locationId": "PA"
     },
     {
       "id": "tpl_6972c6006c126d0e4895b85d",
@@ -7711,6 +7711,30 @@
       "locationId": "JO"
     },
     {
+      "id": "tpl_69d7e1a5dcd22510c03c04c9",
+      "source": "tpl",
+      "title": "Sunday Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
+      "location": "Pape/Danforth",
+      "address": "701 Pape Avenue, Toronto",
+      "startDate": "2026-05-24 13:30",
+      "endDate": "2026-05-24 14:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04c9",
+      "phone": "(416) 393-7727",
+      "isRecurring": true,
+      "locationId": "PA"
+    },
+    {
       "id": "tpl_697bfaa91e64afd01e57cb20",
       "source": "tpl",
       "title": "Family Storytime",
@@ -8124,30 +8148,6 @@
       "phone": "(416) 393-7610",
       "isRecurring": true,
       "locationId": "ND"
-    },
-    {
-      "id": "tpl_69d7e1a5dcd22510c03c04c9",
-      "source": "tpl",
-      "title": "Sunday Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
-      "location": "Pape/Danforth",
-      "address": "701 Pape Avenue, Toronto",
-      "startDate": "2026-05-24 14:30",
-      "endDate": "2026-05-24 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04c9",
-      "phone": "(416) 393-7727",
-      "isRecurring": true,
-      "locationId": "PA"
     },
     {
       "id": "tpl_6972c6006c126d0e4895b85f",
@@ -9640,6 +9640,30 @@
       "locationId": "SJ"
     },
     {
+      "id": "tpl_697aaf01834cbb3dea2a0e65",
+      "source": "tpl",
+      "title": "Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Drop in.&nbsp; No registration required.",
+      "location": "New Toronto",
+      "address": "110 Eleventh Street, Toronto",
+      "startDate": "2026-05-31 14:00",
+      "endDate": "2026-05-31 14:30",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/697aaf01834cbb3dea2a0e65",
+      "phone": "(416) 394-5350",
+      "isRecurring": true,
+      "locationId": "NT"
+    },
+    {
       "id": "tpl_69ee4ae3b6c4ac1fedcefbdb",
       "source": "tpl",
       "title": "Sunday Crafternoon",
@@ -9785,30 +9809,6 @@
       "phone": "(416) 393-7610",
       "isRecurring": true,
       "locationId": "ND"
-    },
-    {
-      "id": "tpl_69d7e1a5dcd22510c03c04ca",
-      "source": "tpl",
-      "title": "Sunday Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
-      "location": "Pape/Danforth",
-      "address": "701 Pape Avenue, Toronto",
-      "startDate": "2026-05-31 14:30",
-      "endDate": "2026-05-31 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04ca",
-      "phone": "(416) 393-7727",
-      "isRecurring": true,
-      "locationId": "PA"
     },
     {
       "id": "tpl_69deb59e491b809c6f276ade",
@@ -11254,6 +11254,30 @@
       "locationId": "JO"
     },
     {
+      "id": "tpl_69d7e1a5dcd22510c03c04cb",
+      "source": "tpl",
+      "title": "Sunday Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
+      "location": "Pape/Danforth",
+      "address": "701 Pape Avenue, Toronto",
+      "startDate": "2026-06-07 13:30",
+      "endDate": "2026-06-07 14:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04cb",
+      "phone": "(416) 393-7727",
+      "isRecurring": true,
+      "locationId": "PA"
+    },
+    {
       "id": "tpl_697bfaa91e64afd01e57cb22",
       "source": "tpl",
       "title": "Family Storytime",
@@ -11472,30 +11496,6 @@
       "phone": "(416) 393-7610",
       "isRecurring": true,
       "locationId": "ND"
-    },
-    {
-      "id": "tpl_69d7e1a5dcd22510c03c04cb",
-      "source": "tpl",
-      "title": "Sunday Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
-      "location": "Pape/Danforth",
-      "address": "701 Pape Avenue, Toronto",
-      "startDate": "2026-06-07 14:30",
-      "endDate": "2026-06-07 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04cb",
-      "phone": "(416) 393-7727",
-      "isRecurring": true,
-      "locationId": "PA"
     },
     {
       "id": "tpl_69d83c01deee9abd8ee762c1",
@@ -12922,6 +12922,30 @@
       "locationId": "JO"
     },
     {
+      "id": "tpl_69d7e1a5dcd22510c03c04cc",
+      "source": "tpl",
+      "title": "Sunday Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
+      "location": "Pape/Danforth",
+      "address": "701 Pape Avenue, Toronto",
+      "startDate": "2026-06-14 13:30",
+      "endDate": "2026-06-14 14:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04cc",
+      "phone": "(416) 393-7727",
+      "isRecurring": true,
+      "locationId": "PA"
+    },
+    {
       "id": "tpl_697bfaa91e64afd01e57cb23",
       "source": "tpl",
       "title": "Family Storytime",
@@ -13188,30 +13212,6 @@
       "phone": "(416) 393-7610",
       "isRecurring": true,
       "locationId": "ND"
-    },
-    {
-      "id": "tpl_69d7e1a5dcd22510c03c04cc",
-      "source": "tpl",
-      "title": "Sunday Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
-      "location": "Pape/Danforth",
-      "address": "701 Pape Avenue, Toronto",
-      "startDate": "2026-06-14 14:30",
-      "endDate": "2026-06-14 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04cc",
-      "phone": "(416) 393-7727",
-      "isRecurring": true,
-      "locationId": "PA"
     },
     {
       "id": "tpl_69deb59e491b809c6f276adf",
@@ -14200,6 +14200,30 @@
       "locationId": "JO"
     },
     {
+      "id": "tpl_69d7e1a5dcd22510c03c04cd",
+      "source": "tpl",
+      "title": "Sunday Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
+      "location": "Pape/Danforth",
+      "address": "701 Pape Avenue, Toronto",
+      "startDate": "2026-06-21 13:30",
+      "endDate": "2026-06-21 14:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04cd",
+      "phone": "(416) 393-7727",
+      "isRecurring": true,
+      "locationId": "PA"
+    },
+    {
       "id": "tpl_697bfaa91e64afd01e57cb24",
       "source": "tpl",
       "title": "Family Storytime",
@@ -14393,30 +14417,6 @@
       "phone": "(416) 393-7610",
       "isRecurring": true,
       "locationId": "ND"
-    },
-    {
-      "id": "tpl_69d7e1a5dcd22510c03c04cd",
-      "source": "tpl",
-      "title": "Sunday Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
-      "location": "Pape/Danforth",
-      "address": "701 Pape Avenue, Toronto",
-      "startDate": "2026-06-21 14:30",
-      "endDate": "2026-06-21 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04cd",
-      "phone": "(416) 393-7727",
-      "isRecurring": true,
-      "locationId": "PA"
     },
     {
       "id": "tpl_69d83c01deee9abd8ee762c3",
@@ -14947,6 +14947,30 @@
       "locationId": "SWS"
     },
     {
+      "id": "tpl_69f2043e2866a5b4884b8e6b",
+      "source": "tpl",
+      "title": "Fay and Fluffy's Storytime",
+      "description": "Join Fay & Fluffy (stars of Family Jr's The Fabulous Show with Fay & Fluffy) as they share some of their favourite books and stories. Fay & Fluffy's main goal is to share the message of inclusivity wherever they go, cheering on all the kids who see them to be proud of who they are, loving themselves and being kind to one another. For children ages 5 and under, accompanied by parents or caregivers. Drop-in. No registration required, but space is limited.",
+      "location": "Fairview",
+      "address": "35 Fairview Mall Drive, Toronto",
+      "startDate": "2026-06-27 10:30",
+      "endDate": "2026-06-27 11:30",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69f2043e2866a5b4884b8e6b",
+      "phone": "(416) 395-5750",
+      "isRecurring": false,
+      "locationId": "FV"
+    },
+    {
       "id": "tpl_69ced34a24bd39b0b5e63bcf",
       "source": "tpl",
       "title": "Family Time",
@@ -15120,7 +15144,7 @@
       "id": "tpl_69f0f5b8fb87a3c2e2ac67e2",
       "source": "tpl",
       "title": "TD Summer Reading Club - NFB Film Selection- Drift & Discover",
-      "description": "This selection from the National Film Board of Canada (NFB) of 7 short films celebrates the wonders of water - from the depths of the sea to winding riverbeds and island shores. Playful and thoughtful, these works are crafter to engage young audiences through animation, storytelling and imagination.&nbsp; Drift & Discover (42 minutes) 1. Get a Grip&nbsp; 2. The Log Driver's Waltz 3. The Treasure of the Grotoceans 4. Eaude 5. MacPherson 6. The Mountain of SGaana 7. The Force of Water",
+      "description": "This selection from the National Film Board of Canada (NFB) of 7 short films celebrates the wonders of water - from the depths of the sea to winding riverbeds and island shores. Playful and thoughtful, these works are crafter to engage young audiences through animation, storytelling and imagination.&nbsp; Drift & Discover (42 minutes) 1. Get a Grip&nbsp; 2. The Log Driver's Waltz 3. The Treasure of the Grotoceans 4. Eaude 5. MacPherson 6. The Mountain of SGaana 7. The Force of Water This is a dr",
       "location": "Hillcrest",
       "address": "5801 Leslie Street, Toronto",
       "startDate": "2026-06-27 14:00",
@@ -15187,6 +15211,30 @@
       "phone": "(416) 393-7715",
       "isRecurring": true,
       "locationId": "JO"
+    },
+    {
+      "id": "tpl_69d7e1a5dcd22510c03c04ce",
+      "source": "tpl",
+      "title": "Sunday Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
+      "location": "Pape/Danforth",
+      "address": "701 Pape Avenue, Toronto",
+      "startDate": "2026-06-28 13:30",
+      "endDate": "2026-06-28 14:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04ce",
+      "phone": "(416) 393-7727",
+      "isRecurring": true,
+      "locationId": "PA"
     },
     {
       "id": "tpl_697bfaa91e64afd01e57cb25",
@@ -15407,30 +15455,6 @@
       "locationId": "ND"
     },
     {
-      "id": "tpl_69d7e1a5dcd22510c03c04ce",
-      "source": "tpl",
-      "title": "Sunday Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
-      "location": "Pape/Danforth",
-      "address": "701 Pape Avenue, Toronto",
-      "startDate": "2026-06-28 14:30",
-      "endDate": "2026-06-28 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04ce",
-      "phone": "(416) 393-7727",
-      "isRecurring": true,
-      "locationId": "PA"
-    },
-    {
       "id": "tpl_69d83c01deee9abd8ee762c4",
       "source": "tpl",
       "title": "Play & Learn Program in Spanish",
@@ -15647,28 +15671,28 @@
       "locationId": "JS"
     },
     {
-      "id": "tpl_69f1187dbd9a3c316a560922",
+      "id": "tpl_69cd52594dacf581ff85cb88",
       "source": "tpl",
-      "title": "Family Time",
-      "description": "Join us for stories, songs and rhymes in this program for children ages 5 and under and their parents or caregivers. Family Time runs from 10am &nbsp; to &nbsp;10:30am .&nbsp;",
-      "location": "Hillcrest",
-      "address": "5801 Leslie Street, Toronto",
-      "startDate": "2026-06-30 10:00",
-      "endDate": "2026-06-30 10:30",
+      "title": "The Dr. Bonkers Show",
+      "description": "Join Dr. Bonkers as the colourful entertainer brings joy to kids and families! With music and instruments, Dr. Bonkers and his best puppet friend, Larry, teach lessons about friendship, kindness, and imagination. Through vibrant sing-alongs and fun antics, Dr. Bonkers offers an unforgettable experience filled with laughter, music, and dancing! Ages 0-5.&nbsp;Drop-in.",
+      "location": "Richview",
+      "address": "1806 Islington Avenue, Toronto",
+      "startDate": "2026-07-10 10:30",
+      "endDate": "2026-07-10 11:15",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Reading Programs & Storytimes"
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69f1187dbd9a3c316a560922",
-      "phone": "(416) 395-5830",
-      "isRecurring": true,
-      "locationId": "HIL"
+      "url": "https://tpl.bibliocommons.com/events/69cd52594dacf581ff85cb88",
+      "phone": "(416) 394-5120",
+      "isRecurring": false,
+      "locationId": "RI"
     },
     {
       "id": "tpl_69604f2230cbd582eff48689",
@@ -16153,6 +16177,30 @@
       "locationId": "JO"
     },
     {
+      "id": "tpl_69d7e1a5dcd22510c03c04d0",
+      "source": "tpl",
+      "title": "Sunday Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
+      "location": "Pape/Danforth",
+      "address": "701 Pape Avenue, Toronto",
+      "startDate": "2026-07-12 13:30",
+      "endDate": "2026-07-12 14:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04d0",
+      "phone": "(416) 393-7727",
+      "isRecurring": true,
+      "locationId": "PA"
+    },
+    {
       "id": "tpl_69eff2d4bd5c392c7646fbd0",
       "source": "tpl",
       "title": "Sunday Family Time",
@@ -16249,30 +16297,6 @@
       "phone": "(416) 393-7610",
       "isRecurring": true,
       "locationId": "ND"
-    },
-    {
-      "id": "tpl_69d7e1a5dcd22510c03c04d0",
-      "source": "tpl",
-      "title": "Sunday Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
-      "location": "Pape/Danforth",
-      "address": "701 Pape Avenue, Toronto",
-      "startDate": "2026-07-12 14:30",
-      "endDate": "2026-07-12 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04d0",
-      "phone": "(416) 393-7727",
-      "isRecurring": true,
-      "locationId": "PA"
     },
     {
       "id": "tpl_69deb59e491b809c6f276ae0",
@@ -16853,28 +16877,53 @@
       "locationId": "MA"
     },
     {
-      "id": "tpl_695814a1491b809c6f107dd4",
+      "id": "tpl_69ee4ae3b6c4ac1fedcefbdf",
       "source": "tpl",
-      "title": "Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Family Time runs from 10:30&nbsp;to 11:30. Drop in.&nbsp;No registration required, but space is limited.",
-      "location": "Fairview",
-      "address": "35 Fairview Mall Drive, Toronto",
-      "startDate": "2026-07-18 10:30",
-      "endDate": "2026-07-18 11:30",
+      "title": "Sunday Crafternoon",
+      "description": "Make a craft you can take home. Ages 4 and up.",
+      "location": "Alderwood",
+      "address": "2 Orianna Drive, Toronto",
+      "startDate": "2026-07-26 14:00",
+      "endDate": "2026-07-26 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Reading Programs & Storytimes"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/695814a1491b809c6f107dd4",
-      "phone": "(416) 395-5750",
+      "url": "https://tpl.bibliocommons.com/events/69ee4ae3b6c4ac1fedcefbdf",
+      "phone": "(416) 394-5310",
       "isRecurring": true,
-      "locationId": "FV"
+      "locationId": "AD"
+    },
+    {
+      "id": "tpl_69e162a4129f127438390767",
+      "source": "tpl",
+      "title": "Sunday Fun STEAM",
+      "description": "Join us for a fun STEAM program on Sunday afternoon! Programs cycle between Robotics, Snap Circuits,.. For Children ages 5 and up. Drop-in: No registration required.",
+      "location": "Brookbanks",
+      "address": "210 Brookbanks Drive, Toronto",
+      "startDate": "2026-07-26 14:00",
+      "endDate": "2026-07-26 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Coding & Robotics",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69e162a4129f127438390767",
+      "phone": "(416) 395-5480",
+      "isRecurring": true,
+      "locationId": "BB"
     },
     {
       "id": "tpl_69ebbc3666c3387a9d07cf24",
@@ -16925,30 +16974,6 @@
       "phone": "(416) 393-7610",
       "isRecurring": true,
       "locationId": "ND"
-    },
-    {
-      "id": "tpl_69d7e1a5dcd22510c03c04d2",
-      "source": "tpl",
-      "title": "Sunday Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
-      "location": "Pape/Danforth",
-      "address": "701 Pape Avenue, Toronto",
-      "startDate": "2026-07-26 14:30",
-      "endDate": "2026-07-26 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04d2",
-      "phone": "(416) 393-7727",
-      "isRecurring": true,
-      "locationId": "PA"
     },
     {
       "id": "tpl_69deb59e491b809c6f276ae1",
@@ -18060,14 +18085,14 @@
       "locationId": "FV"
     },
     {
-      "id": "tpl_69695b828b29ea2800c9ba2f",
+      "id": "tpl_69f1187dbd9a3c316a560929",
       "source": "tpl",
-      "title": "Family Time ",
-      "description": "Join us for a fun storytime with stories, songs and rhymes followed by a craft or activity. For children ages 5 and under with their parents or caregivers.",
-      "location": "Scarborough Civic Centre",
-      "address": "156 Borough Drive, Toronto",
-      "startDate": "2026-08-08 10:30",
-      "endDate": "2026-08-08 11:30",
+      "title": "Family Time",
+      "description": "Join us for stories, songs and rhymes in this program for children ages 5 and under and their parents or caregivers. Family Time runs from 10am &nbsp; to &nbsp;10:30am .&nbsp;",
+      "location": "Hillcrest",
+      "address": "5801 Leslie Street, Toronto",
+      "startDate": "2026-08-18 10:00",
+      "endDate": "2026-08-18 10:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -18078,10 +18103,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69695b828b29ea2800c9ba2f",
-      "phone": "(416) 396-3599",
+      "url": "https://tpl.bibliocommons.com/events/69f1187dbd9a3c316a560929",
+      "phone": "(416) 395-5830",
       "isRecurring": true,
-      "locationId": "SC"
+      "locationId": "HIL"
     },
     {
       "id": "tpl_69c6d129b48451fc3c0baab2",
@@ -18641,6 +18666,30 @@
       "locationId": "JO"
     },
     {
+      "id": "tpl_69d7e1a5dcd22510c03c04d5",
+      "source": "tpl",
+      "title": "Sunday Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
+      "location": "Pape/Danforth",
+      "address": "701 Pape Avenue, Toronto",
+      "startDate": "2026-08-23 13:30",
+      "endDate": "2026-08-23 14:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04d5",
+      "phone": "(416) 393-7727",
+      "isRecurring": true,
+      "locationId": "PA"
+    },
+    {
       "id": "tpl_69ee4ae3b6c4ac1fedcefbe1",
       "source": "tpl",
       "title": "Sunday Crafternoon",
@@ -18738,30 +18787,6 @@
       "phone": "(416) 393-7610",
       "isRecurring": true,
       "locationId": "ND"
-    },
-    {
-      "id": "tpl_69d7e1a5dcd22510c03c04d5",
-      "source": "tpl",
-      "title": "Sunday Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
-      "location": "Pape/Danforth",
-      "address": "701 Pape Avenue, Toronto",
-      "startDate": "2026-08-23 14:30",
-      "endDate": "2026-08-23 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69d7e1a5dcd22510c03c04d5",
-      "phone": "(416) 393-7727",
-      "isRecurring": true,
-      "locationId": "PA"
     },
     {
       "id": "tpl_69ecea0a4dacf581ff8b17ec",
@@ -19270,28 +19295,29 @@
       "locationId": "LO"
     },
     {
-      "id": "tpl_696aba094a9fd98b7f780dec",
+      "id": "tpl_69ee4730b6c4ac1fedcefb0b",
       "source": "tpl",
-      "title": "Sunday Crafternoon",
-      "description": "Join us for Sunday crafts. Different activity each week. Sundays 12-4:30 pm. Drop-in.",
-      "location": "Jones",
-      "address": "118 Jones Avenue, Toronto",
-      "startDate": "2026-08-30 12:00",
-      "endDate": "2026-08-30 16:30",
+      "title": "Sunday Tech Time",
+      "description": "Explore the world of circuitry and robots. Test out Snap Circuits, Dash robots, or Spheros. Ages 5 and up.",
+      "location": "Alderwood",
+      "address": "2 Orianna Drive, Toronto",
+      "startDate": "2026-09-13 14:00",
+      "endDate": "2026-09-13 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Crafts & Hobbies"
+        "Coding & Robotics",
+        "Science & Engineering"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/696aba094a9fd98b7f780dec",
-      "phone": "(416) 393-7715",
+      "url": "https://tpl.bibliocommons.com/events/69ee4730b6c4ac1fedcefb0b",
+      "phone": "(416) 394-5310",
       "isRecurring": true,
-      "locationId": "JO"
+      "locationId": "AD"
     },
     {
       "id": "tpl_69e162a4129f12743839076c",
@@ -20480,28 +20506,28 @@
       "locationId": "MI"
     },
     {
-      "id": "tpl_696ab9958b29ea2800c9ebb4",
+      "id": "tpl_69822edbb0595799c09a7c5a",
       "source": "tpl",
-      "title": "Crafturday",
-      "description": "Join us for a day of fun and crafts. Partake in a new and engaging craft every Saturday from 9:30am - 4:30pm. Drop-in and self-serve. For pre-school and school-aged children and their caregivers. If your child lives with a disability, and requires an accessibility accommodation to participate in this program, please contact Accessibility Services at accessibleservices@tpl.ca or phone 416-393-7099. Please contact us at least three weeks in advance.",
-      "location": "Jones",
-      "address": "118 Jones Avenue, Toronto",
-      "startDate": "2026-09-26 09:30",
-      "endDate": "2026-09-26 16:30",
+      "title": "Baby Time",
+      "description": "Bouncing and tickling rhymes, stories, and songs for babies from birth to 18 months with their parents or caregivers.",
+      "location": "Beaches",
+      "address": "2161 Queen Street East, Toronto",
+      "startDate": "2026-10-08 10:30",
+      "endDate": "2026-10-08 11:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Crafts & Hobbies"
+        "Reading Programs & Storytimes"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/696ab9958b29ea2800c9ebb4",
-      "phone": "(416) 393-7715",
+      "url": "https://tpl.bibliocommons.com/events/69822edbb0595799c09a7c5a",
+      "phone": "(416) 393-7703",
       "isRecurring": true,
-      "locationId": "JO"
+      "locationId": "BE"
     },
     {
       "id": "tpl_695c0eed0c4aad14d373ceb2",
@@ -21689,14 +21715,14 @@
       "locationId": "WP"
     },
     {
-      "id": "tpl_696b9f04b0595799c096e5ce",
+      "id": "tpl_696a997c6724c63d00ec9498",
       "source": "tpl",
-      "title": "Family Time ",
-      "description": "Join us for stories, songs and rhymes in this program for children ages 5 years and under, and their parents or caregivers. Family Time runs from 10:30 to 11:00 am. Stay and Play from 11:00 to 11:30 am Drop-in. No registration required.",
-      "location": "Long Branch",
-      "address": "3500 Lake Shore Boulevard West, Toronto",
-      "startDate": "2026-10-23 10:30",
-      "endDate": "2026-10-23 11:30",
+      "title": "Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp; Drop-in, registration is not required. This is a year-round program.",
+      "location": "Main Street",
+      "address": "137 Main Street, Toronto",
+      "startDate": "2026-11-07 10:30",
+      "endDate": "2026-11-07 11:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -21707,10 +21733,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/696b9f04b0595799c096e5ce",
-      "phone": "(416) 394-5320",
+      "url": "https://tpl.bibliocommons.com/events/696a997c6724c63d00ec9498",
+      "phone": "(416) 393-7700",
       "isRecurring": true,
-      "locationId": "LB"
+      "locationId": "MA"
     },
     {
       "id": "tpl_695814a1491b809c6f107de4",
@@ -22902,28 +22928,28 @@
       "locationId": "MI"
     },
     {
-      "id": "tpl_696ab9958b29ea2800c9ebbc",
+      "id": "tpl_695c0eed0c4aad14d373ceb6",
       "source": "tpl",
-      "title": "Crafturday",
-      "description": "Join us for a day of fun and crafts. Partake in a new and engaging craft every Saturday from 9:30am - 4:30pm. Drop-in and self-serve. For pre-school and school-aged children and their caregivers. If your child lives with a disability, and requires an accessibility accommodation to participate in this program, please contact Accessibility Services at accessibleservices@tpl.ca or phone 416-393-7099. Please contact us at least three weeks in advance.",
-      "location": "Jones",
-      "address": "118 Jones Avenue, Toronto",
-      "startDate": "2026-11-21 09:30",
-      "endDate": "2026-11-21 16:30",
+      "title": "Baby and Toddler Story Time",
+      "description": "Join us for bouncing rhymes, songs and stories in this program for babies, birth to 3 years, and their parents or caregivers. Baby and Toddler Story&nbsp;Time runs from 10:00 to 10:30. Children, parents and caregivers are invited to Stay and Play, from 10:30 to 11:00.&nbsp;",
+      "location": "Eglinton Square",
+      "address": "1 Eglinton Square, Unit 126, Toronto",
+      "startDate": "2026-12-04 10:00",
+      "endDate": "2026-12-04 11:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Crafts & Hobbies"
+        "Reading Programs & Storytimes"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/696ab9958b29ea2800c9ebbc",
-      "phone": "(416) 393-7715",
+      "url": "https://tpl.bibliocommons.com/events/695c0eed0c4aad14d373ceb6",
+      "phone": "(416) 396-8920",
       "isRecurring": true,
-      "locationId": "JO"
+      "locationId": "ES"
     },
     {
       "id": "tpl_69612fb7992fc18a86dc8275",
@@ -24113,30 +24139,6 @@
       "phone": "(416) 393-7715",
       "isRecurring": true,
       "locationId": "JO"
-    },
-    {
-      "id": "tpl_695c0eed0c4aad14d373ceb8",
-      "source": "tpl",
-      "title": "Baby and Toddler Story Time",
-      "description": "Join us for bouncing rhymes, songs and stories in this program for babies, birth to 3 years, and their parents or caregivers. Baby and Toddler Story&nbsp;Time runs from 10:00 to 10:30. Children, parents and caregivers are invited to Stay and Play, from 10:30 to 11:00.&nbsp;",
-      "location": "Eglinton Square",
-      "address": "1 Eglinton Square, Unit 126, Toronto",
-      "startDate": "2026-12-18 10:00",
-      "endDate": "2026-12-18 11:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/695c0eed0c4aad14d373ceb8",
-      "phone": "(416) 396-8920",
-      "isRecurring": true,
-      "locationId": "ES"
     },
     {
       "id": "tpl_698cfed31e64afd01e5acb6d",
@@ -53901,6 +53903,30 @@
       "locationId": "FV"
     },
     {
+      "id": "tpl_69f208e4deee9abd8ee95205",
+      "source": "tpl",
+      "title": "Keep Calm & Carry Yarn Crafting Circle",
+      "description": "Come craft with us! TRL is hosting a once a month crafting circle where you can create and chat. Whether its crochet, knitting, embroidery or sewing; connect with fellow craftspeople as you work on your project. All skill levels are welcome. *Note* We do supply yarn and crochet hooks/knitting needles for those that need them during the program. If you'd like to donate any knit or crocheted clothing items please bring them to the Digital Innovation Hub on the 1st Floor, right now we're looking fo",
+      "location": "Toronto Reference Library",
+      "address": "789 Yonge Street, Toronto",
+      "startDate": "2026-06-15 18:00",
+      "endDate": "2026-06-15 19:30",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Crafts & Hobbies"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/69f208e4deee9abd8ee95205",
+      "phone": "(416) 393-7007",
+      "isRecurring": false,
+      "locationId": "TRL"
+    },
+    {
       "id": "tpl_694aeed81e64afd01e5088da",
       "source": "tpl",
       "title": "Game On! ",
@@ -54603,28 +54629,29 @@
       "locationId": "GW"
     },
     {
-      "id": "tpl_69e69cc02866a5b48849c93a",
+      "id": "tpl_69739fb31e64afd01e5636a5",
       "source": "tpl",
-      "title": "Youth Hub: Chalk Art",
-      "description": "Summer is here! Design chalk art on our sidewalk with your friends.&nbsp;If it rains, we will move indoors and use mini blackboards so that the fun can continue. All materials will be provided. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "Don Mills",
-      "address": "888 Lawrence Avenue East, Toronto",
-      "startDate": "2026-06-19 16:00",
-      "endDate": "2026-06-19 17:30",
+      "title": "Chess Club",
+      "description": "All skill levels are welcome! Chess sets are provided.",
+      "location": "Eatonville",
+      "address": "430 Burnhampthorpe Road, Toronto",
+      "startDate": "2026-06-30 18:00",
+      "endDate": "2026-06-30 19:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Crafts & Hobbies"
+        "Crafts & Hobbies",
+        "Games & Sports"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69e69cc02866a5b48849c93a",
-      "phone": "(416) 395-5710",
-      "isRecurring": false,
-      "locationId": "DM"
+      "url": "https://tpl.bibliocommons.com/events/69739fb31e64afd01e5636a5",
+      "phone": "(416) 394-5270",
+      "isRecurring": true,
+      "locationId": "EA"
     },
     {
       "id": "tpl_69d67ed9f29b90618efdbc8a",
@@ -55805,28 +55832,28 @@
       "locationId": "GE"
     },
     {
-      "id": "tpl_69711b91c967cb4120833869",
+      "id": "tpl_69cc4934ad384e40edb809d4",
       "source": "tpl",
-      "title": "Youth Hub: Mindful Mondays",
-      "description": "Every Monday, enjoy a series of stress-relieving mindfulness activities, crafts, and games to help ease anxiety and give you a moment of Zen. Enjoy mindful colouring sheets, rainbow scratch art, mindfulness card decks, gratitude journals, and more. All materials provided.&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by ",
-      "location": "Eatonville",
-      "address": "430 Burnhampthorpe Road, Toronto",
-      "startDate": "2026-07-27 16:00",
-      "endDate": "2026-07-27 18:00",
+      "title": "Chess Club",
+      "description": "Drop in for a casual game of chess in a welcoming environment. Improve your chess skills or learn how to play. Sets are provided. All ages.&nbsp;Drop-in.",
+      "location": "Richview",
+      "address": "1806 Islington Avenue, Toronto",
+      "startDate": "2026-08-27 16:00",
+      "endDate": "2026-08-27 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Health & Wellness"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69711b91c967cb4120833869",
-      "phone": "(416) 394-5270",
+      "url": "https://tpl.bibliocommons.com/events/69cc4934ad384e40edb809d4",
+      "phone": "(416) 394-5120",
       "isRecurring": true,
-      "locationId": "EA"
+      "locationId": "RI"
     },
     {
       "id": "tpl_6971201c91e4576f847de1e8",
@@ -57005,25 +57032,25 @@
       "locationId": "CED"
     },
     {
-      "id": "tpl_69711b92c967cb4120833874",
+      "id": "tpl_69711e66992fc18a86deb26f",
       "source": "tpl",
-      "title": "Youth Hub: Mindful Mondays",
-      "description": "Every Monday, enjoy a series of stress-relieving mindfulness activities, crafts, and games to help ease anxiety and give you a moment of Zen. Enjoy mindful colouring sheets, rainbow scratch art, mindfulness card decks, gratitude journals, and more. All materials provided.&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by ",
+      "title": "Youth Hub: Study Hall Wednesdays",
+      "description": "On Wednesdays, the Eatonville Youth Hub becomes a quiet space for teens to study, work on projects, and request homework help and resume help from staff. Bring your homework and enjoy a snack in a space that is just for teens. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find",
       "location": "Eatonville",
       "address": "430 Burnhampthorpe Road, Toronto",
-      "startDate": "2026-10-12 16:00",
-      "endDate": "2026-10-12 18:00",
+      "startDate": "2026-12-02 16:00",
+      "endDate": "2026-12-02 18:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Health & Wellness"
+        "Civic & Community Engagement"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69711b92c967cb4120833874",
+      "url": "https://tpl.bibliocommons.com/events/69711e66992fc18a86deb26f",
       "phone": "(416) 394-5270",
       "isRecurring": true,
       "locationId": "EA"
