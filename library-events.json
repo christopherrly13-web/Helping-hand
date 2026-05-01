@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T10:26:54.383Z",
+  "lastUpdated": "2026-05-01T13:27:25.673Z",
   "totalEvents": 2367,
   "source": "Toronto Public Library",
   "events": [
@@ -45418,7 +45418,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69cda05d81b67dfe32b07e25",
       "phone": "(416) 393-7727",
@@ -53017,6 +53017,31 @@
       "locationId": "RD"
     },
     {
+      "id": "tpl_69d116a41e64afd01e66e698",
+      "source": "tpl",
+      "title": "Discovery Club: Dungeons and Dragons",
+      "description": "Learn the basics of the popular fantasy role-playing game – create your character and learn about game play including dice rolls, scoring, and imagination! Meet your Dungeon Master and participate in a weekly fantasy campaign as your created character. Will you complete your quest or get slayed by a vicious monster?&nbsp; This program is for ages&nbsp;10 to 14. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Librari",
+      "location": "Don Mills",
+      "address": "888 Lawrence Avenue East, Toronto",
+      "startDate": "2026-06-09 16:00",
+      "endDate": "2026-06-09 17:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Culture, Arts & Entertainment",
+        "Games & Sports"
+      ],
+      "isDropIn": false,
+      "isFull": true,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/69d116a41e64afd01e66e698",
+      "phone": "(416) 395-5710",
+      "isRecurring": true,
+      "locationId": "DM"
+    },
+    {
       "id": "tpl_69739fb31e64afd01e5636a2",
       "source": "tpl",
       "title": "Chess Club",
@@ -54207,28 +54232,28 @@
       "locationId": "YW"
     },
     {
-      "id": "tpl_6967cef8c719ac98c336e38c",
+      "id": "tpl_69f0ef7fc1cf6f9a758868d8",
       "source": "tpl",
-      "title": "Youth Hub: Video Games",
-      "description": "Drop in to the Youth Hub every Tuesday and Thursday to play video games. Play with friends, by yourself, or maybe someone new.&nbsp; Tuesdays will be Nintendo Switch days and Thursdays will be PS4 days.&nbsp; *NEW* Starting at 3:30 pm, teens can sign up for a time slot to use the consoles. If there is no demand, gaming will be awarded on a first come first serve basis.&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, wher",
-      "location": "S. Walter Stewart",
-      "address": "170 Memorial Park Avenue, Toronto",
-      "startDate": "2026-06-16 15:45",
-      "endDate": "2026-06-16 19:00",
+      "title": "Youth Hub: Paint Night",
+      "description": "Join us in the Youth Hub for a paint night! Experiment with acrylic paint, watercolours, or both! This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "Maria A. Shchuka",
+      "address": "1745 Eglinton Avenue West, Toronto",
+      "startDate": "2026-06-23 15:30",
+      "endDate": "2026-06-23 18:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Games & Sports"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6967cef8c719ac98c336e38c",
-      "phone": "(416) 396-3975",
-      "isRecurring": true,
-      "locationId": "SWS"
+      "url": "https://tpl.bibliocommons.com/events/69f0ef7fc1cf6f9a758868d8",
+      "phone": "(416) 394-1000",
+      "isRecurring": false,
+      "locationId": "MAS"
     },
     {
       "id": "tpl_6967cef8c719ac98c336e38e",
@@ -55412,28 +55437,28 @@
       "locationId": "DM"
     },
     {
-      "id": "tpl_6967cef8c719ac98c336e391",
+      "id": "tpl_69711e66992fc18a86deb25d",
       "source": "tpl",
-      "title": "Youth Hub: Video Games",
-      "description": "Drop in to the Youth Hub every Tuesday and Thursday to play video games. Play with friends, by yourself, or maybe someone new.&nbsp; Tuesdays will be Nintendo Switch days and Thursdays will be PS4 days.&nbsp; *NEW* Starting at 3:30 pm, teens can sign up for a time slot to use the consoles. If there is no demand, gaming will be awarded on a first come first serve basis.&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, wher",
-      "location": "S. Walter Stewart",
-      "address": "170 Memorial Park Avenue, Toronto",
-      "startDate": "2026-07-02 15:45",
-      "endDate": "2026-07-02 19:00",
+      "title": "Youth Hub: Study Hall Wednesdays",
+      "description": "On Wednesdays, the Eatonville Youth Hub becomes a quiet space for teens to study, work on projects, and request homework help and resume help from staff. Bring your homework and enjoy a snack in a space that is just for teens. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find",
+      "location": "Eatonville",
+      "address": "430 Burnhampthorpe Road, Toronto",
+      "startDate": "2026-07-29 16:00",
+      "endDate": "2026-07-29 18:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Games & Sports"
+        "Civic & Community Engagement"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6967cef8c719ac98c336e391",
-      "phone": "(416) 396-3975",
+      "url": "https://tpl.bibliocommons.com/events/69711e66992fc18a86deb25d",
+      "phone": "(416) 394-5270",
       "isRecurring": true,
-      "locationId": "SWS"
+      "locationId": "EA"
     },
     {
       "id": "tpl_69deaedce2a2952aed0ec8ab",
@@ -56613,25 +56638,25 @@
       "locationId": "CED"
     },
     {
-      "id": "tpl_69711b92c967cb412083386e",
+      "id": "tpl_69711e66992fc18a86deb268",
       "source": "tpl",
-      "title": "Youth Hub: Mindful Mondays",
-      "description": "Every Monday, enjoy a series of stress-relieving mindfulness activities, crafts, and games to help ease anxiety and give you a moment of Zen. Enjoy mindful colouring sheets, rainbow scratch art, mindfulness card decks, gratitude journals, and more. All materials provided.&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by ",
+      "title": "Youth Hub: Study Hall Wednesdays",
+      "description": "On Wednesdays, the Eatonville Youth Hub becomes a quiet space for teens to study, work on projects, and request homework help and resume help from staff. Bring your homework and enjoy a snack in a space that is just for teens. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find",
       "location": "Eatonville",
       "address": "430 Burnhampthorpe Road, Toronto",
-      "startDate": "2026-08-31 16:00",
-      "endDate": "2026-08-31 18:00",
+      "startDate": "2026-10-14 16:00",
+      "endDate": "2026-10-14 18:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Health & Wellness"
+        "Civic & Community Engagement"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69711b92c967cb412083386e",
+      "url": "https://tpl.bibliocommons.com/events/69711e66992fc18a86deb268",
       "phone": "(416) 394-5270",
       "isRecurring": true,
       "locationId": "EA"
@@ -57811,30 +57836,6 @@
       "phone": "(416) 394-5270",
       "isRecurring": true,
       "locationId": "EA"
-    },
-    {
-      "id": "tpl_695d9cdd1f01fb76cec4f9fa",
-      "source": "tpl",
-      "title": "Knitting and Crochet Circle",
-      "description": "Spend an afternoon at our weekly drop-in knitting and crochet circle! Bring your work in progress and enjoy visiting with other knitters and crocheters. A great place to show off your work, get advice, swap ideas, or just relax and visit with fellow fiber enthusiasts. Beginners&nbsp;and all ages welcome!&nbsp;A limited supply of materials will be available.",
-      "location": "Don Mills",
-      "address": "888 Lawrence Avenue East, Toronto",
-      "startDate": "2026-12-03 13:00",
-      "endDate": "2026-12-03 14:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Crafts & Hobbies"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/695d9cdd1f01fb76cec4f9fa",
-      "phone": "(416) 395-5710",
-      "isRecurring": true,
-      "locationId": "DM"
     }
   ]
 }
