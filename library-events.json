@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T11:10:39.691Z",
+  "lastUpdated": "2026-05-06T14:24:19.799Z",
   "totalEvents": 2319,
   "source": "Toronto Public Library",
   "events": [
@@ -556,30 +556,6 @@
       "locationId": "ND"
     },
     {
-      "id": "tpl_69a613cf491b809c6f1da91c",
-      "source": "tpl",
-      "title": "Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp; Family Time runs from 11:00 to 11:30 am",
-      "location": "Forest Hill",
-      "address": "700 Eglinton Avenue West, Toronto",
-      "startDate": "2026-05-06 11:00",
-      "endDate": "2026-05-06 11:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69a613cf491b809c6f1da91c",
-      "phone": "(416) 393-7706",
-      "isRecurring": true,
-      "locationId": "FH"
-    },
-    {
       "id": "tpl_69aae1682866a5b488403d40",
       "source": "tpl",
       "title": "Family Time",
@@ -626,6 +602,30 @@
       "phone": "(416) 393-6240",
       "isRecurring": true,
       "locationId": "FO"
+    },
+    {
+      "id": "tpl_69a613cf491b809c6f1da91c",
+      "source": "tpl",
+      "title": "Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp; Family Time runs from 11:00 to 11:30 am",
+      "location": "Forest Hill",
+      "address": "700 Eglinton Avenue West, Toronto",
+      "startDate": "2026-05-06 11:00",
+      "endDate": "2026-05-06 11:30",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69a613cf491b809c6f1da91c",
+      "phone": "(416) 393-7706",
+      "isRecurring": true,
+      "locationId": "FH"
     },
     {
       "id": "tpl_69681b0dc967cb412081e6b1",
@@ -25045,7 +25045,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/695ed5e71e64afd01e5313ba",
       "phone": "(416) 395-5830",
@@ -27099,7 +27099,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/695ed5e71e64afd01e5313bb",
       "phone": "(416) 395-5830",
@@ -28952,7 +28952,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/695ed5e71e64afd01e5313bc",
       "phone": "(416) 395-5830",
@@ -32650,7 +32650,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/695ed5e71e64afd01e5313be",
       "phone": "(416) 395-5830",
