@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-23T21:59:22.575Z",
-  "totalEvents": 2505,
+  "lastUpdated": "2026-05-24T03:59:01.569Z",
+  "totalEvents": 2506,
   "source": "Toronto Public Library",
   "events": [
     {
@@ -25177,7 +25177,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69ec0368c1cf6f9a75879905",
       "phone": "(416) 395-5657",
@@ -40128,6 +40128,30 @@
       "locationId": "RI"
     },
     {
+      "id": "tpl_6a10a320caf93436005daa78",
+      "source": "tpl",
+      "title": "Let's Makedo Box Buddies!",
+      "description": "Have fun and collaborate to imagine, design, and construct box buddies using cardboard and supplied Makedo materials. Learn about chain reactions and test out your design. Join our deconstruction zone as we take apart our creations in this sustainability conscious program.&nbsp;For kids ages 6-12. Information Collection Notice:&nbsp; The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information w",
+      "location": "Parliament Street",
+      "address": "269 Gerrard Street East, Toronto",
+      "startDate": "2026-08-07 14:00",
+      "endDate": "2026-08-07 15:30",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Science & Engineering"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a10a320caf93436005daa78",
+      "phone": "(416) 393-7663",
+      "isRecurring": false,
+      "locationId": "PL"
+    },
+    {
       "id": "tpl_69c42a5abf48d63c596cc23d",
       "source": "tpl",
       "title": "Game on! Board Game Playtime",
@@ -40419,30 +40443,28 @@
       "locationId": "WP"
     },
     {
-      "id": "tpl_69f26a14fb87a3c2e2acb126",
+      "id": "tpl_69d825bf4dacf581ff87bc15",
       "source": "tpl",
-      "title": "Sunday SNAP Circuits ",
-      "description": "Come join us and explore electricity and circuitry. Learn about circuits and gain hands on experience with SNAP Circuits! Feel the spark when you build your own circuit! For children ages 6-12.&nbsp;Drop in.",
-      "location": "Annette Street",
-      "address": "145 Annette Street, Toronto",
-      "startDate": "2026-08-09 14:00",
-      "endDate": "2026-08-09 15:00",
+      "title": "STEM Programming For Children",
+      "description": "Come and enjoy after school robotics and snap circuit programs!",
+      "location": "Forest Hill",
+      "address": "700 Eglinton Avenue West, Toronto",
+      "startDate": "2026-08-13 15:45",
+      "endDate": "2026-08-13 16:45",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Coding & Robotics",
-        "Crafts & Hobbies",
-        "Science & Engineering"
+        "Coding & Robotics"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69f26a14fb87a3c2e2acb126",
-      "phone": "(416) 393-7692",
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/69d825bf4dacf581ff87bc15",
+      "phone": "(416) 393-7706",
       "isRecurring": true,
-      "locationId": "AN"
+      "locationId": "FH"
     },
     {
       "id": "tpl_69cc4934ad384e40edb809d2",
@@ -41644,28 +41666,28 @@
       "locationId": "EB"
     },
     {
-      "id": "tpl_6a021aaf43b41b3d0065ba2a",
+      "id": "tpl_69ecea0a4dacf581ff8b17ec",
       "source": "tpl",
-      "title": "Story Time & Craft",
-      "description": "Join us for a fun and engaging&nbsp;storytime followed by a hands-on craft activity perfect for&nbsp;children ages 3-6 with their parents or caregivers. Drop-in, no registration required.",
-      "location": "Cliffcrest",
-      "address": "3017 Kingston Road, Toronto",
-      "startDate": "2026-08-19 14:00",
-      "endDate": "2026-08-19 15:00",
+      "title": "Sundays at the Movies",
+      "description": "Join us for an afternoon at the movies – enjoy some of your favorite films at the library! Drop-in program, no registration required.",
+      "location": "Bridlewood",
+      "address": "2900 Warden Avenue, Toronto",
+      "startDate": "2026-08-23 14:30",
+      "endDate": "2026-08-23 16:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Reading Programs & Storytimes"
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a021aaf43b41b3d0065ba2a",
-      "phone": "(416) 396-8916",
+      "url": "https://tpl.bibliocommons.com/events/69ecea0a4dacf581ff8b17ec",
+      "phone": "(416) 396-8960",
       "isRecurring": true,
-      "locationId": "CC"
+      "locationId": "BRW"
     },
     {
       "id": "tpl_69fcce968e677a28001a82b6",
@@ -42870,29 +42892,28 @@
       "locationId": "TRL"
     },
     {
-      "id": "tpl_6a10bf6f43b41b3d00687272",
+      "id": "tpl_696aba094a9fd98b7f780def",
       "source": "tpl",
-      "title": "Summer Carnival",
-      "description": "Celebrate the close of Summer Wonder with a carnival filled with games, activities, and lots of fun! Ages 4-12.&nbsp;Drop-in.",
-      "location": "Richview",
-      "address": "1806 Islington Avenue, Toronto",
-      "startDate": "2026-09-02 14:00",
-      "endDate": "2026-09-02 15:00",
+      "title": "Sunday Crafternoon",
+      "description": "Join us for Sunday crafts. Different activity each week. Sundays 12-4:30 pm. Drop-in.",
+      "location": "Jones",
+      "address": "118 Jones Avenue, Toronto",
+      "startDate": "2026-09-20 12:00",
+      "endDate": "2026-09-20 16:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Crafts & Hobbies",
-        "Games & Sports"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a10bf6f43b41b3d00687272",
-      "phone": "(416) 394-5120",
-      "isRecurring": false,
-      "locationId": "RI"
+      "url": "https://tpl.bibliocommons.com/events/696aba094a9fd98b7f780def",
+      "phone": "(416) 393-7715",
+      "isRecurring": true,
+      "locationId": "JO"
     },
     {
       "id": "tpl_6a0f6d2b8e677a28001d9dd7",
@@ -44114,28 +44135,29 @@
       "locationId": "DM"
     },
     {
-      "id": "tpl_69d825bf4dacf581ff87bc1c",
+      "id": "tpl_69e162a4129f127438390770",
       "source": "tpl",
-      "title": "STEM Programming For Children",
-      "description": "Come and enjoy after school robotics and snap circuit programs!",
-      "location": "Forest Hill",
-      "address": "700 Eglinton Avenue West, Toronto",
-      "startDate": "2026-10-01 15:45",
-      "endDate": "2026-10-01 16:45",
+      "title": "Sunday Fun STEAM",
+      "description": "Join us for a fun STEAM program on Sunday afternoon! Programs cycle between Robotics, Snap Circuits,.. For Children ages 5 and up. Drop-in: No registration required.",
+      "location": "Brookbanks",
+      "address": "210 Brookbanks Drive, Toronto",
+      "startDate": "2026-10-18 14:00",
+      "endDate": "2026-10-18 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Coding & Robotics"
+        "Coding & Robotics",
+        "Culture, Arts & Entertainment"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/69d825bf4dacf581ff87bc1c",
-      "phone": "(416) 393-7706",
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69e162a4129f127438390770",
+      "phone": "(416) 395-5480",
       "isRecurring": true,
-      "locationId": "FH"
+      "locationId": "BB"
     },
     {
       "id": "tpl_69c4419bb2f5bfe57aba3bc7",
@@ -45358,14 +45380,14 @@
       "locationId": "AP"
     },
     {
-      "id": "tpl_69ee4ae3b6c4ac1fedcefbe5",
+      "id": "tpl_69ee4ae3b6c4ac1fedcefbe6",
       "source": "tpl",
       "title": "Sunday Crafternoon",
       "description": "Make a craft you can take home. Ages 4 and up.",
       "location": "Alderwood",
       "address": "2 Orianna Drive, Toronto",
-      "startDate": "2026-11-01 14:00",
-      "endDate": "2026-11-01 15:00",
+      "startDate": "2026-11-15 14:00",
+      "endDate": "2026-11-15 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
@@ -45376,7 +45398,7 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69ee4ae3b6c4ac1fedcefbe5",
+      "url": "https://tpl.bibliocommons.com/events/69ee4ae3b6c4ac1fedcefbe6",
       "phone": "(416) 394-5310",
       "isRecurring": true,
       "locationId": "AD"
@@ -46600,29 +46622,28 @@
       "locationId": "TA"
     },
     {
-      "id": "tpl_69a861ca2866a5b4883fd3c5",
+      "id": "tpl_69eb9b4fb6c4ac1fedce8656",
       "source": "tpl",
-      "title": "SUNDAY FUN-DAY",
-      "description": "Looking for something FUN to do on Sundays!&nbsp;Come to our hands-on and collaborative learning program series;&nbsp;Lego Challenge, Robotics, Snap Circuits, and&nbsp;Board Games. For ages 6-12!",
-      "location": "Woodview Park",
-      "address": "16 Bradstock Road, Toronto",
-      "startDate": "2026-11-29 14:00",
-      "endDate": "2026-11-29 15:00",
+      "title": "Curious Chaos Club",
+      "description": "Step into The Curious Chaos Club- where creativity gets a little messy (in the best way!) Kids ages 6- 12 can build, create and let the chaos begin!",
+      "location": "Amesbury Park",
+      "address": "1565 Lawrence Avenue West, Toronto",
+      "startDate": "2026-12-13 14:00",
+      "endDate": "2026-12-13 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Crafts & Hobbies",
-        "Science & Engineering"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69a861ca2866a5b4883fd3c5",
-      "phone": "(416) 395-5960",
+      "url": "https://tpl.bibliocommons.com/events/69eb9b4fb6c4ac1fedce8656",
+      "phone": "(416) 395-5420",
       "isRecurring": true,
-      "locationId": "WP"
+      "locationId": "AP"
     },
     {
       "id": "tpl_69ee4ae3b6c4ac1fedcefbe8",
@@ -48446,7 +48467,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69f27439fb87a3c2e2acb713",
       "phone": "(416) 395-5750",
@@ -49290,7 +49311,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69ec0368c1cf6f9a75879905",
       "phone": "(416) 395-5657",
