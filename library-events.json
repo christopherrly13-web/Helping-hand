@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T10:44:29.917Z",
+  "lastUpdated": "2026-05-24T13:43:40.442Z",
   "totalEvents": 2506,
   "source": "Toronto Public Library",
   "events": [
@@ -40104,30 +40104,6 @@
       "locationId": "AG"
     },
     {
-      "id": "tpl_6a10b865fab4ff0f649afc88",
-      "source": "tpl",
-      "title": "Dog Man Party",
-      "description": "Join us for a supa-awesome Dog Man celebration with games, crafts, and lots of laughs. Ages 6-10.&nbsp;Drop-in.",
-      "location": "Richview",
-      "address": "1806 Islington Avenue, Toronto",
-      "startDate": "2026-08-07 14:00",
-      "endDate": "2026-08-07 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Crafts & Hobbies"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a10b865fab4ff0f649afc88",
-      "phone": "(416) 394-5120",
-      "isRecurring": false,
-      "locationId": "RI"
-    },
-    {
       "id": "tpl_6a10a320caf93436005daa78",
       "source": "tpl",
       "title": "Let's Makedo Box Buddies!",
@@ -40150,6 +40126,30 @@
       "phone": "(416) 393-7663",
       "isRecurring": false,
       "locationId": "PL"
+    },
+    {
+      "id": "tpl_6a10b865fab4ff0f649afc88",
+      "source": "tpl",
+      "title": "Dog Man Party",
+      "description": "Join us for a supa-awesome Dog Man celebration with games, crafts, and lots of laughs. Ages 6-10.&nbsp;Drop-in.",
+      "location": "Richview",
+      "address": "1806 Islington Avenue, Toronto",
+      "startDate": "2026-08-07 14:00",
+      "endDate": "2026-08-07 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a10b865fab4ff0f649afc88",
+      "phone": "(416) 394-5120",
+      "isRecurring": false,
+      "locationId": "RI"
     },
     {
       "id": "tpl_69c42a5abf48d63c596cc23d",
