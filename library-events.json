@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T04:11:14.437Z",
+  "lastUpdated": "2026-05-31T08:52:40.458Z",
   "totalEvents": 2600,
   "source": "Toronto Public Library",
   "events": [
@@ -53627,7 +53627,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a0f052dfab4ff0f649a9eda",
       "phone": "(416) 395-5577",
