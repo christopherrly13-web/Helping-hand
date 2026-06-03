@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T04:28:17.841Z",
+  "lastUpdated": "2026-06-03T11:07:22.126Z",
   "totalEvents": 2600,
   "source": "Toronto Public Library",
   "events": [
@@ -6198,7 +6198,7 @@
         "Nature & the Environment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69f6148bfb87a3c2e2ad5a34",
       "phone": "(416) 395-5710",
@@ -31280,7 +31280,7 @@
         "Nature & the Environment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69f6148bfb87a3c2e2ad5a34",
       "phone": "(416) 395-5710",
