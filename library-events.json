@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T10:57:03.218Z",
+  "lastUpdated": "2026-06-06T13:52:15.228Z",
   "totalEvents": 2559,
   "source": "Toronto Public Library",
   "events": [
@@ -36677,30 +36677,6 @@
       "locationId": "ND"
     },
     {
-      "id": "tpl_6a22e0302ea730c17ab49150",
-      "source": "tpl",
-      "title": "Science Series : Magic Milk",
-      "description": "Come explore the science behind milk changing colours with just simple household ingredients! Space is limited. Registration is required. This program is for school age children 7-12. “Food products used in this program include [milk, cream, coconut milk] . Food may contain or may have come into contact with common allergens.” Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and ",
-      "location": "Ethennonnhawahstihnen'",
-      "address": "100 Ethennonnhawahstihnen' Lane, Toronto",
-      "startDate": "2026-07-17 14:00",
-      "endDate": "2026-07-17 14:45",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Science & Engineering"
-      ],
-      "isDropIn": false,
-      "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a22e0302ea730c17ab49150",
-      "phone": "(416) 395-5460",
-      "isRecurring": false,
-      "locationId": "EN"
-    },
-    {
       "id": "tpl_6a20bd6c7b73be6a1b1a7b1c",
       "source": "tpl",
       "title": "Summer Movie Fridays",
@@ -36723,6 +36699,30 @@
       "phone": "(416) 396-8964",
       "isRecurring": true,
       "locationId": "GHP"
+    },
+    {
+      "id": "tpl_6a22e0302ea730c17ab49150",
+      "source": "tpl",
+      "title": "Science Series : Magic Milk",
+      "description": "Come explore the science behind milk changing colours with just simple household ingredients! Space is limited. Registration is required. This program is for school age children 7-12. “Food products used in this program include [milk, cream, coconut milk] . Food may contain or may have come into contact with common allergens.” Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and ",
+      "location": "Ethennonnhawahstihnen'",
+      "address": "100 Ethennonnhawahstihnen' Lane, Toronto",
+      "startDate": "2026-07-17 14:00",
+      "endDate": "2026-07-17 14:45",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Science & Engineering"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a22e0302ea730c17ab49150",
+      "phone": "(416) 395-5460",
+      "isRecurring": false,
+      "locationId": "EN"
     },
     {
       "id": "tpl_6a14a5cef6bd012f006a37b8",
@@ -37042,30 +37042,6 @@
       "locationId": "CC"
     },
     {
-      "id": "tpl_6a086ee28e677a28001c5c19",
-      "source": "tpl",
-      "title": "Creating With Cops",
-      "description": "Meet your 53 Division Neighbourhood Community Officers while making some wonderful creations to take home!&nbsp; Free snacks and drinks are provided after the craft; ingredients are listed on the labels.&nbsp; This program is presented by Toronto Police Services and is for children ages 6 and up. Upcoming projects include: Saturday, June 20 - Scandinavian Flowers Saturday, July 18 - Tie-Dye T-Shirts Saturday, August 15 - Model Magic Clay Scene Saturday, September 19 - Painting Tote Bags *Craft p",
-      "location": "Yorkville",
-      "address": "22 Yorkville Avenue, Toronto",
-      "startDate": "2026-07-18 14:00",
-      "endDate": "2026-07-18 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Crafts & Hobbies"
-      ],
-      "isDropIn": false,
-      "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a086ee28e677a28001c5c19",
-      "phone": "(416) 393-7660",
-      "isRecurring": true,
-      "locationId": "YO"
-    },
-    {
       "id": "tpl_6a2337f88ea300e2631b74c3",
       "source": "tpl",
       "title": "Crafternoon (Drop-in)",
@@ -37089,6 +37065,30 @@
       "phone": "(416) 393-7723",
       "isRecurring": true,
       "locationId": "QS"
+    },
+    {
+      "id": "tpl_6a086ee28e677a28001c5c19",
+      "source": "tpl",
+      "title": "Creating With Cops",
+      "description": "Meet your 53 Division Neighbourhood Community Officers while making some wonderful creations to take home!&nbsp; Free snacks and drinks are provided after the craft; ingredients are listed on the labels.&nbsp; This program is presented by Toronto Police Services and is for children ages 6 and up. Upcoming projects include: Saturday, June 20 - Scandinavian Flowers Saturday, July 18 - Tie-Dye T-Shirts Saturday, August 15 - Model Magic Clay Scene Saturday, September 19 - Painting Tote Bags *Craft p",
+      "location": "Yorkville",
+      "address": "22 Yorkville Avenue, Toronto",
+      "startDate": "2026-07-18 14:00",
+      "endDate": "2026-07-18 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a086ee28e677a28001c5c19",
+      "phone": "(416) 393-7660",
+      "isRecurring": true,
+      "locationId": "YO"
     },
     {
       "id": "tpl_6a1b2439caf93436005f6a07",
@@ -38751,30 +38751,6 @@
       "locationId": "CC"
     },
     {
-      "id": "tpl_6a231d2590cc4e3a790bdfb0",
-      "source": "tpl",
-      "title": "Science Series : Ice cream in a bag",
-      "description": "Let's explore the science behind freezing and making ice cream in a bag! This program is for school age children 7-12. Space is limited Registration is required. “Food products used in this program include [milk, cream, coconut milk, vanilla extract, salt] . Food may contain or may have come into contact with common allergens.” Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and",
-      "location": "Ethennonnhawahstihnen'",
-      "address": "100 Ethennonnhawahstihnen' Lane, Toronto",
-      "startDate": "2026-07-24 14:00",
-      "endDate": "2026-07-24 14:45",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Science & Engineering"
-      ],
-      "isDropIn": false,
-      "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a231d2590cc4e3a790bdfb0",
-      "phone": "(416) 395-5460",
-      "isRecurring": false,
-      "locationId": "EN"
-    },
-    {
       "id": "tpl_6a20bd6c7b73be6a1b1a7b1d",
       "source": "tpl",
       "title": "Summer Movie Fridays",
@@ -38797,6 +38773,30 @@
       "phone": "(416) 396-8964",
       "isRecurring": true,
       "locationId": "GHP"
+    },
+    {
+      "id": "tpl_6a231d2590cc4e3a790bdfb0",
+      "source": "tpl",
+      "title": "Science Series : Ice cream in a bag",
+      "description": "Let's explore the science behind freezing and making ice cream in a bag! This program is for school age children 7-12. Space is limited Registration is required. “Food products used in this program include [milk, cream, coconut milk, vanilla extract, salt] . Food may contain or may have come into contact with common allergens.” Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and",
+      "location": "Ethennonnhawahstihnen'",
+      "address": "100 Ethennonnhawahstihnen' Lane, Toronto",
+      "startDate": "2026-07-24 14:00",
+      "endDate": "2026-07-24 14:45",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Science & Engineering"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a231d2590cc4e3a790bdfb0",
+      "phone": "(416) 395-5460",
+      "isRecurring": false,
+      "locationId": "EN"
     },
     {
       "id": "tpl_6a14a6ce703c33630029e2bb",
@@ -39506,6 +39506,30 @@
       "locationId": "EN"
     },
     {
+      "id": "tpl_6a0f4e4cc6a1dc3d00d535de",
+      "source": "tpl",
+      "title": "Wonder Workshop: Out of this World Challenge ",
+      "description": "Have you ever imagined what it would be like to travel to outer space? Join us to learn about space and the red planet then design your own spacecraft. Brainstorm creative ways to solve problems you might face on your journey.&nbsp;Plus, enter a prize draw for a chance to win an awesome book!&nbsp; Five walk in tickets will be available 30mins before the event starts.",
+      "location": "Queen/Saulter",
+      "address": "765 Queen Street East, Toronto",
+      "startDate": "2026-07-29 14:00",
+      "endDate": "2026-07-29 15:30",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Science & Engineering"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a0f4e4cc6a1dc3d00d535de",
+      "phone": "(416) 393-7723",
+      "isRecurring": false,
+      "locationId": "QS"
+    },
+    {
       "id": "tpl_6a209f7bc7d3cd58005de09f",
       "source": "tpl",
       "title": "Bentastic Fantastic Magic Show",
@@ -39530,30 +39554,6 @@
       "phone": "(416) 394-1008",
       "isRecurring": false,
       "locationId": "MD"
-    },
-    {
-      "id": "tpl_6a0f4e4cc6a1dc3d00d535de",
-      "source": "tpl",
-      "title": "Wonder Workshop: Out of this World Challenge ",
-      "description": "Have you ever imagined what it would be like to travel to outer space? Join us to learn about space and the red planet then design your own spacecraft. Brainstorm creative ways to solve problems you might face on your journey.&nbsp;Plus, enter a prize draw for a chance to win an awesome book!&nbsp; Five walk in tickets will be available 30mins before the event starts.",
-      "location": "Queen/Saulter",
-      "address": "765 Queen Street East, Toronto",
-      "startDate": "2026-07-29 14:00",
-      "endDate": "2026-07-29 15:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Science & Engineering"
-      ],
-      "isDropIn": false,
-      "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a0f4e4cc6a1dc3d00d535de",
-      "phone": "(416) 393-7723",
-      "isRecurring": false,
-      "locationId": "QS"
     },
     {
       "id": "tpl_69a098a32866a5b4883e9174",
@@ -39919,30 +39919,6 @@
       "locationId": "MA"
     },
     {
-      "id": "tpl_6a205aae52c88111723cc253",
-      "source": "tpl",
-      "title": "The Magic of Science with Gambit the Magician",
-      "description": "For ages 6 & up. Registration opens June 15.&nbsp; All participants attending, both adults and children must be registered.&nbsp;&nbsp; Gambit the Magician leads a magical performance to pique the interest of families towards science! This fun and entertaining presentation reinforces STEM programs with discussions and magic tricks from each major branch of science. Discover the value of scientific education while also learning about the exciting benefits of science towards any career path! Infor",
-      "location": "Don Mills",
-      "address": "888 Lawrence Avenue East, Toronto",
-      "startDate": "2026-07-30 14:00",
-      "endDate": "2026-07-30 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": false,
-      "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a205aae52c88111723cc253",
-      "phone": "(416) 395-5710",
-      "isRecurring": false,
-      "locationId": "DM"
-    },
-    {
       "id": "tpl_6a2337f88ea300e2631b74c6",
       "source": "tpl",
       "title": "Crafternoon (Drop-in)",
@@ -39966,6 +39942,30 @@
       "phone": "(416) 393-7723",
       "isRecurring": true,
       "locationId": "QS"
+    },
+    {
+      "id": "tpl_6a205aae52c88111723cc253",
+      "source": "tpl",
+      "title": "The Magic of Science with Gambit the Magician",
+      "description": "For ages 6 & up. Registration opens June 15.&nbsp; All participants attending, both adults and children must be registered.&nbsp;&nbsp; Gambit the Magician leads a magical performance to pique the interest of families towards science! This fun and entertaining presentation reinforces STEM programs with discussions and magic tricks from each major branch of science. Discover the value of scientific education while also learning about the exciting benefits of science towards any career path! Infor",
+      "location": "Don Mills",
+      "address": "888 Lawrence Avenue East, Toronto",
+      "startDate": "2026-07-30 14:00",
+      "endDate": "2026-07-30 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a205aae52c88111723cc253",
+      "phone": "(416) 395-5710",
+      "isRecurring": false,
+      "locationId": "DM"
     },
     {
       "id": "tpl_6a0e1b84c7d3cd58005a81f6",
@@ -49184,7 +49184,7 @@
         "Nature & the Environment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69d6dcae129f12743837691b",
       "phone": "(416) 395-5440",
