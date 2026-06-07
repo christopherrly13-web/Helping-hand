@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T04:16:50.268Z",
+  "lastUpdated": "2026-06-07T09:20:17.279Z",
   "totalEvents": 2549,
   "source": "Toronto Public Library",
   "events": [
@@ -2005,30 +2005,6 @@
       "locationId": "DO"
     },
     {
-      "id": "tpl_6a0499fbc6a1dc3d00d3780c",
-      "source": "tpl",
-      "title": "Baby Time",
-      "description": "Join us for bouncing rhymes, songs and stories in this program for babies, birth to 18 months, and their parents or caregivers. Baby&nbsp;Time runs from 10:30am &nbsp; to &nbsp;11:00am .",
-      "location": "Port Union",
-      "address": "5450 Lawrence Avenue East, Toronto",
-      "startDate": "2026-06-12 10:30",
-      "endDate": "2026-06-12 11:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a0499fbc6a1dc3d00d3780c",
-      "phone": "(416) 396-8885",
-      "isRecurring": true,
-      "locationId": "PU"
-    },
-    {
       "id": "tpl_6a1627c48ea300e26318baef",
       "source": "tpl",
       "title": "Storytime & Playtime",
@@ -2123,6 +2099,30 @@
       "phone": "(416) 396-3835",
       "isRecurring": true,
       "locationId": "LE"
+    },
+    {
+      "id": "tpl_6a0499fbc6a1dc3d00d3780c",
+      "source": "tpl",
+      "title": "Baby Time *Cancelled*",
+      "description": "Due to unforeseen circumstances this instance of baby time has been cancelled. Future dates will be held as planned.",
+      "location": "Port Union",
+      "address": "5450 Lawrence Avenue East, Toronto",
+      "startDate": "2026-06-12 10:30",
+      "endDate": "2026-06-12 11:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a0499fbc6a1dc3d00d3780c",
+      "phone": "(416) 396-8885",
+      "isRecurring": true,
+      "locationId": "PU"
     },
     {
       "id": "tpl_69604f2230cbd582eff48685",
@@ -4232,30 +4232,6 @@
       "locationId": "DO"
     },
     {
-      "id": "tpl_6a0499fbc6a1dc3d00d3780d",
-      "source": "tpl",
-      "title": "Baby Time",
-      "description": "Join us for bouncing rhymes, songs and stories in this program for babies, birth to 18 months, and their parents or caregivers. Baby&nbsp;Time runs from 10:30am &nbsp; to &nbsp;11:00am .",
-      "location": "Port Union",
-      "address": "5450 Lawrence Avenue East, Toronto",
-      "startDate": "2026-06-19 10:30",
-      "endDate": "2026-06-19 11:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a0499fbc6a1dc3d00d3780d",
-      "phone": "(416) 396-8885",
-      "isRecurring": true,
-      "locationId": "PU"
-    },
-    {
       "id": "tpl_6a1627c48ea300e26318baf0",
       "source": "tpl",
       "title": "Storytime & Playtime",
@@ -4350,6 +4326,30 @@
       "phone": "(416) 396-3835",
       "isRecurring": true,
       "locationId": "LE"
+    },
+    {
+      "id": "tpl_6a0499fbc6a1dc3d00d3780d",
+      "source": "tpl",
+      "title": "Baby Time",
+      "description": "Join us for bouncing rhymes, songs and stories in this program for babies, birth to 18 months, and their parents or caregivers. Baby&nbsp;Time runs from 10:30am &nbsp; to &nbsp;11:00am .",
+      "location": "Port Union",
+      "address": "5450 Lawrence Avenue East, Toronto",
+      "startDate": "2026-06-19 10:30",
+      "endDate": "2026-06-19 11:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a0499fbc6a1dc3d00d3780d",
+      "phone": "(416) 396-8885",
+      "isRecurring": true,
+      "locationId": "PU"
     },
     {
       "id": "tpl_69604f2230cbd582eff48686",
@@ -6768,30 +6768,6 @@
       "locationId": "WY"
     },
     {
-      "id": "tpl_6a0499fbc6a1dc3d00d3780e",
-      "source": "tpl",
-      "title": "Baby Time",
-      "description": "Join us for bouncing rhymes, songs and stories in this program for babies, birth to 18 months, and their parents or caregivers. Baby&nbsp;Time runs from 10:30am &nbsp; to &nbsp;11:00am .",
-      "location": "Port Union",
-      "address": "5450 Lawrence Avenue East, Toronto",
-      "startDate": "2026-06-26 10:30",
-      "endDate": "2026-06-26 11:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a0499fbc6a1dc3d00d3780e",
-      "phone": "(416) 396-8885",
-      "isRecurring": true,
-      "locationId": "PU"
-    },
-    {
       "id": "tpl_69aeef8d4dacf581ff80a18d",
       "source": "tpl",
       "title": "Baby Time",
@@ -6886,6 +6862,30 @@
       "phone": "(416) 396-3835",
       "isRecurring": true,
       "locationId": "LE"
+    },
+    {
+      "id": "tpl_6a0499fbc6a1dc3d00d3780e",
+      "source": "tpl",
+      "title": "Baby Time",
+      "description": "Join us for bouncing rhymes, songs and stories in this program for babies, birth to 18 months, and their parents or caregivers. Baby&nbsp;Time runs from 10:30am &nbsp; to &nbsp;11:00am .",
+      "location": "Port Union",
+      "address": "5450 Lawrence Avenue East, Toronto",
+      "startDate": "2026-06-26 10:30",
+      "endDate": "2026-06-26 11:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a0499fbc6a1dc3d00d3780e",
+      "phone": "(416) 396-8885",
+      "isRecurring": true,
+      "locationId": "PU"
     },
     {
       "id": "tpl_69604f2230cbd582eff48687",
@@ -50672,7 +50672,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69d6a557c1cf6f9a758407d0",
       "phone": "(416) 396-8885",
