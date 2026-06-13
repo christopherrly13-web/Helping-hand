@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T09:22:26.365Z",
+  "lastUpdated": "2026-06-13T14:07:47.699Z",
   "totalEvents": 2650,
   "source": "Toronto Public Library",
   "events": [
@@ -31455,7 +31455,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a1b30f9703c3363002b1e99",
       "phone": "(416) 396-8979",
@@ -48993,7 +48993,7 @@
         "Games & Sports"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69f61523fca21471b7f0fdd8",
       "phone": "(416) 393-7007",
@@ -61779,30 +61779,6 @@
       "locationId": "AG"
     },
     {
-      "id": "tpl_6a2ae6427f943b520051f59d",
-      "source": "tpl",
-      "title": "K-pop Photocard Craft ",
-      "description": "Like K-pop? Ready for the&nbsp;BTS Toronto concert? Join us to decorate toploaders&nbsp;for your K-pop photocards!&nbsp; Led by a Korean staff member, this program is a fun chance&nbsp;to&nbsp;meet other fans, trade photocards, and ask Korean-related questions (e.g., How do I write&nbsp;my K-pop bias' name in Korean?) Please note that participants will need to bring their own K-pop photocards. Materials such as&nbsp;toploaders, card sleeves, and stickers will be provided. Drop in.",
-      "location": "Riverdale",
-      "address": "370 Broadview Avenue, Toronto",
-      "startDate": "2026-08-19 18:00",
-      "endDate": "2026-08-19 19:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Crafts & Hobbies"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a2ae6427f943b520051f59d",
-      "phone": "(416) 393-7720",
-      "isRecurring": false,
-      "locationId": "RD"
-    },
-    {
       "id": "tpl_695d9cdd1f01fb76cec4f9eb",
       "source": "tpl",
       "title": "Knitting and Crochet Circle",
@@ -61851,14 +61827,14 @@
       "locationId": "PL"
     },
     {
-      "id": "tpl_69711b92c967cb412083386f",
+      "id": "tpl_6a1605f98e677a28001e9e27",
       "source": "tpl",
-      "title": "Youth Hub: Mindful Mondays",
-      "description": "Every Monday, enjoy a series of stress-relieving mindfulness activities, crafts, and games to help ease anxiety and give you a moment of Zen. Enjoy mindful colouring sheets, rainbow scratch art, mindfulness card decks, gratitude journals, and more. All materials provided.&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by ",
-      "location": "Eatonville",
-      "address": "430 Burnhampthorpe Road, Toronto",
-      "startDate": "2026-09-07 16:00",
-      "endDate": "2026-09-07 18:00",
+      "title": "Wellness Summer Workshop",
+      "description": "The Canadian Training Institute is thrilled to present a two-part series that will introduce participants to wellness practices that can be utilized in their everyday lives to enhance their state of well-being. Topics will include: Stress management and the art of de-stressing Self-awareness Mindfulness and Meditation Volunteer hours can be provided to participants upon completion of the camp.",
+      "location": "Parkdale",
+      "address": "1303 Queen Street West, Toronto",
+      "startDate": "2026-08-20 15:30",
+      "endDate": "2026-08-21 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
@@ -61866,13 +61842,13 @@
       "categories": [
         "Health & Wellness"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69711b92c967cb412083386f",
-      "phone": "(416) 394-5270",
-      "isRecurring": true,
-      "locationId": "EA"
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a1605f98e677a28001e9e27",
+      "phone": "(416) 393-7686",
+      "isRecurring": false,
+      "locationId": "PK"
     },
     {
       "id": "tpl_69711d50992fc18a86deb19e",
@@ -63060,28 +63036,31 @@
       "locationId": "TA"
     },
     {
-      "id": "tpl_69711b92c967cb4120833878",
+      "id": "tpl_6a0f4adf8e677a28001d8c7f",
       "source": "tpl",
-      "title": "Youth Hub: Mindful Mondays",
-      "description": "Every Monday, enjoy a series of stress-relieving mindfulness activities, crafts, and games to help ease anxiety and give you a moment of Zen. Enjoy mindful colouring sheets, rainbow scratch art, mindfulness card decks, gratitude journals, and more. All materials provided.&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by ",
-      "location": "Eatonville",
-      "address": "430 Burnhampthorpe Road, Toronto",
-      "startDate": "2026-11-09 16:00",
-      "endDate": "2026-11-09 18:00",
+      "title": "Sunday Family Club",
+      "description": "Enjoy and have fun on Sunday afternoons at Guildwood Library! Will you colour your favourite characters, do a craft or show off your building skills with LEGO and KEVA? Maybe it will be Snap Circuits or Board Games? Every Sunday come in for a surprise!&nbsp;",
+      "location": "Guildwood",
+      "address": "123 Guildwood Parkway, Toronto",
+      "startDate": "2026-10-04 14:00",
+      "endDate": "2026-10-04 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Health & Wellness"
+        "Coding & Robotics",
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment",
+        "Games & Sports"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69711b92c967cb4120833878",
-      "phone": "(416) 394-5270",
+      "url": "https://tpl.bibliocommons.com/events/6a0f4adf8e677a28001d8c7f",
+      "phone": "(416) 396-8872",
       "isRecurring": true,
-      "locationId": "EA"
+      "locationId": "GW"
     },
     {
       "id": "tpl_69711d50992fc18a86deb1a7",
@@ -64273,6 +64252,30 @@
       "phone": "(416) 394-5270",
       "isRecurring": true,
       "locationId": "EA"
+    },
+    {
+      "id": "tpl_695d9cdd1f01fb76cec4f9fc",
+      "source": "tpl",
+      "title": "Knitting and Crochet Circle",
+      "description": "Spend an afternoon at our weekly drop-in knitting and crochet circle! Bring your work in progress and enjoy visiting with other knitters and crocheters. A great place to show off your work, get advice, swap ideas, or just relax and visit with fellow fiber enthusiasts. Beginners&nbsp;and all ages welcome!&nbsp;A limited supply of materials will be available.",
+      "location": "Don Mills",
+      "address": "888 Lawrence Avenue East, Toronto",
+      "startDate": "2026-12-17 13:00",
+      "endDate": "2026-12-17 14:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Crafts & Hobbies"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/695d9cdd1f01fb76cec4f9fc",
+      "phone": "(416) 395-5710",
+      "isRecurring": true,
+      "locationId": "DM"
     }
   ]
 }
