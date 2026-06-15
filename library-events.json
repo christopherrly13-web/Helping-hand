@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T04:48:44.184Z",
+  "lastUpdated": "2026-06-15T12:23:36.290Z",
   "totalEvents": 2650,
   "source": "Toronto Public Library",
   "events": [
@@ -25065,7 +25065,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a02247b43b41b3d0065be2c",
       "phone": "(416) 396-8969",
@@ -58609,7 +58609,7 @@
         "Computer Basics & Office Software"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/696d1b2b76261f28006526ba",
       "phone": "(416) 396-8850",
