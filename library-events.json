@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T04:02:30.337Z",
+  "lastUpdated": "2026-06-26T09:34:48.894Z",
   "totalEvents": 2608,
   "source": "Toronto Public Library",
   "events": [
@@ -28907,7 +28907,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69fbd21243b41b3d0064aae0",
       "phone": "(416) 396-8920",
@@ -46976,7 +46976,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bbc",
       "phone": "(416) 395-5750",
@@ -57042,7 +57042,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bbb",
       "phone": "(416) 395-5750",
@@ -60814,7 +60814,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bbc",
       "phone": "(416) 395-5750",
@@ -61902,7 +61902,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bbe",
       "phone": "(416) 395-5750",
@@ -63165,7 +63165,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bc1",
       "phone": "(416) 395-5750",
@@ -63189,7 +63189,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bc2",
       "phone": "(416) 395-5750",
@@ -63213,7 +63213,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bc3",
       "phone": "(416) 395-5750",
