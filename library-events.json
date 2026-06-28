@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T13:55:05.522Z",
+  "lastUpdated": "2026-06-28T16:15:50.793Z",
   "totalEvents": 2602,
   "source": "Toronto Public Library",
   "events": [
@@ -1088,7 +1088,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a0e4a9343b41b3d0067fdab",
       "phone": "(416) 396-3854",
@@ -33879,7 +33879,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a03aa02c7d3cd580058d030",
       "phone": "(416) 393-7737",
