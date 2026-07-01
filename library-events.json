@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T14:44:28.416Z",
+  "lastUpdated": "2026-07-01T17:20:54.238Z",
   "totalEvents": 2600,
   "source": "Toronto Public Library",
   "events": [
@@ -197,30 +197,6 @@
       "phone": "(416) 396-8964",
       "isRecurring": false,
       "locationId": "GHP"
-    },
-    {
-      "id": "tpl_6a04d542f56bd86e00af7c70",
-      "source": "tpl",
-      "title": "EarlyON Together Time",
-      "description": "This is a program for parents and caregivers with children from birth - 5 years. Families have the opportunity to socialize while children develop new skills in an early learning environment. This program is offered in partnership with the Malvern Family Resource Centre (MFRC) . This is a drop-in program.&nbsp;No registration required.",
-      "location": "Woodside Square",
-      "address": "1571 Sandhurst Circle, Toronto",
-      "startDate": "2026-07-01 09:30",
-      "endDate": "2026-07-01 11:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a04d542f56bd86e00af7c70",
-      "phone": "(416) 396-8979",
-      "isRecurring": true,
-      "locationId": "WS"
     },
     {
       "id": "tpl_6a3e7b86c52cdc3600ed0503",
@@ -1207,14 +1183,14 @@
       "locationId": "CL"
     },
     {
-      "id": "tpl_6a356fad90cc4e3a790f5061",
+      "id": "tpl_6a2c5df143b41b3d006df296",
       "source": "tpl",
-      "title": "Sunday Build & Play",
-      "description": "Create exciting structures using Feltro tiles and KEVA blocks.&nbsp;For ages 4 - 12 .",
-      "location": "St. Lawrence",
-      "address": "171 Front Street East, Toronto",
-      "startDate": "2026-07-05 13:00",
-      "endDate": "2026-07-05 15:00",
+      "title": "Button Making",
+      "description": "Let's be creative and re use comic pages to create cute buttons! For children ages 6-12. Younger children may be accompanied by a parent or caretaker. All materials provided.&nbsp;No registration required.",
+      "location": "Deer Park",
+      "address": "40 St. Clair Avenue East, Toronto",
+      "startDate": "2026-07-03 14:00",
+      "endDate": "2026-07-03 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -1225,10 +1201,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a356fad90cc4e3a790f5061",
-      "phone": "(416) 393-7655",
-      "isRecurring": true,
-      "locationId": "SL"
+      "url": "https://tpl.bibliocommons.com/events/6a2c5df143b41b3d006df296",
+      "phone": "(416) 393-7657",
+      "isRecurring": false,
+      "locationId": "DP"
     },
     {
       "id": "tpl_69d7e1a5dcd22510c03c04cf",
@@ -2419,28 +2395,28 @@
       "locationId": "NE"
     },
     {
-      "id": "tpl_6a2d91822ea730c17ab6a77a",
+      "id": "tpl_6a07577943b41b3d0066bbb7",
       "source": "tpl",
-      "title": "Baby Time",
-      "description": "Join us for bouncing rhymes, songs and stories in this program for babies, birth to 18 months, and their parents or caregivers. Baby&nbsp;Time runs from 10:30am &nbsp; to 11:00 am. Children, parents and caregivers are invited to Stay and Play, from 11:00 am&nbsp;to11:30.",
-      "location": "Locke",
-      "address": "3083 Yonge Street, Toronto",
-      "startDate": "2026-07-08 10:30",
-      "endDate": "2026-07-08 11:00",
+      "title": "The Art of Illusion with Brad Toulouse",
+      "description": "Be amazed as magician Brad Toulouse performs engaging and entertaining magic! The program is for all ages, and blends together humour, magic, and audience participation into an unforgettable experience.",
+      "location": "Eatonville",
+      "address": "430 Burnhampthorpe Road, Toronto",
+      "startDate": "2026-07-06 14:00",
+      "endDate": "2026-07-06 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Reading Programs & Storytimes"
+        "Culture, Arts & Entertainment"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a2d91822ea730c17ab6a77a",
-      "phone": "(416) 393-7730",
-      "isRecurring": true,
-      "locationId": "LO"
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a07577943b41b3d0066bbb7",
+      "phone": "(416) 394-5270",
+      "isRecurring": false,
+      "locationId": "EA"
     },
     {
       "id": "tpl_6a3302f28ea300e2631e6fd4",
@@ -3622,28 +3598,28 @@
       "locationId": "WP"
     },
     {
-      "id": "tpl_69ef9053bd9a3c316a55a7df",
+      "id": "tpl_69cd52594dacf581ff85cb88",
       "source": "tpl",
-      "title": "Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
-      "location": "Queen/Saulter",
-      "address": "765 Queen Street East, Toronto",
-      "startDate": "2026-07-11 10:45",
-      "endDate": "2026-07-11 11:15",
+      "title": "The Dr. Bonkers Show",
+      "description": "Join Dr. Bonkers as the colourful entertainer brings joy to kids and families! With music and instruments, Dr. Bonkers and his best puppet friend, Larry, teach lessons about friendship, kindness, and imagination. Through vibrant sing-alongs and fun antics, Dr. Bonkers offers an unforgettable experience filled with laughter, music, and dancing! Ages 0-5.&nbsp;Drop-in.",
+      "location": "Richview",
+      "address": "1806 Islington Avenue, Toronto",
+      "startDate": "2026-07-10 10:30",
+      "endDate": "2026-07-10 11:15",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Reading Programs & Storytimes"
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69ef9053bd9a3c316a55a7df",
-      "phone": "(416) 393-7723",
-      "isRecurring": true,
-      "locationId": "QS"
+      "url": "https://tpl.bibliocommons.com/events/69cd52594dacf581ff85cb88",
+      "phone": "(416) 394-5120",
+      "isRecurring": false,
+      "locationId": "RI"
     },
     {
       "id": "tpl_69ced34a24bd39b0b5e63bd1",
@@ -4836,25 +4812,25 @@
       "locationId": "DM"
     },
     {
-      "id": "tpl_6a2863cf414ef43d00964343",
+      "id": "tpl_6a3afe9a86636e3d00501d09",
       "source": "tpl",
-      "title": "Quadrennial Men's International Football Tournament Screening",
-      "description": "Join us for public screenings during branch hours . Cheer on the 48 &nbsp;national teams that qualified! Select matches to be screened.",
+      "title": "Lego at the Library",
+      "description": "Do you love building and creating? Join us every Sunday at the Bloor/Gladstone Library for our LEGO program! Have fun, make new friends, and bring your imagination to life?one brick at a time. For children ages 4-12 and their parents/caregivers. Drop in, no registration required.",
       "location": "Bloor/Gladstone",
       "address": "1101 Bloor Street West, Toronto",
-      "startDate": "2026-07-15",
-      "endDate": "2026-07-15",
+      "startDate": "2026-07-12 14:30",
+      "endDate": "2026-07-12 15:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Culture, Arts & Entertainment"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a2863cf414ef43d00964343",
+      "url": "https://tpl.bibliocommons.com/events/6a3afe9a86636e3d00501d09",
       "phone": "(416) 393-7674",
       "isRecurring": true,
       "locationId": "BL"
@@ -6039,28 +6015,28 @@
       "locationId": "SC"
     },
     {
-      "id": "tpl_69f0dc1bdefec6489cc0c9fc",
+      "id": "tpl_6a1e1cb30c0f2c4503fc0e78",
       "source": "tpl",
-      "title": "Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Family Time runs from 10:30 to 11:00 am. Children, parents and caregivers are invited to Stay and Play, from 11:00 to 11:30.&nbsp; Drop-in. Space is limited.",
-      "location": "S. Walter Stewart",
-      "address": "170 Memorial Park Avenue, Toronto",
-      "startDate": "2026-07-18 10:30",
-      "endDate": "2026-07-18 11:00",
+      "title": "Philippe Flahaut: Sous le soleil de l'été",
+      "description": "À partir de 3 ans.&nbsp;&nbsp; Il s’agit d’un programme de chansons traditionnelles de France et du Québec, dont le vocabulaire est axé sur les activités estivales : les vacances, l’eau, le soleil, les animaux et les couleurs. Le programme comprend des chansons à répondre, des chansons accompagnées d’instruments de musique et des jeux musicaux. C’est une expérience interactive qui encourage la participation active des enfants. For ages 3 & up. This program features traditional songs from France ",
+      "location": "Don Mills",
+      "address": "888 Lawrence Avenue East, Toronto",
+      "startDate": "2026-07-16 14:00",
+      "endDate": "2026-07-16 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Reading Programs & Storytimes"
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69f0dc1bdefec6489cc0c9fc",
-      "phone": "(416) 396-3854",
-      "isRecurring": true,
-      "locationId": "SWS"
+      "url": "https://tpl.bibliocommons.com/events/6a1e1cb30c0f2c4503fc0e78",
+      "phone": "(416) 395-5710",
+      "isRecurring": false,
+      "locationId": "DM"
     },
     {
       "id": "tpl_6a29a2de4407827f8aa3faf0",
@@ -7254,28 +7230,28 @@
       "locationId": "DO"
     },
     {
-      "id": "tpl_6a3845e9c026ff22477bd2fd",
+      "id": "tpl_6a11dee543b41b3d00689e51",
       "source": "tpl",
-      "title": "Summer Movie: Finding Nemo ",
-      "description": "Come join us to watch Finding Nemo. Bring a friend or bring your family. For Families and Children. Spaces are limited. Tuesday July 21: 2pm-4pm Please note due to allergies there will be no popcorn served.",
-      "location": "Amesbury Park",
-      "address": "1565 Lawrence Avenue West, Toronto",
-      "startDate": "2026-07-21 14:00",
-      "endDate": "2026-07-21 16:00",
+      "title": "Sunday Fun-day",
+      "description": "Join us on Sunday afternoons for a variety of activities that may include story time,&nbsp;arts & crafts or games. Drop-In.",
+      "location": "Oakwood Village Library and Arts Centre",
+      "address": "341 Oakwood Avenue, Toronto",
+      "startDate": "2026-07-19 14:00",
+      "endDate": "2026-07-19 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Culture, Arts & Entertainment"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a3845e9c026ff22477bd2fd",
-      "phone": "(416) 395-5420",
-      "isRecurring": false,
-      "locationId": "AP"
+      "url": "https://tpl.bibliocommons.com/events/6a11dee543b41b3d00689e51",
+      "phone": "(416) 394-1040",
+      "isRecurring": true,
+      "locationId": "OV"
     },
     {
       "id": "tpl_6a2ef805f56bd86e00b6bc2d",
@@ -8458,14 +8434,14 @@
       "locationId": "DT"
     },
     {
-      "id": "tpl_69f0dc1bdefec6489cc0c9fd",
+      "id": "tpl_6a14c7e8703c33630029e87d",
       "source": "tpl",
       "title": "Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Family Time runs from 10:30 to 11:00 am. Children, parents and caregivers are invited to Stay and Play, from 11:00 to 11:30.&nbsp; Drop-in. Space is limited.",
-      "location": "S. Walter Stewart",
-      "address": "170 Memorial Park Avenue, Toronto",
-      "startDate": "2026-07-25 10:30",
-      "endDate": "2026-07-25 11:00",
+      "description": "Join us for stories, songs, rhymes, and activities in this program for children ages 5 and under and their parents or caregivers and \"Dive In\" to some summer fun! Limit of 35 Children. Tickets will be given out 30 minutes prior to the start of the program. A prize will be rewarded by random draw at the end of the program.",
+      "location": "Bridlewood",
+      "address": "2900 Warden Avenue, Toronto",
+      "startDate": "2026-07-23 14:00",
+      "endDate": "2026-07-23 14:45",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -8476,10 +8452,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69f0dc1bdefec6489cc0c9fd",
-      "phone": "(416) 396-3854",
+      "url": "https://tpl.bibliocommons.com/events/6a14c7e8703c33630029e87d",
+      "phone": "(416) 396-8960",
       "isRecurring": true,
-      "locationId": "SWS"
+      "locationId": "BRW"
     },
     {
       "id": "tpl_6a29a2de4407827f8aa3faf1",
@@ -9675,29 +9651,28 @@
       "locationId": "OV"
     },
     {
-      "id": "tpl_6a0361b9f56bd86e00af2d6a",
+      "id": "tpl_69eff2d4bd5c392c7646fbd1",
       "source": "tpl",
-      "title": "Wednesday Whimsy",
-      "description": "For children ages 2-6 with their parents or caregivers. Join us for Wednesday Whimsy! Little ones ages 2-6 will enjoy a brand-new adventure each time. We'll spark imagination and learning through stories, crafts, songs, and playful activities. Get ready to wiggle, giggle, and discover something wonderful! No registration – but space is limited. Large groups and daycares cannot be accommodated.",
-      "location": "Fairview",
-      "address": "35 Fairview Mall Drive, Toronto",
-      "startDate": "2026-07-29 10:30",
-      "endDate": "2026-07-29 11:30",
+      "title": "Sunday Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Sunday&nbsp;Family Time runs from 2:00 to 2:30. Children, parents and caregivers are invited to Stay and Play, from 2:30-3:00.",
+      "location": "Eglinton Square",
+      "address": "1 Eglinton Square, Unit 126, Toronto",
+      "startDate": "2026-07-26 14:00",
+      "endDate": "2026-07-26 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Crafts & Hobbies",
         "Reading Programs & Storytimes"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a0361b9f56bd86e00af2d6a",
-      "phone": "(416) 395-5750",
+      "url": "https://tpl.bibliocommons.com/events/69eff2d4bd5c392c7646fbd1",
+      "phone": "(416) 396-8920",
       "isRecurring": true,
-      "locationId": "FV"
+      "locationId": "ES"
     },
     {
       "id": "tpl_6a14b9de90cc4e3a7908ea79",
@@ -10880,14 +10855,14 @@
       "locationId": "RD"
     },
     {
-      "id": "tpl_6a2acb52f56bd86e00b60a40",
+      "id": "tpl_6a21ba39703c3363002c42ea",
       "source": "tpl",
-      "title": "Sunday Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;Family Time runs from 2-2:30pm. PLEASE NOTE: There is no program on Sunday August 2.",
-      "location": "Wychwood",
-      "address": "1431 Bathurst Street, Toronto",
-      "startDate": "2026-08-02 14:00",
-      "endDate": "2026-08-02 14:30",
+      "title": "EarlyON School Readiness",
+      "description": "This program encourages the development of social skills, independence skills, communication skills, parental support skills, and early literacy skills. For parents/caregivers and their children ages 3-5 who are starting school in September of this year. Space is limited.",
+      "location": "Amesbury Park",
+      "address": "1565 Lawrence Avenue West, Toronto",
+      "startDate": "2026-07-31 10:30",
+      "endDate": "2026-07-31 12:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -10895,13 +10870,13 @@
       "categories": [
         "Reading Programs & Storytimes"
       ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a2acb52f56bd86e00b60a40",
-      "phone": "(416) 393-7683",
+      "isDropIn": false,
+      "isFull": true,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a21ba39703c3363002c42ea",
+      "phone": "(416) 395-5420",
       "isRecurring": true,
-      "locationId": "WY"
+      "locationId": "AP"
     },
     {
       "id": "tpl_6a2ed9232ea730c17ab6d1fa",
@@ -12087,30 +12062,28 @@
       "locationId": "LB"
     },
     {
-      "id": "tpl_69a07659cbf6405d3568b151",
+      "id": "tpl_6a3c21227e16a03d00e7c9e4",
       "source": "tpl",
-      "title": "Builder's Club",
-      "description": "Join us on Saturday mornings and build to your heart’s content!&nbsp; LEGO, DUPLO, and KEVA planks will be provided for you to explore your creativity. All children welcome with their caregivers. Drop-in, no registration required.",
-      "location": "Locke",
-      "address": "3083 Yonge Street, Toronto",
-      "startDate": "2026-08-08 11:00",
-      "endDate": "2026-08-08 12:00",
+      "title": "Summer Wonder For Little Explorers!",
+      "description": "Wonder, explore, and create this summer! This engaging preschool program combines stories, movement, music, and crafts to encourage early literacy and a love of learning. This program encourages early literacy while fostering curiosity, creativity, and a lifelong love of reading.&nbsp;",
+      "location": "McGregor Park",
+      "address": "2219 Lawrence Avenue East, Toronto",
+      "startDate": "2026-08-05 14:00",
+      "endDate": "2026-08-05 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment",
-        "Science & Engineering"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69a07659cbf6405d3568b151",
-      "phone": "(416) 393-7780",
+      "url": "https://tpl.bibliocommons.com/events/6a3c21227e16a03d00e7c9e4",
+      "phone": "(416) 396-8935",
       "isRecurring": true,
-      "locationId": "LO"
+      "locationId": "MCG"
     },
     {
       "id": "tpl_6a1f2d212ea730c17ab3bff2",
@@ -13299,28 +13272,28 @@
       "locationId": "MA"
     },
     {
-      "id": "tpl_6a30185043b41b3d006e7fdc",
+      "id": "tpl_6a1063d7c6a1dc3d00d5656b",
       "source": "tpl",
-      "title": "Chess and Board Game Club for Kids",
-      "description": "Join us for&nbsp;a casual game of chess in a welcoming environment. Improve your chess skills or learn how to play. Chess sets and lots of other fun board games and puzzles are provided. Drop-in, no registration required. Limited spots available on a first-come, first-serve basis.",
-      "location": "Deer Park",
-      "address": "40 St. Clair Avenue East, Toronto",
-      "startDate": "2026-08-12 17:00",
-      "endDate": "2026-08-12 18:00",
+      "title": "Wonder Workshop: Community Challenge",
+      "description": "What do you see when you walk through your community? Have you ever thought about building something for your community that would have a positive impact on the people living there?&nbsp; Put on your thinking cap and use your imagination to design and build something that would make your community stronger!&nbsp; Plus, enter a prize draw for a chance to win an awesome book.&nbsp; This is a workshop for&nbsp;kids ages 4 to 8 ! Space is limited. Registration is required. Registration will begin on",
+      "location": "Morningside",
+      "address": "4279 Lawrence Avenue East, Toronto",
+      "startDate": "2026-08-10 14:00",
+      "endDate": "2026-08-10 15:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Games & Sports"
+        "Science & Engineering"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a30185043b41b3d006e7fdc",
-      "phone": "(416) 393-7657",
-      "isRecurring": true,
-      "locationId": "DP"
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a1063d7c6a1dc3d00d5656b",
+      "phone": "(416) 396-8881",
+      "isRecurring": false,
+      "locationId": "MS"
     },
     {
       "id": "tpl_6a04d542f56bd86e00af7c7d",
@@ -14502,28 +14475,28 @@
       "locationId": "SA"
     },
     {
-      "id": "tpl_6a394dd18ea300e2631f712a",
+      "id": "tpl_69f8c34d43b41b3d00640660",
       "source": "tpl",
-      "title": "Something to Doodle",
-      "description": "Do you like to draw? We do! Join us for some unstructured fun this August. We’ll be creating comics, postcards, murals, & more! Guidance available & supplies provided.&nbsp; This program is for everyone. Drop-in, no registration required.&nbsp;",
-      "location": "High Park",
-      "address": "228 Roncesvalles Avenue, Toronto",
-      "startDate": "2026-08-18 10:00",
-      "endDate": "2026-08-18 11:30",
+      "title": "Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Family Time runs from 11 to 11:30. Children, parents, and caregivers are invited to join us for a fun craft from 11:30 to 12:00.",
+      "location": "Albion",
+      "address": "1515 Albion Road, Toronto",
+      "startDate": "2026-08-15 11:00",
+      "endDate": "2026-08-15 12:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Crafts & Hobbies"
+        "Reading Programs & Storytimes"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a394dd18ea300e2631f712a",
-      "phone": "(416) 393-7671",
+      "url": "https://tpl.bibliocommons.com/events/69f8c34d43b41b3d00640660",
+      "phone": "(416) 394-5200",
       "isRecurring": true,
-      "locationId": "HP"
+      "locationId": "AB"
     },
     {
       "id": "tpl_69c6d129b48451fc3c0baab2",
@@ -15709,14 +15682,14 @@
       "locationId": "WY"
     },
     {
-      "id": "tpl_6a345f0c8d1b82ca9f7afdd3",
+      "id": "tpl_6a0f206ec6a1dc3d00d523eb",
       "source": "tpl",
-      "title": "Sunday Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Sunday&nbsp;Family Time runs from 2:00 to 2:30. Children, parents and caregivers are invited to Stay and Play, from 2:30-3:00.",
-      "location": "Eglinton Square",
-      "address": "1 Eglinton Square, Unit 126, Toronto",
-      "startDate": "2026-08-23 14:00",
-      "endDate": "2026-08-23 15:00",
+      "title": "Maison des bébés",
+      "description": "Un programme spécialement conçu pour les bébés de 0 à 18 mois et leurs accompagnateurs. Chanter des chansons et des comptines à votre bébé favorise le développement du langage tout en partageant un moment amusant et chaleureux. Les comptines avec gestes encouragent également les tout‑petits à bouger et à explorer selon leur stade de développement. Ce programme est offert en partenariat avec le Centre francophone du Grand Toronto. Accessibilité: Le sous-titrage en direct ou automatique, l’interpr",
+      "location": "New Toronto",
+      "address": "110 Eleventh Street, Toronto",
+      "startDate": "2026-08-21 10:30",
+      "endDate": "2026-08-21 11:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -15727,10 +15700,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a345f0c8d1b82ca9f7afdd3",
-      "phone": "(416) 396-8920",
+      "url": "https://tpl.bibliocommons.com/events/6a0f206ec6a1dc3d00d523eb",
+      "phone": "(416) 394-5350",
       "isRecurring": true,
-      "locationId": "ES"
+      "locationId": "NT"
     },
     {
       "id": "tpl_6a3bf66c7e16a03d00e7b9e3",
@@ -16913,28 +16886,28 @@
       "locationId": "MCG"
     },
     {
-      "id": "tpl_6a2c7e64c7d3cd58006001d8",
+      "id": "tpl_6a3ae9dec026ff22477c166f",
       "source": "tpl",
-      "title": "Family Storytime",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Family Storytime runs from 2-2:30pm.&nbsp; Drop in.&nbsp;No registration required but space is limited.&nbsp;",
-      "location": "Fairview",
-      "address": "35 Fairview Mall Drive, Toronto",
-      "startDate": "2026-08-30 14:00",
-      "endDate": "2026-08-30 14:30",
+      "title": "Matinee Magic: E.T. the Extra-Terrestrial (1982, PG)",
+      "description": "Join us for a&nbsp;family-friendly matinee this summer:&nbsp;E.T. the Extra-Terrestrial (1982, PG)! All children welcome with their caregivers. Drop in, no registration required.&nbsp;",
+      "location": "High Park",
+      "address": "228 Roncesvalles Avenue, Toronto",
+      "startDate": "2026-08-26 14:00",
+      "endDate": "2026-08-26 16:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Reading Programs & Storytimes"
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a2c7e64c7d3cd58006001d8",
-      "phone": "(416) 395-5750",
-      "isRecurring": true,
-      "locationId": "FV"
+      "url": "https://tpl.bibliocommons.com/events/6a3ae9dec026ff22477c166f",
+      "phone": "(416) 393-7671",
+      "isRecurring": false,
+      "locationId": "HP"
     },
     {
       "id": "tpl_6a0f4adf8e677a28001d8c7b",
@@ -18131,30 +18104,29 @@
       "locationId": "SWS"
     },
     {
-      "id": "tpl_6a2ed9232ea730c17ab6d200",
+      "id": "tpl_6a10c1dc43b41b3d006872ad",
       "source": "tpl",
-      "title": "Sunday Funday ",
-      "description": "Every Sunday afternoon at Cliffcrest we will have&nbsp;a fun mix of activities, including board games, Snap Circuits, crafts, and Lego!",
-      "location": "Cliffcrest",
-      "address": "3017 Kingston Road, Toronto",
-      "startDate": "2026-09-13 14:00",
-      "endDate": "2026-09-13 15:00",
+      "title": "BINGO",
+      "description": "Join us for a bingo session with multiple rounds and prizes. Ages 4-12.&nbsp;Drop-in.",
+      "location": "Richview",
+      "address": "1806 Islington Avenue, Toronto",
+      "startDate": "2026-09-04 14:00",
+      "endDate": "2026-09-04 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
         "Crafts & Hobbies",
-        "Culture, Arts & Entertainment",
-        "Science & Engineering"
+        "Games & Sports"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a2ed9232ea730c17ab6d200",
-      "phone": "(416) 396-8916",
-      "isRecurring": true,
-      "locationId": "CC"
+      "url": "https://tpl.bibliocommons.com/events/6a10c1dc43b41b3d006872ad",
+      "phone": "(416) 394-5120",
+      "isRecurring": false,
+      "locationId": "RI"
     },
     {
       "id": "tpl_6a42aa030e851028002df8b5",
@@ -19347,14 +19319,14 @@
       "locationId": "YO"
     },
     {
-      "id": "tpl_69695b828b29ea2800c9ba37",
+      "id": "tpl_694aee0b2c65973d00140fed",
       "source": "tpl",
-      "title": "Family Time ",
-      "description": "Join us for a fun storytime with stories, songs and rhymes followed by a craft or activity. For children ages 5 and under with their parents or caregivers.",
-      "location": "Scarborough Civic Centre",
-      "address": "156 Borough Drive, Toronto",
-      "startDate": "2026-10-03 10:30",
-      "endDate": "2026-10-03 11:30",
+      "title": "Baby Time",
+      "description": "Join us for bouncing rhymes, songs and stories in this program for babies, birth to 18 months, and their parents or caregivers.&nbsp;",
+      "location": "Parliament Street",
+      "address": "269 Gerrard Street East, Toronto",
+      "startDate": "2026-09-21 10:30",
+      "endDate": "2026-09-21 11:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -19365,10 +19337,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69695b828b29ea2800c9ba37",
-      "phone": "(416) 396-3599",
+      "url": "https://tpl.bibliocommons.com/events/694aee0b2c65973d00140fed",
+      "phone": "(416) 393-7663",
       "isRecurring": true,
-      "locationId": "SC"
+      "locationId": "PL"
     },
     {
       "id": "tpl_69a07659cbf6405d3568b159",
@@ -20560,14 +20532,14 @@
       "locationId": "SP"
     },
     {
-      "id": "tpl_69f8c34d43b41b3d0064066a",
+      "id": "tpl_6a44564a0e851028002e4ea9",
       "source": "tpl",
-      "title": "Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Family Time runs from 11 to 11:30. Children, parents, and caregivers are invited to join us for a fun craft from 11:30 to 12:00.",
-      "location": "Albion",
-      "address": "1515 Albion Road, Toronto",
-      "startDate": "2026-10-24 11:00",
-      "endDate": "2026-10-24 12:00",
+      "title": "Toddler Time",
+      "description": "Join us for stories, songs and rhymes in this program for children, 19 months to 3 years, and their parents or caregivers. Toddler Time&nbsp;runs from 10:30 to 11:00am. Children, parents and caregivers are invited to Stay and Play, from 11:00 to 11:30am.",
+      "location": "Palmerston",
+      "address": "560 Palmerston Avenue, Toronto",
+      "startDate": "2026-10-14 10:30",
+      "endDate": "2026-10-14 11:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -20578,10 +20550,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69f8c34d43b41b3d0064066a",
-      "phone": "(416) 394-5200",
+      "url": "https://tpl.bibliocommons.com/events/6a44564a0e851028002e4ea9",
+      "phone": "(416) 393-7680",
       "isRecurring": true,
-      "locationId": "AB"
+      "locationId": "PM"
     },
     {
       "id": "tpl_6a356bb07550c8bf9f5e7df5",
@@ -21776,14 +21748,14 @@
       "locationId": "ND"
     },
     {
-      "id": "tpl_69695b828b29ea2800c9ba3d",
+      "id": "tpl_69f8c1ff3f8e7924031e4421",
       "source": "tpl",
-      "title": "Family Time ",
-      "description": "Join us for a fun storytime with stories, songs and rhymes followed by a craft or activity. For children ages 5 and under with their parents or caregivers.",
-      "location": "Scarborough Civic Centre",
-      "address": "156 Borough Drive, Toronto",
-      "startDate": "2026-11-14 10:30",
-      "endDate": "2026-11-14 11:30",
+      "title": "Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.",
+      "location": "Parliament Street",
+      "address": "269 Gerrard Street East, Toronto",
+      "startDate": "2026-11-01 15:00",
+      "endDate": "2026-11-01 15:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -21794,10 +21766,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69695b828b29ea2800c9ba3d",
-      "phone": "(416) 396-3599",
+      "url": "https://tpl.bibliocommons.com/events/69f8c1ff3f8e7924031e4421",
+      "phone": "(416) 393-7663",
       "isRecurring": true,
-      "locationId": "SC"
+      "locationId": "PL"
     },
     {
       "id": "tpl_69a07659cbf6405d3568b15f",
@@ -22993,28 +22965,29 @@
       "locationId": "RD"
     },
     {
-      "id": "tpl_69a1da198089f23c675ea38d",
+      "id": "tpl_6a42aa030e851028002df8bf",
       "source": "tpl",
-      "title": "Baby Time",
-      "description": "Join us for bouncing rhymes, songs and stories in this program for babies, birth to 18 months, and their parents or caregivers.&nbsp;",
-      "location": "Northern District",
-      "address": "40 Orchard View Boulevard, Toronto",
-      "startDate": "2026-12-02 11:00",
-      "endDate": "2026-12-02 11:30",
+      "title": "Sunday Tech Time",
+      "description": "Explore the world of circuitry and robots. Test out Snap Circuits, Dash robots, or Spheros. Ages 5 and up.",
+      "location": "Alderwood",
+      "address": "2 Orianna Drive, Toronto",
+      "startDate": "2026-11-22 14:00",
+      "endDate": "2026-11-22 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Reading Programs & Storytimes"
+        "Coding & Robotics",
+        "Science & Engineering"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69a1da198089f23c675ea38d",
-      "phone": "(416) 393-7610",
+      "url": "https://tpl.bibliocommons.com/events/6a42aa030e851028002df8bf",
+      "phone": "(416) 394-5310",
       "isRecurring": true,
-      "locationId": "ND"
+      "locationId": "AD"
     },
     {
       "id": "tpl_69681b0dc967cb412081e6cf",
@@ -24203,6 +24176,30 @@
       "phone": "(416) 393-7653",
       "isRecurring": true,
       "locationId": "SA"
+    },
+    {
+      "id": "tpl_69f8c34d43b41b3d00640671",
+      "source": "tpl",
+      "title": "Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Family Time runs from 11 to 11:30. Children, parents, and caregivers are invited to join us for a fun craft from 11:30 to 12:00.",
+      "location": "Albion",
+      "address": "1515 Albion Road, Toronto",
+      "startDate": "2026-12-12 11:00",
+      "endDate": "2026-12-12 12:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69f8c34d43b41b3d00640671",
+      "phone": "(416) 394-5200",
+      "isRecurring": true,
+      "locationId": "AB"
     },
     {
       "id": "tpl_69dcf69cad384e40edba9e19",
@@ -50360,7 +50357,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a07577943b41b3d0066bbb7",
       "phone": "(416) 394-5270",
@@ -53795,7 +53792,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a2c6ed9f56bd86e00b6739f",
       "phone": "(416) 396-3599",
