@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T03:53:51.020Z",
+  "lastUpdated": "2026-07-02T09:19:00.854Z",
   "totalEvents": 2600,
   "source": "Toronto Public Library",
   "events": [
@@ -391,30 +391,6 @@
       "locationId": "TH"
     },
     {
-      "id": "tpl_6a1f5fbec6a1dc3d00d80188",
-      "source": "tpl",
-      "title": "Sail-Away-with-Me Storytime",
-      "description": "Dive into summer with this scorching good storytime! Including songs, stories, rhymes and skits; wholesome library fun for the entire family. Drop-in program. For children, all ages.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-07-02 14:00",
-      "endDate": "2026-07-02 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a1f5fbec6a1dc3d00d80188",
-      "phone": "(416) 394-1008",
-      "isRecurring": false,
-      "locationId": "MD"
-    },
-    {
       "id": "tpl_6a1f16d646d5f64f7dcdb697",
       "source": "tpl",
       "title": "TD SRC Kick Off BINGO",
@@ -437,6 +413,30 @@
       "phone": "(416) 393-7700",
       "isRecurring": false,
       "locationId": "MA"
+    },
+    {
+      "id": "tpl_6a1f5fbec6a1dc3d00d80188",
+      "source": "tpl",
+      "title": "Sail-Away-with-Me Storytime",
+      "description": "Dive into summer with this scorching good storytime! Including songs, stories, rhymes and skits; wholesome library fun for the entire family. Drop-in program. For children, all ages.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-07-02 14:00",
+      "endDate": "2026-07-02 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a1f5fbec6a1dc3d00d80188",
+      "phone": "(416) 394-1008",
+      "isRecurring": false,
+      "locationId": "MD"
     },
     {
       "id": "tpl_6a3e7b86c52cdc3600ed0504",
@@ -24747,30 +24747,6 @@
       "locationId": "TH"
     },
     {
-      "id": "tpl_6a1f5fbec6a1dc3d00d80188",
-      "source": "tpl",
-      "title": "Sail-Away-with-Me Storytime",
-      "description": "Dive into summer with this scorching good storytime! Including songs, stories, rhymes and skits; wholesome library fun for the entire family. Drop-in program. For children, all ages.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-07-02 14:00",
-      "endDate": "2026-07-02 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a1f5fbec6a1dc3d00d80188",
-      "phone": "(416) 394-1008",
-      "isRecurring": false,
-      "locationId": "MD"
-    },
-    {
       "id": "tpl_6a1f16d646d5f64f7dcdb697",
       "source": "tpl",
       "title": "TD SRC Kick Off BINGO",
@@ -24836,7 +24812,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a15db6cf6bd012f006a6f0b",
       "phone": "(416) 393-7783",
@@ -24917,6 +24893,30 @@
       "phone": "(416) 396-8881",
       "isRecurring": false,
       "locationId": "MS"
+    },
+    {
+      "id": "tpl_6a1f5fbec6a1dc3d00d80188",
+      "source": "tpl",
+      "title": "Sail-Away-with-Me Storytime",
+      "description": "Dive into summer with this scorching good storytime! Including songs, stories, rhymes and skits; wholesome library fun for the entire family. Drop-in program. For children, all ages.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-07-02 14:00",
+      "endDate": "2026-07-02 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a1f5fbec6a1dc3d00d80188",
+      "phone": "(416) 394-1008",
+      "isRecurring": false,
+      "locationId": "MD"
     },
     {
       "id": "tpl_6a3e7b86c52cdc3600ed0504",
