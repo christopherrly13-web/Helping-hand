@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T09:24:59.404Z",
+  "lastUpdated": "2026-07-03T14:14:24.406Z",
   "totalEvents": 2615,
   "source": "Toronto Public Library",
   "events": [
@@ -25288,8 +25288,8 @@
       "description": "Join us for an exciting viewing of the world cup. Cheer on your favorite country and players in one great spot! Drop in.",
       "location": "Junction Triangle",
       "address": "305 Campbell Avenue, Toronto",
-      "startDate": "2026-07-03 15:00",
-      "endDate": "2026-07-03 17:00",
+      "startDate": "2026-07-03 14:00",
+      "endDate": "2026-07-03 16:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
@@ -32481,7 +32481,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a22e0302ea730c17ab49150",
       "phone": "(416) 395-5460",
@@ -49199,6 +49199,30 @@
       "locationId": "QS"
     },
     {
+      "id": "tpl_6a46a8e9ed35742f00ffe953",
+      "source": "tpl",
+      "title": "World Cup Viewing ",
+      "description": "Join us for an exciting viewing of the world cup. Cheer on your favorite country and players in one great spot! Drop in.",
+      "location": "Junction Triangle",
+      "address": "305 Campbell Avenue, Toronto",
+      "startDate": "2026-07-03 14:00",
+      "endDate": "2026-07-03 16:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a46a8e9ed35742f00ffe953",
+      "phone": "(416) 393-7677",
+      "isRecurring": false,
+      "locationId": "JT"
+    },
+    {
       "id": "tpl_6a3d91a24407827f8aa76496",
       "source": "tpl",
       "title": "Photo Editing and Workflow with Adobe Lightroom",
@@ -49269,30 +49293,6 @@
       "phone": "(416) 394-1000",
       "isRecurring": false,
       "locationId": "MAS"
-    },
-    {
-      "id": "tpl_6a46a8e9ed35742f00ffe953",
-      "source": "tpl",
-      "title": "World Cup Viewing ",
-      "description": "Join us for an exciting viewing of the world cup. Cheer on your favorite country and players in one great spot! Drop in.",
-      "location": "Junction Triangle",
-      "address": "305 Campbell Avenue, Toronto",
-      "startDate": "2026-07-03 15:00",
-      "endDate": "2026-07-03 17:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a46a8e9ed35742f00ffe953",
-      "phone": "(416) 393-7677",
-      "isRecurring": false,
-      "locationId": "JT"
     },
     {
       "id": "tpl_6a2729cc43b41b3d006cd46c",
@@ -55874,7 +55874,7 @@
         "Civic & Community Engagement"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a32dd6e43b41b3d006f2436",
       "phone": null,
