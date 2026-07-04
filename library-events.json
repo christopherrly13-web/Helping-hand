@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T10:57:00.756Z",
+  "lastUpdated": "2026-07-04T13:41:09.459Z",
   "totalEvents": 2619,
   "source": "Toronto Public Library",
   "events": [
@@ -27451,7 +27451,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a3324774407827f8aa5ae2f",
       "phone": "(416) 394-5120",
@@ -28180,7 +28180,7 @@
         "Nature & the Environment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69a1fcf81e64afd01e5e8f7a",
       "phone": "(416) 396-8939",
@@ -51389,7 +51389,7 @@
         "Nature & the Environment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69a1fcf81e64afd01e5e8f7a",
       "phone": "(416) 396-8939",
