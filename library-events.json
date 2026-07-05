@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-04T22:02:47.598Z",
-  "totalEvents": 2601,
+  "lastUpdated": "2026-07-05T03:45:02.160Z",
+  "totalEvents": 2600,
   "source": "Toronto Public Library",
   "events": [
     {
@@ -24602,31 +24602,6 @@
       "locationId": "FV"
     },
     {
-      "id": "tpl_6a47f02eed35742f00002a7d",
-      "source": "tpl",
-      "title": "World Cup 2026 Watch LIVE @ Humberwood",
-      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto. Please note that screenings are only during branch open hours, if there are no conflicting programs in that space during that time, and that entire games may end at least fifteen minutes before the branch closes. Drop-in event, seating is limited. Join us for the below live screenings of the scheduled matches: July 3 - Australia VS. Egypt (2-4p.m.) July 4 -Canada VS. Morocco (1-3p.m.) July 10 -TBD&nbsp; July 15 -TBD July 19 -TBD",
-      "location": "Humberwood",
-      "address": "850 Humberwood Boulevard, Toronto",
-      "startDate": "2026-07-04",
-      "endDate": "2026-07-04",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Culture, Arts & Entertainment",
-        "Games & Sports"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a47f02eed35742f00002a7d",
-      "phone": "(416) 394-5210",
-      "isRecurring": true,
-      "locationId": "HW"
-    },
-    {
       "id": "tpl_6a14c65f43b41b3d00690ae7",
       "source": "tpl",
       "title": "World Cup 2026 Watch Live @ Mimico!",
@@ -24651,14 +24626,14 @@
       "locationId": "MI"
     },
     {
-      "id": "tpl_6a31aa03c7d3cd580060d4db",
+      "id": "tpl_6a47f02eed35742f00002a7d",
       "source": "tpl",
-      "title": " Live World Cup Viewing @Woodview Park ",
-      "description": "Watch the World Cup live at the library! We’ll be showing select matches that fall within our regular opening hours.&nbsp;See the schedule below for upcoming match screenings. #FWC26 #WeAreToronto Fri. June 12 3:00 PM Canada/Bosnia and Herzegovina Sat. June 13 3:00 PM Qatar/Switzerland Sun. June 14 1 :00 PM Germany/Curacao Sun.. June 14 &nbsp;4 :00 PM Netherlands/Japan Mon. June 15 12:00 PM Spain/Cape Verde Mon. June 15 3:00 PM Belgium/Egypt Mon. June 15 6:00 PM Saudi Arabia/Uruguay Tues. June 1",
-      "location": "Woodview Park",
-      "address": "16 Bradstock Road, Toronto",
-      "startDate": "2026-07-04 12:00",
-      "endDate": "2026-07-04 20:30",
+      "title": "World Cup 2026 Watch LIVE @ Humberwood",
+      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto. Please note that screenings are only during branch open hours, if there are no conflicting programs in that space during that time, and that entire games may end at least fifteen minutes before the branch closes. Drop-in event, seating is limited. Join us for the below live screenings of the scheduled matches: July 3 - Australia VS. Egypt (2-4p.m.) July 4 -Canada VS. Morocco (1-3p.m.) July 10 -TBD&nbsp; July 15 -TBD July 19 -TBD",
+      "location": "Humberwood",
+      "address": "850 Humberwood Boulevard, Toronto",
+      "startDate": "2026-07-04",
+      "endDate": "2026-07-04",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
@@ -24670,10 +24645,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a31aa03c7d3cd580060d4db",
-      "phone": "(416) 395-5960",
+      "url": "https://tpl.bibliocommons.com/events/6a47f02eed35742f00002a7d",
+      "phone": "(416) 394-5210",
       "isRecurring": true,
-      "locationId": "WP"
+      "locationId": "HW"
     },
     {
       "id": "tpl_6a2c42c41e67cd9cb33977e6",
@@ -24700,6 +24675,30 @@
       "locationId": "FV"
     },
     {
+      "id": "tpl_6a14c65f43b41b3d00690ae8",
+      "source": "tpl",
+      "title": "World Cup 2026 Watch Live @ Mimico!",
+      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto.Join us for the below live screenings of the scheduled matches.&nbsp;Livestreaming of soccer games is only during branch open hours and will end 15 minutes before closing.&nbsp;Seating is limited. June 11-Mexico vs. Saudi Africa (3-5p.m.) June 12-Canada vs. Bosnia (3-5p.m.) June 13-Qatar vs. Switzerland (3-4:30p.m.) June 15-Spain vs. Cape Verde (12-2p.m.) June 16-France vs. Senegal (3-5p.m.) June 16-Iraq vs. Norway (6-8p.m.) June 17-",
+      "location": "Mimico Centennial",
+      "address": "47 Station Road, Toronto",
+      "startDate": "2026-07-05",
+      "endDate": "2026-07-05",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a14c65f43b41b3d00690ae8",
+      "phone": "(416) 394-5330",
+      "isRecurring": true,
+      "locationId": "MI"
+    },
+    {
       "id": "tpl_6a47f02eed35742f00002a7e",
       "source": "tpl",
       "title": "World Cup 2026 Watch LIVE @ Humberwood",
@@ -24723,30 +24722,6 @@
       "phone": "(416) 394-5210",
       "isRecurring": true,
       "locationId": "HW"
-    },
-    {
-      "id": "tpl_6a14c65f43b41b3d00690ae8",
-      "source": "tpl",
-      "title": "World Cup 2026 Watch Live @ Mimico!",
-      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto.Join us for the below live screenings of the scheduled matches.&nbsp;Livestreaming of soccer games is only during branch open hours and will end 15 minutes before closing.&nbsp;Seating is limited. June 11-Mexico vs. Saudi Africa (3-5p.m.) June 12-Canada vs. Bosnia (3-5p.m.) June 13-Qatar vs. Switzerland (3-4:30p.m.) June 15-Spain vs. Cape Verde (12-2p.m.) June 16-France vs. Senegal (3-5p.m.) June 16-Iraq vs. Norway (6-8p.m.) June 17-",
-      "location": "Mimico Centennial",
-      "address": "47 Station Road, Toronto",
-      "startDate": "2026-07-05",
-      "endDate": "2026-07-05",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a14c65f43b41b3d00690ae8",
-      "phone": "(416) 394-5330",
-      "isRecurring": true,
-      "locationId": "MI"
     },
     {
       "id": "tpl_6a31aa03c7d3cd580060d4dc",
@@ -25421,28 +25396,29 @@
       "locationId": "AD"
     },
     {
-      "id": "tpl_6a2d6550caf934360062d31c",
+      "id": "tpl_6a42e91041251a9e77c6f268",
       "source": "tpl",
-      "title": "Summer STEM: Engineering Challenge",
-      "description": "Join us at the library for a fun hour of hands-on learning, every Monday in July. Try to build the tallest tower, the biggest fort, and the sturdiest structure. Put your engineering skills to the test! Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program registration, delivery and evaluation. Questions about how the l",
-      "location": "Deer Park",
-      "address": "40 St. Clair Avenue East, Toronto",
-      "startDate": "2026-07-06 14:00",
-      "endDate": "2026-07-06 15:00",
+      "title": "Sunday Children's Programs ",
+      "description": "Join us every Sunday afternoon for a rotating serious of hands-on activities! Age 6 -12 . Drop-in. No registration required . Recurring Dates July 5 Sunday Perler Beads July 12 Sunday Dash &Dot LEGO July 19 Sunday Button Making July 26 Sunday Snap Circuits",
+      "location": "Victoria Village",
+      "address": "184 Sloane Avenue, Toronto",
+      "startDate": "2026-07-05 14:00",
+      "endDate": "2026-07-05 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Science & Engineering"
+        "Coding & Robotics",
+        "Crafts & Hobbies"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a2d6550caf934360062d31c",
-      "phone": "(416) 393-7657",
-      "isRecurring": false,
-      "locationId": "DP"
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a42e91041251a9e77c6f268",
+      "phone": "(416) 395-5950",
+      "isRecurring": true,
+      "locationId": "VV"
     },
     {
       "id": "tpl_6a0f617b8e677a28001d94a5",
@@ -25733,7 +25709,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a038b48c6a1dc3d00d35101",
       "phone": "(416) 396-8910",
@@ -26104,6 +26080,30 @@
       "locationId": "FV"
     },
     {
+      "id": "tpl_6a14c65f43b41b3d00690aea",
+      "source": "tpl",
+      "title": "World Cup 2026 Watch Live @ Mimico!",
+      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto.Join us for the below live screenings of the scheduled matches.&nbsp;Livestreaming of soccer games is only during branch open hours and will end 15 minutes before closing.&nbsp;Seating is limited. June 11-Mexico vs. Saudi Africa (3-5p.m.) June 12-Canada vs. Bosnia (3-5p.m.) June 13-Qatar vs. Switzerland (3-4:30p.m.) June 15-Spain vs. Cape Verde (12-2p.m.) June 16-France vs. Senegal (3-5p.m.) June 16-Iraq vs. Norway (6-8p.m.) June 17-",
+      "location": "Mimico Centennial",
+      "address": "47 Station Road, Toronto",
+      "startDate": "2026-07-07",
+      "endDate": "2026-07-07",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a14c65f43b41b3d00690aea",
+      "phone": "(416) 394-5330",
+      "isRecurring": true,
+      "locationId": "MI"
+    },
+    {
       "id": "tpl_6a47f02eed35742f00002a80",
       "source": "tpl",
       "title": "World Cup 2026 Watch LIVE @ Humberwood",
@@ -26127,30 +26127,6 @@
       "phone": "(416) 394-5210",
       "isRecurring": true,
       "locationId": "HW"
-    },
-    {
-      "id": "tpl_6a14c65f43b41b3d00690aea",
-      "source": "tpl",
-      "title": "World Cup 2026 Watch Live @ Mimico!",
-      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto.Join us for the below live screenings of the scheduled matches.&nbsp;Livestreaming of soccer games is only during branch open hours and will end 15 minutes before closing.&nbsp;Seating is limited. June 11-Mexico vs. Saudi Africa (3-5p.m.) June 12-Canada vs. Bosnia (3-5p.m.) June 13-Qatar vs. Switzerland (3-4:30p.m.) June 15-Spain vs. Cape Verde (12-2p.m.) June 16-France vs. Senegal (3-5p.m.) June 16-Iraq vs. Norway (6-8p.m.) June 17-",
-      "location": "Mimico Centennial",
-      "address": "47 Station Road, Toronto",
-      "startDate": "2026-07-07",
-      "endDate": "2026-07-07",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a14c65f43b41b3d00690aea",
-      "phone": "(416) 394-5330",
-      "isRecurring": true,
-      "locationId": "MI"
     },
     {
       "id": "tpl_6a2870a62ea730c17ab59f3d",
@@ -26558,7 +26534,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a189170703c3363002a9d86",
       "phone": "(416) 396-8975",
@@ -26639,14 +26615,14 @@
       "locationId": "DA"
     },
     {
-      "id": "tpl_6a3598e48ea300e2631eeea3",
+      "id": "tpl_6a021abdf89ee15800521c35",
       "source": "tpl",
-      "title": "Perler Bead Art and Bracelets",
-      "description": "Show off your creativity and have fun at our summer Perler Bead Art and Bracelet-Making&nbsp;workshops. Pick a design/style, and&nbsp;size to create keychains, keepsakes, and more!",
-      "location": "Forest Hill",
-      "address": "700 Eglinton Avenue West, Toronto",
-      "startDate": "2026-07-08 14:00",
-      "endDate": "2026-07-08 15:30",
+      "title": "Arts & Crafts",
+      "description": "Let your creativity loose at Cliffcrest Library with our Summer Wonder Arts & Crafts program! We'll be making different projects every week in July & August. All supplies will be provided and you get to take your creations home! Drop-in, no registration required.",
+      "location": "Cliffcrest",
+      "address": "3017 Kingston Road, Toronto",
+      "startDate": "2026-07-07 14:00",
+      "endDate": "2026-07-07 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
@@ -26654,13 +26630,13 @@
       "categories": [
         "Crafts & Hobbies"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a3598e48ea300e2631eeea3",
-      "phone": "(416) 393-7706",
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a021abdf89ee15800521c35",
+      "phone": "(416) 396-8916",
       "isRecurring": true,
-      "locationId": "FH"
+      "locationId": "CC"
     },
     {
       "id": "tpl_6a330a77f56bd86e00b76e12",
@@ -27098,6 +27074,30 @@
       "locationId": "FV"
     },
     {
+      "id": "tpl_6a14c65f43b41b3d00690aeb",
+      "source": "tpl",
+      "title": "World Cup 2026 Watch Live @ Mimico!",
+      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto.Join us for the below live screenings of the scheduled matches.&nbsp;Livestreaming of soccer games is only during branch open hours and will end 15 minutes before closing.&nbsp;Seating is limited. June 11-Mexico vs. Saudi Africa (3-5p.m.) June 12-Canada vs. Bosnia (3-5p.m.) June 13-Qatar vs. Switzerland (3-4:30p.m.) June 15-Spain vs. Cape Verde (12-2p.m.) June 16-France vs. Senegal (3-5p.m.) June 16-Iraq vs. Norway (6-8p.m.) June 17-",
+      "location": "Mimico Centennial",
+      "address": "47 Station Road, Toronto",
+      "startDate": "2026-07-09",
+      "endDate": "2026-07-09",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a14c65f43b41b3d00690aeb",
+      "phone": "(416) 394-5330",
+      "isRecurring": true,
+      "locationId": "MI"
+    },
+    {
       "id": "tpl_6a47f02eed35742f00002a82",
       "source": "tpl",
       "title": "World Cup 2026 Watch LIVE @ Humberwood",
@@ -27121,30 +27121,6 @@
       "phone": "(416) 394-5210",
       "isRecurring": true,
       "locationId": "HW"
-    },
-    {
-      "id": "tpl_6a14c65f43b41b3d00690aeb",
-      "source": "tpl",
-      "title": "World Cup 2026 Watch Live @ Mimico!",
-      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto.Join us for the below live screenings of the scheduled matches.&nbsp;Livestreaming of soccer games is only during branch open hours and will end 15 minutes before closing.&nbsp;Seating is limited. June 11-Mexico vs. Saudi Africa (3-5p.m.) June 12-Canada vs. Bosnia (3-5p.m.) June 13-Qatar vs. Switzerland (3-4:30p.m.) June 15-Spain vs. Cape Verde (12-2p.m.) June 16-France vs. Senegal (3-5p.m.) June 16-Iraq vs. Norway (6-8p.m.) June 17-",
-      "location": "Mimico Centennial",
-      "address": "47 Station Road, Toronto",
-      "startDate": "2026-07-09",
-      "endDate": "2026-07-09",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a14c65f43b41b3d00690aeb",
-      "phone": "(416) 394-5330",
-      "isRecurring": true,
-      "locationId": "MI"
     },
     {
       "id": "tpl_6a1606c28ea300e26318ae59",
@@ -27849,28 +27825,28 @@
       "locationId": "EB"
     },
     {
-      "id": "tpl_6a3ed8f96db61d2800983d8e",
+      "id": "tpl_6a3322e8c7d3cd5800611b4e",
       "source": "tpl",
-      "title": "World Cup 2026 Watch Live @ Guildwood Branch!",
-      "description": "Celebrate soccer's biggest event at Guildwood Library! Drop in for the following live screenings of scheduled matches in our program room. Round of 32 Tuesday June 30, @ 1pm Tuesday June 30, @ 3pm Thursday July 2, @ 3pm Friday&nbsp;July 3, @ 2pm &nbsp;Round of 16 Saturday July 4, @ 1pm Monday June 6, @ 3pm&nbsp; Tuesday July 7, @ 4pm Quarter-Finals Friday July 10, @ 3pm Semi-Finals Wednesday July 15, @3pm Celebrate soccer’s biggest event at TPL! #FWC26, #WeAreToronto",
-      "location": "Guildwood",
-      "address": "123 Guildwood Parkway, Toronto",
-      "startDate": "2026-07-10 15:00",
-      "endDate": "2026-07-10 17:00",
+      "title": "Robotics For Kids: STEM Camp (Ages 8-12)",
+      "description": "Come in for a fun tech surprise as we explore coding, robotics and more. Program a Mbot using block text programming and watch it move and activate its sensors. Registration Required, no coding experience necessary. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program registration, delivery and evaluation. Questions a",
+      "location": "Richview",
+      "address": "1806 Islington Avenue, Toronto",
+      "startDate": "2026-07-09 14:00",
+      "endDate": "2026-07-09 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Culture, Arts & Entertainment"
+        "Coding & Robotics"
       ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a3ed8f96db61d2800983d8e",
-      "phone": "(416) 396-8872",
-      "isRecurring": true,
-      "locationId": "GW"
+      "isDropIn": false,
+      "isFull": true,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a3322e8c7d3cd5800611b4e",
+      "phone": "(416) 394-5120",
+      "isRecurring": false,
+      "locationId": "RI"
     },
     {
       "id": "tpl_6a2759ce43b41b3d006ce5ba",
@@ -29062,28 +29038,28 @@
       "locationId": "WP"
     },
     {
-      "id": "tpl_6a04ea2d055b429f3b3b36fb",
+      "id": "tpl_69c4419bb2f5bfe57aba3bbc",
       "source": "tpl",
-      "title": "Underwater World Art ",
-      "description": "In this creative workshop, participants will learn to draw and paint their very own underwater scene using pastels and watercolours! They’ll explore the magical world beneath the sea as they add vibrant colours to their artwork, and discover how to create stunning textures by sprinkling salt onto their watercolours. This fun, hands-on class will inspire imagination while teaching techniques that bring the underwater world to life with depth and texture. For kids aged 6-12 .&nbsp; Registration is",
-      "location": "Brentwood",
-      "address": "36 Brentwood Road North, Toronto",
-      "startDate": "2026-07-13 13:30",
-      "endDate": "2026-07-13 15:30",
+      "title": "LEGO Club",
+      "description": "Join us for an hour of LEGO fun! Use our guides to build a creation or use your creativity to build what you want!",
+      "location": "Sanderson",
+      "address": "327 Bathurst Street, Toronto",
+      "startDate": "2026-07-12 14:00",
+      "endDate": "2026-07-12 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Culture, Arts & Entertainment"
+        "Crafts & Hobbies"
       ],
-      "isDropIn": false,
-      "isFull": true,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a04ea2d055b429f3b3b36fb",
-      "phone": "(416) 394-5240",
-      "isRecurring": false,
-      "locationId": "BR"
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69c4419bb2f5bfe57aba3bbc",
+      "phone": "(416) 393-7653",
+      "isRecurring": true,
+      "locationId": "SA"
     },
     {
       "id": "tpl_6a075f5ac6a1dc3d00d3f458",
@@ -29917,6 +29893,30 @@
       "locationId": "FV"
     },
     {
+      "id": "tpl_6a14c65f43b41b3d00690aed",
+      "source": "tpl",
+      "title": "World Cup 2026 Watch Live @ Mimico!",
+      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto.Join us for the below live screenings of the scheduled matches.&nbsp;Livestreaming of soccer games is only during branch open hours and will end 15 minutes before closing.&nbsp;Seating is limited. June 11-Mexico vs. Saudi Africa (3-5p.m.) June 12-Canada vs. Bosnia (3-5p.m.) June 13-Qatar vs. Switzerland (3-4:30p.m.) June 15-Spain vs. Cape Verde (12-2p.m.) June 16-France vs. Senegal (3-5p.m.) June 16-Iraq vs. Norway (6-8p.m.) June 17-",
+      "location": "Mimico Centennial",
+      "address": "47 Station Road, Toronto",
+      "startDate": "2026-07-14",
+      "endDate": "2026-07-14",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a14c65f43b41b3d00690aed",
+      "phone": "(416) 394-5330",
+      "isRecurring": true,
+      "locationId": "MI"
+    },
+    {
       "id": "tpl_6a47f02eed35742f00002a87",
       "source": "tpl",
       "title": "World Cup 2026 Watch LIVE @ Humberwood",
@@ -29940,30 +29940,6 @@
       "phone": "(416) 394-5210",
       "isRecurring": true,
       "locationId": "HW"
-    },
-    {
-      "id": "tpl_6a14c65f43b41b3d00690aed",
-      "source": "tpl",
-      "title": "World Cup 2026 Watch Live @ Mimico!",
-      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto.Join us for the below live screenings of the scheduled matches.&nbsp;Livestreaming of soccer games is only during branch open hours and will end 15 minutes before closing.&nbsp;Seating is limited. June 11-Mexico vs. Saudi Africa (3-5p.m.) June 12-Canada vs. Bosnia (3-5p.m.) June 13-Qatar vs. Switzerland (3-4:30p.m.) June 15-Spain vs. Cape Verde (12-2p.m.) June 16-France vs. Senegal (3-5p.m.) June 16-Iraq vs. Norway (6-8p.m.) June 17-",
-      "location": "Mimico Centennial",
-      "address": "47 Station Road, Toronto",
-      "startDate": "2026-07-14",
-      "endDate": "2026-07-14",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a14c65f43b41b3d00690aed",
-      "phone": "(416) 394-5330",
-      "isRecurring": true,
-      "locationId": "MI"
     },
     {
       "id": "tpl_6a189834c7d3cd58005c636c",
@@ -30280,29 +30256,28 @@
       "locationId": "ND"
     },
     {
-      "id": "tpl_6a1efd7946d5f64f7dcdb164",
+      "id": "tpl_6a29a3124407827f8aa3fafa",
       "source": "tpl",
-      "title": "Snap Circuits",
-      "description": "Play with electricity and circuitry during this hands-on program. Turn on a light, spin a motor, activate a speaker, or try making your own circuits.&nbsp;&nbsp;For ages 8 - 12 years. &nbsp; Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program registration, delivery and evaluation. Questions about how the library hand",
-      "location": "Ethennonnhawahstihnen'",
-      "address": "100 Ethennonnhawahstihnen' Lane, Toronto",
-      "startDate": "2026-07-15 14:00",
-      "endDate": "2026-07-15 15:00",
+      "title": "Chess Club",
+      "description": "Come play Chess and other board games with your friends! This is not an instructional class. All skill levels welcome!&nbsp; For kids ages 6-12.&nbsp; Drop-in. No registration required. Limited spots available.",
+      "location": "North York Central Library",
+      "address": "5120 Yonge Street, Toronto",
+      "startDate": "2026-07-14 14:00",
+      "endDate": "2026-07-14 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Coding & Robotics",
-        "Science & Engineering"
+        "Games & Sports"
       ],
-      "isDropIn": false,
-      "isFull": true,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a1efd7946d5f64f7dcdb164",
-      "phone": "(416) 395-5460",
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a29a3124407827f8aa3fafa",
+      "phone": "(416) 395-5630",
       "isRecurring": true,
-      "locationId": "EN"
+      "locationId": "CL"
     },
     {
       "id": "tpl_6a0f5482f6bd012f00696844",
@@ -31491,28 +31466,28 @@
       "locationId": "QS"
     },
     {
-      "id": "tpl_6a0777c143b41b3d0066c844",
+      "id": "tpl_6a21d6d1bd892a0672e7c439",
       "source": "tpl",
-      "title": "Wonder Workshop: Pollinators Challenge",
-      "description": "Have you ever wondered at the beauty of a monarch butterfly and what they overcome to survive? What would happen if these important pollinators disappeared? Join us to learn all about the journey of the monarch butterfly. Then use your imagination to design and build your own mock butterfly garden station. Plus, enter a prize draw for a chance to win an awesome book. For kids ages 6 to 10. Space is limited.",
-      "location": "Annette Street",
-      "address": "145 Annette Street, Toronto",
-      "startDate": "2026-07-17 14:00",
-      "endDate": "2026-07-17 15:30",
+      "title": "Summer Trivia",
+      "description": "Summer is finally here, are you looking for something to do in the summer? Come join us for a Summer themed Trivia! The winner will get a book for prize! Drop in, no registration requested.",
+      "location": "Northern District",
+      "address": "40 Orchard View Boulevard, Toronto",
+      "startDate": "2026-07-16 14:00",
+      "endDate": "2026-07-16 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Science & Engineering"
+        "Culture, Arts & Entertainment"
       ],
-      "isDropIn": false,
-      "isFull": true,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a0777c143b41b3d0066c844",
-      "phone": "(416) 393-7692",
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a21d6d1bd892a0672e7c439",
+      "phone": "(416) 393-7610",
       "isRecurring": false,
-      "locationId": "AN"
+      "locationId": "ND"
     },
     {
       "id": "tpl_69fa1e136a1af5ff02b6f23c",
@@ -32704,29 +32679,28 @@
       "locationId": "FV"
     },
     {
-      "id": "tpl_69ff9658e8af4a2f00715c02",
+      "id": "tpl_6a14c65f43b41b3d00690aef",
       "source": "tpl",
-      "title": "Sunday Fun-Day",
-      "description": "**NEW TIME** The start time has changed for this event. It will now start at 3pm. Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. For children ages 6-12. Drop-in. Space and supplies are limited.&nbsp;",
-      "location": "Maria A. Shchuka",
-      "address": "1745 Eglinton Avenue West, Toronto",
-      "startDate": "2026-07-19 15:00",
-      "endDate": "2026-07-19 16:00",
+      "title": "World Cup 2026 Watch Live @ Mimico!",
+      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto.Join us for the below live screenings of the scheduled matches.&nbsp;Livestreaming of soccer games is only during branch open hours and will end 15 minutes before closing.&nbsp;Seating is limited. June 11-Mexico vs. Saudi Africa (3-5p.m.) June 12-Canada vs. Bosnia (3-5p.m.) June 13-Qatar vs. Switzerland (3-4:30p.m.) June 15-Spain vs. Cape Verde (12-2p.m.) June 16-France vs. Senegal (3-5p.m.) June 16-Iraq vs. Norway (6-8p.m.) June 17-",
+      "location": "Mimico Centennial",
+      "address": "47 Station Road, Toronto",
+      "startDate": "2026-07-19",
+      "endDate": "2026-07-19",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Crafts & Hobbies",
-        "Science & Engineering"
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69ff9658e8af4a2f00715c02",
-      "phone": "(416) 394-1000",
+      "url": "https://tpl.bibliocommons.com/events/6a14c65f43b41b3d00690aef",
+      "phone": "(416) 394-5330",
       "isRecurring": true,
-      "locationId": "MAS"
+      "locationId": "MI"
     },
     {
       "id": "tpl_6a23082c2ea730c17ab49aee",
@@ -33923,14 +33897,14 @@
       "locationId": "SC"
     },
     {
-      "id": "tpl_6a2d968b1e67cd9cb339af34",
+      "id": "tpl_6a31b5c7361280dd22648e28",
       "source": "tpl",
-      "title": "Summer Wonder Wednesdays: Soccer inspired crafts",
-      "description": "Are you ready to cheer on your favourite team? Drop in to design and decorate your own flags and posters. We supply the material, you bring the imagination! For ages 4-12.&nbsp;No registration required. Space is limited.",
-      "location": "St. Lawrence",
-      "address": "171 Front Street East, Toronto",
-      "startDate": "2026-07-22 14:00",
-      "endDate": "2026-07-22 15:00",
+      "title": "Perler Beads",
+      "description": "Create your own perler bead art! Follow a template or create your own designs. It’s a hands-on activity that encourages imagination, focus, and artistic expression. Ages 6-12. Drop–in only. Space is limited.",
+      "location": "Jane/Sheppard",
+      "address": "1906 Sheppard Avenue West, Toronto",
+      "startDate": "2026-07-21 13:00",
+      "endDate": "2026-07-21 14:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
@@ -33941,10 +33915,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a2d968b1e67cd9cb339af34",
-      "phone": "(416) 393-7621",
+      "url": "https://tpl.bibliocommons.com/events/6a31b5c7361280dd22648e28",
+      "phone": "(416) 395-5966",
       "isRecurring": false,
-      "locationId": "SL"
+      "locationId": "JS"
     },
     {
       "id": "tpl_6a3d7375c52cdc3600ecdac6",
@@ -35139,28 +35113,28 @@
       "locationId": "DP"
     },
     {
-      "id": "tpl_6a231d2590cc4e3a790bdfb0",
+      "id": "tpl_6a036ce7703c336300271adc",
       "source": "tpl",
-      "title": "Science Series : Ice cream in a Bag",
-      "description": "Let's explore the science behind freezing and making ice cream in a bag! This program is for school age children 7-12. Space is limited Registration is required. “Food products used in this program include [milk, cream, coconut milk, vanilla extract, salt, sprinkles] . Food may contain or may have come into contact with common allergens.” Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a),",
-      "location": "Ethennonnhawahstihnen'",
-      "address": "100 Ethennonnhawahstihnen' Lane, Toronto",
-      "startDate": "2026-07-24 14:00",
-      "endDate": "2026-07-24 14:45",
+      "title": "Movie: Bad Guys 2",
+      "description": "For children 4 and up, accompanied by parent or caregiver . Cool off at the library and watch an animated film with your family! Rated PG. Free tickets will be available in the theatre lobby 15 min before the movie on a first come, first served basis. Space is limited. Large groups and daycares must register ahead of time, and spots are limited. No admittance after 2:10 p.m. or once venue is at capacity. Please note that the main entrance to the theatre is outside the library on ground level. Pl",
+      "location": "Fairview",
+      "address": "35 Fairview Mall Drive, Toronto",
+      "startDate": "2026-07-23 14:00",
+      "endDate": "2026-07-23 16:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Science & Engineering"
+        "Culture, Arts & Entertainment"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a231d2590cc4e3a790bdfb0",
-      "phone": "(416) 395-5460",
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a036ce7703c336300271adc",
+      "phone": "4160395-5750",
       "isRecurring": false,
-      "locationId": "EN"
+      "locationId": "FV"
     },
     {
       "id": "tpl_6a397c0c8ea300e2631f804b",
@@ -36355,28 +36329,30 @@
       "locationId": "GW"
     },
     {
-      "id": "tpl_6a3018422ea730c17ab6fca4",
+      "id": "tpl_6a03beec43b41b3d006617fe",
       "source": "tpl",
-      "title": "STEM Summer: Kaleidoscopes",
-      "description": "Join us at the library for a fun hour of hands-on learning, every Monday in July. Discover what happens when science meets art! Explore perception as you use colour, motion, and light to create a kaleidoscope. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program registration, delivery and evaluation. Questions about h",
-      "location": "Deer Park",
-      "address": "40 St. Clair Avenue East, Toronto",
-      "startDate": "2026-07-27 14:00",
-      "endDate": "2026-07-27 15:00",
+      "title": "Sunday STEAM at the Riverdale Branch",
+      "description": "Join us for a fun STEAM program on Sunday afternoon! Programs cycle between Robotics, Snap Circuits, LEGO, K'nex, Marble Run and Kids Craft Club. For Children ages 5 and up. Drop-in.&nbsp;",
+      "location": "Riverdale",
+      "address": "370 Broadview Avenue, Toronto",
+      "startDate": "2026-07-26 14:00",
+      "endDate": "2026-07-26 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
+        "Coding & Robotics",
+        "Crafts & Hobbies",
         "Science & Engineering"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a3018422ea730c17ab6fca4",
-      "phone": "(416) 393-7657",
-      "isRecurring": false,
-      "locationId": "DP"
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a03beec43b41b3d006617fe",
+      "phone": "(416) 393-7720",
+      "isRecurring": true,
+      "locationId": "RD"
     },
     {
       "id": "tpl_6a3edcb9f56bd86e00b951d9",
@@ -37492,7 +37468,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a3d5dcf96ee38a44a92d557",
       "phone": "(416) 395-5657",
@@ -37575,28 +37551,30 @@
       "locationId": "RX"
     },
     {
-      "id": "tpl_6a10a0aefab4ff0f649af3ff",
+      "id": "tpl_6a32deeb4407827f8aa5954e",
       "source": "tpl",
-      "title": "Summer Wonder Reading Club: Magic Mel!",
-      "description": "Find your \"inner magic\" with 'The Amazing Magic Mel' during this upbeat, hilarious and interactive magical experience. Expect a healthy dose of participation and self-empowerment as she leads aspiring magicians of all ages on a journey to become \"official magicians\" during this fast-paced, comedy magic show for the entire family. Tickets will be given out 1 hour before the event.",
-      "location": "Black Creek",
-      "address": "1700  Wilson Avenue, Toronto",
-      "startDate": "2026-07-30 14:00",
-      "endDate": "2026-07-30 15:00",
+      "title": "Wonder Wednesdays: Snap Circuit",
+      "description": "Come join us and explore electricity and circuitry. Learn about circuits and gain hands on experience with SNAP Circuits! Feel the spark when you build your own circuit! This is a drop in program.",
+      "location": "Taylor Memorial",
+      "address": "1440 Kingston Road, Toronto",
+      "startDate": "2026-07-29 11:00",
+      "endDate": "2026-07-29 12:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Culture, Arts & Entertainment"
+        "Coding & Robotics",
+        "Crafts & Hobbies",
+        "Science & Engineering"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a10a0aefab4ff0f649af3ff",
-      "phone": "(416) 395-5470",
+      "url": "https://tpl.bibliocommons.com/events/6a32deeb4407827f8aa5954e",
+      "phone": "(416) 396-8939",
       "isRecurring": false,
-      "locationId": "BC"
+      "locationId": "TA"
     },
     {
       "id": "tpl_6a14c1c5748daf857d59bcd6",
@@ -38789,28 +38767,28 @@
       "locationId": "BL"
     },
     {
-      "id": "tpl_6a19b45ac7d3cd58005c9726",
+      "id": "tpl_69c42a5abf48d63c596cc23c",
       "source": "tpl",
-      "title": "KEVA Planks Challenge",
-      "description": "Watch imagination come to life as kids build towers, bridges and structures together.&nbsp; KEVA Planks encourages creativity and learning through building.&nbsp;&nbsp; For children ages 6-12.&nbsp; Drop in.&nbsp; No registration required.&nbsp;&nbsp;",
-      "location": "S. Walter Stewart",
-      "address": "170 Memorial Park Avenue, Toronto",
-      "startDate": "2026-08-05 14:00",
-      "endDate": "2026-08-05 15:00",
+      "title": "Game on! Board Game Playtime",
+      "description": "Join us for a fun-filled day of board games and puzzles! Play your favourites or try something new! Brings your friends and family or meet new people at the library. Games available for use in the Children's Area. Available games include: Ball Fall Jumbo (Ages 3+), STEM Pretend Flower Garden Toy Set (Ages 3-6),&nbsp;Operation (Ages 6+),&nbsp;STEM Road Builder Game (Ages 4-8),&nbsp;Dinosaur Tetra Tower Balance Stacking Blocks Game (Ages 6+) Available puzzles include:&nbsp;Giant World Map Puzzle (",
+      "location": "Mimico Centennial",
+      "address": "47 Station Road, Toronto",
+      "startDate": "2026-08-01 09:00",
+      "endDate": "2026-08-01 16:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Science & Engineering"
+        "Games & Sports"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a19b45ac7d3cd58005c9726",
-      "phone": "(416) 396-3854",
-      "isRecurring": false,
-      "locationId": "SWS"
+      "url": "https://tpl.bibliocommons.com/events/69c42a5abf48d63c596cc23c",
+      "phone": "(416) 394-5330",
+      "isRecurring": true,
+      "locationId": "MI"
     },
     {
       "id": "tpl_6a15a739caf93436005e5c13",
@@ -39999,14 +39977,14 @@
       "locationId": "TRL"
     },
     {
-      "id": "tpl_6a10a4108360de907d881113",
+      "id": "tpl_6a32bd39c7d3cd580060f8a3",
       "source": "tpl",
-      "title": "Sunday Family Game Time",
-      "description": "Join us for a family games afternoon from Lego to Uno. We will also have some colouring and crafts for everyone Every Sunday afternoon all ages welcome",
-      "location": "Taylor Memorial",
-      "address": "1440 Kingston Road, Toronto",
-      "startDate": "2026-08-09 13:00",
-      "endDate": "2026-08-09 15:00",
+      "title": "Crochet Club",
+      "description": "Learn to crochet at Eatonville's Crochet Club. All materials are provided and all skill levels are welcome.&nbsp; Please note there will be no program on July 23rd 2026.",
+      "location": "Eatonville",
+      "address": "430 Burnhampthorpe Road, Toronto",
+      "startDate": "2026-08-06 18:00",
+      "endDate": "2026-08-06 19:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
@@ -40017,10 +39995,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a10a4108360de907d881113",
-      "phone": "(416) 396-8939",
+      "url": "https://tpl.bibliocommons.com/events/6a32bd39c7d3cd580060f8a3",
+      "phone": "(416) 394-5270",
       "isRecurring": true,
-      "locationId": "TA"
+      "locationId": "EA"
     },
     {
       "id": "tpl_6a356fad90cc4e3a790f5065",
@@ -41221,28 +41199,28 @@
       "locationId": "GHP"
     },
     {
-      "id": "tpl_6a050aeef6bd012f0067c5bc",
+      "id": "tpl_6a3edd00296ea565de2efb74",
       "source": "tpl",
-      "title": "The Rainbow Beat Puppet Show",
-      "description": "Join the Rainbow Beat for a fun blend of music and puppetry. Meet different puppets who will be introduced between songs. For children and their caregivers.&nbsp;",
-      "location": "Yorkville",
-      "address": "22 Yorkville Avenue, Toronto",
-      "startDate": "2026-08-12 15:00",
-      "endDate": "2026-08-12 16:00",
+      "title": "Summer Wonder: Pony bead Sea Animal Keychains",
+      "description": "Join us to create a fun,&nbsp;creative pony bead sea animal keychain activity! Use colourful beads to design and create your own ocean animal&nbsp;themed keychain to take home. All supplies provided. No registration required, space limited!",
+      "location": "Woodview Park",
+      "address": "16 Bradstock Road, Toronto",
+      "startDate": "2026-08-10 14:00",
+      "endDate": "2026-08-10 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Culture, Arts & Entertainment"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a050aeef6bd012f0067c5bc",
-      "phone": "(416) 393-7660",
+      "url": "https://tpl.bibliocommons.com/events/6a3edd00296ea565de2efb74",
+      "phone": "(416) 395-5960",
       "isRecurring": false,
-      "locationId": "YO"
+      "locationId": "WP"
     },
     {
       "id": "tpl_69a098a32866a5b4883e9176",
@@ -42433,28 +42411,28 @@
       "locationId": "LB"
     },
     {
-      "id": "tpl_6a3c2239c52cdc3600ec9237",
+      "id": "tpl_69f10ad9b6c4ac1fedcf7491",
       "source": "tpl",
-      "title": "Sunday Fun this August! ",
-      "description": "Join us for an hour of building fun with Feltro, Lego or Keva planks. Happening&nbsp; Sunday afternoons in August from 2 - 3pm ! Drop-in sessions recommended for ages 5 to 12",
-      "location": "St. Clair/Silverthorn",
-      "address": "1748 St. Clair Avenue West, Toronto",
-      "startDate": "2026-08-16 14:00",
-      "endDate": "2026-08-16 15:00",
+      "title": "Children's Book Club",
+      "description": "Meet other kids, talk about books and engage in fun activities, all in a friendly environment. Make sure to pick up a copy of the book in advance at the children's information desk.&nbsp; Suitable for children ages 8-12.&nbsp;Parents are welcome to stay during the program, but please only register children. June 12 -&nbsp; D&D Dungeon Club by Molly Knox Ostertag Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Librar",
+      "location": "S. Walter Stewart",
+      "address": "170 Memorial Park Avenue, Toronto",
+      "startDate": "2026-08-14 16:00",
+      "endDate": "2026-08-14 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Crafts & Hobbies"
+        "Book Clubs"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a3c2239c52cdc3600ec9237",
-      "phone": "(416) 393-7709",
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/69f10ad9b6c4ac1fedcf7491",
+      "phone": "(416) 396-3854",
       "isRecurring": true,
-      "locationId": "SI"
+      "locationId": "SWS"
     },
     {
       "id": "tpl_6a36f89f414ef43d00978956",
@@ -43645,29 +43623,28 @@
       "locationId": "AN"
     },
     {
-      "id": "tpl_6a394bfe2ea730c17ab8a7e6",
+      "id": "tpl_6a39a3fb2ea730c17ab8c183",
       "source": "tpl",
-      "title": "The Magic Mel Show",
-      "description": "Find your \"inner magic\" with The Amazing Magic Mel during this upbeat, hilarious, and interactive magical experience. Expect a healthy dose of participation and self-empowerment as Mel leads aspiring magicians of all ages on a journey to become \"official magicians\" during this fun, fast-paced magic show for the entire family. &nbsp; For children of all ages with their parents or caregivers. Drop-in, no registration required. Space is limited.",
-      "location": "High Park",
-      "address": "228 Roncesvalles Avenue, Toronto",
-      "startDate": "2026-08-20 14:00",
-      "endDate": "2026-08-20 15:00",
+      "title": "Dash + Dot Robotics",
+      "description": "Join us as we learn the basics of coding using Dash & Dot robots! Take control as you guide your robot through a series of challenges. **This program is drop-in, but space is limited. Tickets will be handed out 30 minutes before the program. Participants need to be present to receive a ticket.**",
+      "location": "Port Union",
+      "address": "5450 Lawrence Avenue East, Toronto",
+      "startDate": "2026-08-18 14:00",
+      "endDate": "2026-08-18 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
+        "Coding & Robotics"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a394bfe2ea730c17ab8a7e6",
-      "phone": "(416) 393-7671",
-      "isRecurring": false,
-      "locationId": "HP"
+      "url": "https://tpl.bibliocommons.com/events/6a39a3fb2ea730c17ab8c183",
+      "phone": "(416) 396-8885",
+      "isRecurring": true,
+      "locationId": "PU"
     },
     {
       "id": "tpl_6a46e95986636e3d00524b24",
@@ -44857,29 +44834,29 @@
       "locationId": "MA"
     },
     {
-      "id": "tpl_6a2c5c13caf934360062ade5",
+      "id": "tpl_69a861c92866a5b4883fd3b7",
       "source": "tpl",
-      "title": "Beginner Ukulele Workshop",
-      "description": "Have fun learning a new instrument - the ukulele! This workshop, led by music instructor Meghan Gallant, will cover fundamentals of ukulele playing: the parts of a ukulele, tuning, strumming patterns, and some basic chords. By the end of this class, you'll have learned the skills you need to start playing your first songs on the ukulele! Beginner friendly, no previous experience is necessary. Participants are welcome to bring their own ukulele, or to use one provided.&nbsp; This program is for c",
-      "location": "Lillian H. Smith",
-      "address": "239 College Street, Toronto",
-      "startDate": "2026-08-25 14:00",
-      "endDate": "2026-08-25 15:00",
+      "title": "SUNDAY FUN-DAY",
+      "description": "Looking for something FUN to do on Sundays!&nbsp;Come to our hands-on and collaborative learning program series;&nbsp;Lego Challenge, Robotics, Snap Circuits, and&nbsp;Board Games. For ages 6-12!",
+      "location": "Woodview Park",
+      "address": "16 Bradstock Road, Toronto",
+      "startDate": "2026-08-23 14:00",
+      "endDate": "2026-08-23 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
         "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
+        "Science & Engineering"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a2c5c13caf934360062ade5",
-      "phone": "(416) 393-7746",
-      "isRecurring": false,
-      "locationId": "LS"
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69a861c92866a5b4883fd3b7",
+      "phone": "(416) 395-5960",
+      "isRecurring": true,
+      "locationId": "WP"
     },
     {
       "id": "tpl_6a19ab804dc267647dab064d",
@@ -46065,14 +46042,14 @@
       "locationId": "HC"
     },
     {
-      "id": "tpl_6a3ad756dcc1022f003a8ffa",
+      "id": "tpl_6a285256c7d3cd58005f29f9",
       "source": "tpl",
-      "title": "Sunday Fun Club",
-      "description": "Come out to our Sunday Fun Club! Get creative with a new STEM and craft activity each week. Learn new things, make stuff, meet other kids and have fun! Drop-in program, intended for ages 6-12.",
-      "location": "Deer Park",
-      "address": "40 St. Clair Avenue East, Toronto",
-      "startDate": "2026-08-30 14:00",
-      "endDate": "2026-08-30 15:30",
+      "title": "Watermelon Fan Craft",
+      "description": "Summers can be hot wherever you are. A nice watermelon fan craft will keep your cool. Come to enjoy us to make your own adorable watermelon fan. All materials will be provided. This program was designed for kids 6-12. Younger kids are welcome with the help of their parents or caregivers. Registration required. Information Collection Notice: The Personal Information on this form is collection by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The infor",
+      "location": "Woodside Square",
+      "address": "1571 Sandhurst Circle, Toronto",
+      "startDate": "2026-08-28 14:00",
+      "endDate": "2026-08-28 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
@@ -46080,13 +46057,13 @@
       "categories": [
         "Crafts & Hobbies"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a3ad756dcc1022f003a8ffa",
-      "phone": "(416) 393-7657",
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a285256c7d3cd58005f29f9",
+      "phone": "(416) 396-8979",
       "isRecurring": true,
-      "locationId": "DP"
+      "locationId": "WS"
     },
     {
       "id": "tpl_69e162a4129f12743839076b",
@@ -47278,14 +47255,14 @@
       "locationId": "CC"
     },
     {
-      "id": "tpl_6a206480703c3363002c072b",
+      "id": "tpl_6a173e1446d5f64f7dcd1251",
       "source": "tpl",
-      "title": "Creating With Cops",
-      "description": "Meet your 53 Division Neighbourhood Community Officers while making some wonderful creations to take home!&nbsp; Free snacks and drinks are provided after the craft; ingredients are listed on the labels.&nbsp; This program is presented by Toronto Police Services and is for children ages 6 and up. Upcoming projects include: Saturday, June 20 - Scandinavian Flowers Saturday, July 18 - Tie-Dye T-Shirts Saturday, August 15 - Model Magic Clay Scene Saturday, September 19 - Painting Tote Bags *Craft p",
-      "location": "Yorkville",
-      "address": "22 Yorkville Avenue, Toronto",
-      "startDate": "2026-09-19 14:00",
-      "endDate": "2026-09-19 15:00",
+      "title": "Sunday Fun-day",
+      "description": "Join us on Sunday afternoons for a variety of activities that may include story time,&nbsp;arts & crafts or games. Drop-In.",
+      "location": "Oakwood Village Library and Arts Centre",
+      "address": "341 Oakwood Avenue, Toronto",
+      "startDate": "2026-09-06 14:00",
+      "endDate": "2026-09-06 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
@@ -47293,13 +47270,13 @@
       "categories": [
         "Crafts & Hobbies"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a206480703c3363002c072b",
-      "phone": "(416) 393-7660",
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a173e1446d5f64f7dcd1251",
+      "phone": "(416) 394-1040",
       "isRecurring": true,
-      "locationId": "YO"
+      "locationId": "OV"
     },
     {
       "id": "tpl_6a14e590caf93436005e4bbd",
@@ -48508,6 +48485,32 @@
       "locationId": "BE"
     },
     {
+      "id": "tpl_6a29a5d490cc4e3a790d1686",
+      "source": "tpl",
+      "title": "LEGO Club",
+      "description": "Join us at Maryvale every other Sunday to build, create, and share your LEGO ideas. From fun challenges to free building, there’s always something exciting to make! For children ages 6-12, with their parent and/or caregiver.&nbsp; Drop-in. No registration required. All materials provided.&nbsp;",
+      "location": "Maryvale",
+      "address": "85 Ellesmere Road, Unit 22, Toronto",
+      "startDate": "2026-09-27 14:00",
+      "endDate": "2026-09-27 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment",
+        "Science & Engineering"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a29a5d490cc4e3a790d1686",
+      "phone": "(416) 396-8931",
+      "isRecurring": true,
+      "locationId": "MRV"
+    },
+    {
       "id": "tpl_69dcf69cad384e40edba9e19",
       "source": "tpl",
       "title": "Solar System Stories: A Merril Collection Exhibit",
@@ -48926,31 +48929,6 @@
       "locationId": "FV"
     },
     {
-      "id": "tpl_6a47f02eed35742f00002a7d",
-      "source": "tpl",
-      "title": "World Cup 2026 Watch LIVE @ Humberwood",
-      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto. Please note that screenings are only during branch open hours, if there are no conflicting programs in that space during that time, and that entire games may end at least fifteen minutes before the branch closes. Drop-in event, seating is limited. Join us for the below live screenings of the scheduled matches: July 3 - Australia VS. Egypt (2-4p.m.) July 4 -Canada VS. Morocco (1-3p.m.) July 10 -TBD&nbsp; July 15 -TBD July 19 -TBD",
-      "location": "Humberwood",
-      "address": "850 Humberwood Boulevard, Toronto",
-      "startDate": "2026-07-04",
-      "endDate": "2026-07-04",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Culture, Arts & Entertainment",
-        "Games & Sports"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a47f02eed35742f00002a7d",
-      "phone": "(416) 394-5210",
-      "isRecurring": true,
-      "locationId": "HW"
-    },
-    {
       "id": "tpl_6a14c65f43b41b3d00690ae7",
       "source": "tpl",
       "title": "World Cup 2026 Watch Live @ Mimico!",
@@ -48975,14 +48953,14 @@
       "locationId": "MI"
     },
     {
-      "id": "tpl_6a31aa03c7d3cd580060d4db",
+      "id": "tpl_6a47f02eed35742f00002a7d",
       "source": "tpl",
-      "title": " Live World Cup Viewing @Woodview Park ",
-      "description": "Watch the World Cup live at the library! We’ll be showing select matches that fall within our regular opening hours.&nbsp;See the schedule below for upcoming match screenings. #FWC26 #WeAreToronto Fri. June 12 3:00 PM Canada/Bosnia and Herzegovina Sat. June 13 3:00 PM Qatar/Switzerland Sun. June 14 1 :00 PM Germany/Curacao Sun.. June 14 &nbsp;4 :00 PM Netherlands/Japan Mon. June 15 12:00 PM Spain/Cape Verde Mon. June 15 3:00 PM Belgium/Egypt Mon. June 15 6:00 PM Saudi Arabia/Uruguay Tues. June 1",
-      "location": "Woodview Park",
-      "address": "16 Bradstock Road, Toronto",
-      "startDate": "2026-07-04 12:00",
-      "endDate": "2026-07-04 20:30",
+      "title": "World Cup 2026 Watch LIVE @ Humberwood",
+      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto. Please note that screenings are only during branch open hours, if there are no conflicting programs in that space during that time, and that entire games may end at least fifteen minutes before the branch closes. Drop-in event, seating is limited. Join us for the below live screenings of the scheduled matches: July 3 - Australia VS. Egypt (2-4p.m.) July 4 -Canada VS. Morocco (1-3p.m.) July 10 -TBD&nbsp; July 15 -TBD July 19 -TBD",
+      "location": "Humberwood",
+      "address": "850 Humberwood Boulevard, Toronto",
+      "startDate": "2026-07-04",
+      "endDate": "2026-07-04",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
@@ -48994,10 +48972,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a31aa03c7d3cd580060d4db",
-      "phone": "(416) 395-5960",
+      "url": "https://tpl.bibliocommons.com/events/6a47f02eed35742f00002a7d",
+      "phone": "(416) 394-5210",
       "isRecurring": true,
-      "locationId": "WP"
+      "locationId": "HW"
     },
     {
       "id": "tpl_6a2c42c41e67cd9cb33977e6",
@@ -49024,6 +49002,30 @@
       "locationId": "FV"
     },
     {
+      "id": "tpl_6a14c65f43b41b3d00690ae8",
+      "source": "tpl",
+      "title": "World Cup 2026 Watch Live @ Mimico!",
+      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto.Join us for the below live screenings of the scheduled matches.&nbsp;Livestreaming of soccer games is only during branch open hours and will end 15 minutes before closing.&nbsp;Seating is limited. June 11-Mexico vs. Saudi Africa (3-5p.m.) June 12-Canada vs. Bosnia (3-5p.m.) June 13-Qatar vs. Switzerland (3-4:30p.m.) June 15-Spain vs. Cape Verde (12-2p.m.) June 16-France vs. Senegal (3-5p.m.) June 16-Iraq vs. Norway (6-8p.m.) June 17-",
+      "location": "Mimico Centennial",
+      "address": "47 Station Road, Toronto",
+      "startDate": "2026-07-05",
+      "endDate": "2026-07-05",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a14c65f43b41b3d00690ae8",
+      "phone": "(416) 394-5330",
+      "isRecurring": true,
+      "locationId": "MI"
+    },
+    {
       "id": "tpl_6a47f02eed35742f00002a7e",
       "source": "tpl",
       "title": "World Cup 2026 Watch LIVE @ Humberwood",
@@ -49047,30 +49049,6 @@
       "phone": "(416) 394-5210",
       "isRecurring": true,
       "locationId": "HW"
-    },
-    {
-      "id": "tpl_6a14c65f43b41b3d00690ae8",
-      "source": "tpl",
-      "title": "World Cup 2026 Watch Live @ Mimico!",
-      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto.Join us for the below live screenings of the scheduled matches.&nbsp;Livestreaming of soccer games is only during branch open hours and will end 15 minutes before closing.&nbsp;Seating is limited. June 11-Mexico vs. Saudi Africa (3-5p.m.) June 12-Canada vs. Bosnia (3-5p.m.) June 13-Qatar vs. Switzerland (3-4:30p.m.) June 15-Spain vs. Cape Verde (12-2p.m.) June 16-France vs. Senegal (3-5p.m.) June 16-Iraq vs. Norway (6-8p.m.) June 17-",
-      "location": "Mimico Centennial",
-      "address": "47 Station Road, Toronto",
-      "startDate": "2026-07-05",
-      "endDate": "2026-07-05",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a14c65f43b41b3d00690ae8",
-      "phone": "(416) 394-5330",
-      "isRecurring": true,
-      "locationId": "MI"
     },
     {
       "id": "tpl_6a31aa03c7d3cd580060d4dc",
@@ -49295,6 +49273,30 @@
       "locationId": "FV"
     },
     {
+      "id": "tpl_6a14c65f43b41b3d00690ae9",
+      "source": "tpl",
+      "title": "World Cup 2026 Watch Live @ Mimico!",
+      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto.Join us for the below live screenings of the scheduled matches.&nbsp;Livestreaming of soccer games is only during branch open hours and will end 15 minutes before closing.&nbsp;Seating is limited. June 11-Mexico vs. Saudi Africa (3-5p.m.) June 12-Canada vs. Bosnia (3-5p.m.) June 13-Qatar vs. Switzerland (3-4:30p.m.) June 15-Spain vs. Cape Verde (12-2p.m.) June 16-France vs. Senegal (3-5p.m.) June 16-Iraq vs. Norway (6-8p.m.) June 17-",
+      "location": "Mimico Centennial",
+      "address": "47 Station Road, Toronto",
+      "startDate": "2026-07-06",
+      "endDate": "2026-07-06",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a14c65f43b41b3d00690ae9",
+      "phone": "(416) 394-5330",
+      "isRecurring": true,
+      "locationId": "MI"
+    },
+    {
       "id": "tpl_6a47f02eed35742f00002a7f",
       "source": "tpl",
       "title": "World Cup 2026 Watch LIVE @ Humberwood",
@@ -49318,30 +49320,6 @@
       "phone": "(416) 394-5210",
       "isRecurring": true,
       "locationId": "HW"
-    },
-    {
-      "id": "tpl_6a14c65f43b41b3d00690ae9",
-      "source": "tpl",
-      "title": "World Cup 2026 Watch Live @ Mimico!",
-      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto.Join us for the below live screenings of the scheduled matches.&nbsp;Livestreaming of soccer games is only during branch open hours and will end 15 minutes before closing.&nbsp;Seating is limited. June 11-Mexico vs. Saudi Africa (3-5p.m.) June 12-Canada vs. Bosnia (3-5p.m.) June 13-Qatar vs. Switzerland (3-4:30p.m.) June 15-Spain vs. Cape Verde (12-2p.m.) June 16-France vs. Senegal (3-5p.m.) June 16-Iraq vs. Norway (6-8p.m.) June 17-",
-      "location": "Mimico Centennial",
-      "address": "47 Station Road, Toronto",
-      "startDate": "2026-07-06",
-      "endDate": "2026-07-06",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a14c65f43b41b3d00690ae9",
-      "phone": "(416) 394-5330",
-      "isRecurring": true,
-      "locationId": "MI"
     },
     {
       "id": "tpl_6a302c49f56bd86e00b6e294",
@@ -49532,7 +49510,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a038b48c6a1dc3d00d35101",
       "phone": "(416) 396-8910",
@@ -49733,29 +49711,28 @@
       "locationId": "QS"
     },
     {
-      "id": "tpl_6a303e5243b41b3d006e8e91",
+      "id": "tpl_6942f4eb6f926136000b6c89",
       "source": "tpl",
-      "title": "Youth Hub: Kimbap Making Workshop",
-      "description": "Award-winning writer, chef, and TV personality, Sang Kim, teaches how to make the iconic seaweed and rice roll Korean Kimbap, exactly like you see them on your favourite K-dramas. Participants will prep and utilize ingredients prepared by the Chef and eat their own creations. *Includes protein option of egg and fishcake (which participants do not have to use) Drop-in, no registration. Sp aces limited on a first come first serve. This program is part of Youth Hub service. Youth Hubs are a welcomi",
-      "location": "Toronto Reference Library",
-      "address": "789 Yonge Street, Toronto",
-      "startDate": "2026-07-07 16:00",
-      "endDate": "2026-07-07 17:00",
+      "title": "Youth Hub:  Nail Night",
+      "description": "Unleash your creativity as you design your own stunning nail art! Join us for one or all of our fabulous Nail Nights on the first Monday of every month.&nbsp;Drop-in, no registration required. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "S. Walter Stewart",
+      "address": "170 Memorial Park Avenue, Toronto",
+      "startDate": "2026-07-06 15:30",
+      "endDate": "2026-07-06 18:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Culture, Arts & Entertainment",
-        "Personal Development"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a303e5243b41b3d006e8e91",
-      "phone": "(416) 393-7007",
-      "isRecurring": false,
-      "locationId": "TRL"
+      "url": "https://tpl.bibliocommons.com/events/6942f4eb6f926136000b6c89",
+      "phone": "(416) 396-3975",
+      "isRecurring": true,
+      "locationId": "SWS"
     },
     {
       "id": "tpl_6a3ed8f96db61d2800983d8d",
@@ -50941,29 +50918,28 @@
       "locationId": "SC"
     },
     {
-      "id": "tpl_6a31aa03c7d3cd580060d4e1",
+      "id": "tpl_6a036ef8f6bd012f0067750c",
       "source": "tpl",
-      "title": " Live World Cup Viewing @Woodview Park ",
-      "description": "Watch the World Cup live at the library! We’ll be showing select matches that fall within our regular opening hours.&nbsp;See the schedule below for upcoming match screenings. #FWC26 #WeAreToronto Fri. June 12 3:00 PM Canada/Bosnia and Herzegovina Sat. June 13 3:00 PM Qatar/Switzerland Sun. June 14 1 :00 PM Germany/Curacao Sun.. June 14 &nbsp;4 :00 PM Netherlands/Japan Mon. June 15 12:00 PM Spain/Cape Verde Mon. June 15 3:00 PM Belgium/Egypt Mon. June 15 6:00 PM Saudi Arabia/Uruguay Tues. June 1",
-      "location": "Woodview Park",
-      "address": "16 Bradstock Road, Toronto",
-      "startDate": "2026-07-10 12:00",
-      "endDate": "2026-07-10 20:30",
+      "title": " Drag Makeup Workshop",
+      "description": "Participants will learn how to block their eyebrows, as well as, apply facial hair for exploring their own gender fluidity through drag and makeup. Registration required. Ages 13+.",
+      "location": "Wychwood",
+      "address": "1431 Bathurst Street, Toronto",
+      "startDate": "2026-07-08 18:30",
+      "endDate": "2026-07-08 20:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Culture, Arts & Entertainment",
-        "Games & Sports"
+        "Crafts & Hobbies"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a31aa03c7d3cd580060d4e1",
-      "phone": "(416) 395-5960",
-      "isRecurring": true,
-      "locationId": "WP"
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a036ef8f6bd012f0067750c",
+      "phone": "(416) 393-7683",
+      "isRecurring": false,
+      "locationId": "WY"
     },
     {
       "id": "tpl_6a2d6bca8ea300e2631d623d",
@@ -52153,29 +52129,28 @@
       "locationId": "ST"
     },
     {
-      "id": "tpl_6a29ade8414ef43d00966157",
+      "id": "tpl_6a469ffe20e0648601958949",
       "source": "tpl",
-      "title": "World Cup 2026 Watch Live @ Lillian Smith!",
-      "description": "Celebrate soccer’s biggest event at TPL! #FWC26, #WeAreToronto Show your national pride and join us to watch these World Cup Soccer games: June 18, 6-8pm Canada VS Qatar June 24, 3-5pm Canada VS Switzerland July 6, 3-5pm start of finals, teams to be determined July 7, Double Header! 12-2pm and 4-6pm start of finals, teams to be determined July 14, 3-5pm semi finals teams to be determined July 15, 3-5pm semi finals teams to be determined",
-      "location": "Lillian H. Smith",
-      "address": "239 College Street, Toronto",
-      "startDate": "2026-07-14 15:00",
-      "endDate": "2026-07-14 17:00",
+      "title": "Chess Club",
+      "description": "Drop in for a casual game of chess in a welcoming environment! Improve your chess skills or learn how to play. Chess sets will be provided. If you feel comfortable bringing your own set, you are welcome to do so. All Ages Welcome! Children under 12 must be accompanied by a guardian.&nbsp;! No registration required. Drop-in!&nbsp; Facilitated by the University of Toronto Scarborough Chess Club.",
+      "location": "Morningside",
+      "address": "4279 Lawrence Avenue East, Toronto",
+      "startDate": "2026-07-11 14:00",
+      "endDate": "2026-07-11 15:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Culture, Arts & Entertainment",
-        "Games & Sports"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a29ade8414ef43d00966157",
-      "phone": "(416) 393-7746",
+      "url": "https://tpl.bibliocommons.com/events/6a469ffe20e0648601958949",
+      "phone": "(416) 396-8881",
       "isRecurring": true,
-      "locationId": "LS"
+      "locationId": "MS"
     },
     {
       "id": "tpl_6a2984558ea300e2631c93cf",
@@ -52949,6 +52924,30 @@
       "locationId": "FV"
     },
     {
+      "id": "tpl_6a14c65f43b41b3d00690aee",
+      "source": "tpl",
+      "title": "World Cup 2026 Watch Live @ Mimico!",
+      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto.Join us for the below live screenings of the scheduled matches.&nbsp;Livestreaming of soccer games is only during branch open hours and will end 15 minutes before closing.&nbsp;Seating is limited. June 11-Mexico vs. Saudi Africa (3-5p.m.) June 12-Canada vs. Bosnia (3-5p.m.) June 13-Qatar vs. Switzerland (3-4:30p.m.) June 15-Spain vs. Cape Verde (12-2p.m.) June 16-France vs. Senegal (3-5p.m.) June 16-Iraq vs. Norway (6-8p.m.) June 17-",
+      "location": "Mimico Centennial",
+      "address": "47 Station Road, Toronto",
+      "startDate": "2026-07-15",
+      "endDate": "2026-07-15",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a14c65f43b41b3d00690aee",
+      "phone": "(416) 394-5330",
+      "isRecurring": true,
+      "locationId": "MI"
+    },
+    {
       "id": "tpl_6a47f02eed35742f00002a88",
       "source": "tpl",
       "title": "World Cup 2026 Watch LIVE @ Humberwood",
@@ -52972,30 +52971,6 @@
       "phone": "(416) 394-5210",
       "isRecurring": true,
       "locationId": "HW"
-    },
-    {
-      "id": "tpl_6a14c65f43b41b3d00690aee",
-      "source": "tpl",
-      "title": "World Cup 2026 Watch Live @ Mimico!",
-      "description": "Celebrate soccer's biggest event at TPL! #FWC26, #WeAreToronto.Join us for the below live screenings of the scheduled matches.&nbsp;Livestreaming of soccer games is only during branch open hours and will end 15 minutes before closing.&nbsp;Seating is limited. June 11-Mexico vs. Saudi Africa (3-5p.m.) June 12-Canada vs. Bosnia (3-5p.m.) June 13-Qatar vs. Switzerland (3-4:30p.m.) June 15-Spain vs. Cape Verde (12-2p.m.) June 16-France vs. Senegal (3-5p.m.) June 16-Iraq vs. Norway (6-8p.m.) June 17-",
-      "location": "Mimico Centennial",
-      "address": "47 Station Road, Toronto",
-      "startDate": "2026-07-15",
-      "endDate": "2026-07-15",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a14c65f43b41b3d00690aee",
-      "phone": "(416) 394-5330",
-      "isRecurring": true,
-      "locationId": "MI"
     },
     {
       "id": "tpl_6a32b4388d1b82ca9f7a9cb6",
@@ -53362,14 +53337,14 @@
       "locationId": "MAL"
     },
     {
-      "id": "tpl_6a06435df6bd012f0067fd6a",
+      "id": "tpl_6a06424b703c33630027a879",
       "source": "tpl",
-      "title": "Youth Hub: 3D Printing",
-      "description": "Teens&nbsp;will have an opportunity to take look at a 3D printer, find out how they work and&nbsp;how they can print at the Toronto Public Library's Digital Innovation Hubs. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "title": "Youth Hub: 3D Design",
+      "description": "Teens&nbsp;will get an opportunity to&nbsp;look at the Blender user interface, workflow, and basic tools for 3D modelling and mesh manipulation to create a simple 3D Model. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
       "location": "Northern District",
       "address": "40 Orchard View Boulevard, Toronto",
-      "startDate": "2026-07-16 17:00",
-      "endDate": "2026-07-16 18:30",
+      "startDate": "2026-07-15 15:30",
+      "endDate": "2026-07-15 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
@@ -53380,7 +53355,7 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a06435df6bd012f0067fd6a",
+      "url": "https://tpl.bibliocommons.com/events/6a06424b703c33630027a879",
       "phone": "(416) 393-7610",
       "isRecurring": false,
       "locationId": "ND"
@@ -54569,28 +54544,28 @@
       "locationId": "MS"
     },
     {
-      "id": "tpl_6a14836590cc4e3a7908e1c0",
+      "id": "tpl_6a2863cf414ef43d00964344",
       "source": "tpl",
-      "title": "Youth Hub: Ping Pong",
-      "description": "A ping pong table will be available to play with in the Youth Hub. All equipment will be provided. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "York Woods",
-      "address": "1785 Finch Avenue West, Toronto",
-      "startDate": "2026-07-21 15:30",
-      "endDate": "2026-07-21 17:00",
+      "title": "Quadrennial Men's International Football Tournament Screening",
+      "description": "Join us for public screenings during branch hours . Cheer on the 48 &nbsp;national teams that qualified! Select matches to be screened.",
+      "location": "Bloor/Gladstone",
+      "address": "1101 Bloor Street West, Toronto",
+      "startDate": "2026-07-19",
+      "endDate": "2026-07-19",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Games & Sports"
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a14836590cc4e3a7908e1c0",
-      "phone": "(416) 395-5980",
+      "url": "https://tpl.bibliocommons.com/events/6a2863cf414ef43d00964344",
+      "phone": "(416) 393-7674",
       "isRecurring": true,
-      "locationId": "YW"
+      "locationId": "BL"
     },
     {
       "id": "tpl_6a3028924407827f8aa50beb",
@@ -55777,28 +55752,28 @@
       "locationId": "GHP"
     },
     {
-      "id": "tpl_6a2adf238d1b82ca9f792e6e",
+      "id": "tpl_6a0215fcf89ee15800521699",
       "source": "tpl",
-      "title": "Youth Hub: Board Game Cafe",
-      "description": "Roll the dice and challenge your friends in some classic games! This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "North York Central Library",
-      "address": "5120 Yonge Street, Toronto",
-      "startDate": "2026-07-24 16:00",
-      "endDate": "2026-07-24 18:00",
+      "title": "Astronomer Meet & Greet",
+      "description": "An opportunity for&nbsp;children, older teens and young adults to meet with an astronomer who is versed in a variety of topics. Attendees will learn about astronomy and possible careers in the field and will be able to enjoy a hands-on demonstration involving meteorites! Registration begins June 1, 2026. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information ",
+      "location": "Cliffcrest",
+      "address": "3017 Kingston Road, Toronto",
+      "startDate": "2026-07-23 14:00",
+      "endDate": "2026-07-23 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Crafts & Hobbies"
+        "Science & Engineering"
       ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a2adf238d1b82ca9f792e6e",
-      "phone": "(416) 395-5535",
-      "isRecurring": true,
-      "locationId": "CL"
+      "isDropIn": false,
+      "isFull": true,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a0215fcf89ee15800521699",
+      "phone": "(416) 396-8916",
+      "isRecurring": false,
+      "locationId": "CC"
     },
     {
       "id": "tpl_6a15f4310c0f2c4503fb57d8",
@@ -56993,28 +56968,28 @@
       "locationId": "MAS"
     },
     {
-      "id": "tpl_6a3db1bd57e90b326708e9d7",
+      "id": "tpl_6a2d8476f56bd86e00b69135",
       "source": "tpl",
-      "title": "Youth Hub: Ping Pong Thursdays",
-      "description": "Ping Pong lovers rejoice! Enjoy an evening of fun by battling against your friends during Ping Pong day!&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "Weston",
-      "address": "2 King Street, Toronto",
-      "startDate": "2026-07-30 15:00",
-      "endDate": "2026-07-30 17:00",
+      "title": "Solar Observing Party",
+      "description": "Join us to observe the Sun safely using telescopes fitted with certified solar filters. On a clear day, participants will explore sunspots, prominences, and other solar features in real time. A short presentation on the Sun will be given at the beginning. This program will be run by two PhD students studying astronomy at the University of Toronto. They'll be happy to answer your 'burning' questions about the sun and space. For all ages! Children must be accompanied by a caregiver.&nbsp; Drop in,",
+      "location": "High Park",
+      "address": "228 Roncesvalles Avenue, Toronto",
+      "startDate": "2026-07-28 14:00",
+      "endDate": "2026-07-28 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Games & Sports"
+        "Science & Engineering"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a3db1bd57e90b326708e9d7",
-      "phone": "(416) 394-1016",
-      "isRecurring": true,
-      "locationId": "WE"
+      "url": "https://tpl.bibliocommons.com/events/6a2d8476f56bd86e00b69135",
+      "phone": "(416) 393-7671",
+      "isRecurring": false,
+      "locationId": "HP"
     },
     {
       "id": "tpl_6a1482cffab4ff0f649b7ae3",
@@ -58201,28 +58176,28 @@
       "locationId": "AB"
     },
     {
-      "id": "tpl_69fdddb5c6a1dc3d00d258a8",
+      "id": "tpl_6a3301ad7550c8bf9f5e15e6",
       "source": "tpl",
-      "title": "Toys Alive! Exhibition Tour",
-      "description": "Curious about what your toys get up to when you are not looking? We jumped into the toy box to discover just that. From dolly’s adventures to teddy bears on the search for honey to toy soldiers on patrol. Join us for a free guided tour of TD Gallery’s current exhibition Toys Alive! Explore literary works from the late 1800s to present day from the Osborne Collection of Early Children’s Books! Registration is not required but is encouraged. Please meet at the entrance to the TD Gallery.&nbsp; Inf",
-      "location": "Toronto Reference Library",
-      "address": "789 Yonge Street, Toronto",
-      "startDate": "2026-08-06 17:00",
-      "endDate": "2026-08-06 17:30",
+      "title": "Youth Hub: Movie Night - Men in Black",
+      "description": "Catch a flick at the Thorncliffe Youth Hub! Space is available on a first come first serve basis in the Youth Hub. Drop in, no registration required. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "Thorncliffe",
+      "address": "48 Thorncliffe Park Drive, Toronto",
+      "startDate": "2026-07-31 16:00",
+      "endDate": "2026-07-31 18:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Library Visits & Tours"
+        "Culture, Arts & Entertainment"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/69fdddb5c6a1dc3d00d258a8",
-      "phone": "(416) 393-7082",
-      "isRecurring": true,
-      "locationId": "TRL"
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a3301ad7550c8bf9f5e15e6",
+      "phone": "(416) 396-3865",
+      "isRecurring": false,
+      "locationId": "TH"
     },
     {
       "id": "tpl_6a14708d43b41b3d0068f813",
@@ -59414,28 +59389,28 @@
       "locationId": "AG"
     },
     {
-      "id": "tpl_69fdddb5c6a1dc3d00d258aa",
+      "id": "tpl_6a3c0eecfddb082f00fdb5d9",
       "source": "tpl",
-      "title": "Toys Alive! Exhibition Tour",
-      "description": "Curious about what your toys get up to when you are not looking? We jumped into the toy box to discover just that. From dolly’s adventures to teddy bears on the search for honey to toy soldiers on patrol. Join us for a free guided tour of TD Gallery’s current exhibition Toys Alive! Explore literary works from the late 1800s to present day from the Osborne Collection of Early Children’s Books! Registration is not required but is encouraged. Please meet at the entrance to the TD Gallery.&nbsp; Inf",
-      "location": "Toronto Reference Library",
-      "address": "789 Yonge Street, Toronto",
-      "startDate": "2026-08-18 15:00",
-      "endDate": "2026-08-18 15:30",
+      "title": "Youth Hub: Crochet Club",
+      "description": "Learn to crochet at crochet club. Staff will teach participants basic crochet stitches. Come back every week to work on a project! Or, bring your own project and crochet along with us! This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "Maria A. Shchuka",
+      "address": "1745 Eglinton Avenue West, Toronto",
+      "startDate": "2026-08-12 15:30",
+      "endDate": "2026-08-12 19:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Library Visits & Tours"
+        "Crafts & Hobbies"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/69fdddb5c6a1dc3d00d258aa",
-      "phone": "(416) 393-7082",
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a3c0eecfddb082f00fdb5d9",
+      "phone": "(416) 394-1000",
       "isRecurring": true,
-      "locationId": "TRL"
+      "locationId": "MAS"
     },
     {
       "id": "tpl_6a3c13e07e16a03d00e7c5ca",
@@ -60620,14 +60595,14 @@
       "locationId": "EA"
     },
     {
-      "id": "tpl_6a4419bbdfaffd2186ca7be9",
+      "id": "tpl_6a0df6bfc6a1dc3d00d4f8a0",
       "source": "tpl",
-      "title": "Teen Art Club",
-      "description": "Calling all Teen artists! Unleash your creativity and join our teen art club. Come create, paint, and craft with us! No registration is required. Drop-in only.&nbsp; August 10: Watercolour Paint night&nbsp; August 17: Bracelet Making&nbsp; August 24: Sticker Rooms&nbsp; August 31 : DIY Back to School Pencil Cases",
-      "location": "St. James Town",
-      "address": "495 Sherbourne Street, Toronto",
-      "startDate": "2026-08-31 15:30",
-      "endDate": "2026-08-31 16:30",
+      "title": "Youth Hub: DIY! Reclaimed Leather Workshop",
+      "description": "Create your own Flower Keychains&nbsp;using easy leather techniques&nbsp;that are planet friendly! Learn new tips & tricks with Creative Artist Laura&nbsp;Dee. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "North York Central Library",
+      "address": "5120 Yonge Street, Toronto",
+      "startDate": "2026-08-24 16:00",
+      "endDate": "2026-08-24 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
@@ -60637,11 +60612,11 @@
       ],
       "isDropIn": true,
       "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a4419bbdfaffd2186ca7be9",
-      "phone": "(416) 393-7744",
-      "isRecurring": true,
-      "locationId": "SJ"
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a0df6bfc6a1dc3d00d4f8a0",
+      "phone": "(416) 395-5535",
+      "isRecurring": false,
+      "locationId": "CL"
     },
     {
       "id": "tpl_6a46a3644407827f8aa8e5af",
@@ -61823,28 +61798,31 @@
       "locationId": "TA"
     },
     {
-      "id": "tpl_69711d50992fc18a86deb1a5",
+      "id": "tpl_6a0f4adf8e677a28001d8c7d",
       "source": "tpl",
-      "title": "Youth Hub: Board Game Café ",
-      "description": "Join us in the Youth Hub every Tuesday to play board games with your friends! Ask us for our list of board games, and check our monthly calendar for Tournaments with prizes! All materials provided.&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "Eatonville",
-      "address": "430 Burnhampthorpe Road, Toronto",
-      "startDate": "2026-10-27 16:00",
-      "endDate": "2026-10-27 18:00",
+      "title": "Sunday Family Club",
+      "description": "Enjoy and have fun on Sunday afternoons at Guildwood Library! Will you colour your favourite characters, do a craft or show off your building skills with LEGO and KEVA? Maybe it will be Snap Circuits or Board Games? Every Sunday come in for a surprise!&nbsp;",
+      "location": "Guildwood",
+      "address": "123 Guildwood Parkway, Toronto",
+      "startDate": "2026-09-20 14:00",
+      "endDate": "2026-09-20 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
+        "Coding & Robotics",
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment",
         "Games & Sports"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69711d50992fc18a86deb1a5",
-      "phone": "(416) 394-5270",
+      "url": "https://tpl.bibliocommons.com/events/6a0f4adf8e677a28001d8c7d",
+      "phone": "(416) 396-8872",
       "isRecurring": true,
-      "locationId": "EA"
+      "locationId": "GW"
     },
     {
       "id": "tpl_69711e66992fc18a86deb26a",
@@ -63035,28 +63013,29 @@
       "locationId": "EA"
     },
     {
-      "id": "tpl_6a14e590caf93436005e4bc3",
+      "id": "tpl_6a42791ac52cdc3600ed9649",
       "source": "tpl",
-      "title": "Robotics Workshops for Youth",
-      "description": "Join Upper Toronto Community Robotics for accessible, hands-on robotics and engineering workshops for youth! These programs will help you build foundational skills in engineering design, safety, CAD software, 3D modeling, and introductory robotics coding. This program is for youth in grades 6-12. It is highly recommended&nbsp;to attend each session to build on your learning. Please register online.&nbsp;",
-      "location": "Fairview",
-      "address": "35 Fairview Mall Drive, Toronto",
-      "startDate": "2027-03-27 14:00",
-      "endDate": "2027-03-27 16:00",
+      "title": "D&D for Teens: On-going Campaign",
+      "description": "Play Dungeons and Dragons! Slay monsters and overcome challenges with a Librarian as your Dungeon Master. Ongoing Campaign. This is an in-person program for Teens . Space limited for players*, but watchers are welcome too. All supplies provided. Bring a 1st level character or pick a Pre-generated character. *Register in-person at the Youth Hub at 3:30PM. Fridays, 4:00-5:30PM October 2 October 23 November 27",
+      "location": "S. Walter Stewart",
+      "address": "170 Memorial Park Avenue, Toronto",
+      "startDate": "2026-11-27 16:00",
+      "endDate": "2026-11-27 17:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Coding & Robotics"
+        "Crafts & Hobbies",
+        "Games & Sports"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bc3",
-      "phone": "(416) 395-5750",
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a42791ac52cdc3600ed9649",
+      "phone": "(416) 396-3975",
       "isRecurring": true,
-      "locationId": "FV"
+      "locationId": "SWS"
     }
   ]
 }
