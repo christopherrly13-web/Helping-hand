@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T13:47:50.171Z",
+  "lastUpdated": "2026-07-05T16:13:33.069Z",
   "totalEvents": 2600,
   "source": "Toronto Public Library",
   "events": [
@@ -37275,7 +37275,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a3bfe8bc52cdc3600ec848b",
       "phone": "(416) 393-7703",
@@ -51767,7 +51767,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a393a808d1b82ca9f7b9cea",
       "phone": "(416) 396-3717",
@@ -56975,7 +56975,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a3bfe8bc52cdc3600ec848b",
       "phone": "(416) 393-7703",
