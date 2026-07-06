@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T22:05:50.733Z",
+  "lastUpdated": "2026-07-06T03:53:55.810Z",
   "totalEvents": 2569,
   "source": "Toronto Public Library",
   "events": [
@@ -722,7 +722,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a07577943b41b3d0066bbb7",
       "phone": "(416) 394-5270",
@@ -23887,31 +23887,6 @@
       "locationId": "HW"
     },
     {
-      "id": "tpl_6a31aa03c7d3cd580060d4dc",
-      "source": "tpl",
-      "title": " Live World Cup Viewing @Woodview Park ",
-      "description": "Watch the World Cup live at the library! We’ll be showing select matches that fall within our regular opening hours.&nbsp;See the schedule below for upcoming match screenings. #FWC26 #WeAreToronto Fri. June 12 3:00 PM Canada/Bosnia and Herzegovina Sat. June 13 3:00 PM Qatar/Switzerland Sun. June 14 1 :00 PM Germany/Curacao Sun.. June 14 &nbsp;4 :00 PM Netherlands/Japan Mon. June 15 12:00 PM Spain/Cape Verde Mon. June 15 3:00 PM Belgium/Egypt Mon. June 15 6:00 PM Saudi Arabia/Uruguay Tues. June 1",
-      "location": "Woodview Park",
-      "address": "16 Bradstock Road, Toronto",
-      "startDate": "2026-07-05 12:00",
-      "endDate": "2026-07-05 20:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Culture, Arts & Entertainment",
-        "Games & Sports"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a31aa03c7d3cd580060d4dc",
-      "phone": "(416) 395-5960",
-      "isRecurring": true,
-      "locationId": "WP"
-    },
-    {
       "id": "tpl_6a2863cf414ef43d0096433e",
       "source": "tpl",
       "title": "Quadrennial Men's International Football Tournament Screening",
@@ -24025,7 +24000,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a1f5273c6a1dc3d00d7fbb0",
       "phone": "(416) 394-1008",
@@ -24390,7 +24365,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a0dfdfa278f7c2f008e7021",
       "phone": "(416) 393-7610",
@@ -24438,7 +24413,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a29f73ac7d3cd58005f7d1f",
       "phone": "(416) 396-8935",
@@ -24462,7 +24437,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a18920f2ea730c17ab275f5",
       "phone": "(416) 396-8943",
@@ -24534,7 +24509,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a02159ee8af4a2f0071b6a9",
       "phone": "(416) 396-8916",
@@ -24665,28 +24640,29 @@
       "locationId": "BL"
     },
     {
-      "id": "tpl_6a3d7f616db61d280097f613",
+      "id": "tpl_6a32add97550c8bf9f5dfab9",
       "source": "tpl",
-      "title": "Crafternoon",
-      "description": "Join us for fun crafts throughout the summer:&nbsp; Tues Jul 7: Yarn Turtles Thurs Jul 23: Beaded Keychain Pets Thurs Aug 6: Ocean Slime All materials will be provided.&nbsp;Drop in until capacity is reached. For children ages 6-12.",
-      "location": "Barbara Frum",
-      "address": "20 Covington Road, Toronto",
-      "startDate": "2026-07-07 14:00",
-      "endDate": "2026-07-07 15:00",
+      "title": "Maker Mondays",
+      "description": "Join us Monday afternoons throughout the summer to indulge your creativity and make something! Activities will include art, handicrafts, and more. Drop in program, no registration required. Ages 6-12.&nbsp; Groups of 5 or more must call ahead, as supplies are limited. July 6 - Model Magic July 13 - Rock Painting July 20 - Felt Bookmarks July 27 - MakeDo August 10 - Watercolour Painting August 17 - Beading",
+      "location": "Sanderson",
+      "address": "327 Bathurst Street, Toronto",
+      "startDate": "2026-07-06 14:00",
+      "endDate": "2026-07-06 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Crafts & Hobbies"
+        "Crafts & Hobbies",
+        "Science & Engineering"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a3d7f616db61d280097f613",
-      "phone": "(416) 395-5440",
+      "url": "https://tpl.bibliocommons.com/events/6a32add97550c8bf9f5dfab9",
+      "phone": "(416) 393-7653",
       "isRecurring": true,
-      "locationId": "BF"
+      "locationId": "SA"
     },
     {
       "id": "tpl_6a346866caf9343600641d8f",
@@ -25873,14 +25849,14 @@
       "locationId": "EB"
     },
     {
-      "id": "tpl_69cc4934ad384e40edb809cd",
+      "id": "tpl_6a33091490cc4e3a790ee35f",
       "source": "tpl",
-      "title": "Chess Club",
-      "description": "Drop in for a casual game of chess in a welcoming environment. Improve your chess skills or learn how to play. Sets are provided. All ages.&nbsp;Drop-in.",
-      "location": "Richview",
-      "address": "1806 Islington Avenue, Toronto",
-      "startDate": "2026-07-09 16:00",
-      "endDate": "2026-07-09 17:00",
+      "title": "Summer Wonder Wednesdays: Get Crafty!",
+      "description": "Bring your imagination and we'll provide the&nbsp;supplies! No registration required. Space is limited. Ages 4 - 12. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program registration, delivery and evaluation. Questions about how the library handles your information can be directed to Answerline staff at answerline@tpl",
+      "location": "St. Lawrence",
+      "address": "171 Front Street East, Toronto",
+      "startDate": "2026-07-08 14:00",
+      "endDate": "2026-07-08 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
@@ -25888,13 +25864,13 @@
       "categories": [
         "Crafts & Hobbies"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69cc4934ad384e40edb809cd",
-      "phone": "(416) 394-5120",
-      "isRecurring": true,
-      "locationId": "RI"
+      "url": "https://tpl.bibliocommons.com/events/6a33091490cc4e3a790ee35f",
+      "phone": "(416) 393-7655",
+      "isRecurring": false,
+      "locationId": "SL"
     },
     {
       "id": "tpl_6a299170f56bd86e00b5d10d",
@@ -27085,14 +27061,14 @@
       "locationId": "QS"
     },
     {
-      "id": "tpl_6a29bfbf8ea300e2631cab10",
+      "id": "tpl_6a31e6304407827f8aa57008",
       "source": "tpl",
-      "title": "Creative Circle",
-      "description": "Drop by to make new friends, colour, play with Lego, games, puzzles and more!&nbsp; Drop In. No registration required",
-      "location": "Armour Heights",
-      "address": "2140 Avenue Road, Toronto",
-      "startDate": "2026-07-12 14:00",
-      "endDate": "2026-07-12 15:00",
+      "title": "MAKEDO: Build an UNDERWATER Animal, Monster, or Robot!",
+      "description": "Get ready to imagine, design, and build!&nbsp; In this hands-on Makedo workshop, kids will transform recycled cardboard into their own unique creations. Whether it's an underwater&nbsp;animal, a friendly monster, a futuristic robot, or something completely original, participants will use Makedo tools and connectors to safely cut, join, and construct their inventions. Along the way, children will explore creativity, problem-solving, and basic engineering concepts while giving new life to recycled",
+      "location": "Humber Summit",
+      "address": "2990 Islington Avenue, Toronto",
+      "startDate": "2026-07-10 15:30",
+      "endDate": "2026-07-10 16:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
@@ -27103,11 +27079,11 @@
       ],
       "isDropIn": true,
       "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a29bfbf8ea300e2631cab10",
-      "phone": "(416) 395-5430",
-      "isRecurring": true,
-      "locationId": "AH"
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a31e6304407827f8aa57008",
+      "phone": "(416) 395-5840",
+      "isRecurring": false,
+      "locationId": "HS"
     },
     {
       "id": "tpl_6a19ac06c6a1dc3d00d6ef43",
@@ -28311,28 +28287,28 @@
       "locationId": "SW"
     },
     {
-      "id": "tpl_6a21d3f8c7d3cd58005e1dfa",
+      "id": "tpl_6a286ef52ea730c17ab59f18",
       "source": "tpl",
-      "title": "Advanced Robotics with Spike Prime",
-      "description": "Hosted by ICE Robotics, this&nbsp;engaging robotics and coding program will introduce participants&nbsp;to engineering, programming, and creative problem-solving using the LEGO®&nbsp;Education Spike Prime kit. &nbsp; Designed for children ages 9–12 , the program&nbsp;is suitable for both beginners and those with previous robotics experience. Participants will design, build, and program their own robots while&nbsp;exploring STEM concepts through fun, hands-on challenges. As they work&nbsp;through",
-      "location": "Morningside",
-      "address": "4279 Lawrence Avenue East, Toronto",
-      "startDate": "2026-07-14 14:00",
-      "endDate": "2026-07-14 15:30",
+      "title": "Summer Origami",
+      "description": "Join us for an hour of origami on Monday afternoons. You will learn something new every week and can take home your creations. For children ages 4 and up. Drop in. No registration is required. Daycares and Camps, please call 416-393-7720 to inquire.",
+      "location": "Riverdale",
+      "address": "370 Broadview Avenue, Toronto",
+      "startDate": "2026-07-13 14:00",
+      "endDate": "2026-07-13 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Science & Engineering"
+        "Crafts & Hobbies"
       ],
-      "isDropIn": false,
-      "isFull": true,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a21d3f8c7d3cd58005e1dfa",
-      "phone": "(416) 396-8881",
-      "isRecurring": false,
-      "locationId": "MS"
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a286ef52ea730c17ab59f18",
+      "phone": "(416) 393-7720",
+      "isRecurring": true,
+      "locationId": "RD"
     },
     {
       "id": "tpl_6a19a990748daf857d5a2d74",
@@ -29522,28 +29498,28 @@
       "locationId": "MD"
     },
     {
-      "id": "tpl_6a19c1fba99bdd027d433bf9",
+      "id": "tpl_6a0656cb8e677a28001c15f2",
       "source": "tpl",
-      "title": "Raised Salt Painting",
-      "description": "Design your creation using glue, sprinkle salt and then paint your design by using watercolours. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program registration, delivery and evaluation. Questions about how the library handles your information can be directed to Answerline staff at answerline@tpl.ca , 416-397-5981, ",
-      "location": "Davenport",
-      "address": "1246 Shaw Street, Toronto",
-      "startDate": "2026-07-16 14:00",
-      "endDate": "2026-07-16 15:00",
+      "title": "Fun with Perler Beads",
+      "description": "Get creative and make your own design to take home using Perler beads! For kids ages 6-12. Registration is required. Please register online or call 416-396-8964. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program registration, delivery and evaluation. Questions about how the library handles your information can be d",
+      "location": "Goldhawk Park",
+      "address": "295 Alton Towers Circle, Toronto",
+      "startDate": "2026-07-15 14:00",
+      "endDate": "2026-07-15 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Culture, Arts & Entertainment"
+        "Crafts & Hobbies"
       ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a19c1fba99bdd027d433bf9",
-      "phone": "(416) 393-7732",
+      "isDropIn": false,
+      "isFull": true,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a0656cb8e677a28001c15f2",
+      "phone": "(416) 396-8964",
       "isRecurring": false,
-      "locationId": "DT"
+      "locationId": "GHP"
     },
     {
       "id": "tpl_6a0dc89afab4ff0f649a609e",
@@ -30703,7 +30679,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a3040697550c8bf9f5d8a1d",
       "phone": "(416) 393-7663",
@@ -30735,28 +30711,28 @@
       "locationId": "KE"
     },
     {
-      "id": "tpl_6a10a4108360de907d881110",
+      "id": "tpl_6a2c6af67550c8bf9f5cf7ba",
       "source": "tpl",
-      "title": "Sunday Family Game Time",
-      "description": "Join us for a family games afternoon from Lego to Uno. We will also have some colouring and crafts for everyone Every Sunday afternoon all ages welcome",
-      "location": "Taylor Memorial",
-      "address": "1440 Kingston Road, Toronto",
-      "startDate": "2026-07-19 13:00",
-      "endDate": "2026-07-19 15:00",
+      "title": "Friday Films!",
+      "description": "Join us for a Summer Movie every Friday!&nbsp; Friday July 3 - Early Man (2018) Friday July 10 - Captain Underpants (2017) Friday July 17 - Snow White (1937) Friday July 24- Lego Movie (2014) Friday July 31 - Frozen (2013) Come to the library and cool off while enjoying some films. For children of all ages and their caregivers.&nbsp; Drop in.",
+      "location": "Bloor/Gladstone",
+      "address": "1101 Bloor Street West, Toronto",
+      "startDate": "2026-07-17 14:00",
+      "endDate": "2026-07-17 15:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Crafts & Hobbies"
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a10a4108360de907d881110",
-      "phone": "(416) 396-8939",
+      "url": "https://tpl.bibliocommons.com/events/6a2c6af67550c8bf9f5cf7ba",
+      "phone": "(416) 393-7674",
       "isRecurring": true,
-      "locationId": "TA"
+      "locationId": "BL"
     },
     {
       "id": "tpl_6a356fad90cc4e3a790f5063",
@@ -31965,28 +31941,28 @@
       "locationId": "MD"
     },
     {
-      "id": "tpl_6a11e856caf93436005de0d1",
+      "id": "tpl_69f4dd6b129f1274383c08e3",
       "source": "tpl",
-      "title": "Wonder Workshop: Introduction to Design Thinking Building Challenge",
-      "description": "Have you ever wondered what it would be like to be an inventor?&nbsp; Have you ever thought about building something yourself?&nbsp; What is something you would like to build?&nbsp; Is there a problem you would like to fix?&nbsp; Use your imagination and brainstorm creative solutions to develop a machine that will fix a problem or make a task easier for you!&nbsp; Plus, enter a prize draw for a chance to win an awesome book.&nbsp;For kids ages 4 to 8 with their parents/caregivers.",
-      "location": "Humber Summit",
-      "address": "2990 Islington Avenue, Toronto",
-      "startDate": "2026-07-21 13:30",
-      "endDate": "2026-07-21 15:30",
+      "title": "\"Jane and the Blue Willow Princess\" with Author Catherine Little",
+      "description": "On a beautiful spring day, sisters Jane and Cassandra enjoy tea with Mother in the garden. Jane is in the throes of writing a story for Father’s birthday, but too many ideas swirl in her head, and she cannot get started. The Blue Willow pattern on the tea set catches Jane’s attention … will that be the inspiration she’s looking for?​ Catherine Little presents a reading from her picture book \" Jane and the Blue Willow Princess \" about author Jane Austen, then leads a fun craft with air-dry clay.&",
+      "location": "Barbara Frum",
+      "address": "20 Covington Road, Toronto",
+      "startDate": "2026-07-20 10:30",
+      "endDate": "2026-07-20 11:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Science & Engineering"
+        "Author Talks & Lectures"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
       "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a11e856caf93436005de0d1",
-      "phone": "(416) 395-5840",
+      "url": "https://tpl.bibliocommons.com/events/69f4dd6b129f1274383c08e3",
+      "phone": "(416) 395-5440",
       "isRecurring": false,
-      "locationId": "HS"
+      "locationId": "BF"
     },
     {
       "id": "tpl_6a1f18468ea300e2631a7b80",
@@ -33179,28 +33155,28 @@
       "locationId": "FH"
     },
     {
-      "id": "tpl_6a28466c7f943b520051b49d",
+      "id": "tpl_6a36f7ec414ef43d009788f1",
       "source": "tpl",
-      "title": "Bill Russell: Du pays des bayous et des prairies !",
-      "description": "À partir de chants et histoires de la Louisiane, Bill Russell avive son jeune public. Tout le monde est invité à participer durant le spectacle. Il raconte avec un sourire dans un coin de la bouche le passé et le présent des Cajuns et leurs liens avec les Acadiens. Featuring songs and stories from Louisiana, Bill Russell enlivens his young audience. Everyone is invited to participate during the show. He recounts with a smile in the corner of his mouth the past and present of the Cajuns and their",
-      "location": "Northern District",
-      "address": "40 Orchard View Boulevard, Toronto",
-      "startDate": "2026-07-23 14:00",
-      "endDate": "2026-07-23 15:30",
+      "title": "Pop, Paint & Play with Bubbles",
+      "description": "Learn how to paint with bubbles! Using straws, soapy mixtures, and bright paints, you’ll create colourful bubble prints that pop into unique designs. It’s a fun, messy, and magical way to explore art! For kids ages 4-8. Space is limited. *Children under 5 must be accompanied by a parent/guardian* Gentle Reminder: &nbsp;Due to high demand, we kindly ask you to arrive on time so everyone has a chance to participate. Spots may be offered to those waiting after 5 minutes. Thank you for your understa",
+      "location": "Eglinton Square",
+      "address": "1 Eglinton Square, Unit 126, Toronto",
+      "startDate": "2026-07-22 14:00",
+      "endDate": "2026-07-22 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Culture, Arts & Entertainment"
+        "Crafts & Hobbies"
       ],
       "isDropIn": false,
       "isFull": false,
       "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a28466c7f943b520051b49d",
-      "phone": "(416) 393-7610",
+      "url": "https://tpl.bibliocommons.com/events/6a36f7ec414ef43d009788f1",
+      "phone": "(416) 396-8920",
       "isRecurring": false,
-      "locationId": "ND"
+      "locationId": "ES"
     },
     {
       "id": "tpl_6a2895e08d1b82ca9f78cc3b",
@@ -34387,29 +34363,28 @@
       "locationId": "LB"
     },
     {
-      "id": "tpl_6a2f0eec1e67cd9cb339e1e1",
+      "id": "tpl_6a43d44b541102b7fa896863",
       "source": "tpl",
-      "title": "SUNDAY FUNDAY",
-      "description": "Come join us for some FUN activities, every Sunday will be STEAM related activity. Activities will include slime-making, Dash and Dot, Sphero, Snap Circuits and much more.&nbsp;",
-      "location": "Northern Elms",
-      "address": "123B Rexdale Boulevard, Unit 5, Toronto",
-      "startDate": "2026-07-26 14:00",
-      "endDate": "2026-07-26 15:00",
+      "title": "Wild Activity Rotation Stations w/ Toronto Wildlife Centre",
+      "description": "Join us with Toronto Wildlife Center! Participants will visit up to 3 stations featuring a different wildlife theme, rotating every 20 minutes to learn about a new activity/wildlife issue. Registration is required. For children ages 6 - 12. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program registration, delivery an",
+      "location": "Parkdale",
+      "address": "1303 Queen Street West, Toronto",
+      "startDate": "2026-07-24 14:00",
+      "endDate": "2026-07-24 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
+        "Nature & the Environment"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a2f0eec1e67cd9cb339e1e1",
-      "phone": "(416) 394-5230",
-      "isRecurring": true,
-      "locationId": "NE"
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a43d44b541102b7fa896863",
+      "phone": "(416) 393-7686",
+      "isRecurring": false,
+      "locationId": "PK"
     },
     {
       "id": "tpl_6a2d70b94407827f8aa4b25f",
@@ -35608,30 +35583,28 @@
       "locationId": "SA"
     },
     {
-      "id": "tpl_6a209f7bc7d3cd58005de09f",
+      "id": "tpl_6a3296c043b41b3d006f0f42",
       "source": "tpl",
-      "title": "Bentastic Fantastic Magic Show",
-      "description": "Join us at Mount Dennis library for this upbeat, hilarious, and interactive magical experience with BenTastic! Expect a healthy dose of participation and self-empowerment as he leads aspiring magicians of all ages on a journey to become \"real magicians\" during this fast-paced, fun and amazing magic show! Drop in. No registration required. Note: Tickets are handed out 15 minutes before the performance on a first-come, first-serve basis. Space is limited.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-07-29 14:00",
-      "endDate": "2026-07-29 15:00",
+      "title": "Grace Morrison: Vignettes de la Nouvelle France",
+      "description": "Grace Morrison: Vignettes de la Nouvelle France Retournons vers le passé ! Imaginez-vous au dix-septième siècle en Nouvelle-France. Accompagnée du son du violon, du tambour autochtone et de sa voix, Grace incarne les rôles des personnages historiques tels que Magdeleine de Verchères, Jean Talon et Étienne Brûlé. Grâce aux échanges entre elle et l'auditoire, les participants vivront une expérience unique, voire de jeux de rôles fort convaincants. En guise de préparation aux rôles à jouer les ense",
+      "location": "Morningside",
+      "address": "4279 Lawrence Avenue East, Toronto",
+      "startDate": "2026-07-27 14:00",
+      "endDate": "2026-07-27 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Culture, Arts & Entertainment",
-        "Games & Sports",
-        "Science & Engineering"
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a209f7bc7d3cd58005de09f",
-      "phone": "(416) 394-1008",
+      "url": "https://tpl.bibliocommons.com/events/6a3296c043b41b3d006f0f42",
+      "phone": "(416) 396-8881",
       "isRecurring": false,
-      "locationId": "MD"
+      "locationId": "MS"
     },
     {
       "id": "tpl_6a0f4e4cc6a1dc3d00d535de",
@@ -36819,30 +36792,28 @@
       "locationId": "YO"
     },
     {
-      "id": "tpl_69a07659cbf6405d3568b150",
+      "id": "tpl_6a0371bbf6bd012f00677722",
       "source": "tpl",
-      "title": "Builder's Club",
-      "description": "Join us on Saturday mornings and build to your heart’s content!&nbsp; LEGO, DUPLO, and KEVA planks will be provided for you to explore your creativity. All children welcome with their caregivers. Drop-in, no registration required.",
-      "location": "Locke",
-      "address": "3083 Yonge Street, Toronto",
-      "startDate": "2026-08-01 11:00",
-      "endDate": "2026-08-01 12:00",
+      "title": "Movie: Super Mario Galaxy",
+      "description": "For children 4 and up, accompanied by parent or caregiver . Cool off at the library and watch an animated film with your family! Rated PG. Free tickets will be available in the theatre lobby 15 min before the movie on a first come, first served basis. Space is limited. Large groups and daycares must register ahead of time, and spots are limited. No admittance after 2:10 p.m. or once venue is at capacity. Please note that the main entrance to the theatre is outside the library on ground level. Pl",
+      "location": "Fairview",
+      "address": "35 Fairview Mall Drive, Toronto",
+      "startDate": "2026-07-30 14:00",
+      "endDate": "2026-07-30 16:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment",
-        "Science & Engineering"
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69a07659cbf6405d3568b150",
-      "phone": "(416) 393-7780",
-      "isRecurring": true,
-      "locationId": "LO"
+      "url": "https://tpl.bibliocommons.com/events/6a0371bbf6bd012f00677722",
+      "phone": "(416) 395-5750",
+      "isRecurring": false,
+      "locationId": "FV"
     },
     {
       "id": "tpl_6a35520c43b41b3d006f9ac0",
@@ -38031,29 +38002,28 @@
       "locationId": "LB"
     },
     {
-      "id": "tpl_6a39a2ed8ea300e2631f8c20",
+      "id": "tpl_6a037382703c336300271f93",
       "source": "tpl",
-      "title": "Build with Keva Blocks",
-      "description": "Join us for a fun and creative activity build structures. Participants will use their creative imagination to build different structures using Keva Blocks. Drop-in. No Registration Required.",
-      "location": "Armour Heights",
-      "address": "2140 Avenue Road, Toronto",
-      "startDate": "2026-08-07 12:00",
-      "endDate": "2026-08-07 13:00",
+      "title": "Rabbit and Bear Paws Puppet Show: The Way",
+      "description": "For children ages 6-12 with their parent or caregiver. This interactive puppet show from Chad Solomon features characters from the Rabbit and Bear Paws children's graphic novel series. In this performance, audiences will experience the story of how the turtle carried our world on her back, and how the tiny muskrat succeeded in giving us the greatest gift of all - a place to call home, Turtle Island. Chad Solomon is a member of the Henvey Inlet, First Nation who’s grandfather taught him that no m",
+      "location": "Fairview",
+      "address": "35 Fairview Mall Drive, Toronto",
+      "startDate": "2026-08-05 14:00",
+      "endDate": "2026-08-05 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Crafts & Hobbies",
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a39a2ed8ea300e2631f8c20",
-      "phone": "(416) 395-5430",
+      "url": "https://tpl.bibliocommons.com/events/6a037382703c336300271f93",
+      "phone": "(416) 395-5750",
       "isRecurring": false,
-      "locationId": "AH"
+      "locationId": "FV"
     },
     {
       "id": "tpl_6a08ab3df6bd012f00685ea4",
@@ -39240,28 +39210,28 @@
       "locationId": "AN"
     },
     {
-      "id": "tpl_6a15e4a490cc4e3a79091794",
+      "id": "tpl_69eb9b4fb6c4ac1fedce8646",
       "source": "tpl",
-      "title": "Wonder Workshop: Adaptation Challenge",
-      "description": "Wonder how you’d see and survive the world from a spider’s perspective? Learn about amazing arachnid adaptations, design your own machine and brainstorm creative solutions to survival challenges. Plus, enter a prize draw for a chance to win an awesome book. For kids ages 6 to 10.&nbsp; Space is limited.",
-      "location": "Scarborough Civic Centre",
-      "address": "156 Borough Drive, Toronto",
-      "startDate": "2026-08-10 14:00",
-      "endDate": "2026-08-10 15:00",
+      "title": "Curious Chaos Club",
+      "description": "Step into The Curious Chaos Club- where creativity gets a little messy (in the best way!) Kids ages 6- 12 can build, create and let the chaos begin!",
+      "location": "Amesbury Park",
+      "address": "1565 Lawrence Avenue West, Toronto",
+      "startDate": "2026-08-09 14:00",
+      "endDate": "2026-08-09 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Science & Engineering"
+        "Crafts & Hobbies"
       ],
-      "isDropIn": false,
-      "isFull": true,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a15e4a490cc4e3a79091794",
-      "phone": "(416) 396-3599",
-      "isRecurring": false,
-      "locationId": "SC"
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69eb9b4fb6c4ac1fedce8646",
+      "phone": "(416) 395-5420",
+      "isRecurring": true,
+      "locationId": "AP"
     },
     {
       "id": "tpl_6a46e8dec52cdc3600ee7bb9",
@@ -40451,14 +40421,14 @@
       "locationId": "PU"
     },
     {
-      "id": "tpl_6a15c4a043b41b3d00692b06",
+      "id": "tpl_6a30185043b41b3d006e7fdc",
       "source": "tpl",
-      "title": "Builders Club",
-      "description": "Do you like to build with LEGO, DUPLO, Feltro, Snap Circuits or KEVA? Join us every Saturday morning for some fun building challenges! All children welcome with their caregivers. Drop-in, no registration required.&nbsp;",
-      "location": "High Park",
-      "address": "228 Roncesvalles Avenue, Toronto",
-      "startDate": "2026-08-15 10:00",
-      "endDate": "2026-08-15 11:30",
+      "title": "Chess and Board Game Club for Kids",
+      "description": "Join us for&nbsp;a casual game of chess in a welcoming environment. Improve your chess skills or learn how to play. Chess sets and lots of other fun board games and puzzles are provided. Drop-in, no registration required. Limited spots available on a first-come, first-serve basis.",
+      "location": "Deer Park",
+      "address": "40 St. Clair Avenue East, Toronto",
+      "startDate": "2026-08-12 17:00",
+      "endDate": "2026-08-12 18:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
@@ -40469,10 +40439,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a15c4a043b41b3d00692b06",
-      "phone": "(416) 393-7671",
+      "url": "https://tpl.bibliocommons.com/events/6a30185043b41b3d006e7fdc",
+      "phone": "(416) 393-7657",
       "isRecurring": true,
-      "locationId": "HP"
+      "locationId": "DP"
     },
     {
       "id": "tpl_6a3ad7cec7d3cd58006258a3",
@@ -41676,28 +41646,29 @@
       "locationId": "DP"
     },
     {
-      "id": "tpl_6a3577378ea300e2631ee7ce",
+      "id": "tpl_69e162a4129f127438390769",
       "source": "tpl",
-      "title": "The Dr. Bonkers Show",
-      "description": "Join Dr. Bonkers as the colourful entertainer brings joy to kids and families! With music and instruments, Dr. Bonkers and his best puppet friend, Larry, teach lessons about friendship, kindness, and imagination. Through vibrant sing-alongs and fun antics, Dr. Bonkers offers an unforgettable experience filled with laughter, music, and dancing! Daycares and Groups please phone 416-393-7746 to register. Please indicate group size.",
-      "location": "Lillian H. Smith",
-      "address": "239 College Street, Toronto",
-      "startDate": "2026-08-18 14:00",
-      "endDate": "2026-08-18 14:45",
+      "title": "Sunday Fun STEAM",
+      "description": "Join us for a fun STEAM program on Sunday afternoon! Programs cycle between Robotics, Snap Circuits,.. For Children ages 5 and up. Drop-in: No registration required.",
+      "location": "Brookbanks - Closed",
+      "address": "210 Brookbanks Drive, Toronto",
+      "startDate": "2026-08-16 14:00",
+      "endDate": "2026-08-16 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
+        "Coding & Robotics",
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a3577378ea300e2631ee7ce",
-      "phone": "(416) 393-7746",
-      "isRecurring": false,
-      "locationId": "LS"
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69e162a4129f127438390769",
+      "phone": "(416) 395-5480",
+      "isRecurring": true,
+      "locationId": "BB"
     },
     {
       "id": "tpl_69fdddb5c6a1dc3d00d258aa",
@@ -42888,28 +42859,28 @@
       "locationId": "EA"
     },
     {
-      "id": "tpl_6a29a1931e67cd9cb338e7e9",
+      "id": "tpl_6a4aa1dc9aae2bdc28003b82",
       "source": "tpl",
-      "title": "Sunday STEM",
-      "description": "Each Sunday, explore a cool Science, Technology, Engineering or Math concept, with fun hands on activities! For kids aged 6-12.&nbsp; No registration required but space is limited.",
-      "location": "Agincourt",
-      "address": "155 Bonis Ave, Toronto",
-      "startDate": "2026-08-23 14:00",
-      "endDate": "2026-08-23 15:00",
+      "title": "Nipa Nipa : Henna and Heritage; Stories in Every Stroke",
+      "description": "This interactive program offers participants the opportunity to receive a beautiful henna design while exploring the rich cultural roots of henna art. As each design is applied, Nipa Nipa shares stories and traditions from various communities, creating space for reflection, celebration, and connection. Watch how the design unfolds. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c),",
+      "location": "Long Branch",
+      "address": "3500 Lake Shore Boulevard West, Toronto",
+      "startDate": "2026-08-20 18:30",
+      "endDate": "2026-08-20 20:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Science & Engineering"
+        "Culture, Arts & Entertainment"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a29a1931e67cd9cb338e7e9",
-      "phone": "(416) 396-8943",
-      "isRecurring": true,
-      "locationId": "AG"
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a4aa1dc9aae2bdc28003b82",
+      "phone": "(416) 394-5320",
+      "isRecurring": false,
+      "locationId": "LB"
     },
     {
       "id": "tpl_6a20a68ecaf934360060775b",
@@ -44111,28 +44082,28 @@
       "locationId": "FV"
     },
     {
-      "id": "tpl_6a42beb5ed35742f00ff3303",
+      "id": "tpl_6a021abdf89ee15800521c3c",
       "source": "tpl",
-      "title": "B-I-N-G-O for Books!",
-      "description": "Let’s wrap up this summer the right way! Join us for a fun filled game of bingo. You can play for a chance to win some book prizes and make new friends along the way! Ages 4 and up, Drop in.",
-      "location": "Lillian H. Smith",
-      "address": "239 College Street, Toronto",
-      "startDate": "2026-08-28 14:00",
-      "endDate": "2026-08-28 15:00",
+      "title": "Arts & Crafts",
+      "description": "Let your creativity loose at Cliffcrest Library with our Summer Wonder Arts & Crafts program! We'll be making different projects every week in July & August. All supplies will be provided and you get to take your creations home! Drop-in, no registration required.",
+      "location": "Cliffcrest",
+      "address": "3017 Kingston Road, Toronto",
+      "startDate": "2026-08-25 14:00",
+      "endDate": "2026-08-25 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Culture, Arts & Entertainment"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a42beb5ed35742f00ff3303",
-      "phone": "(416) 393-7746",
-      "isRecurring": false,
-      "locationId": "LS"
+      "url": "https://tpl.bibliocommons.com/events/6a021abdf89ee15800521c3c",
+      "phone": "(416) 396-8916",
+      "isRecurring": true,
+      "locationId": "CC"
     },
     {
       "id": "tpl_6a319b231e67cd9cb33a53bd",
@@ -45338,28 +45309,28 @@
       "locationId": "PK"
     },
     {
-      "id": "tpl_69a098a32866a5b4883e917a",
+      "id": "tpl_6a4946b7ed35742f00005a36",
       "source": "tpl",
-      "title": "Lego Club",
-      "description": "Every Wednesday come out to build, create and use your imagination with LEGO. Enjoy a new building challenge each week. Complete 5 challenges and get a sticker! Drop-in.&nbsp; Live or automated closed captioning, sign language interpretation, intervenor services, or attendant services are available upon request. Please submit your request at least 2 weeks in advance to: tpl.ca/accessibility-events.",
-      "location": "Jones",
-      "address": "118 Jones Avenue, Toronto",
-      "startDate": "2026-09-09 15:30",
-      "endDate": "2026-09-09 17:00",
+      "title": "Snap Circuits Sundays",
+      "description": "Want to play with electricity?&nbsp;Drop in for a half hour of fun with circuitry. Turn on a light, spin a motor, activate a speaker; work your way through the 100+ circuitry projects as you learn about electricity! For ages 6-12.&nbsp; Parent/Caregiver must attend. Drop in program. Space is limited.",
+      "location": "Spadina Road",
+      "address": "10 Spadina Road, Toronto",
+      "startDate": "2026-08-30 14:00",
+      "endDate": "2026-08-30 14:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Science & Engineering"
+        "Coding & Robotics"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69a098a32866a5b4883e917a",
-      "phone": "(416) 393-7715",
+      "url": "https://tpl.bibliocommons.com/events/6a4946b7ed35742f00005a36",
+      "phone": "(416) 393-7666",
       "isRecurring": true,
-      "locationId": "JO"
+      "locationId": "SP"
     },
     {
       "id": "tpl_6a19a92dc6a1dc3d00d6ef0b",
@@ -46565,30 +46536,28 @@
       "locationId": "SJ"
     },
     {
-      "id": "tpl_6a03beec43b41b3d00661805",
+      "id": "tpl_696aba094a9fd98b7f780def",
       "source": "tpl",
-      "title": "Sunday STEAM at the Riverdale Branch",
-      "description": "Join us for a fun STEAM program on Sunday afternoon! Programs cycle between Robotics, Snap Circuits, LEGO, K'nex, Marble Run and Kids Craft Club. For Children ages 5 and up. Drop-in.&nbsp;",
-      "location": "Riverdale",
-      "address": "370 Broadview Avenue, Toronto",
-      "startDate": "2026-09-27 14:00",
-      "endDate": "2026-09-27 15:00",
+      "title": "Sunday Crafternoon",
+      "description": "Join us for Sunday crafts. Different activity each week. Sundays 12-4:30 pm. Drop-in. Live or automated closed captioning, sign language interpretation, intervenor services, or attendant services are available upon request. Please submit your request at least 2 weeks in advance to: tpl.ca/accessibility-events.",
+      "location": "Jones",
+      "address": "118 Jones Avenue, Toronto",
+      "startDate": "2026-09-20 12:00",
+      "endDate": "2026-09-20 16:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Coding & Robotics",
-        "Crafts & Hobbies",
-        "Science & Engineering"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a03beec43b41b3d00661805",
-      "phone": "(416) 393-7720",
+      "url": "https://tpl.bibliocommons.com/events/696aba094a9fd98b7f780def",
+      "phone": "(416) 393-7715",
       "isRecurring": true,
-      "locationId": "RD"
+      "locationId": "JO"
     },
     {
       "id": "tpl_6a174305703c3363002a6037",
@@ -47803,6 +47772,30 @@
       "locationId": "PU"
     },
     {
+      "id": "tpl_695d9cdd1f01fb76cec4f9f2",
+      "source": "tpl",
+      "title": "Knitting and Crochet Circle",
+      "description": "Spend an afternoon at our weekly drop-in knitting and crochet circle! Bring your work in progress and enjoy visiting with other knitters and crocheters. A great place to show off your work, get advice, swap ideas, or just relax and visit with fellow fiber enthusiasts. Beginners&nbsp;and all ages welcome!&nbsp;A limited supply of materials will be available.",
+      "location": "Don Mills",
+      "address": "888 Lawrence Avenue East, Toronto",
+      "startDate": "2026-10-08 13:00",
+      "endDate": "2026-10-08 14:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/695d9cdd1f01fb76cec4f9f2",
+      "phone": "(416) 395-5710",
+      "isRecurring": true,
+      "locationId": "DM"
+    },
+    {
       "id": "tpl_69dcf69cad384e40edba9e19",
       "source": "tpl",
       "title": "Solar System Stories: A Merril Collection Exhibit",
@@ -48246,31 +48239,6 @@
       "locationId": "HW"
     },
     {
-      "id": "tpl_6a31aa03c7d3cd580060d4dc",
-      "source": "tpl",
-      "title": " Live World Cup Viewing @Woodview Park ",
-      "description": "Watch the World Cup live at the library! We’ll be showing select matches that fall within our regular opening hours.&nbsp;See the schedule below for upcoming match screenings. #FWC26 #WeAreToronto Fri. June 12 3:00 PM Canada/Bosnia and Herzegovina Sat. June 13 3:00 PM Qatar/Switzerland Sun. June 14 1 :00 PM Germany/Curacao Sun.. June 14 &nbsp;4 :00 PM Netherlands/Japan Mon. June 15 12:00 PM Spain/Cape Verde Mon. June 15 3:00 PM Belgium/Egypt Mon. June 15 6:00 PM Saudi Arabia/Uruguay Tues. June 1",
-      "location": "Woodview Park",
-      "address": "16 Bradstock Road, Toronto",
-      "startDate": "2026-07-05 12:00",
-      "endDate": "2026-07-05 20:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Culture, Arts & Entertainment",
-        "Games & Sports"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a31aa03c7d3cd580060d4dc",
-      "phone": "(416) 395-5960",
-      "isRecurring": true,
-      "locationId": "WP"
-    },
-    {
       "id": "tpl_6a2863cf414ef43d0096433e",
       "source": "tpl",
       "title": "Quadrennial Men's International Football Tournament Screening",
@@ -48531,7 +48499,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a07577943b41b3d0066bbb7",
       "phone": "(416) 394-5270",
@@ -49021,28 +48989,28 @@
       "locationId": "BRW"
     },
     {
-      "id": "tpl_6a202eec8ea300e2631abbf5",
+      "id": "tpl_6a46e2637e16a03d00e9c8ff",
       "source": "tpl",
-      "title": "Digital Painting I: Introduction & Pen Control",
-      "description": "In this introductory workshop, participants will be able to explore the painting tools used to create digital art in Adobe Photoshop&nbsp;while using the WACOM Intuos tablet and pen. Computers and WACOM tablets will be provided. For more information about this program please contact dihonline@tpl.ca.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-07-07 18:00",
-      "endDate": "2026-07-07 20:00",
+      "title": "Youth Hub: Video Games ",
+      "description": "Are you a gamer?&nbsp;Grab a console and face off with friends. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "Richview",
+      "address": "1806 Islington Avenue, Toronto",
+      "startDate": "2026-07-06 15:30",
+      "endDate": "2026-07-06 19:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Audio & Visual"
+        "Games & Sports"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a202eec8ea300e2631abbf5",
-      "phone": "(416) 394-1008",
-      "isRecurring": false,
-      "locationId": "MD"
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a46e2637e16a03d00e9c8ff",
+      "phone": "(416) 394-5120",
+      "isRecurring": true,
+      "locationId": "RI"
     },
     {
       "id": "tpl_6a33136b75b1e22800817fe6",
@@ -50230,28 +50198,28 @@
       "locationId": "JO"
     },
     {
-      "id": "tpl_6a2759ce43b41b3d006ce5ba",
+      "id": "tpl_6a3db1bd57e90b326708e9d5",
       "source": "tpl",
-      "title": "World Cup 2026 Watch Live @ Gerrard/Ashdale Branch!",
-      "description": "Celebrate soccer's biggest event at Gerrard/Ashdale Library! Drop in for the following live screenings of scheduled matches in our second floor program room. Mon June 15, 12-2pm:&nbsp;Spain vs. Cape Verde Mon June 15, 3-5pm: Belgium vs. Egypt Tues June 16, 3-5pm:&nbsp;France vs. Senegal Wed June 17, 4-5:30pm:&nbsp;England vs. Croatia Thurs June 18, 3-5pm:&nbsp;Switzerland vs. Bosnia Thurs June 18, 6-8pm:&nbsp;Canada vs. Qatar Tues June 23, 1-3pm:&nbsp;Portugal vs. Uzbekistan Tues June 23, 4-6pm:",
-      "location": "Gerrard/Ashdale",
-      "address": "1432 Gerrard Street East, Toronto",
-      "startDate": "2026-07-10 15:00",
-      "endDate": "2026-07-10 17:00",
+      "title": "Youth Hub: Ping Pong Thursdays",
+      "description": "Ping Pong lovers rejoice! Enjoy an evening of fun by battling against your friends during Ping Pong day!&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "Weston",
+      "address": "2 King Street, Toronto",
+      "startDate": "2026-07-09 15:00",
+      "endDate": "2026-07-09 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Culture, Arts & Entertainment"
+        "Games & Sports"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a2759ce43b41b3d006ce5ba",
-      "phone": "(416) 393-7717",
+      "url": "https://tpl.bibliocommons.com/events/6a3db1bd57e90b326708e9d5",
+      "phone": "(416) 394-1016",
       "isRecurring": true,
-      "locationId": "GE"
+      "locationId": "WE"
     },
     {
       "id": "tpl_6a23082c2ea730c17ab49aeb",
@@ -51448,28 +51416,29 @@
       "locationId": "HW"
     },
     {
-      "id": "tpl_6a3c0df1296ea565de2e77e2",
+      "id": "tpl_6a1ddbf6c7d3cd58005d4a69",
       "source": "tpl",
-      "title": "Youth Hub: Mental Health Tracking",
-      "description": "Check-in with yourself with emotion tracking. Part 1 will teach participants how to create an emotion tracker.&nbsp; Part 2 will encourage participants to share about what they learned in the process. Staff will provide supplies and guidance. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call th",
-      "location": "Brentwood",
-      "address": "36 Brentwood Road North, Toronto",
-      "startDate": "2026-07-14 15:30",
-      "endDate": "2026-07-14 19:00",
+      "title": "Summer Camp for Newcomer Youth",
+      "description": "Join our free Summer Camp&nbsp;for newcomer youth ages 14-18.&nbsp; Participants should expect: Art and creative activities, Employment workshops, Field trips and volunteer hours.&nbsp; Snacks, refreshments and Lunch are provided. Questions? Contact Nasim: 647-332-5711 or email nzand@nych.ca In partnership with Immigration, Refugees and Citizenship Canada, North York Community House&nbsp;& Toronto Public Library. North York Community House is solely responsible for the protection of personal inf",
+      "location": "Richview",
+      "address": "1806 Islington Avenue, Toronto",
+      "startDate": "2026-07-13 09:30",
+      "endDate": "2026-08-21 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Health & Wellness"
+        "Civic & Community Engagement",
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a3c0df1296ea565de2e77e2",
-      "phone": "(416) 394-5240",
-      "isRecurring": true,
-      "locationId": "BR"
+      "url": "https://tpl.bibliocommons.com/events/6a1ddbf6c7d3cd58005d4a69",
+      "phone": "(647) 332-5711",
+      "isRecurring": false,
+      "locationId": "RI"
     },
     {
       "id": "tpl_6a3ab65a7550c8bf9f5f4b18",
@@ -52657,28 +52626,28 @@
       "locationId": "ACD"
     },
     {
-      "id": "tpl_6a29c1532ea730c17ab5ed59",
+      "id": "tpl_69711e66992fc18a86deb25b",
       "source": "tpl",
-      "title": "Nature TO Tour: Trees Around Beaches Branch",
-      "description": "Beaches Library is nestled next to Kew Gardens, a vibrant home to many species of trees. Join the City of Toronto Urban Forestry staff for a guided neighbourhood tour through Kew Gardens, where you’ll learn to identify different tree species and discover fascinating facts about their cultural and ecological significance. Please note: Children under 12 must be accompanied by a parent/caregiver. There may be uneven, unpaved surfaces along the route. Please prepare accordingly for this outdoor tour",
-      "location": "Beaches",
-      "address": "2161 Queen Street East, Toronto",
-      "startDate": "2026-07-17 13:00",
-      "endDate": "2026-07-17 14:30",
+      "title": "Youth Hub: Study Hall Wednesdays",
+      "description": "On Wednesdays, the Eatonville Youth Hub becomes a quiet space for teens to study, work on projects, and request homework help and resume help from staff. Bring your homework and enjoy a snack in a space that is just for teens. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find",
+      "location": "Eatonville",
+      "address": "430 Burnhampthorpe Road, Toronto",
+      "startDate": "2026-07-15 16:00",
+      "endDate": "2026-07-15 18:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Nature & the Environment"
+        "Civic & Community Engagement"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a29c1532ea730c17ab5ed59",
-      "phone": "(416) 393-7703",
-      "isRecurring": false,
-      "locationId": "BE"
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/69711e66992fc18a86deb25b",
+      "phone": "(416) 394-5270",
+      "isRecurring": true,
+      "locationId": "EA"
     },
     {
       "id": "tpl_6a0dc9a2fab4ff0f649a60c2",
@@ -53868,28 +53837,28 @@
       "locationId": "MS"
     },
     {
-      "id": "tpl_6a35828c72ddb7360081d1ac",
+      "id": "tpl_6a23082c2ea730c17ab49aee",
       "source": "tpl",
-      "title": "Youth Hub: LEGO",
-      "description": "Embrace childhood fun and join us in the Youth Hub for some LEGO building. Create your own LEGO masterpiece or try out a challenge. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "Albion",
-      "address": "1515 Albion Road, Toronto",
-      "startDate": "2026-07-21 16:00",
-      "endDate": "2026-07-21 17:00",
+      "title": "World Cup of Soccer Watch Party",
+      "description": "Join our World Cup watch parties and celebrate soccer's biggest event!&nbsp;Catch the action live! Drop in, no registration required. Livestreaming of soccer games is only during branch open hours and will end 15 minutes before closing. #FWC26, #WeAreToronto.",
+      "location": "Palmerston",
+      "address": "560 Palmerston Avenue, Toronto",
+      "startDate": "2026-07-19 15:00",
+      "endDate": "2026-07-19 16:45",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Crafts & Hobbies"
+        "Games & Sports"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a35828c72ddb7360081d1ac",
-      "phone": "(416) 394-5170",
-      "isRecurring": false,
-      "locationId": "AB"
+      "url": "https://tpl.bibliocommons.com/events/6a23082c2ea730c17ab49aee",
+      "phone": "(416) 393-7680",
+      "isRecurring": true,
+      "locationId": "PM"
     },
     {
       "id": "tpl_6a32fdd44407827f8aa59fa3",
@@ -55075,28 +55044,28 @@
       "locationId": "RI"
     },
     {
-      "id": "tpl_6a3d8eb5c7d3cd580062d89c",
+      "id": "tpl_69711f61c967cb4120833b77",
       "source": "tpl",
-      "title": "Introduction to 3D Printing",
-      "description": "Learn how 3D printers work and how you can print at the Toronto Public Library’s Digital Innovation Hubs. This class includes hands-on instruction with Prusa Slicer, the software used to prepare your 3D object file for printing on a Prusa MK3S+ 3D printer. Note: Customers are no longer required to attend a mandatory 3D printing class prior to using a 3D printer at the Toronto Public Library’s Digital Innovation Hubs. This class is for those who are interested in learning more about 3D printing a",
-      "location": "Victoria Village",
-      "address": "184 Sloane Avenue, Toronto",
-      "startDate": "2026-07-25 12:00",
-      "endDate": "2026-07-25 14:00",
+      "title": "Youth Hub: Crafty Thursdays",
+      "description": "Join us in the Youth Hub every Thursday for a series of crafting activities like painting, clay sculpting, sewing and embroidery, resin art, jewelry making, perler beads, block printing, and more! Check tpl.ca or&nbsp;our monthly calendar for the activity of the week. All materials provided. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.",
+      "location": "Eatonville",
+      "address": "430 Burnhampthorpe Road, Toronto",
+      "startDate": "2026-07-23 16:00",
+      "endDate": "2026-07-23 18:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "3D Printing"
+        "Crafts & Hobbies"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a3d8eb5c7d3cd580062d89c",
-      "phone": "(416) 395-5950",
-      "isRecurring": false,
-      "locationId": "VV"
+      "url": "https://tpl.bibliocommons.com/events/69711f61c967cb4120833b77",
+      "phone": "(416) 394-5270",
+      "isRecurring": true,
+      "locationId": "EA"
     },
     {
       "id": "tpl_695c3f868b29ea2800c7b675",
@@ -56287,14 +56256,14 @@
       "locationId": "BR"
     },
     {
-      "id": "tpl_6a0f7169278f7c2f008eb9b6",
+      "id": "tpl_6a46a6444407827f8aa8e6c7",
       "source": "tpl",
-      "title": "Youth Hub: Video/Board Games",
-      "description": "Drop-in for card and board games such as Uno, Monopoly, Jenga, and more. Nintendo OR PS5 games may also be available to play. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "Kennedy/Eglinton",
-      "address": "2380 Eglinton Avenue East, Toronto",
-      "startDate": "2026-07-30 16:00",
-      "endDate": "2026-07-30 19:00",
+      "title": "Youth Hub: Video Games",
+      "description": "Come play our Nintendo Switch 2 and PlayStation 5. We’ve got a great selection of games to choose from! This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "Parkdale",
+      "address": "1303 Queen Street West, Toronto",
+      "startDate": "2026-07-28 15:30",
+      "endDate": "2026-07-28 19:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
@@ -56305,10 +56274,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a0f7169278f7c2f008eb9b6",
-      "phone": "(416) 396-8924",
+      "url": "https://tpl.bibliocommons.com/events/6a46a6444407827f8aa8e6c7",
+      "phone": "(416) 393-7686",
       "isRecurring": true,
-      "locationId": "KE"
+      "locationId": "PK"
     },
     {
       "id": "tpl_6a31788b90cc4e3a790e8993",
@@ -57493,28 +57462,28 @@
       "locationId": "MS"
     },
     {
-      "id": "tpl_6a41712fed35742f00fefce5",
+      "id": "tpl_6a10a4108360de907d881112",
       "source": "tpl",
-      "title": "Disassemble a Computer Workshop",
-      "description": "Have you ever wondered what's going on inside a computer? Ever wanted to take apart a computer to see? This workshop is your chance! Free Geek Toronto is a non-profit organization dedicated to getting unwanted computers and electronics back into working condition. During this workshop, we'll go over what's inside a computer, how to properly open a desktop, and safety guidelines to follow when it comes to working with electronics. Registration is required. Registration begins on Monday, July 27. ",
-      "location": "Main Street",
-      "address": "137 Main Street, Toronto",
-      "startDate": "2026-08-07 14:00",
-      "endDate": "2026-08-07 15:30",
+      "title": "Sunday Family Game Time",
+      "description": "Join us for a family games afternoon from Lego to Uno. We will also have some colouring and crafts for everyone Every Sunday afternoon all ages welcome",
+      "location": "Taylor Memorial",
+      "address": "1440 Kingston Road, Toronto",
+      "startDate": "2026-08-02 13:00",
+      "endDate": "2026-08-02 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Science & Engineering"
+        "Crafts & Hobbies"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a41712fed35742f00fefce5",
-      "phone": "(416) 393-7700",
-      "isRecurring": false,
-      "locationId": "MA"
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a10a4108360de907d881112",
+      "phone": "(416) 396-8939",
+      "isRecurring": true,
+      "locationId": "TA"
     },
     {
       "id": "tpl_6a3733ce96ee38a44a925239",
@@ -58702,14 +58671,14 @@
       "locationId": "RI"
     },
     {
-      "id": "tpl_6a3c0eecfddb082f00fdb5da",
+      "id": "tpl_69cc4934ad384e40edb809d2",
       "source": "tpl",
-      "title": "Youth Hub: Crochet Club",
-      "description": "Learn to crochet at crochet club. Staff will teach participants basic crochet stitches. Come back every week to work on a project! Or, bring your own project and crochet along with us! This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "Maria A. Shchuka",
-      "address": "1745 Eglinton Avenue West, Toronto",
-      "startDate": "2026-08-19 15:30",
-      "endDate": "2026-08-19 19:00",
+      "title": "Chess Club",
+      "description": "Drop in for a casual game of chess in a welcoming environment. Improve your chess skills or learn how to play. Sets are provided. All ages.&nbsp;Drop-in.",
+      "location": "Richview",
+      "address": "1806 Islington Avenue, Toronto",
+      "startDate": "2026-08-13 16:00",
+      "endDate": "2026-08-13 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
@@ -58720,10 +58689,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a3c0eecfddb082f00fdb5da",
-      "phone": "(416) 394-1000",
+      "url": "https://tpl.bibliocommons.com/events/69cc4934ad384e40edb809d2",
+      "phone": "(416) 394-5120",
       "isRecurring": true,
-      "locationId": "MAS"
+      "locationId": "RI"
     },
     {
       "id": "tpl_69711e66992fc18a86deb260",
@@ -59907,14 +59876,14 @@
       "locationId": "DGH"
     },
     {
-      "id": "tpl_695d9cdd1f01fb76cec4f9ed",
+      "id": "tpl_6a3c0eecfddb082f00fdb5db",
       "source": "tpl",
-      "title": "Knitting and Crochet Circle",
-      "description": "Spend an afternoon at our weekly drop-in knitting and crochet circle! Bring your work in progress and enjoy visiting with other knitters and crocheters. A great place to show off your work, get advice, swap ideas, or just relax and visit with fellow fiber enthusiasts. Beginners&nbsp;and all ages welcome!&nbsp;A limited supply of materials will be available.",
-      "location": "Don Mills",
-      "address": "888 Lawrence Avenue East, Toronto",
-      "startDate": "2026-09-03 13:00",
-      "endDate": "2026-09-03 14:00",
+      "title": "Youth Hub: Crochet Club",
+      "description": "Learn to crochet at crochet club. Staff will teach participants basic crochet stitches. Come back every week to work on a project! Or, bring your own project and crochet along with us! This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "Maria A. Shchuka",
+      "address": "1745 Eglinton Avenue West, Toronto",
+      "startDate": "2026-08-26 15:30",
+      "endDate": "2026-08-26 19:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
@@ -59925,10 +59894,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/695d9cdd1f01fb76cec4f9ed",
-      "phone": "(416) 395-5710",
+      "url": "https://tpl.bibliocommons.com/events/6a3c0eecfddb082f00fdb5db",
+      "phone": "(416) 394-1000",
       "isRecurring": true,
-      "locationId": "DM"
+      "locationId": "MAS"
     },
     {
       "id": "tpl_69cc4934ad384e40edb809d5",
@@ -61113,28 +61082,31 @@
       "locationId": "BE"
     },
     {
-      "id": "tpl_69711e66992fc18a86deb26b",
+      "id": "tpl_6a0f4adf8e677a28001d8c7e",
       "source": "tpl",
-      "title": "Youth Hub: Study Hall Wednesdays",
-      "description": "On Wednesdays, the Eatonville Youth Hub becomes a quiet space for teens to study, work on projects, and request homework help and resume help from staff. Bring your homework and enjoy a snack in a space that is just for teens. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find",
-      "location": "Eatonville",
-      "address": "430 Burnhampthorpe Road, Toronto",
-      "startDate": "2026-11-04 16:00",
-      "endDate": "2026-11-04 18:00",
+      "title": "Sunday Family Club",
+      "description": "Enjoy and have fun on Sunday afternoons at Guildwood Library! Will you colour your favourite characters, do a craft or show off your building skills with LEGO and KEVA? Maybe it will be Snap Circuits or Board Games? Every Sunday come in for a surprise!&nbsp;",
+      "location": "Guildwood",
+      "address": "123 Guildwood Parkway, Toronto",
+      "startDate": "2026-09-27 14:00",
+      "endDate": "2026-09-27 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Civic & Community Engagement"
+        "Coding & Robotics",
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment",
+        "Games & Sports"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69711e66992fc18a86deb26b",
-      "phone": "(416) 394-5270",
+      "url": "https://tpl.bibliocommons.com/events/6a0f4adf8e677a28001d8c7e",
+      "phone": "(416) 396-8872",
       "isRecurring": true,
-      "locationId": "EA"
+      "locationId": "GW"
     },
     {
       "id": "tpl_6a3996b68ea300e2631f889f",
@@ -62324,6 +62296,30 @@
       "phone": "(416) 394-5270",
       "isRecurring": true,
       "locationId": "EA"
+    },
+    {
+      "id": "tpl_6a3db9dcc7d3cd580062e467",
+      "source": "tpl",
+      "title": "Cercle de Conversation Francaise/ French Conversation Circle",
+      "description": "Nous vous invitons à pratiquer votre français dans un environnement informel ! Tous les niveaux sont bienvenus. We invite you to practice your French in an informal environment! This French Conversation Circle is open to all levels. Accessibilité: Le sous-titrage en direct ou automatique, l’interprétation en langue des signes, les services d’intervenant, ou les services d’accompagnement sont disponibles sur demande. Veuillez soumettre votre demande au moins deux semaines à l’avance à : tpl.ca/ac",
+      "location": "Junction Triangle",
+      "address": "305 Campbell Avenue, Toronto",
+      "startDate": "2026-12-03 18:00",
+      "endDate": "2026-12-03 19:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Conversation Circles"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a3db9dcc7d3cd580062e467",
+      "phone": "(416) 393-7677",
+      "isRecurring": true,
+      "locationId": "JT"
     }
   ]
 }
