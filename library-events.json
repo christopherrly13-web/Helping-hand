@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T06:02:09.209Z",
+  "lastUpdated": "2026-07-08T11:09:30.077Z",
   "totalEvents": 2550,
   "source": "Toronto Public Library",
   "events": [
@@ -819,7 +819,7 @@
         "Games & Sports"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a29c1d54407827f8aa4025a",
       "phone": "(416) 395-5630",
@@ -23709,7 +23709,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a21df554407827f8aa2abdb",
       "phone": "(416) 394-1008",
