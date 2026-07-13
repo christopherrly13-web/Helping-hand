@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T09:34:18.381Z",
+  "lastUpdated": "2026-07-13T14:42:41.302Z",
   "totalEvents": 2445,
   "source": "Toronto Public Library",
   "events": [
@@ -457,7 +457,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a29a251f56bd86e00b5d880",
       "phone": "(416) 395-5630",
@@ -6824,7 +6824,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a285876c7d3cd58005f2b14",
       "phone": "(416) 936-8979",
@@ -22522,7 +22522,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a29a251f56bd86e00b5d880",
       "phone": "(416) 395-5630",
@@ -22894,7 +22894,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a3a074eb0be773850da2bc5",
       "phone": "(416) 396-8910",
@@ -22990,7 +22990,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a0217e8177319280018f873",
       "phone": "(416) 396-8916",
@@ -29201,7 +29201,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a395b889571053ed63bf1a4",
       "phone": "(416) 396-3717",
@@ -29836,7 +29836,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a3a0c4fc134422d50e9d3a3",
       "phone": "(416) 396-8910",
@@ -33993,7 +33993,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a021746177319280018f7f4",
       "phone": "(416) 396-8916",
@@ -47227,7 +47227,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a3042e0c7d3cd5800608bb4",
       "phone": "(416) 395-5750",
