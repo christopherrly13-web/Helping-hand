@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T09:21:12.513Z",
+  "lastUpdated": "2026-07-20T14:13:16.551Z",
   "totalEvents": 2380,
   "source": "Toronto Public Library",
   "events": [
@@ -22108,7 +22108,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a109212e8af4a2f0074605a",
       "phone": "(416) 395-5720",
@@ -22257,7 +22257,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a1e1a9ce13d3b4603b623be",
       "phone": "(416) 395-5710",
@@ -26764,7 +26764,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a205aae52c88111723cc253",
       "phone": "(416) 395-5710",
@@ -29047,30 +29047,6 @@
       "locationId": "RN"
     },
     {
-      "id": "tpl_6a3c3d1dcf21930366aca787",
-      "source": "tpl",
-      "title": "LEGO Free-Play!",
-      "description": "LEGO Free Play is a fun, creative program where children can build anything they imagine using LEGO bricks. There are no instructions or rules to follow, kids are free to explore, create, and play at their own pace. Drop-In, No Registration Required.&nbsp;",
-      "location": "Long Branch",
-      "address": "3500 Lake Shore Boulevard West, Toronto",
-      "startDate": "2026-08-07 14:00",
-      "endDate": "2026-08-07 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Games & Sports"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a3c3d1dcf21930366aca787",
-      "phone": "(416) 394-5320",
-      "isRecurring": true,
-      "locationId": "LB"
-    },
-    {
       "id": "tpl_6a3edcd3296ea565de2efb6d",
       "source": "tpl",
       "title": "Summer Wonder: Sushi Charm ",
@@ -30259,28 +30235,28 @@
       "locationId": "WE"
     },
     {
-      "id": "tpl_6a39a6d090cc4e3a790ff8c7",
+      "id": "tpl_6a19dec9703c3363002adaa6",
       "source": "tpl",
-      "title": "Monday Afternoon at the Movies!",
-      "description": "Come enjoy an afternoon at the Port Union Cinema! Over the course of the summer we will be showing a series of Studio Ghibli films. The schedule will be as follows: Monday July 13: My Neighbour Totoro Follow the adventures of Satsuki and her four year old sister Mei as they discover their new neighbor is a mysterious forest spirit named Totoro who can only be seen by the eyes of a child. As Totoro introduces the girls to his extraordinary friends, they embark on the journey of a lifetime. Monday",
-      "location": "Port Union",
-      "address": "5450 Lawrence Avenue East, Toronto",
-      "startDate": "2026-08-10 14:00",
-      "endDate": "2026-08-10 16:00",
+      "title": "Sunday Crafternoon for Kids - Lily Pad",
+      "description": "Craft, create, and have fun -- perfect for kids 6+ and their families!&nbsp; Please register only the children who will be participating in the craft. Adults do not need to register.",
+      "location": "Mimico Centennial",
+      "address": "47 Station Road, Toronto",
+      "startDate": "2026-08-09 14:00",
+      "endDate": "2026-08-09 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Culture, Arts & Entertainment"
+        "Crafts & Hobbies"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a39a6d090cc4e3a790ff8c7",
-      "phone": "(416) 396-8885",
-      "isRecurring": true,
-      "locationId": "PU"
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a19dec9703c3363002adaa6",
+      "phone": "(416) 394-5330",
+      "isRecurring": false,
+      "locationId": "MI"
     },
     {
       "id": "tpl_6a567a58cca66c2f00a36177",
@@ -30763,7 +30739,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a160a158ea300e26318afec",
       "phone": "(416) 395-5710",
@@ -31472,14 +31448,14 @@
       "locationId": "MCG"
     },
     {
-      "id": "tpl_6a5a89f5c7e02e3d0069dde7",
+      "id": "tpl_6a4c2ce59aae2bdc280088e5",
       "source": "tpl",
-      "title": "Aquatic Terrarium ",
-      "description": "Join us for a hands-on activity in creating your own aquatic terrarium using the low-maintenance, natural planted Walstad method. The principle: mimic nature so the ecosystem largely takes care of itself. Bring your own Jar. Space and Supplies are limited. Registration is Required If you are accepting registration for your program, please copy and paste the following Information Collection Notice into the program description field, following the program description: Information Collection Notice",
-      "location": "Armour Heights",
-      "address": "2140 Avenue Road, Toronto",
-      "startDate": "2026-08-13 18:30",
-      "endDate": "2026-08-13 20:00",
+      "title": "Summer Movies",
+      "description": "Beat the heat and enjoy a family-friendly movie at the library this summer! Join us on the dates listed below for fun films, laughter, and a cool place to unwind with family and friends. Children 5 & younger must be seated with a caregiver! Drop In. Space is limited. Located in the auditorium.",
+      "location": "Albion",
+      "address": "1515 Albion Road, Toronto",
+      "startDate": "2026-08-12 13:00",
+      "endDate": "2026-08-12 14:45",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
@@ -31487,13 +31463,13 @@
       "categories": [
         "Culture, Arts & Entertainment"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a5a89f5c7e02e3d0069dde7",
-      "phone": "(416) 395-5430",
-      "isRecurring": false,
-      "locationId": "AH"
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a4c2ce59aae2bdc280088e5",
+      "phone": "(416) 394-5170",
+      "isRecurring": true,
+      "locationId": "AB"
     },
     {
       "id": "tpl_6a24812f3233d28b1b2d3234",
@@ -32684,28 +32660,28 @@
       "locationId": "BB"
     },
     {
-      "id": "tpl_6a5a3011c44ff5b82cf5d586",
+      "id": "tpl_6a10799d8ea300e26317c27e",
       "source": "tpl",
-      "title": "Sunday Dash and Dots",
-      "description": "Join us for a fun afternoon of robotics! Learn how to control, code and move your robots. Registration is required.&nbsp;For ages 7-12 only (children outside of this age range will not be able to participate).&nbsp; *For all registered Children's programs at Malvern, there is a grace period of 10 minutes. After the first 10 minutes of a program, spots will be given to waiting customers.* Information Collection Notice: The personal information on this form is collected by the Toronto Public Libra",
-      "location": "Malvern",
-      "address": "30 Sewells Road, Toronto",
-      "startDate": "2026-08-16 14:00",
-      "endDate": "2026-08-16 15:00",
+      "title": "Wonder Workshop: Out of this World Challenge",
+      "description": "Have you ever imagined what it would be like to travel to outer space? Join us to learn about space and the red planet then design your own spacecraft. Brainstorm creative ways to solve problems you might face on your journey. Plus, enter a prize draw for a chance to win an awesome book.&nbsp; For kids ages 6-10. Space is limited.",
+      "location": "Victoria Village",
+      "address": "184 Sloane Avenue, Toronto",
+      "startDate": "2026-08-15 14:00",
+      "endDate": "2026-08-15 15:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Coding & Robotics"
+        "Science & Engineering"
       ],
       "isDropIn": false,
       "isFull": false,
       "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a5a3011c44ff5b82cf5d586",
-      "phone": "(416) 396-8969",
+      "url": "https://tpl.bibliocommons.com/events/6a10799d8ea300e26317c27e",
+      "phone": "(416) 395-5950",
       "isRecurring": false,
-      "locationId": "MAL"
+      "locationId": "VV"
     },
     {
       "id": "tpl_69546b1e6724c63d00e96a85",
@@ -33896,28 +33872,28 @@
       "locationId": "LS"
     },
     {
-      "id": "tpl_6a037842f6bd012f00677962",
+      "id": "tpl_6a46e6966db61d28009998d5",
       "source": "tpl",
-      "title": "Movie: Frozen",
-      "description": "For children 4 and up, accompanied by parent or caregiver . Cool off at the library and watch an animated film with your family! Rated PG. Free tickets will be available in the theatre lobby 15 min before the movie on a first come, first served basis. Space is limited. Large groups and daycares must register ahead of time, and spots are limited. No admittance after 2:10 p.m. or once venue is at capacity. Please note that the main entrance to the theatre is outside the library on ground level. Pl",
-      "location": "Fairview",
-      "address": "35 Fairview Mall Drive, Toronto",
-      "startDate": "2026-08-20 14:00",
-      "endDate": "2026-08-20 16:00",
+      "title": "Sphero Bowling Tournament ",
+      "description": "Love bowling and robots? St. James Town Library is hosting a bowling tournament with Sphero! Come play against your friends and battle for first place! Registration is required. Program is limited to 12 participants.&nbsp;",
+      "location": "St. James Town",
+      "address": "495 Sherbourne Street, Toronto",
+      "startDate": "2026-08-18 14:00",
+      "endDate": "2026-08-18 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Culture, Arts & Entertainment"
+        "Coding & Robotics"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a037842f6bd012f00677962",
-      "phone": "(416) 395-5750",
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a46e6966db61d28009998d5",
+      "phone": "(416) 393-7744",
       "isRecurring": false,
-      "locationId": "FV"
+      "locationId": "SJ"
     },
     {
       "id": "tpl_6a0df747703c33630028d392",
@@ -34887,6 +34863,31 @@
       "phone": "(416) 394-5200",
       "isRecurring": true,
       "locationId": "RX"
+    },
+    {
+      "id": "tpl_6a47f6a47e16a03d00ea0386",
+      "source": "tpl",
+      "title": "Mikael Taieb: Atelier - L'Art pixel de Rubik ",
+      "description": "L'Art Pixel de Rubik allie créativité et résolution de problèmes en utilisant des cubes de Rubik pour créer des portraits pixelisés vibrants. Les participants y apprennent des techniques de base pour résoudre le cube tout en développant leur conscience spatiale, leur logique et leurs compétences artistiques dans un environnement ludique et pratique. Ce programme encourage le travail d’équipe, la patience et la confiance en soi grâce à des activités engageantes, accessibles à tous, quel que soit ",
+      "location": "Fairview",
+      "address": "35 Fairview Mall Drive, Toronto",
+      "startDate": "2026-08-21 14:00",
+      "endDate": "2026-08-21 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Culture, Arts & Entertainment",
+        "Science & Engineering"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a47f6a47e16a03d00ea0386",
+      "phone": "(416) 395-5750",
+      "isRecurring": false,
+      "locationId": "FV"
     },
     {
       "id": "tpl_6a344285f56bd86e00b79fa0",
@@ -46512,7 +46513,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a3301aa43b41b3d006f3309",
       "phone": "(416) 395-5646",
