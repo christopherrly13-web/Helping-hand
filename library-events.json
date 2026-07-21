@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T02:55:54.794Z",
+  "lastUpdated": "2026-07-21T05:55:06.965Z",
   "totalEvents": 2354,
   "source": "Toronto Public Library",
   "events": [
@@ -28380,7 +28380,7 @@
         "Writing Groups"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a04c472f89ee1580052adce",
       "phone": "(416) 393-7683",
@@ -45748,7 +45748,7 @@
         "Audio & Visual"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69fa1985e7108c0f03d0fd0c",
       "phone": "(416) 393-7610",
@@ -45796,7 +45796,7 @@
         "Audio & Visual"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a36b3487550c8bf9f5ea631",
       "phone": "(416) 396-3599",
