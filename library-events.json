@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T11:12:11.825Z",
+  "lastUpdated": "2026-07-21T14:00:11.460Z",
   "totalEvents": 2354,
   "source": "Toronto Public Library",
   "events": [
@@ -13418,30 +13418,6 @@
       "locationId": "EA"
     },
     {
-      "id": "tpl_6a4e9df359e5f73600cbe753",
-      "source": "tpl",
-      "title": "Baby Time",
-      "description": "Bouncing and tickling rhymes, stories, and songs for babies from birth to 18 months with their parents or caregivers.&nbsp; Drop in.&nbsp; No registration required.&nbsp; Space is limited. Please note there is no program on September 30th, National Day for Truth and Reconciliation.",
-      "location": "Maryvale",
-      "address": "85 Ellesmere Road, Unit 22, Toronto",
-      "startDate": "2026-09-16 10:00",
-      "endDate": "2026-09-16 10:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a4e9df359e5f73600cbe753",
-      "phone": "(416) 396-8931",
-      "isRecurring": true,
-      "locationId": "MRV"
-    },
-    {
       "id": "tpl_69b1b7eadb89981d9df95176",
       "source": "tpl",
       "title": "Baby Time",
@@ -13560,6 +13536,30 @@
       "phone": "(416) 393-7671",
       "isRecurring": true,
       "locationId": "HP"
+    },
+    {
+      "id": "tpl_6a4e9df359e5f73600cbe753",
+      "source": "tpl",
+      "title": "Baby Time",
+      "description": "Bouncing and tickling rhymes, stories, and songs for babies from birth to 18 months with their parents or caregivers.&nbsp; Drop in.&nbsp; No registration required.&nbsp; Space is limited. Please note there is no program on September 30th, National Day for Truth and Reconciliation.",
+      "location": "Maryvale",
+      "address": "85 Ellesmere Road, Unit 22, Toronto",
+      "startDate": "2026-09-16 10:30",
+      "endDate": "2026-09-16 11:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a4e9df359e5f73600cbe753",
+      "phone": "(416) 396-8931",
+      "isRecurring": true,
+      "locationId": "MRV"
     },
     {
       "id": "tpl_6a15c3ea490f176f7dd669bc",
@@ -16450,30 +16450,6 @@
       "locationId": "PL"
     },
     {
-      "id": "tpl_6a4e9df359e5f73600cbe757",
-      "source": "tpl",
-      "title": "Baby Time",
-      "description": "Bouncing and tickling rhymes, stories, and songs for babies from birth to 18 months with their parents or caregivers.&nbsp; Drop in.&nbsp; No registration required.&nbsp; Space is limited. Please note there is no program on September 30th, National Day for Truth and Reconciliation.",
-      "location": "Maryvale",
-      "address": "85 Ellesmere Road, Unit 22, Toronto",
-      "startDate": "2026-10-21 10:00",
-      "endDate": "2026-10-21 10:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a4e9df359e5f73600cbe757",
-      "phone": "(416) 396-8931",
-      "isRecurring": true,
-      "locationId": "MRV"
-    },
-    {
       "id": "tpl_69b1b82adb89981d9df9517c",
       "source": "tpl",
       "title": "Family Time",
@@ -16520,6 +16496,30 @@
       "phone": "(416) 393-7712",
       "isRecurring": true,
       "locationId": "DU"
+    },
+    {
+      "id": "tpl_6a4e9df359e5f73600cbe757",
+      "source": "tpl",
+      "title": "Baby Time",
+      "description": "Bouncing and tickling rhymes, stories, and songs for babies from birth to 18 months with their parents or caregivers.&nbsp; Drop in.&nbsp; No registration required.&nbsp; Space is limited. Please note there is no program on September 30th, National Day for Truth and Reconciliation.",
+      "location": "Maryvale",
+      "address": "85 Ellesmere Road, Unit 22, Toronto",
+      "startDate": "2026-10-21 10:30",
+      "endDate": "2026-10-21 11:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a4e9df359e5f73600cbe757",
+      "phone": "(416) 396-8931",
+      "isRecurring": true,
+      "locationId": "MRV"
     },
     {
       "id": "tpl_69a1da198089f23c675ea389",
@@ -22407,30 +22407,6 @@
       "locationId": "BE"
     },
     {
-      "id": "tpl_6a1f18468ea300e2631a7b80",
-      "source": "tpl",
-      "title": "Intro to 3D Printing ",
-      "description": "Intro to 3D Printing Introduction to 3D Printing in the library.&nbsp; We will cover: - basics of 3D printing,&nbsp; - rules of printing in the library,&nbsp; - how to find files and transfer to the printer - different types of software for 3D designing. - Q&A Ages 6 and up.&nbsp; Registration opens 1 week before class (July 14th&nbsp;at 9 am) Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 2",
-      "location": "Malvern",
-      "address": "30 Sewells Road, Toronto",
-      "startDate": "2026-07-21 14:00",
-      "endDate": "2026-07-21 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "3D Printing"
-      ],
-      "isDropIn": false,
-      "isFull": true,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a1f18468ea300e2631a7b80",
-      "phone": "(416) 369-8652",
-      "isRecurring": false,
-      "locationId": "MAL"
-    },
-    {
       "id": "tpl_6a2b49064407827f8aa45c1c",
       "source": "tpl",
       "title": "Board Games for Kids",
@@ -22455,6 +22431,30 @@
       "phone": "(416) 393-7674",
       "isRecurring": false,
       "locationId": "BL"
+    },
+    {
+      "id": "tpl_6a1f18468ea300e2631a7b80",
+      "source": "tpl",
+      "title": "Intro to 3D Printing ",
+      "description": "Intro to 3D Printing Introduction to 3D Printing in the library.&nbsp; We will cover: - basics of 3D printing,&nbsp; - rules of printing in the library,&nbsp; - how to find files and transfer to the printer - different types of software for 3D designing. - Q&A Ages 6 and up.&nbsp; Registration opens 1 week before class (July 14th&nbsp;at 9 am) Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 2",
+      "location": "Malvern",
+      "address": "30 Sewells Road, Toronto",
+      "startDate": "2026-07-21 14:00",
+      "endDate": "2026-07-21 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "3D Printing"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a1f18468ea300e2631a7b80",
+      "phone": "(416) 369-8652",
+      "isRecurring": false,
+      "locationId": "MAL"
     },
     {
       "id": "tpl_69fdddb5c6a1dc3d00d258a4",
@@ -41078,7 +41078,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bbe",
       "phone": "(416) 395-5750",
@@ -43350,7 +43350,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bbf",
       "phone": "(416) 395-5750",
@@ -44782,7 +44782,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bc0",
       "phone": "(416) 395-5750",
@@ -44878,7 +44878,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bc2",
       "phone": "(416) 395-5750",
@@ -44950,7 +44950,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bc3",
       "phone": "(416) 395-5750",
@@ -47033,7 +47033,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bbb",
       "phone": "(416) 395-5750",
@@ -54545,7 +54545,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bbc",
       "phone": "(416) 395-5750",
@@ -55223,7 +55223,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bbd",
       "phone": "(416) 395-5750",
@@ -56779,7 +56779,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a14e590caf93436005e4bbf",
       "phone": "(416) 395-5750",
