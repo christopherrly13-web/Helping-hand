@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T11:12:42.963Z",
+  "lastUpdated": "2026-07-22T14:03:50.528Z",
   "totalEvents": 2357,
   "source": "Toronto Public Library",
   "events": [
@@ -912,7 +912,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a36f7ec414ef43d009788f1",
       "phone": "(416) 396-8920",
@@ -1010,7 +1010,7 @@
         "Nature & the Environment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a0765ef8e677a28001c3a91",
       "phone": "(416) 393-7674",
@@ -22282,7 +22282,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a0dba6ccaf93436005d136c",
       "phone": "(416) 396-8943",
@@ -22500,7 +22500,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a35b75c3e640a44001a103b",
       "phone": "(416) 393-7692",
@@ -22742,7 +22742,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a36f7ec414ef43d009788f1",
       "phone": "(416) 396-8920",
@@ -22866,7 +22866,7 @@
         "Nature & the Environment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a0765ef8e677a28001c3a91",
       "phone": "(416) 393-7674",
@@ -25097,7 +25097,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a0217e8177319280018f875",
       "phone": "(416) 396-8916",
@@ -27840,7 +27840,7 @@
         "Nature & the Environment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69fb73b7c7d3cd5800576b43",
       "phone": "(416) 396-8924",
@@ -29799,7 +29799,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69f2404e762d19c7d5109dcc",
       "phone": "(416) 396-8964",
@@ -45329,7 +45329,7 @@
         "Nature & the Environment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a0765ef8e677a28001c3a91",
       "phone": "(416) 393-7674",
@@ -48794,6 +48794,30 @@
       "locationId": "TRL"
     },
     {
+      "id": "tpl_6a47faa420e064860195cf65",
+      "source": "tpl",
+      "title": "Youth Hub: Foosball Tournament",
+      "description": "Want to test your foosball skills against other teens? Compete in our tournament for a chance to win a cool prize. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "Parliament Street",
+      "address": "269 Gerrard Street East, Toronto",
+      "startDate": "2026-08-05 16:00",
+      "endDate": "2026-08-05 18:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Games & Sports"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a47faa420e064860195cf65",
+      "phone": "(416) 393-7663",
+      "isRecurring": false,
+      "locationId": "PL"
+    },
+    {
       "id": "tpl_69deafe2c1cf6f9a75855cca",
       "source": "tpl",
       "title": "Youth Hub: Quick Chaotic Board Games",
@@ -49977,28 +50001,28 @@
       "locationId": "RI"
     },
     {
-      "id": "tpl_6a4be868c52cdc3600ef2a8d",
+      "id": "tpl_6a5a6e33cca66c2f00a41c50",
       "source": "tpl",
-      "title": "Youth Hub: Mindful Coloring",
-      "description": "Need a break from your screens? Join us in our Hub for some mindful colouring! This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "Malvern",
-      "address": "30 Sewells Road, Toronto",
-      "startDate": "2026-08-07 15:30",
-      "endDate": "2026-08-07 17:00",
+      "title": "Basic Animation in Krita",
+      "description": "Learn digital painting and simple animation techniques using Krita! Krita is a free and open-source raster graphics editor that features an OpenGL-accelerated canvas, colour management support, an advanced brush engine, non-destructive layers and masks, group-based layer management, vector artwork support, and switchable customization profiles. This particular workshop focuses on digitally painting simple imagery using a mouse and keyboard, and then animating it. Registration is required for thi",
+      "location": "North York Central Library",
+      "address": "5120 Yonge Street, Toronto",
+      "startDate": "2026-08-10 18:30",
+      "endDate": "2026-08-10 20:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Crafts & Hobbies"
+        "Audio & Visual"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a4be868c52cdc3600ef2a8d",
-      "phone": "(416) 396-8969",
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a5a6e33cca66c2f00a41c50",
+      "phone": "(416) 395-5646",
       "isRecurring": false,
-      "locationId": "MAL"
+      "locationId": "CL"
     },
     {
       "id": "tpl_6a394dd18ea300e2631f7129",
@@ -51183,28 +51207,28 @@
       "locationId": "TRL"
     },
     {
-      "id": "tpl_6a56aae20d65ac36003fc146",
+      "id": "tpl_6a469ffe20e064860195894e",
       "source": "tpl",
-      "title": "Learn to Make a Video Game - Part 1",
-      "description": "Learn the basics of video game development using the free browser-based video game development tool, Construct 3. In this session, you'll learn how to create a 2D platformer without the need for coding. Participants will learn the interface and tools of Construct 3, and by the end of the class will have built their own simple game. Keyboarding and mouse&nbsp;skills are required. Registration is required.&nbsp; Registration begins on July 30th at 12:30pm.&nbsp; Note: Your spot will not be guarant",
-      "location": "North York Central Library",
-      "address": "5120 Yonge Street, Toronto",
-      "startDate": "2026-08-13 14:00",
-      "endDate": "2026-08-13 16:00",
+      "title": "Chess Club",
+      "description": "Drop in for a casual game of chess in a welcoming environment! Improve your chess skills or learn how to play. Chess sets will be provided. If you feel comfortable bringing your own set, you are welcome to do so. All Ages Welcome! Children under 12 must be accompanied by a guardian.&nbsp;! No registration required. Drop-in!&nbsp; Facilitated by the University of Toronto Scarborough Chess Club, for all program dates up to & including Sat Aug 15.",
+      "location": "Morningside",
+      "address": "4279 Lawrence Avenue East, Toronto",
+      "startDate": "2026-08-15 14:00",
+      "endDate": "2026-08-15 15:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Coding & Robotics"
+        "Crafts & Hobbies"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a56aae20d65ac36003fc146",
-      "phone": "(416) 395-5646",
-      "isRecurring": false,
-      "locationId": "CL"
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a469ffe20e064860195894e",
+      "phone": "(416) 396-8881",
+      "isRecurring": true,
+      "locationId": "MS"
     },
     {
       "id": "tpl_6a5e5e6cf4e5db3d00c2f85d",
@@ -51934,30 +51958,6 @@
       "phone": "(416) 395-5535",
       "isRecurring": true,
       "locationId": "CL"
-    },
-    {
-      "id": "tpl_6a5fed294523092f0031ac12",
-      "source": "tpl",
-      "title": "Advanced Photoshop Workshop - Layers & Masks",
-      "description": "This is a advanced level photo editing with Photoshop workshop. Attendants will have a chance to practice how to use layers and masks tool in Adobe Photoshop&nbsp;to get a professional level photo.&nbsp; Attendants must have an adobe account, google account, apple account or facebook account to log into Adobe photoshop. If you don't have an account, please create and keep the information of&nbsp;user name and password with you. This is an in-person event, registration required via Eventbrite two",
-      "location": "Fairview",
-      "address": "35 Fairview Mall Drive, Toronto",
-      "startDate": "2026-08-17 17:30",
-      "endDate": "2026-08-17 19:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Audio & Visual"
-      ],
-      "isDropIn": false,
-      "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a5fed294523092f0031ac12",
-      "phone": "(416) 395-5750",
-      "isRecurring": false,
-      "locationId": "FV"
     },
     {
       "id": "tpl_6a550fdddee4ff5300c930fe",
