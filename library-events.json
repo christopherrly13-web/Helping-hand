@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T11:14:07.746Z",
+  "lastUpdated": "2026-07-23T14:09:30.063Z",
   "totalEvents": 2387,
   "source": "Toronto Public Library",
   "events": [
@@ -22809,7 +22809,7 @@
         "Games & Sports"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a20a27f4407827f8aa27347",
       "phone": "(416) 394-1008",
@@ -31148,7 +31148,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a10799d8ea300e26317c27e",
       "phone": "(416) 395-5950",
@@ -46659,7 +46659,7 @@
         "Audio & Visual"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a189496703c3363002a9eba",
       "phone": "(416) 396-8975",
@@ -52148,30 +52148,6 @@
       "locationId": "TRL"
     },
     {
-      "id": "tpl_69fdddb5c6a1dc3d00d258aa",
-      "source": "tpl",
-      "title": "Toys Alive! Exhibition Tour",
-      "description": "Curious about what your toys get up to when you are not looking? We jumped into the toy box to discover just that. From dolly’s adventures to teddy bears on the search for honey to toy soldiers on patrol. Join us for a free guided tour of TD Gallery’s current exhibition Toys Alive! Explore literary works from the late 1800s to present day from the Osborne Collection of Early Children’s Books! Registration is not required but is encouraged. Please meet at the entrance to the TD Gallery.&nbsp; Inf",
-      "location": "Toronto Reference Library",
-      "address": "789 Yonge Street, Toronto",
-      "startDate": "2026-08-18 15:00",
-      "endDate": "2026-08-18 15:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Library Visits & Tours"
-      ],
-      "isDropIn": false,
-      "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/69fdddb5c6a1dc3d00d258aa",
-      "phone": "(416) 393-7082",
-      "isRecurring": true,
-      "locationId": "TRL"
-    },
-    {
       "id": "tpl_6a5f9fee9943bdf31ea07fbd",
       "source": "tpl",
       "title": "Youth Hub: Mario Kart Tournament",
@@ -52194,6 +52170,30 @@
       "phone": "(416) 394-1016",
       "isRecurring": false,
       "locationId": "WE"
+    },
+    {
+      "id": "tpl_69fdddb5c6a1dc3d00d258aa",
+      "source": "tpl",
+      "title": "Toys Alive! Exhibition Tour",
+      "description": "Curious about what your toys get up to when you are not looking? We jumped into the toy box to discover just that. From dolly’s adventures to teddy bears on the search for honey to toy soldiers on patrol. Join us for a free guided tour of TD Gallery’s current exhibition Toys Alive! Explore literary works from the late 1800s to present day from the Osborne Collection of Early Children’s Books! Registration is not required but is encouraged. Please meet at the entrance to the TD Gallery.&nbsp; Inf",
+      "location": "Toronto Reference Library",
+      "address": "789 Yonge Street, Toronto",
+      "startDate": "2026-08-18 15:00",
+      "endDate": "2026-08-18 15:30",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Library Visits & Tours"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/69fdddb5c6a1dc3d00d258aa",
+      "phone": "(416) 393-7082",
+      "isRecurring": true,
+      "locationId": "TRL"
     },
     {
       "id": "tpl_6a4be91ac52cdc3600ef2abd",
