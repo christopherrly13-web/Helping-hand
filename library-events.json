@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T03:15:01.239Z",
+  "lastUpdated": "2026-07-23T08:35:59.942Z",
   "totalEvents": 2387,
   "source": "Toronto Public Library",
   "events": [
@@ -22032,7 +22032,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a147fc00c0f2c4503fb3661",
       "phone": "(416) 393-7680",
@@ -22392,7 +22392,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a0215fcf89ee15800521699",
       "phone": "(416) 396-8916",
@@ -46058,7 +46058,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a0215fcf89ee15800521699",
       "phone": "(416) 396-8916",
@@ -48782,7 +48782,7 @@
         "Computer Basics & Office Software"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/696d1b2b76261f28006526bb",
       "phone": "(416) 396-8850",
