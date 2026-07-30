@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T11:10:30.159Z",
+  "lastUpdated": "2026-07-30T14:10:11.153Z",
   "totalEvents": 2288,
   "source": "Toronto Public Library",
   "events": [
@@ -20809,7 +20809,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a27131490cc4e3a790c8bce",
       "phone": "(416) 396-8969",
@@ -20955,7 +20955,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a205aae52c88111723cc253",
       "phone": "(416) 395-5710",
@@ -28376,7 +28376,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a2458e54407827f8aa3092d",
       "phone": "(416) 396-8979",
@@ -49788,30 +49788,6 @@
       "locationId": "JO"
     },
     {
-      "id": "tpl_6a4be1a3e53a160201fa27bc",
-      "source": "tpl",
-      "title": "Python basics 3 - Conditional Testing ",
-      "description": "Continue to learn Python Basics. We will cover: Conditional testing, if - elif - else chain&nbsp; Must have taken Python 1 and 2&nbsp; Mouse and keyboard skills are a must.&nbsp; Ages 13 and up&nbsp; Registration opens 1 week before class. Aug 3rd at 9 am&nbsp; Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program regi",
-      "location": "Malvern",
-      "address": "30 Sewells Road, Toronto",
-      "startDate": "2026-08-22 13:00",
-      "endDate": "2026-08-22 14:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Coding & Robotics"
-      ],
-      "isDropIn": false,
-      "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a4be1a3e53a160201fa27bc",
-      "phone": "(416) 396-6852",
-      "isRecurring": false,
-      "locationId": "MAL"
-    },
-    {
       "id": "tpl_6a11d22243b41b3d00689a6f",
       "source": "tpl",
       "title": "Saturday Chess Club",
@@ -49834,6 +49810,30 @@
       "phone": "(416) 393-7717",
       "isRecurring": true,
       "locationId": "GE"
+    },
+    {
+      "id": "tpl_6a4be1a3e53a160201fa27bc",
+      "source": "tpl",
+      "title": "Python basics 3 - Conditional Testing ",
+      "description": "Continue to learn Python Basics. We will cover: Conditional testing, if - elif - else chain&nbsp; Must have taken Python 1 and 2&nbsp; Mouse and keyboard skills are a must.&nbsp; Ages 13 and up&nbsp; Registration opens 1 week before class. Aug 15th at 9 am&nbsp; Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program reg",
+      "location": "Malvern",
+      "address": "30 Sewells Road, Toronto",
+      "startDate": "2026-08-22 13:00",
+      "endDate": "2026-08-22 14:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Coding & Robotics"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a4be1a3e53a160201fa27bc",
+      "phone": "(416) 396-6852",
+      "isRecurring": false,
+      "locationId": "MAL"
     },
     {
       "id": "tpl_6a1ae9fe90cc4e3a790a1749",
