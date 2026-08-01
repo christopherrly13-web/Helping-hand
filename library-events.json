@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-01T10:43:38.409Z",
-  "totalEvents": 2244,
+  "lastUpdated": "2026-08-01T13:28:03.470Z",
+  "totalEvents": 2245,
   "source": "Toronto Public Library",
   "events": [
     {
@@ -9801,7 +9801,7 @@
         "Games & Sports"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a4e9bb2fb18bf3d00bf026a",
       "phone": "(416) 393-7737",
@@ -20882,7 +20882,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a4be098449946010198c578",
       "phone": "(416) 396-8652",
@@ -22501,7 +22501,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a4c13dc9aae2bdc28007ef2",
       "phone": "(416) 396-8958",
@@ -30946,6 +30946,30 @@
       "locationId": "PM"
     },
     {
+      "id": "tpl_696ab9958b29ea2800c9ebb0",
+      "source": "tpl",
+      "title": "Crafturday",
+      "description": "Join us for a day of fun and crafts. Partake in a new and engaging craft every Saturday from 9:30am - 4:30pm. Drop-in and self-serve. For pre-school and school-aged children and their caregivers. Live or automated closed captioning, sign language interpretation, intervenor services, or attendant services are available upon request. Please submit your request at least 2 weeks in advance to: tpl.ca/accessibility-events.",
+      "location": "Jones",
+      "address": "118 Jones Avenue, Toronto",
+      "startDate": "2026-08-29 09:30",
+      "endDate": "2026-08-29 16:30",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/696ab9958b29ea2800c9ebb0",
+      "phone": "(416) 393-7715",
+      "isRecurring": true,
+      "locationId": "JO"
+    },
+    {
       "id": "tpl_6a15c4a043b41b3d00692b08",
       "source": "tpl",
       "title": "Builders Club",
@@ -32146,28 +32170,28 @@
       "locationId": "NT"
     },
     {
-      "id": "tpl_6a527df8489285b703d87816",
+      "id": "tpl_6a3bf24b6db61d2800979ca6",
       "source": "tpl",
-      "title": "STEM Sundays",
-      "description": "Each Sunday, come in and have fun by exploring various building materials and technologies. Drop-in.",
-      "location": "Highland Creek",
-      "address": "3550 Ellesmere Road, Toronto",
-      "startDate": "2026-08-30 14:00",
-      "endDate": "2026-08-30 15:00",
+      "title": "Parent/Child Graphic Novel Book Club",
+      "description": "Share the love of reading as members of our book club for kids and parents! Read a book together, then join us once a month at the library to chat about the book. Was it a great read? Or a total stinker? All opinions and thoughts are welcome and appreciated. For kids ages 9 to 12 and their grown-ups. No registration required. Copies will be available at the front desk on a first-come, first-served basis one month before each meeting.",
+      "location": "Runnymede",
+      "address": "2178 Bloor Street West, Toronto",
+      "startDate": "2026-09-02 18:30",
+      "endDate": "2026-09-02 19:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Science & Engineering"
+        "Book Clubs"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a527df8489285b703d87816",
-      "phone": "(416) 396-8876",
-      "isRecurring": true,
-      "locationId": "HC"
+      "url": "https://tpl.bibliocommons.com/events/6a3bf24b6db61d2800979ca6",
+      "phone": "(416) 393-7697",
+      "isRecurring": false,
+      "locationId": "RN"
     },
     {
       "id": "tpl_695d9cdd1f01fb76cec4f9ed",
@@ -32696,7 +32720,7 @@
         "Games & Sports"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a4e9bb2fb18bf3d00bf026a",
       "phone": "(416) 393-7737",
@@ -33359,28 +33383,28 @@
       "locationId": "TA"
     },
     {
-      "id": "tpl_6a0f6d2b8e677a28001d9dd6",
+      "id": "tpl_696ab9958b29ea2800c9ebb3",
       "source": "tpl",
-      "title": "STEM Sundays",
-      "description": "Explore different STEM-themed activities every Sunday.&nbsp;Drop-in, no registration required. Space is limited. Access and use of equipment will be on a first come, first serve basis. Suitable for ages 6-12.",
-      "location": "Goldhawk Park",
-      "address": "295 Alton Towers Circle, Toronto",
-      "startDate": "2026-09-13 13:00",
-      "endDate": "2026-09-13 14:00",
+      "title": "Crafturday",
+      "description": "Join us for a day of fun and crafts. Partake in a new and engaging craft every Saturday from 9:30am - 4:30pm. Drop-in and self-serve. For pre-school and school-aged children and their caregivers. Live or automated closed captioning, sign language interpretation, intervenor services, or attendant services are available upon request. Please submit your request at least 2 weeks in advance to: tpl.ca/accessibility-events.",
+      "location": "Jones",
+      "address": "118 Jones Avenue, Toronto",
+      "startDate": "2026-09-19 09:30",
+      "endDate": "2026-09-19 16:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Coding & Robotics"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a0f6d2b8e677a28001d9dd6",
-      "phone": "(416) 396-8964",
+      "url": "https://tpl.bibliocommons.com/events/696ab9958b29ea2800c9ebb3",
+      "phone": "(416) 393-7715",
       "isRecurring": true,
-      "locationId": "GHP"
+      "locationId": "JO"
     },
     {
       "id": "tpl_69a07659cbf6405d3568b157",
@@ -34596,28 +34620,28 @@
       "locationId": "MP"
     },
     {
-      "id": "tpl_69a098a32866a5b4883e917c",
+      "id": "tpl_69ecea0c4dacf581ff8b17f1",
       "source": "tpl",
-      "title": "Lego Club",
-      "description": "Every Wednesday come out to build, create and use your imagination with LEGO. Enjoy a new building challenge each week. Complete 5 challenges and get a sticker! Drop-in.&nbsp; Special programs for the following dates: August 12 1-3pm - Lego STEM Camp Day 2 August 19 3:30-5pm - Lego Spike Coding Live or automated closed captioning, sign language interpretation, intervenor services, or attendant services are available upon request. Please submit your request at least 2 weeks in advance to: tpl.ca/",
-      "location": "Jones",
-      "address": "118 Jones Avenue, Toronto",
-      "startDate": "2026-09-23 15:30",
-      "endDate": "2026-09-23 17:00",
+      "title": "Sunday LEGO",
+      "description": "Do you love to build and create? Join us for LEGO Sundays and build something awesome! For children ages 6-12. Drop-in program, no registration required.",
+      "location": "Bridlewood",
+      "address": "2900 Warden Avenue, Toronto",
+      "startDate": "2026-09-27 14:30",
+      "endDate": "2026-09-27 15:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Science & Engineering"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69a098a32866a5b4883e917c",
-      "phone": "(416) 393-7715",
+      "url": "https://tpl.bibliocommons.com/events/69ecea0c4dacf581ff8b17f1",
+      "phone": "(416) 396-8960",
       "isRecurring": true,
-      "locationId": "JO"
+      "locationId": "BRW"
     },
     {
       "id": "tpl_6a1c9c024dc267647dab41fb",
@@ -35835,28 +35859,28 @@
       "locationId": "RN"
     },
     {
-      "id": "tpl_69546b1e6724c63d00e96a8b",
+      "id": "tpl_69eb9b4fb6c4ac1fedce864e",
       "source": "tpl",
-      "title": "Snap Circuits",
-      "description": "Explore electricity and circuitry during this hands-on program. Ages 6-12.&nbsp;Drop-in.",
-      "location": "Richview",
-      "address": "1806 Islington Avenue, Toronto",
-      "startDate": "2026-10-04 14:30",
-      "endDate": "2026-10-04 15:30",
+      "title": "Curious Chaos Club",
+      "description": "Step into The Curious Chaos Club- where creativity gets a little messy (in the best way!) Kids ages 6- 12 can build, create and let the chaos begin!",
+      "location": "Amesbury Park",
+      "address": "1565 Lawrence Avenue West, Toronto",
+      "startDate": "2026-10-18 14:00",
+      "endDate": "2026-10-18 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Science & Engineering"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69546b1e6724c63d00e96a8b",
-      "phone": "(416) 394-5120",
+      "url": "https://tpl.bibliocommons.com/events/69eb9b4fb6c4ac1fedce864e",
+      "phone": "(416) 395-5420",
       "isRecurring": true,
-      "locationId": "RI"
+      "locationId": "AP"
     },
     {
       "id": "tpl_69a861c92866a5b4883fd3bf",
@@ -37073,30 +37097,29 @@
       "locationId": "SL"
     },
     {
-      "id": "tpl_69f26a14fb87a3c2e2acb12f",
+      "id": "tpl_69a861c92866a5b4883fd3c1",
       "source": "tpl",
-      "title": "Sunday SNAP Circuits ",
-      "description": "Come join us and explore electricity and circuitry. Learn about circuits and gain hands on experience with SNAP Circuits! Feel the spark when you build your own circuit! For children ages 6-12.&nbsp;Drop in.",
-      "location": "Annette Street",
-      "address": "145 Annette Street, Toronto",
-      "startDate": "2026-10-25 14:00",
-      "endDate": "2026-10-25 15:00",
+      "title": "SUNDAY FUN-DAY",
+      "description": "Looking for something FUN to do on Sundays!&nbsp;Come to our hands-on and collaborative learning program series;&nbsp;Lego Challenge, Robotics, Snap Circuits, and&nbsp;Board Games. For ages 6-12!",
+      "location": "Woodview Park",
+      "address": "16 Bradstock Road, Toronto",
+      "startDate": "2026-11-01 14:00",
+      "endDate": "2026-11-01 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Coding & Robotics",
         "Crafts & Hobbies",
         "Science & Engineering"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69f26a14fb87a3c2e2acb12f",
-      "phone": "(416) 393-7692",
+      "url": "https://tpl.bibliocommons.com/events/69a861c92866a5b4883fd3c1",
+      "phone": "(416) 395-5960",
       "isRecurring": true,
-      "locationId": "AN"
+      "locationId": "WP"
     },
     {
       "id": "tpl_69c4419bb2f5bfe57aba3bc9",
@@ -38319,30 +38342,28 @@
       "locationId": "GW"
     },
     {
-      "id": "tpl_6a174305703c3363002a603c",
+      "id": "tpl_6a3eaccdc52cdc3600ed11fb",
       "source": "tpl",
-      "title": "STEM Sundays",
-      "description": "Drop-in&nbsp;each Sunday and&nbsp;explore various arts and crafts,&nbsp;building materials and technologies.&nbsp;",
-      "location": "Woodside Square",
-      "address": "1571 Sandhurst Circle, Toronto",
-      "startDate": "2026-11-08 14:00",
-      "endDate": "2026-11-08 15:00",
+      "title": "Sunday Funday",
+      "description": "Enjoy an afternoon of fun, family-friendly activities for all ages.",
+      "location": "York Woods",
+      "address": "1785 Finch Avenue West, Toronto",
+      "startDate": "2026-11-15 14:00",
+      "endDate": "2026-11-15 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Coding & Robotics",
-        "Crafts & Hobbies",
-        "Science & Engineering"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a174305703c3363002a603c",
-      "phone": "(416) 396-8979",
+      "url": "https://tpl.bibliocommons.com/events/6a3eaccdc52cdc3600ed11fb",
+      "phone": "(416) 395-5980",
       "isRecurring": true,
-      "locationId": "WS"
+      "locationId": "YW"
     },
     {
       "id": "tpl_6a11dee543b41b3d00689e5f",
@@ -39561,28 +39582,29 @@
       "locationId": "OV"
     },
     {
-      "id": "tpl_6a527df8489285b703d87820",
+      "id": "tpl_69e162a4129f127438390776",
       "source": "tpl",
-      "title": "STEM Sundays",
-      "description": "Each Sunday, come in and have fun by exploring various building materials and technologies. Drop-in.",
-      "location": "Highland Creek",
-      "address": "3550 Ellesmere Road, Toronto",
-      "startDate": "2026-11-22 14:00",
-      "endDate": "2026-11-22 15:00",
+      "title": "Sunday Fun STEAM",
+      "description": "Join us for a fun STEAM program on Sunday afternoon! Programs cycle between Robotics, Snap Circuits,.. For Children ages 5 and up. Drop-in: No registration required.",
+      "location": "Brookbanks",
+      "address": "210 Brookbanks Drive, Toronto",
+      "startDate": "2026-11-29 14:00",
+      "endDate": "2026-11-29 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Science & Engineering"
+        "Coding & Robotics",
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a527df8489285b703d87820",
-      "phone": "(416) 396-8876",
+      "url": "https://tpl.bibliocommons.com/events/69e162a4129f127438390776",
+      "phone": "(416) 395-5480",
       "isRecurring": true,
-      "locationId": "HC"
+      "locationId": "BB"
     },
     {
       "id": "tpl_6a03beec43b41b3d0066180d",
@@ -40797,30 +40819,28 @@
       "locationId": "CS"
     },
     {
-      "id": "tpl_6a03beec43b41b3d0066180e",
+      "id": "tpl_6a675304c7e02e3d006beaa8",
       "source": "tpl",
-      "title": "Sunday STEAM at the Riverdale Branch",
-      "description": "Join us for a fun STEAM program on Sunday afternoon! Programs cycle between Robotics, Snap Circuits, LEGO, K'nex, Marble Run, Makedo and Kids Craft Club. For Children ages 5 and up.&nbsp;Drop-in.&nbsp; Please see weekly listings below: Sunday, July 12, 2026 - Makedo Sunday, July 19, 2026 - Fun with Robots Sunday, July 26, 2026 - Snap Circuits Sunday, August 9, 2026 - K'nex Sunday, August 16, 2026 - Makedo Sunday, August 23, 2026 - Marble Run Sunday, August 30, 2026 - Snap Circuits Sunday, Septem",
-      "location": "Riverdale",
-      "address": "370 Broadview Avenue, Toronto",
-      "startDate": "2026-12-06 14:00",
-      "endDate": "2026-12-06 15:00",
+      "title": "Sunday STEM",
+      "description": "Join us each week for a fun afternoon of exploring Science, Technology, Engineering and Math through small projects. Ages 6-12. Drop-in program, no registration required.",
+      "location": "Barbara Frum",
+      "address": "20 Covington Road, Toronto",
+      "startDate": "2026-12-13 14:00",
+      "endDate": "2026-12-13 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Coding & Robotics",
-        "Crafts & Hobbies",
         "Science & Engineering"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a03beec43b41b3d0066180e",
-      "phone": "(416) 393-7720",
+      "url": "https://tpl.bibliocommons.com/events/6a675304c7e02e3d006beaa8",
+      "phone": "(416) 395-5440",
       "isRecurring": true,
-      "locationId": "RD"
+      "locationId": "BF"
     },
     {
       "id": "tpl_6a60e790f213992f00c627fe",
@@ -42033,28 +42053,29 @@
       "locationId": "RI"
     },
     {
-      "id": "tpl_69ecea12bd9a3c316a55500b",
+      "id": "tpl_6a60e7d50ed7b4521ed6cf95",
       "source": "tpl",
-      "title": "Sunday Board Games",
-      "description": "Join us for an afternoon of board game fun!&nbsp;Play different games and make new friends too! Drop-in program, no registration required.",
-      "location": "Bridlewood",
-      "address": "2900 Warden Avenue, Toronto",
-      "startDate": "2026-12-20 14:30",
-      "endDate": "2026-12-20 15:30",
+      "title": "Sunday Lego Club",
+      "description": "Join us each Sunday (barring scheduled closures)&nbsp;to build LEGO structures and have fun at the Forest Hill library!&nbsp;For children under 12 years and their families. Please ensure young children are accompanied by an adult.",
+      "location": "Forest Hill",
+      "address": "700 Eglinton Avenue West, Toronto",
+      "startDate": "2027-04-04 15:00",
+      "endDate": "2027-04-04 16:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Games & Sports"
+        "Crafts & Hobbies",
+        "Science & Engineering"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69ecea12bd9a3c316a55500b",
-      "phone": "(416) 396-8960",
+      "url": "https://tpl.bibliocommons.com/events/6a60e7d50ed7b4521ed6cf95",
+      "phone": "(416) 393-7706",
       "isRecurring": true,
-      "locationId": "BRW"
+      "locationId": "FH"
     },
     {
       "id": "tpl_6a60e7d50ed7b4521ed6cf96",
@@ -45390,7 +45411,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a4c13dc9aae2bdc28007ef2",
       "phone": "(416) 396-8958",
