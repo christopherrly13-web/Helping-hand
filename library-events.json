@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T09:52:21.764Z",
+  "lastUpdated": "2026-08-03T14:46:50.275Z",
   "totalEvents": 2197,
   "source": "Toronto Public Library",
   "events": [
@@ -21178,7 +21178,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a2d948d8ea300e2631d6c38",
       "phone": "(416) 396-8890",
@@ -48194,7 +48194,7 @@
         "Health & Wellness"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a3d62e5e5f29d2667fe3c67",
       "phone": "(416) 396-8890",
