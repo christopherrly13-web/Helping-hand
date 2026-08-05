@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T11:23:47.937Z",
+  "lastUpdated": "2026-08-05T14:16:05.960Z",
   "totalEvents": 2205,
   "source": "Toronto Public Library",
   "events": [
@@ -19960,7 +19960,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a429550f56bd86e00b9c8f6",
       "phone": "(416) 395-5460",
@@ -20639,7 +20639,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a10a320caf93436005daa78",
       "phone": "(416) 393-7663",
@@ -20951,7 +20951,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a5a960b0d65ac36004073bc",
       "phone": "(416) 393-7715",
@@ -21653,7 +21653,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a4c13dc9aae2bdc28007ef2",
       "phone": "(416) 396-8958",
@@ -23721,7 +23721,7 @@
         "Author Talks & Lectures"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a021524f89ee158005215d5",
       "phone": "(416) 396-8916",
@@ -42646,7 +42646,7 @@
         "Audio & Visual"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a56462764ed854800a56171",
       "phone": "(416) 393-6240",
