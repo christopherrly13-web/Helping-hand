@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T08:42:26.375Z",
+  "lastUpdated": "2026-08-06T11:26:42.161Z",
   "totalEvents": 2154,
   "source": "Toronto Public Library",
   "events": [
@@ -20140,7 +20140,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a064084278f7c2f008d39ad",
       "phone": "(416) 393-7723",
