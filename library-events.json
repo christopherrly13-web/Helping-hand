@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T10:04:36.571Z",
+  "lastUpdated": "2026-08-07T13:10:49.567Z",
   "totalEvents": 2150,
   "source": "Toronto Public Library",
   "events": [
@@ -19583,7 +19583,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69efeae5bd9a3c316a55cc12",
       "phone": "(416) 394-1016",
@@ -22958,7 +22958,7 @@
         "Author Talks & Lectures"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a021524f89ee158005215d5",
       "phone": "(416) 396-8916",
@@ -45562,7 +45562,7 @@
         "Audio & Visual"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a3553a8154fb14b002264e5",
       "phone": "(416) 394-1014",
