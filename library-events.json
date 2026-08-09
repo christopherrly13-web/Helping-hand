@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T21:34:41.680Z",
+  "lastUpdated": "2026-08-09T01:57:48.376Z",
   "totalEvents": 2150,
   "source": "Toronto Public Library",
   "events": [
@@ -22698,7 +22698,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a50ef60cca66c2f00a27c83",
       "phone": "(416) 396-8958",
@@ -24355,7 +24355,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a3aa8da90cc4e3a791024c7",
       "phone": "(416) 396-8920",
@@ -43818,7 +43818,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a60e8b87d824676437ccba7",
       "phone": "(416) 394-1000",
@@ -43842,7 +43842,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a50ef60cca66c2f00a27c83",
       "phone": "(416) 396-8958",
