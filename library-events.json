@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T10:03:36.755Z",
+  "lastUpdated": "2026-08-11T13:13:19.176Z",
   "totalEvents": 2081,
   "source": "Toronto Public Library",
   "events": [
@@ -285,7 +285,7 @@
         "Health & Wellness"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69c68be0b48451fc3c0b9883",
       "phone": "(416) 394-5120",
@@ -19441,7 +19441,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a132c5bcaf93436005e0f6f",
       "phone": "(416) 393-7680",
@@ -19585,7 +19585,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a21d83ec6a1dc3d00d8715a",
       "phone": "(416) 393-7610",
@@ -20213,7 +20213,7 @@
         "Author Talks & Lectures"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69f0bdf6213814b1b5255053",
       "phone": "(416) 393-7610",
@@ -23154,7 +23154,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a429550f56bd86e00b9c8f8",
       "phone": "(416) 395-5460",
@@ -39944,7 +39944,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a132c5bcaf93436005e0f6f",
       "phone": "(416) 393-7680",
