@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T02:10:08.398Z",
+  "lastUpdated": "2026-08-12T04:50:31.947Z",
   "totalEvents": 2149,
   "source": "Toronto Public Library",
   "events": [
@@ -8990,30 +8990,6 @@
       "locationId": "MP"
     },
     {
-      "id": "tpl_6a773adb0d65ac36004544cb",
-      "source": "tpl",
-      "title": "Ready for Kindergarten Storytime!",
-      "description": "We’re ready for Kindergarten! Let’s read stories together about school while we practice socializing, sharing & being kind. Ideal for families with children ages 5 years old and under. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program registration, delivery and evaluation. Questions about how the library handles yo",
-      "location": "Thorncliffe",
-      "address": "48 Thorncliffe Park Drive, Toronto",
-      "startDate": "2026-09-19 11:00",
-      "endDate": "2026-09-19 12:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": false,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a773adb0d65ac36004544cb",
-      "phone": "(416) 396-3865",
-      "isRecurring": false,
-      "locationId": "TH"
-    },
-    {
       "id": "tpl_694af36cc967cb41207e389c",
       "source": "tpl",
       "title": "Family Time",
@@ -9036,6 +9012,30 @@
       "phone": "(416) 395-5980",
       "isRecurring": true,
       "locationId": "YW"
+    },
+    {
+      "id": "tpl_6a773adb0d65ac36004544cb",
+      "source": "tpl",
+      "title": "Ready for Kindergarten Storytime!",
+      "description": "We’re ready for Kindergarten! Let’s read stories together about school while we practice socializing, sharing & being kind. Ideal for families with children ages 5 years old and under. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program registration, delivery and evaluation. Questions about how the library handles yo",
+      "location": "Thorncliffe",
+      "address": "48 Thorncliffe Park Drive, Toronto",
+      "startDate": "2026-09-19 11:00",
+      "endDate": "2026-09-19 12:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a773adb0d65ac36004544cb",
+      "phone": "(416) 396-3865",
+      "isRecurring": false,
+      "locationId": "TH"
     },
     {
       "id": "tpl_696aba094a9fd98b7f780def",
@@ -30047,6 +30047,31 @@
       "locationId": "CC"
     },
     {
+      "id": "tpl_6a7a68ebe30fe484596883c6",
+      "source": "tpl",
+      "title": "After School Club",
+      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, play games, try out our robotics, meet other kids and have fun! For ages 6-12. Drop-in. Snacks are offered during the After School Club for participants. If you or your child lives with a disability, and requires an accessibility accommodation to participate in this program, please contact Accessibility Services by email, accessibleservices@tpl.ca, or voicemail, 416-393-7099, to make a r",
+      "location": "Taylor Memorial",
+      "address": "1440 Kingston Road, Toronto",
+      "startDate": "2026-09-16 16:00",
+      "endDate": "2026-09-16 17:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a7a68ebe30fe484596883c6",
+      "phone": "(416) 396-8939",
+      "isRecurring": true,
+      "locationId": "TA"
+    },
+    {
       "id": "tpl_6a775fbae30fe4845967ef60",
       "source": "tpl",
       "title": "After School Club",
@@ -30071,31 +30096,6 @@
       "phone": "(416) 393-7683",
       "isRecurring": true,
       "locationId": "WY"
-    },
-    {
-      "id": "tpl_6a7a68ebe30fe484596883c6",
-      "source": "tpl",
-      "title": "After School Club",
-      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, play games, try out our robotics, meet other kids and have fun! For ages 6-12. Drop-in. Snacks are offered during the After School Club for participants. If you or your child lives with a disability, and requires an accessibility accommodation to participate in this program, please contact Accessibility Services by email, accessibleservices@tpl.ca, or voicemail, 416-393-7099, to make a r",
-      "location": "Taylor Memorial",
-      "address": "1440 Kingston Road, Toronto",
-      "startDate": "2026-09-16 16:00",
-      "endDate": "2026-09-16 17:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a7a68ebe30fe484596883c6",
-      "phone": "(416) 396-8939",
-      "isRecurring": true,
-      "locationId": "TA"
     },
     {
       "id": "tpl_6a7b9fd79d8416003f6930d8",
@@ -30895,6 +30895,31 @@
       "locationId": "CC"
     },
     {
+      "id": "tpl_6a7a68ebe30fe484596883c7",
+      "source": "tpl",
+      "title": "After School Club",
+      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, play games, try out our robotics, meet other kids and have fun! For ages 6-12. Drop-in. Snacks are offered during the After School Club for participants. If you or your child lives with a disability, and requires an accessibility accommodation to participate in this program, please contact Accessibility Services by email, accessibleservices@tpl.ca, or voicemail, 416-393-7099, to make a r",
+      "location": "Taylor Memorial",
+      "address": "1440 Kingston Road, Toronto",
+      "startDate": "2026-09-23 16:00",
+      "endDate": "2026-09-23 17:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a7a68ebe30fe484596883c7",
+      "phone": "(416) 396-8939",
+      "isRecurring": true,
+      "locationId": "TA"
+    },
+    {
       "id": "tpl_6a775fbae30fe4845967ef61",
       "source": "tpl",
       "title": "After School Club",
@@ -30943,31 +30968,6 @@
       "phone": "(416) 396-8969",
       "isRecurring": true,
       "locationId": "MAL"
-    },
-    {
-      "id": "tpl_6a7a68ebe30fe484596883c7",
-      "source": "tpl",
-      "title": "After School Club",
-      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, play games, try out our robotics, meet other kids and have fun! For ages 6-12. Drop-in. Snacks are offered during the After School Club for participants. If you or your child lives with a disability, and requires an accessibility accommodation to participate in this program, please contact Accessibility Services by email, accessibleservices@tpl.ca, or voicemail, 416-393-7099, to make a r",
-      "location": "Taylor Memorial",
-      "address": "1440 Kingston Road, Toronto",
-      "startDate": "2026-09-23 16:00",
-      "endDate": "2026-09-23 17:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a7a68ebe30fe484596883c7",
-      "phone": "(416) 396-8939",
-      "isRecurring": true,
-      "locationId": "TA"
     },
     {
       "id": "tpl_6a7b9f184c610f0038947f87",
@@ -31780,6 +31780,31 @@
       "locationId": "CC"
     },
     {
+      "id": "tpl_6a7a68ebe30fe484596883c8",
+      "source": "tpl",
+      "title": "After School Club",
+      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, play games, try out our robotics, meet other kids and have fun! For ages 6-12. Drop-in. Snacks are offered during the After School Club for participants. If you or your child lives with a disability, and requires an accessibility accommodation to participate in this program, please contact Accessibility Services by email, accessibleservices@tpl.ca, or voicemail, 416-393-7099, to make a r",
+      "location": "Taylor Memorial",
+      "address": "1440 Kingston Road, Toronto",
+      "startDate": "2026-09-30 16:00",
+      "endDate": "2026-09-30 17:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a7a68ebe30fe484596883c8",
+      "phone": "(416) 396-8939",
+      "isRecurring": true,
+      "locationId": "TA"
+    },
+    {
       "id": "tpl_6a775fbae30fe4845967ef62",
       "source": "tpl",
       "title": "After School Club",
@@ -31804,31 +31829,6 @@
       "phone": "(416) 393-7683",
       "isRecurring": true,
       "locationId": "WY"
-    },
-    {
-      "id": "tpl_6a7a68ebe30fe484596883c8",
-      "source": "tpl",
-      "title": "After School Club",
-      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, play games, try out our robotics, meet other kids and have fun! For ages 6-12. Drop-in. Snacks are offered during the After School Club for participants. If you or your child lives with a disability, and requires an accessibility accommodation to participate in this program, please contact Accessibility Services by email, accessibleservices@tpl.ca, or voicemail, 416-393-7099, to make a r",
-      "location": "Taylor Memorial",
-      "address": "1440 Kingston Road, Toronto",
-      "startDate": "2026-09-30 16:00",
-      "endDate": "2026-09-30 17:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a7a68ebe30fe484596883c8",
-      "phone": "(416) 396-8939",
-      "isRecurring": true,
-      "locationId": "TA"
     },
     {
       "id": "tpl_6a7ba0182c859e0086ae5731",
@@ -32794,6 +32794,31 @@
       "locationId": "CC"
     },
     {
+      "id": "tpl_6a7a68ebe30fe484596883ca",
+      "source": "tpl",
+      "title": "After School Club",
+      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, play games, try out our robotics, meet other kids and have fun! For ages 6-12. Drop-in. Snacks are offered during the After School Club for participants. If you or your child lives with a disability, and requires an accessibility accommodation to participate in this program, please contact Accessibility Services by email, accessibleservices@tpl.ca, or voicemail, 416-393-7099, to make a r",
+      "location": "Taylor Memorial",
+      "address": "1440 Kingston Road, Toronto",
+      "startDate": "2026-10-14 16:00",
+      "endDate": "2026-10-14 17:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a7a68ebe30fe484596883ca",
+      "phone": "(416) 396-8939",
+      "isRecurring": true,
+      "locationId": "TA"
+    },
+    {
       "id": "tpl_6a775fbae30fe4845967ef64",
       "source": "tpl",
       "title": "After School Club",
@@ -32818,31 +32843,6 @@
       "phone": "(416) 393-7683",
       "isRecurring": true,
       "locationId": "WY"
-    },
-    {
-      "id": "tpl_6a7a68ebe30fe484596883ca",
-      "source": "tpl",
-      "title": "After School Club",
-      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, play games, try out our robotics, meet other kids and have fun! For ages 6-12. Drop-in. Snacks are offered during the After School Club for participants. If you or your child lives with a disability, and requires an accessibility accommodation to participate in this program, please contact Accessibility Services by email, accessibleservices@tpl.ca, or voicemail, 416-393-7099, to make a r",
-      "location": "Taylor Memorial",
-      "address": "1440 Kingston Road, Toronto",
-      "startDate": "2026-10-14 16:00",
-      "endDate": "2026-10-14 17:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a7a68ebe30fe484596883ca",
-      "phone": "(416) 396-8939",
-      "isRecurring": true,
-      "locationId": "TA"
     },
     {
       "id": "tpl_6a3996b68ea300e2631f889c",
