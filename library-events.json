@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T06:43:30.503Z",
+  "lastUpdated": "2026-08-15T09:29:22.538Z",
   "totalEvents": 2159,
   "source": "Toronto Public Library",
   "events": [
@@ -41867,7 +41867,7 @@
         "Fabrication Studio​"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a56a2b888e9bf280030e351",
       "phone": "(416) 395-5654",
