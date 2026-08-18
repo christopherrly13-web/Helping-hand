@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T03:47:54.107Z",
+  "lastUpdated": "2026-08-18T06:48:48.472Z",
   "totalEvents": 2100,
   "source": "Toronto Public Library",
   "events": [
@@ -45249,6 +45249,30 @@
       "locationId": "MAS"
     },
     {
+      "id": "tpl_6a60fbbce9de6536001d8422",
+      "source": "tpl",
+      "title": "Youth Hub: Perler Beads",
+      "description": "Celebrate back-to-school with Perler beads! Melt together beads to create your own unique designs! This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "Agincourt",
+      "address": "155 Bonis Ave, Toronto",
+      "startDate": "2026-09-08 16:00",
+      "endDate": "2026-09-08 17:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Crafts & Hobbies"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a60fbbce9de6536001d8422",
+      "phone": "(416) 396-8943",
+      "isRecurring": false,
+      "locationId": "AG"
+    },
+    {
       "id": "tpl_6a6a30fb898f0d2051150e47",
       "source": "tpl",
       "title": "Youth Hub: Foosball Tournament",
@@ -46430,29 +46454,28 @@
       "locationId": "MAS"
     },
     {
-      "id": "tpl_6a6397579e0a050e3e542368",
+      "id": "tpl_6a74ee3b0d65ac360044ea99",
       "source": "tpl",
-      "title": "Youth Hub: FC26 Tournament",
-      "description": "Join us for a fun, PS5 FC26 gaming competition. All skill levels are welcome to participate. The winner of the tournament takes home a prize and dons the title of Albert Campbell Champion! This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "Albert Campbell",
-      "address": "496 Birchmount Road, Toronto",
-      "startDate": "2026-09-11 15:45",
-      "endDate": "2026-09-11 18:00",
+      "title": "Virtual Reality Demo for Teens",
+      "description": "Leap into the world of virtual reality at the library! Join this drop-in session to try out the Meta Quest virtual reality headset and immerse yourself in stunning 360-degree environments, engage in captivating adventures, and interact with the virtual world. This is a drop in program for teens.",
+      "location": "S. Walter Stewart",
+      "address": "170 Memorial Park Avenue, Toronto",
+      "startDate": "2026-09-16 16:00",
+      "endDate": "2026-09-16 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Crafts & Hobbies",
         "Games & Sports"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a6397579e0a050e3e542368",
-      "phone": "(416) 396-8890",
+      "url": "https://tpl.bibliocommons.com/events/6a74ee3b0d65ac360044ea99",
+      "phone": "(416) 396-3975",
       "isRecurring": false,
-      "locationId": "ACD"
+      "locationId": "SWS"
     },
     {
       "id": "tpl_6a43f4446db61d2800990a83",
@@ -47639,30 +47662,28 @@
       "locationId": "TRL"
     },
     {
-      "id": "tpl_6a764021c80d09476c93304c",
+      "id": "tpl_6a7e3c073b6c71003e58b67d",
       "source": "tpl",
-      "title": "Illustrator: Transfer images to TinkerCad",
-      "description": "Learn how to transfer images or create images to import to TinkerCad with Illustrator. Ages 13 and up! Registration opens 1 week before class (September 14th at 9 am)&nbsp; Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program registration, delivery and evaluation. Questions about how the library handles your informati",
-      "location": "Malvern",
-      "address": "30 Sewells Road, Toronto",
-      "startDate": "2026-09-21 17:30",
-      "endDate": "2026-09-21 18:30",
+      "title": "Throwback Thursdays: Great Movies on the Big Screen",
+      "description": "Come join us for a radical retro rewind projected on the big screen. Whether you're a first-time viewer or long-time fan, these movies are sure to please. August 13:&nbsp;There’s Something About Mary (1998, 14A) August 20: Speed (1994, PG) August 27:&nbsp;You've Got Mail (1998, PG) September 3:&nbsp;Legally Blonde (2001, PG) September 10:&nbsp;Primal Fear (1996, 18A) September 17: Kramer vs Kramer (1979, PG) September 24: The Lincoln Lawyer (2011, 14A) All are welcome. Drop-in, no registration r",
+      "location": "High Park",
+      "address": "228 Roncesvalles Avenue, Toronto",
+      "startDate": "2026-09-24 18:00",
+      "endDate": "2026-09-24 20:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "3D Printing",
-        "Audio & Visual",
-        "Crafts & Hobbies"
+        "Culture, Arts & Entertainment"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a764021c80d09476c93304c",
-      "phone": "(416) 396-8969",
-      "isRecurring": false,
-      "locationId": "MAL"
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a7e3c073b6c71003e58b67d",
+      "phone": "(416) 393-7671",
+      "isRecurring": true,
+      "locationId": "HP"
     },
     {
       "id": "tpl_6a2070188ea300e2631ad59e",
@@ -48849,28 +48870,29 @@
       "locationId": "FH"
     },
     {
-      "id": "tpl_695d9cdd1f01fb76cec4f9f1",
+      "id": "tpl_6a81ea51452bb101b5758f64",
       "source": "tpl",
-      "title": "Knitting and Crochet Circle",
-      "description": "Spend an afternoon at our weekly drop-in knitting and crochet circle! Bring your work in progress and enjoy visiting with other knitters and crocheters. A great place to show off your work, get advice, swap ideas, or just relax and visit with fellow fiber enthusiasts. Beginners&nbsp;and all ages welcome!&nbsp;A limited supply of materials will be available.",
-      "location": "Don Mills",
-      "address": "888 Lawrence Avenue East, Toronto",
-      "startDate": "2026-10-01 13:00",
-      "endDate": "2026-10-01 14:00",
+      "title": "FRESH Movie Saturdays",
+      "description": "This program helps people stay active, make friends, learn new skills, and have fun. Meet new folks, build connections, and tell us about programs and services you would like to see in the neighbourhood! Come join us every Saturday for screenings of your favourite movies. In addition to this, enjoy cuddles with a therapy dog!&nbsp;Therapy dog Goose visits Fort York Branch on&nbsp;alternate Saturdays from 11:00AM-12:00PM. We'll be showing the following films: Aug 22 -&nbsp;Beauty& The Beast(1991)",
+      "location": "Fort York",
+      "address": "190 Fort York Boulevard, Toronto",
+      "startDate": "2026-10-17 11:00",
+      "endDate": "2026-10-17 13:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Crafts & Hobbies"
+        "Culture, Arts & Entertainment",
+        "Health & Wellness"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/695d9cdd1f01fb76cec4f9f1",
-      "phone": "(416) 395-5710",
+      "url": "https://tpl.bibliocommons.com/events/6a81ea51452bb101b5758f64",
+      "phone": "(416) 393-6240",
       "isRecurring": true,
-      "locationId": "DM"
+      "locationId": "FO"
     },
     {
       "id": "tpl_6a7ca9382c859e0086ae67da",
@@ -50064,28 +50086,28 @@
       "locationId": "GW"
     },
     {
-      "id": "tpl_6942f4eb6f926136000b6c8d",
+      "id": "tpl_6a4fda60f4e5db3d00c08d03",
       "source": "tpl",
-      "title": "Youth Hub:  Nail Night",
-      "description": "Unleash your creativity as you design your own stunning nail art! Join us for one or all of our fabulous Nail Nights on the first Monday of every month.&nbsp;Drop-in, no registration required. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "S. Walter Stewart",
-      "address": "170 Memorial Park Avenue, Toronto",
-      "startDate": "2026-11-02 15:30",
-      "endDate": "2026-11-02 18:00",
+      "title": "Sunday International Chess Club",
+      "description": "Join the Sunday Chess Club, as we play chess every other Sunday. Players of all strengths and skill level are welcomed to participate in the club. Chess introduction lessons are available for players that are new to the game. Sets are provided.&nbsp;The program is open to all ages 7 years and above.&nbsp;",
+      "location": "College/Shaw",
+      "address": "766 College Street, Toronto",
+      "startDate": "2026-11-22 14:00",
+      "endDate": "2026-11-22 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Crafts & Hobbies"
+        "Games & Sports"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6942f4eb6f926136000b6c8d",
-      "phone": "(416) 396-3975",
+      "url": "https://tpl.bibliocommons.com/events/6a4fda60f4e5db3d00c08d03",
+      "phone": "(416) 393-7668",
       "isRecurring": true,
-      "locationId": "SWS"
+      "locationId": "CS"
     },
     {
       "id": "tpl_69711d50992fc18a86deb1a9",
@@ -51274,30 +51296,6 @@
       "phone": "(416) 395-5720",
       "isRecurring": true,
       "locationId": "DO"
-    },
-    {
-      "id": "tpl_696d1b2b76261f28006526c5",
-      "source": "tpl",
-      "title": "Seniors E-Connect",
-      "description": "Are you 55+?&nbsp;Do you have questions about your tablet, phone, laptop, email or an app? Do you need help with eBooks or other online library services? Bring in your own device and our teen volunteers are here to help!&nbsp;",
-      "location": "Cedarbrae",
-      "address": "545 Markham Road, Toronto",
-      "startDate": "2026-12-18 17:30",
-      "endDate": "2026-12-18 18:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Computer Basics & Office Software"
-      ],
-      "isDropIn": false,
-      "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/696d1b2b76261f28006526c5",
-      "phone": "(416) 396-8850",
-      "isRecurring": true,
-      "locationId": "CED"
     }
   ]
 }
