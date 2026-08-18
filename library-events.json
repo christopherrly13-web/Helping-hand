@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T09:37:13.270Z",
+  "lastUpdated": "2026-08-18T12:52:25.361Z",
   "totalEvents": 2100,
   "source": "Toronto Public Library",
   "events": [
@@ -19567,7 +19567,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a4be26c24b39f59000b44ce",
       "phone": "(416) 396-8652",
