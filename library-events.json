@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T01:24:47.522Z",
+  "lastUpdated": "2026-08-25T03:51:54.261Z",
   "totalEvents": 2301,
   "source": "Toronto Public Library",
   "events": [
@@ -21296,7 +21296,7 @@
         "Audio & Visual"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a68d75c26df68e360be7e84",
       "phone": "(416) 395-5657",
@@ -26120,7 +26120,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a778263f4e5db3d00c75fa0",
       "phone": "(416) 395-5710",
@@ -29827,7 +29827,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a778263f4e5db3d00c75fa2",
       "phone": "(416) 395-5710",
@@ -30720,7 +30720,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a778263f4e5db3d00c75fa3",
       "phone": "(416) 395-5710",
@@ -45252,7 +45252,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a64fdf7a41369ab2c68b359",
       "phone": "(416) 393-6240",
