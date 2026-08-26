@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T09:46:03.588Z",
+  "lastUpdated": "2026-08-26T12:58:03.346Z",
   "totalEvents": 2341,
   "source": "Toronto Public Library",
   "events": [
@@ -22042,7 +22042,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a7b5e2dd033f1003e0a9c65",
       "phone": "(416) 396-8924",
@@ -45446,7 +45446,7 @@
         "Fabrication Studio​"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a56a1d288e9bf280030e2a3",
       "phone": "(416) 395-5654",
@@ -46048,7 +46048,7 @@
         "Computer Basics & Office Software"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a4c15c048c98c3600a4df46",
       "phone": "(416) 396-8958",
@@ -46120,7 +46120,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a56ae5c0d65ac36003fc24f",
       "phone": "(416) 395-5654",
