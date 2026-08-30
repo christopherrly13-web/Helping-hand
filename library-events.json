@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T23:06:21.446Z",
+  "lastUpdated": "2026-08-30T04:28:42.275Z",
   "totalEvents": 2391,
   "source": "Toronto Public Library",
   "events": [
@@ -386,7 +386,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a36f89f414ef43d00978957",
       "phone": "(416) 396-8920",
@@ -22224,7 +22224,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a36f89f414ef43d00978957",
       "phone": "(416) 396-8920",
