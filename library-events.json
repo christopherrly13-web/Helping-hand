@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T04:33:10.087Z",
+  "lastUpdated": "2026-08-31T13:05:54.356Z",
   "totalEvents": 2382,
   "source": "Toronto Public Library",
   "events": [
@@ -55641,30 +55641,6 @@
       "locationId": "DU"
     },
     {
-      "id": "tpl_6a94653429a7dd0d6747c95b",
-      "source": "tpl",
-      "title": "Introduction to 3D Printing",
-      "description": "Learn how 3D printers work and how you can print at the Toronto Public Library’s Digital Innovation Hubs. This class includes hands-on instruction with Prusa Slicer, the software used to prepare your 3D object file for printing on a Prusa MK3S+ 3D printer. Note: Customers are no longer required to attend a mandatory 3D printing class prior to using a 3D printer at the Toronto Public Library’s Digital Innovation Hubs. This class is for those who are interested in learning more about 3D printing a",
-      "location": "Malvern",
-      "address": "30 Sewells Road, Toronto",
-      "startDate": "2026-10-15 18:00",
-      "endDate": "2026-10-15 19:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "3D Printing"
-      ],
-      "isDropIn": false,
-      "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a94653429a7dd0d6747c95b",
-      "phone": "(416) 396-8969",
-      "isRecurring": false,
-      "locationId": "MAL"
-    },
-    {
       "id": "tpl_6a92f7e32dac6e003722951f",
       "source": "tpl",
       "title": " AI Robot mBot2: Seeing with Sound",
@@ -55687,6 +55663,30 @@
       "phone": "(416) 396-8943",
       "isRecurring": false,
       "locationId": "AG"
+    },
+    {
+      "id": "tpl_6a94653429a7dd0d6747c95b",
+      "source": "tpl",
+      "title": "Introduction to 3D Printing",
+      "description": "Learn how 3D printers work and how you can print at the Toronto Public Library’s Digital Innovation Hubs. This class includes hands-on instruction with Prusa Slicer, the software used to prepare your 3D object file for printing on a Prusa MK3S+ 3D printer. Note: Customers are no longer required to attend a mandatory 3D printing class prior to using a 3D printer at the Toronto Public Library’s Digital Innovation Hubs. This class is for those who are interested in learning more about 3D printing a",
+      "location": "Malvern",
+      "address": "30 Sewells Road, Toronto",
+      "startDate": "2026-10-15 18:00",
+      "endDate": "2026-10-15 19:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "3D Printing"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a94653429a7dd0d6747c95b",
+      "phone": "(416) 396-8969",
+      "isRecurring": false,
+      "locationId": "MAL"
     },
     {
       "id": "tpl_6a1f48e0c7d3cd58005d9831",
