@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T03:45:02.274Z",
+  "lastUpdated": "2026-09-04T10:58:04.804Z",
   "totalEvents": 2438,
   "source": "Toronto Public Library",
   "events": [
@@ -23065,7 +23065,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a6bc6983f18b57d52321447",
       "phone": "(416) 393-7712",
@@ -48214,7 +48214,7 @@
         "Fabrication Studio​"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a7b956460ccaf01c01d8b58",
       "phone": "(416) 395-5654",
