@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T10:34:20.923Z",
+  "lastUpdated": "2026-09-06T15:10:41.851Z",
   "totalEvents": 2410,
   "source": "Toronto Public Library",
   "events": [
@@ -23227,7 +23227,7 @@
         "Audio & Visual"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a72173588e9bf2800356c18",
       "phone": "(416) 395-5460",
@@ -25884,7 +25884,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a722821cca66c2f00a82220",
       "phone": "(416) 395-5460",
@@ -27990,7 +27990,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a72285988e9bf2800357169",
       "phone": "(416) 395-5460",
@@ -49733,7 +49733,7 @@
       "source": "tpl",
       "title": "Seniors E-Connect",
       "description": "*Seniors e-Connect events at Cedarbrae Library&nbsp;for the months of September and October 2026 have been cancelled due to a planned closure&nbsp;for construction. Are you 55+?&nbsp;Do you have questions about your tablet, phone, laptop, email or an app? Do you need help with eBooks or other online library services? Bring in your own device and our teen volunteers are here to help!&nbsp;",
-      "location": "Cedarbrae",
+      "location": "Cedarbrae - Closed",
       "address": "545 Markham Road, Toronto",
       "startDate": "2026-09-11 17:30",
       "endDate": "2026-09-11 18:30",
@@ -55283,7 +55283,7 @@
       "source": "tpl",
       "title": "Seniors E-Connect",
       "description": "*Seniors e-Connect events at Cedarbrae Library for the months of September and October 2026 have been cancelled due to a planned closure for construction. Are you 55+?&nbsp;Do you have questions about your tablet, phone, laptop, email or an app? Do you need help with eBooks or other online library services? Bring in your own device and our teen volunteers are here to help!&nbsp;",
-      "location": "Cedarbrae",
+      "location": "Cedarbrae - Closed",
       "address": "545 Markham Road, Toronto",
       "startDate": "2026-10-09 17:30",
       "endDate": "2026-10-09 18:30",
@@ -58178,7 +58178,7 @@
       "source": "tpl",
       "title": "Seniors E-Connect",
       "description": "Are you 55+?&nbsp;Do you have questions about your tablet, phone, laptop, email or an app? Do you need help with eBooks or other online library services? Bring in your own device and our teen volunteers are here to help!&nbsp;",
-      "location": "Cedarbrae",
+      "location": "Cedarbrae - Closed",
       "address": "545 Markham Road, Toronto",
       "startDate": "2026-11-20 17:30",
       "endDate": "2026-11-20 18:30",
