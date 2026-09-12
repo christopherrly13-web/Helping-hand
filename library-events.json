@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T03:48:58.863Z",
+  "lastUpdated": "2026-09-12T10:21:20.097Z",
   "totalEvents": 2464,
   "source": "Toronto Public Library",
   "events": [
@@ -1072,6 +1072,31 @@
       "locationId": "FP"
     },
     {
+      "id": "tpl_6aa4bf586074830038265d91",
+      "source": "tpl",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-09-13 14:00",
+      "endDate": "2026-09-13 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d91",
+      "phone": "(416) 394-1008",
+      "isRecurring": true,
+      "locationId": "MD"
+    },
+    {
       "id": "tpl_6a03beec43b41b3d00661803",
       "source": "tpl",
       "title": "Sunday STEAM at the Riverdale Branch",
@@ -1096,31 +1121,6 @@
       "phone": "(416) 393-7720",
       "isRecurring": true,
       "locationId": "RD"
-    },
-    {
-      "id": "tpl_6aa4bf586074830038265d91",
-      "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-09-13 14:00",
-      "endDate": "2026-09-13 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d91",
-      "phone": "(416) 394-1008",
-      "isRecurring": true,
-      "locationId": "MD"
     },
     {
       "id": "tpl_69a1d7538089f23c675ea24a",
@@ -2764,6 +2764,31 @@
       "locationId": "FP"
     },
     {
+      "id": "tpl_6aa4bf586074830038265d92",
+      "source": "tpl",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-09-20 14:00",
+      "endDate": "2026-09-20 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d92",
+      "phone": "(416) 394-1008",
+      "isRecurring": true,
+      "locationId": "MD"
+    },
+    {
       "id": "tpl_6a03beec43b41b3d00661804",
       "source": "tpl",
       "title": "Sunday STEAM at the Riverdale Branch",
@@ -2788,31 +2813,6 @@
       "phone": "(416) 393-7720",
       "isRecurring": true,
       "locationId": "RD"
-    },
-    {
-      "id": "tpl_6aa4bf586074830038265d92",
-      "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-09-20 14:00",
-      "endDate": "2026-09-20 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d92",
-      "phone": "(416) 394-1008",
-      "isRecurring": true,
-      "locationId": "MD"
     },
     {
       "id": "tpl_69a1d7538089f23c675ea24b",
@@ -6087,6 +6087,31 @@
       "locationId": "CL"
     },
     {
+      "id": "tpl_6aa4bf586074830038265d94",
+      "source": "tpl",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-10-04 14:00",
+      "endDate": "2026-10-04 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d94",
+      "phone": "(416) 394-1008",
+      "isRecurring": true,
+      "locationId": "MD"
+    },
+    {
       "id": "tpl_6a03beec43b41b3d00661806",
       "source": "tpl",
       "title": "Sunday STEAM at the Riverdale Branch",
@@ -6111,31 +6136,6 @@
       "phone": "(416) 393-7720",
       "isRecurring": true,
       "locationId": "RD"
-    },
-    {
-      "id": "tpl_6aa4bf586074830038265d94",
-      "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-10-04 14:00",
-      "endDate": "2026-10-04 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d94",
-      "phone": "(416) 394-1008",
-      "isRecurring": true,
-      "locationId": "MD"
     },
     {
       "id": "tpl_69a1d7538089f23c675ea24d",
@@ -12710,6 +12710,31 @@
       "locationId": "JT"
     },
     {
+      "id": "tpl_6aa4bf586074830038265d97",
+      "source": "tpl",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-11-01 14:00",
+      "endDate": "2026-11-01 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d97",
+      "phone": "(416) 394-1008",
+      "isRecurring": true,
+      "locationId": "MD"
+    },
+    {
       "id": "tpl_6a03beec43b41b3d00661809",
       "source": "tpl",
       "title": "Sunday STEAM at the Riverdale Branch",
@@ -12734,31 +12759,6 @@
       "phone": "(416) 393-7720",
       "isRecurring": true,
       "locationId": "RD"
-    },
-    {
-      "id": "tpl_6aa4bf586074830038265d97",
-      "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-11-01 14:00",
-      "endDate": "2026-11-01 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d97",
-      "phone": "(416) 394-1008",
-      "isRecurring": true,
-      "locationId": "MD"
     },
     {
       "id": "tpl_69a1d7538089f23c675ea250",
@@ -13944,6 +13944,31 @@
       "locationId": "DO"
     },
     {
+      "id": "tpl_6aa4bf586074830038265d98",
+      "source": "tpl",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-11-08 14:00",
+      "endDate": "2026-11-08 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d98",
+      "phone": "(416) 394-1008",
+      "isRecurring": true,
+      "locationId": "MD"
+    },
+    {
       "id": "tpl_6a03beec43b41b3d0066180a",
       "source": "tpl",
       "title": "Sunday STEAM at the Riverdale Branch",
@@ -13968,31 +13993,6 @@
       "phone": "(416) 393-7720",
       "isRecurring": true,
       "locationId": "RD"
-    },
-    {
-      "id": "tpl_6aa4bf586074830038265d98",
-      "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-11-08 14:00",
-      "endDate": "2026-11-08 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d98",
-      "phone": "(416) 394-1008",
-      "isRecurring": true,
-      "locationId": "MD"
     },
     {
       "id": "tpl_69a1d7538089f23c675ea251",
@@ -15009,6 +15009,31 @@
       "locationId": "JT"
     },
     {
+      "id": "tpl_6aa4bf586074830038265d99",
+      "source": "tpl",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-11-15 14:00",
+      "endDate": "2026-11-15 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d99",
+      "phone": "(416) 394-1008",
+      "isRecurring": true,
+      "locationId": "MD"
+    },
+    {
       "id": "tpl_6a03beec43b41b3d0066180b",
       "source": "tpl",
       "title": "Sunday STEAM at the Riverdale Branch",
@@ -15033,31 +15058,6 @@
       "phone": "(416) 393-7720",
       "isRecurring": true,
       "locationId": "RD"
-    },
-    {
-      "id": "tpl_6aa4bf586074830038265d99",
-      "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-11-15 14:00",
-      "endDate": "2026-11-15 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d99",
-      "phone": "(416) 394-1008",
-      "isRecurring": true,
-      "locationId": "MD"
     },
     {
       "id": "tpl_69a1d7538089f23c675ea252",
@@ -16123,6 +16123,31 @@
       "locationId": "DO"
     },
     {
+      "id": "tpl_6aa4bf586074830038265d9a",
+      "source": "tpl",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-11-22 14:00",
+      "endDate": "2026-11-22 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d9a",
+      "phone": "(416) 394-1008",
+      "isRecurring": true,
+      "locationId": "MD"
+    },
+    {
       "id": "tpl_6a03beec43b41b3d0066180c",
       "source": "tpl",
       "title": "Sunday STEAM at the Riverdale Branch",
@@ -16147,31 +16172,6 @@
       "phone": "(416) 393-7720",
       "isRecurring": true,
       "locationId": "RD"
-    },
-    {
-      "id": "tpl_6aa4bf586074830038265d9a",
-      "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-11-22 14:00",
-      "endDate": "2026-11-22 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d9a",
-      "phone": "(416) 394-1008",
-      "isRecurring": true,
-      "locationId": "MD"
     },
     {
       "id": "tpl_69a1d7538089f23c675ea253",
@@ -17186,6 +17186,31 @@
       "locationId": "JT"
     },
     {
+      "id": "tpl_6aa4bf586074830038265d9b",
+      "source": "tpl",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-11-29 14:00",
+      "endDate": "2026-11-29 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d9b",
+      "phone": "(416) 394-1008",
+      "isRecurring": true,
+      "locationId": "MD"
+    },
+    {
       "id": "tpl_6a03beec43b41b3d0066180d",
       "source": "tpl",
       "title": "Sunday STEAM at the Riverdale Branch",
@@ -17210,31 +17235,6 @@
       "phone": "(416) 393-7720",
       "isRecurring": true,
       "locationId": "RD"
-    },
-    {
-      "id": "tpl_6aa4bf586074830038265d9b",
-      "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-11-29 14:00",
-      "endDate": "2026-11-29 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d9b",
-      "phone": "(416) 394-1008",
-      "isRecurring": true,
-      "locationId": "MD"
     },
     {
       "id": "tpl_69a1d7538089f23c675ea254",
@@ -20198,6 +20198,31 @@
       "locationId": "DO"
     },
     {
+      "id": "tpl_6aa4bf586074830038265d9e",
+      "source": "tpl",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-12-20 14:00",
+      "endDate": "2026-12-20 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d9e",
+      "phone": "(416) 394-1008",
+      "isRecurring": true,
+      "locationId": "MD"
+    },
+    {
       "id": "tpl_6a03beec43b41b3d00661810",
       "source": "tpl",
       "title": "Sunday STEAM at the Riverdale Branch",
@@ -20222,31 +20247,6 @@
       "phone": "(416) 393-7720",
       "isRecurring": true,
       "locationId": "RD"
-    },
-    {
-      "id": "tpl_6aa4bf586074830038265d9e",
-      "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-12-20 14:00",
-      "endDate": "2026-12-20 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d9e",
-      "phone": "(416) 394-1008",
-      "isRecurring": true,
-      "locationId": "MD"
     },
     {
       "id": "tpl_69a1d7538089f23c675ea257",
@@ -25759,7 +25759,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a91f65b36204e08fbb7f589",
       "phone": "(416) 395-5657",
@@ -29984,6 +29984,31 @@
       "locationId": "MA"
     },
     {
+      "id": "tpl_6aa4bf586074830038265d93",
+      "source": "tpl",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-09-27 14:00",
+      "endDate": "2026-09-27 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d93",
+      "phone": "(416) 394-1008",
+      "isRecurring": true,
+      "locationId": "MD"
+    },
+    {
       "id": "tpl_6a03beec43b41b3d00661805",
       "source": "tpl",
       "title": "Sunday STEAM at the Riverdale Branch",
@@ -30008,31 +30033,6 @@
       "phone": "(416) 393-7720",
       "isRecurring": true,
       "locationId": "RD"
-    },
-    {
-      "id": "tpl_6aa4bf586074830038265d93",
-      "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-09-27 14:00",
-      "endDate": "2026-09-27 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d93",
-      "phone": "(416) 394-1008",
-      "isRecurring": true,
-      "locationId": "MD"
     },
     {
       "id": "tpl_69546b1e6724c63d00e96a8a",
@@ -36922,6 +36922,31 @@
       "locationId": "MA"
     },
     {
+      "id": "tpl_6aa4bf586074830038265d97",
+      "source": "tpl",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-11-01 14:00",
+      "endDate": "2026-11-01 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d97",
+      "phone": "(416) 394-1008",
+      "isRecurring": true,
+      "locationId": "MD"
+    },
+    {
       "id": "tpl_6a03beec43b41b3d00661809",
       "source": "tpl",
       "title": "Sunday STEAM at the Riverdale Branch",
@@ -36970,31 +36995,6 @@
       "phone": "(416) 394-5330",
       "isRecurring": false,
       "locationId": "MI"
-    },
-    {
-      "id": "tpl_6aa4bf586074830038265d97",
-      "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-11-01 14:00",
-      "endDate": "2026-11-01 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d97",
-      "phone": "(416) 394-1008",
-      "isRecurring": true,
-      "locationId": "MD"
     },
     {
       "id": "tpl_69546b1e6724c63d00e96a8e",
@@ -38170,6 +38170,31 @@
       "locationId": "MA"
     },
     {
+      "id": "tpl_6aa4bf586074830038265d98",
+      "source": "tpl",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-11-08 14:00",
+      "endDate": "2026-11-08 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d98",
+      "phone": "(416) 394-1008",
+      "isRecurring": true,
+      "locationId": "MD"
+    },
+    {
       "id": "tpl_6a03beec43b41b3d0066180a",
       "source": "tpl",
       "title": "Sunday STEAM at the Riverdale Branch",
@@ -38194,31 +38219,6 @@
       "phone": "(416) 393-7720",
       "isRecurring": true,
       "locationId": "RD"
-    },
-    {
-      "id": "tpl_6aa4bf586074830038265d98",
-      "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-11-08 14:00",
-      "endDate": "2026-11-08 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d98",
-      "phone": "(416) 394-1008",
-      "isRecurring": true,
-      "locationId": "MD"
     },
     {
       "id": "tpl_69546b1e6724c63d00e96a8f",
@@ -39274,6 +39274,31 @@
       "locationId": "MA"
     },
     {
+      "id": "tpl_6aa4bf586074830038265d99",
+      "source": "tpl",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-11-15 14:00",
+      "endDate": "2026-11-15 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d99",
+      "phone": "(416) 394-1008",
+      "isRecurring": true,
+      "locationId": "MD"
+    },
+    {
       "id": "tpl_6a03beec43b41b3d0066180b",
       "source": "tpl",
       "title": "Sunday STEAM at the Riverdale Branch",
@@ -39322,31 +39347,6 @@
       "phone": "(416) 394-5330",
       "isRecurring": false,
       "locationId": "MI"
-    },
-    {
-      "id": "tpl_6aa4bf586074830038265d99",
-      "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-11-15 14:00",
-      "endDate": "2026-11-15 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d99",
-      "phone": "(416) 394-1008",
-      "isRecurring": true,
-      "locationId": "MD"
     },
     {
       "id": "tpl_69546b1e6724c63d00e96a90",
@@ -40604,6 +40604,31 @@
       "locationId": "MA"
     },
     {
+      "id": "tpl_6aa4bf586074830038265d9a",
+      "source": "tpl",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-11-22 14:00",
+      "endDate": "2026-11-22 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d9a",
+      "phone": "(416) 394-1008",
+      "isRecurring": true,
+      "locationId": "MD"
+    },
+    {
       "id": "tpl_6a945d9269166f088b960100",
       "source": "tpl",
       "title": "Sunday Dash and Dots",
@@ -40652,31 +40677,6 @@
       "phone": "(416) 393-7720",
       "isRecurring": true,
       "locationId": "RD"
-    },
-    {
-      "id": "tpl_6aa4bf586074830038265d9a",
-      "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-11-22 14:00",
-      "endDate": "2026-11-22 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d9a",
-      "phone": "(416) 394-1008",
-      "isRecurring": true,
-      "locationId": "MD"
     },
     {
       "id": "tpl_69546b1e6724c63d00e96a91",
@@ -41763,6 +41763,31 @@
       "locationId": "MA"
     },
     {
+      "id": "tpl_6aa4bf586074830038265d9b",
+      "source": "tpl",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-11-29 14:00",
+      "endDate": "2026-11-29 15:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d9b",
+      "phone": "(416) 394-1008",
+      "isRecurring": true,
+      "locationId": "MD"
+    },
+    {
       "id": "tpl_6a03beec43b41b3d0066180d",
       "source": "tpl",
       "title": "Sunday STEAM at the Riverdale Branch",
@@ -41811,31 +41836,6 @@
       "phone": "(416) 394-5330",
       "isRecurring": false,
       "locationId": "MI"
-    },
-    {
-      "id": "tpl_6aa4bf586074830038265d9b",
-      "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-11-29 14:00",
-      "endDate": "2026-11-29 15:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d9b",
-      "phone": "(416) 394-1008",
-      "isRecurring": true,
-      "locationId": "MD"
     },
     {
       "id": "tpl_69546b1e6724c63d00e96a92",
