@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T20:31:23.217Z",
+  "lastUpdated": "2026-09-13T23:00:57.024Z",
   "totalEvents": 2416,
   "source": "Toronto Public Library",
   "events": [
@@ -48925,7 +48925,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a0ddee7c6a1dc3d00d4eeca",
       "phone": "(416) 396-8890",
@@ -53389,7 +53389,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a7219e0c7e02e3d006dc5f0",
       "phone": "(416) 395-5460",
