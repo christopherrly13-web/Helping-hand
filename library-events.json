@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-13T11:21:12.249Z",
-  "totalEvents": 2447,
+  "lastUpdated": "2026-09-13T15:51:35.650Z",
+  "totalEvents": 2446,
   "source": "Toronto Public Library",
   "events": [
     {
@@ -27,30 +27,6 @@
       "phone": "(416) 393-7663",
       "isRecurring": false,
       "locationId": "PL"
-    },
-    {
-      "id": "tpl_6a9860ae341bb11431ee80d6",
-      "source": "tpl",
-      "title": "Sunday Family Story Time",
-      "description": "Join us for stories, songs, and rhymes in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
-      "location": "Dufferin/St.Clair",
-      "address": "1625 Dufferin Street, Toronto",
-      "startDate": "2026-09-13 08:00",
-      "endDate": "2026-09-13 09:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a9860ae341bb11431ee80d6",
-      "phone": "(416) 393-7712",
-      "isRecurring": true,
-      "locationId": "DU"
     },
     {
       "id": "tpl_696aba094a9fd98b7f780dee",
@@ -1219,28 +1195,28 @@
       "locationId": "TH"
     },
     {
-      "id": "tpl_6a7b94563f18f80030ba7c6e",
+      "id": "tpl_6a60f493f213992f00c62c88",
       "source": "tpl",
-      "title": "Baby Time",
-      "description": "Join us for bouncing rhymes, songs and stories in this program for babies, birth to 18 months, and their parents or caregivers. Baby&nbsp;Time runs from 10am&nbsp;to&nbsp;11am. Children, parents and caregivers are invited to Stay and Play. Drop-in. No registration required.",
-      "location": "Malvern",
-      "address": "30 Sewells Road, Toronto",
-      "startDate": "2026-09-17 10:00",
-      "endDate": "2026-09-17 11:00",
+      "title": "LEGO Hour",
+      "description": "Enjoy an hour of building with our various blocks! All children are welcome. Please note there will be no LEGO Hour on Tuesday October 6th 2026.",
+      "location": "Eatonville",
+      "address": "430 Burnhampthorpe Road, Toronto",
+      "startDate": "2026-09-15 10:00",
+      "endDate": "2026-09-15 11:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Reading Programs & Storytimes"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a7b94563f18f80030ba7c6e",
-      "phone": "(416) 396-8969",
+      "url": "https://tpl.bibliocommons.com/events/6a60f493f213992f00c62c88",
+      "phone": "(416) 394-5270",
       "isRecurring": true,
-      "locationId": "MAL"
+      "locationId": "EA"
     },
     {
       "id": "tpl_6a884ed8aafa6100295e1b48",
@@ -2419,14 +2395,14 @@
       "locationId": "RI"
     },
     {
-      "id": "tpl_6aa19e906a5243003f7c6f40",
+      "id": "tpl_695814a1491b809c6f107ddd",
       "source": "tpl",
-      "title": "Sunday Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Family Time runs from 3pm &nbsp;to 3:30pm .&nbsp;",
-      "location": "Davenport",
-      "address": "1246 Shaw Street, Toronto",
-      "startDate": "2026-09-20 15:00",
-      "endDate": "2026-09-20 15:30",
+      "title": "Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Family Time runs from 10:30&nbsp;to 11:30. Drop in.&nbsp;No registration required, but space is limited.",
+      "location": "Fairview",
+      "address": "35 Fairview Mall Drive, Toronto",
+      "startDate": "2026-09-19 10:30",
+      "endDate": "2026-09-19 11:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -2437,10 +2413,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa19e906a5243003f7c6f40",
-      "phone": "(416) 393-7732",
+      "url": "https://tpl.bibliocommons.com/events/695814a1491b809c6f107ddd",
+      "phone": "(416) 395-5750",
       "isRecurring": true,
-      "locationId": "DT"
+      "locationId": "FV"
     },
     {
       "id": "tpl_6a90c74760ccaf01c0218e39",
@@ -3621,14 +3597,14 @@
       "locationId": "PM"
     },
     {
-      "id": "tpl_6a515aa3dee4ff5300c8efc2",
+      "id": "tpl_6a95fffe1c197d11325c3766",
       "source": "tpl",
-      "title": "Baby Time",
-      "description": "Join us for bouncing rhymes, songs and stories in this program for babies, birth to 18 months, and their parents or caregivers. Drop-in.&nbsp;",
-      "location": "Mount Pleasant",
-      "address": "599 Mt. Pleasant Road, Toronto",
-      "startDate": "2026-09-25 11:00",
-      "endDate": "2026-09-25 11:30",
+      "title": "Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Family Time runs from [begin time] to [end time] .&nbsp;Children, parents and caregivers are invited to Stay and Play from [begin time] to [end time] .",
+      "location": "St. Lawrence",
+      "address": "171 Front Street East, Toronto",
+      "startDate": "2026-09-23 10:30",
+      "endDate": "2026-09-23 11:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -3639,10 +3615,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a515aa3dee4ff5300c8efc2",
-      "phone": "(416) 393-7737",
+      "url": "https://tpl.bibliocommons.com/events/6a95fffe1c197d11325c3766",
+      "phone": "(416) 393-7621",
       "isRecurring": true,
-      "locationId": "MP"
+      "locationId": "SL"
     },
     {
       "id": "tpl_6a7f81093b6c71003e58e9e5",
@@ -4837,28 +4813,28 @@
       "locationId": "KE"
     },
     {
-      "id": "tpl_6a876f97d4b10d003007eabe",
+      "id": "tpl_6a95ab1d60ccaf01c0224d50",
       "source": "tpl",
-      "title": "Toddler Time ",
-      "description": "Stories, songs, rhymes and activities for children ages 19 months to 3 years with their parents or caregivers. Toddler Time runs from 10:00 to 10:30 am. Children, parents and caregivers are invited to Stay and Play from 10:30-11:00 am. Drop in, no registration required. Participants will be capped at the first 30 families **No Toddler Time on Wednesday September 30. **",
-      "location": "Brentwood",
-      "address": "36 Brentwood Road North, Toronto",
-      "startDate": "2026-09-30 10:00",
-      "endDate": "2026-09-30 10:30",
+      "title": "Sunday Fun Day",
+      "description": "Come and enjoy a relaxing Sunday afternoon craft with us. Explore different mediums, create something different and brand new as well as making a few new friends along the way! Starting each Sunday from September 13th - Sunday December 13th. Ages 5-12, Drop in, no registration required.",
+      "location": "Junction Triangle",
+      "address": "305 Campbell Avenue, Toronto",
+      "startDate": "2026-09-27 14:00",
+      "endDate": "2026-09-27 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Reading Programs & Storytimes"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a876f97d4b10d003007eabe",
-      "phone": "(416) 394-5240",
+      "url": "https://tpl.bibliocommons.com/events/6a95ab1d60ccaf01c0224d50",
+      "phone": "(416) 393-7677",
       "isRecurring": true,
-      "locationId": "BR"
+      "locationId": "JT"
     },
     {
       "id": "tpl_6a777b46f4e5db3d00c75cd2",
@@ -6038,14 +6014,14 @@
       "locationId": "SWS"
     },
     {
-      "id": "tpl_6a8f424660ccaf01c021416e",
+      "id": "tpl_6a775f0db44674e2601ccbb4",
       "source": "tpl",
-      "title": "*Cancelled* Toddler Time",
-      "description": "Join us for stories, songs and rhymes in this program for children, 19 months to 3 years, and their parents or caregivers. Toddler Time&nbsp;runs from &nbsp;10:30-11 am . Drop-in, no registration required.",
-      "location": "Danforth/Coxwell - Closed",
-      "address": "1675 Danforth Ave, Toronto",
-      "startDate": "2026-10-05 10:30",
-      "endDate": "2026-10-05 11:00",
+      "title": "Family Time",
+      "description": "Join us for stories, songs, rhymes and activities for children ages 5 and under with their parents or caregivers. Family Time runs from 10:30 to 11 am. Children, parents and caregivers are invited to Stay and Play , from 11 to 11:30 am. Stay and Play provides a welcoming space for children to play and learn while caregivers connect with each other and library staff. Drop-in. No registration required.",
+      "location": "Don Mills",
+      "address": "888 Lawrence Avenue East, Toronto",
+      "startDate": "2026-10-03 10:30",
+      "endDate": "2026-10-03 11:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -6056,10 +6032,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a8f424660ccaf01c021416e",
-      "phone": "(416) 393-7783",
+      "url": "https://tpl.bibliocommons.com/events/6a775f0db44674e2601ccbb4",
+      "phone": "(416) 395-5710",
       "isRecurring": true,
-      "locationId": "DA"
+      "locationId": "DM"
     },
     {
       "id": "tpl_6aa2ea36f9ed2e00384f9848",
@@ -7239,14 +7215,14 @@
       "locationId": "HC"
     },
     {
-      "id": "tpl_6a7e4c4e9d8416003f696d57",
+      "id": "tpl_69681b0dc967cb412081e6c7",
       "source": "tpl",
-      "title": "Family Story Time",
-      "description": "Join us Saturday morning for Family Time! Enjoy songs, stories, rhymes and bounces for children. We will end with a quick craft.&nbsp; Drop-in.",
-      "location": "Dufferin/St.Clair",
-      "address": "1625 Dufferin Street, Toronto",
-      "startDate": "2026-10-10 11:00",
-      "endDate": "2026-10-10 11:30",
+      "title": "Together Time",
+      "description": "This is a program for parents and caregivers with children from birth - 6 years. Families have the opportunity to socialize while children develop new skills in an early learning environment.",
+      "location": "Burrows Hall",
+      "address": "1081 Progress Ave, Toronto",
+      "startDate": "2026-10-07 13:00",
+      "endDate": "2026-10-07 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -7257,10 +7233,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a7e4c4e9d8416003f696d57",
-      "phone": "(416) 393-7712",
+      "url": "https://tpl.bibliocommons.com/events/69681b0dc967cb412081e6c7",
+      "phone": "(416) 396-8740",
       "isRecurring": true,
-      "locationId": "DU"
+      "locationId": "BUR"
     },
     {
       "id": "tpl_694af36cc967cb41207e389f",
@@ -8441,14 +8417,14 @@
       "locationId": "BF"
     },
     {
-      "id": "tpl_6a5819b99943bdf31e9f2b9b",
+      "id": "tpl_6a72461bc7e02e3d006dd5c0",
       "source": "tpl",
       "title": "Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Family Time runs from 10:30 to 11:00 am. Children, parents and caregivers are invited to Stay and Play, from 11:00 to 11:30.&nbsp; Drop-in. Space is limited.",
-      "location": "S. Walter Stewart",
-      "address": "170 Memorial Park Avenue, Toronto",
-      "startDate": "2026-10-17 10:30",
-      "endDate": "2026-10-17 11:00",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
+      "location": "Queen/Saulter",
+      "address": "765 Queen Street East, Toronto",
+      "startDate": "2026-10-14 10:45",
+      "endDate": "2026-10-14 11:15",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -8459,10 +8435,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a5819b99943bdf31e9f2b9b",
-      "phone": "(416) 396-3854",
+      "url": "https://tpl.bibliocommons.com/events/6a72461bc7e02e3d006dd5c0",
+      "phone": "(416) 393-7723",
       "isRecurring": true,
-      "locationId": "SWS"
+      "locationId": "QS"
     },
     {
       "id": "tpl_6a775f0db44674e2601ccbb6",
@@ -9651,28 +9627,28 @@
       "locationId": "BF"
     },
     {
-      "id": "tpl_69a098a32866a5b4883e9180",
+      "id": "tpl_6a873d9b58433600542ab733",
       "source": "tpl",
-      "title": "Lego Club",
-      "description": "Every Wednesday come out to build, create and use your imagination with LEGO. Enjoy a new building challenge each week. Complete 5 challenges and get a sticker! Drop-in.&nbsp; Live or automated closed captioning, sign language interpretation, intervenor services, or attendant services are available upon request. Please submit your request at least 2 weeks in advance to: tpl.ca/accessibility-events.",
-      "location": "Jones",
-      "address": "118 Jones Avenue, Toronto",
-      "startDate": "2026-10-21 15:30",
-      "endDate": "2026-10-21 17:00",
+      "title": "Mothercraft Drop in by EarlyON",
+      "description": "Join us for Mothercraft Drop-In, for children aged 0-6 and their caregivers, where participants will engage with early-years professionals, and connect with others in the community. Through a variety of fun activities, books, songs, and play, this program aims to help strengthen adult-child relationships, support parent education, and foster healthy child development.",
+      "location": "Oakwood Village Library and Arts Centre",
+      "address": "341 Oakwood Avenue, Toronto",
+      "startDate": "2026-10-19 10:30",
+      "endDate": "2026-10-19 12:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Science & Engineering"
+        "Reading Programs & Storytimes"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69a098a32866a5b4883e9180",
-      "phone": "(416) 393-7715",
+      "url": "https://tpl.bibliocommons.com/events/6a873d9b58433600542ab733",
+      "phone": "(416) 394-1040",
       "isRecurring": true,
-      "locationId": "JO"
+      "locationId": "OV"
     },
     {
       "id": "tpl_6a99ea033b6c71003e5d9def",
@@ -10852,28 +10828,28 @@
       "locationId": "ACD"
     },
     {
-      "id": "tpl_6a74a1d1b3bdcec4a666e6a2",
+      "id": "tpl_6a72456dcca66c2f00a83035",
       "source": "tpl",
-      "title": "LEGO Hour",
-      "description": "Enjoy an hour of building with our various blocks! All children are welcome. Please note there will be no LEGO Hour on Tuesday October 6th 2026.",
-      "location": "Eatonville",
-      "address": "430 Burnhampthorpe Road, Toronto",
-      "startDate": "2026-10-27 10:00",
-      "endDate": "2026-10-27 11:00",
+      "title": "Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
+      "location": "Queen/Saulter",
+      "address": "765 Queen Street East, Toronto",
+      "startDate": "2026-10-24 10:45",
+      "endDate": "2026-10-24 11:15",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Crafts & Hobbies"
+        "Reading Programs & Storytimes"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a74a1d1b3bdcec4a666e6a2",
-      "phone": "(416) 394-5270",
+      "url": "https://tpl.bibliocommons.com/events/6a72456dcca66c2f00a83035",
+      "phone": "(416) 393-7723",
       "isRecurring": true,
-      "locationId": "EA"
+      "locationId": "QS"
     },
     {
       "id": "tpl_6a7f51baaafa6100295ca0ae",
@@ -12052,28 +12028,28 @@
       "locationId": "SWS"
     },
     {
-      "id": "tpl_6a2c7e64c7d3cd58006001df",
+      "id": "tpl_6a6bbee70d65ac3600435f5f",
       "source": "tpl",
-      "title": "Family Storytime",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Family Storytime runs from 2-2:30pm.&nbsp; Drop in.&nbsp;No registration required but space is limited.&nbsp;",
-      "location": "Fairview",
-      "address": "35 Fairview Mall Drive, Toronto",
-      "startDate": "2026-11-01 14:00",
-      "endDate": "2026-11-01 14:30",
+      "title": "Music and Movement",
+      "description": "Participants learn fundamental skills in note-reading, pitch, dance, singing, and Orff/Kodaly percussion techniques, as well as social skills like sharing, focus, teamwork, and listening. Participants sing, play, pitched and unpitched percussion instruments, learn music theory and notation, and build confidence together to develop a strong musical foundation. Music and Movement classes will be led by a Sistema Toronto Teaching Artist.&nbsp; Drop In . No Registration Required. For Children&nbsp;A",
+      "location": "Downsview",
+      "address": "2793 Keele Street, Toronto",
+      "startDate": "2026-10-30 10:30",
+      "endDate": "2026-10-30 11:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Reading Programs & Storytimes"
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a2c7e64c7d3cd58006001df",
-      "phone": "(416) 395-5750",
+      "url": "https://tpl.bibliocommons.com/events/6a6bbee70d65ac3600435f5f",
+      "phone": "(416) 395-5720",
       "isRecurring": true,
-      "locationId": "FV"
+      "locationId": "DO"
     },
     {
       "id": "tpl_6a0f4adf8e677a28001d8c82",
@@ -13260,14 +13236,14 @@
       "locationId": "GW"
     },
     {
-      "id": "tpl_6a551cc7f213992f00c3e97a",
+      "id": "tpl_6a8d9a7a392e9c02993c7a4c",
       "source": "tpl",
-      "title": "Sunday Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers.&nbsp;",
-      "location": "Pape/Danforth",
-      "address": "701 Pape Avenue, Toronto",
-      "startDate": "2026-11-08 13:30",
-      "endDate": "2026-11-08 14:00",
+      "title": "Toddler Time",
+      "description": "Join us for stories, songs and rhymes in this program for children, 19 months to 3 years, and their parents or caregivers. Toddler Time&nbsp;runs from &nbsp;10:30&nbsp; to 11:30 am .&nbsp; Drop in. No registration required, but space is limited.",
+      "location": "Fairview",
+      "address": "35 Fairview Mall Drive, Toronto",
+      "startDate": "2026-11-04 10:30",
+      "endDate": "2026-11-04 11:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -13278,10 +13254,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a551cc7f213992f00c3e97a",
-      "phone": "(416) 393-7727",
+      "url": "https://tpl.bibliocommons.com/events/6a8d9a7a392e9c02993c7a4c",
+      "phone": "(416) 395-5750",
       "isRecurring": true,
-      "locationId": "PA"
+      "locationId": "FV"
     },
     {
       "id": "tpl_6a2c7e64c7d3cd58006001e0",
@@ -14469,28 +14445,28 @@
       "locationId": "FO"
     },
     {
-      "id": "tpl_6a67ebde7b79214226abc75d",
+      "id": "tpl_6a7b7e011401fd00606c092a",
       "source": "tpl",
-      "title": "Sunday Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Sunday&nbsp;Family Time runs from 2:00 to 2:30. Children, parents and caregivers are invited to Stay and Play, from 2:30-3:00.",
-      "location": "Eglinton Square",
-      "address": "1 Eglinton Square, Unit 126, Toronto",
-      "startDate": "2026-11-15 14:00",
-      "endDate": "2026-11-15 15:00",
+      "title": "EarlyON Music and Movement",
+      "description": "Join EarlyON for a weekly Music & Movement program designed for families with children from birth to 6 years. Enjoy interactive songs, stories, finger rhymes, movement, and social time in a welcoming environment. Drop-in, no registration required.",
+      "location": "Highland Creek",
+      "address": "3550 Ellesmere Road, Toronto",
+      "startDate": "2026-11-11 13:00",
+      "endDate": "2026-11-11 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Reading Programs & Storytimes"
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a67ebde7b79214226abc75d",
-      "phone": "(416) 396-8920",
+      "url": "https://tpl.bibliocommons.com/events/6a7b7e011401fd00606c092a",
+      "phone": "(416) 396-8876",
       "isRecurring": true,
-      "locationId": "ES"
+      "locationId": "HC"
     },
     {
       "id": "tpl_6a11dee543b41b3d00689e5f",
@@ -15674,29 +15650,28 @@
       "locationId": "BE"
     },
     {
-      "id": "tpl_6aa4bf586074830038265d9a",
+      "id": "tpl_6aa03cd9a3fb9722897afcc4",
       "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
-      "location": "Mount Dennis",
-      "address": "1123 Weston Road, Toronto",
-      "startDate": "2026-11-22 14:00",
-      "endDate": "2026-11-22 15:00",
+      "title": "Baby Time",
+      "description": "Join us for bouncing rhymes, songs and stories in this program for babies, birth to 18 months, and their parents or caregivers. Baby Time runs from 10:30 AM to 11:00 AM.&nbsp; Children, parents and caregivers are invited to Stay and Play, from 11:00 AM&nbsp;to 11:30 AM.",
+      "location": "Albert Campbell",
+      "address": "496 Birchmount Road, Toronto",
+      "startDate": "2026-11-19 10:30",
+      "endDate": "2026-11-19 11:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
+        "Reading Programs & Storytimes"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d9a",
-      "phone": "(416) 394-1008",
+      "url": "https://tpl.bibliocommons.com/events/6aa03cd9a3fb9722897afcc4",
+      "phone": "(416) 396-8890",
       "isRecurring": true,
-      "locationId": "MD"
+      "locationId": "ACD"
     },
     {
       "id": "tpl_6a03beec43b41b3d0066180c",
@@ -16877,28 +16852,28 @@
       "locationId": "WP"
     },
     {
-      "id": "tpl_6a1c9c024dc267647dab4204",
+      "id": "tpl_6a6bbee70d65ac3600435f60",
       "source": "tpl",
-      "title": "Sunday Family Crafts",
-      "description": "Come as a family and enjoy making&nbsp;crafts together. This program is for families or caregivers with children. Drop-in. No registration required. &nbsp;",
-      "location": "Yorkville",
-      "address": "22 Yorkville Avenue, Toronto",
-      "startDate": "2026-11-29 15:00",
-      "endDate": "2026-11-29 16:00",
+      "title": "Music and Movement",
+      "description": "Participants learn fundamental skills in note-reading, pitch, dance, singing, and Orff/Kodaly percussion techniques, as well as social skills like sharing, focus, teamwork, and listening. Participants sing, play, pitched and unpitched percussion instruments, learn music theory and notation, and build confidence together to develop a strong musical foundation. Music and Movement classes will be led by a Sistema Toronto Teaching Artist.&nbsp; Drop In . No Registration Required. For Children&nbsp;A",
+      "location": "Downsview",
+      "address": "2793 Keele Street, Toronto",
+      "startDate": "2026-11-27 10:30",
+      "endDate": "2026-11-27 11:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Crafts & Hobbies"
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a1c9c024dc267647dab4204",
-      "phone": "(416) 393-7660",
+      "url": "https://tpl.bibliocommons.com/events/6a6bbee70d65ac3600435f60",
+      "phone": "(416) 395-5720",
       "isRecurring": true,
-      "locationId": "YO"
+      "locationId": "DO"
     },
     {
       "id": "tpl_6aa19e906a5243003f7c6f4a",
@@ -18078,14 +18053,14 @@
       "locationId": "RI"
     },
     {
-      "id": "tpl_6a7e3aae8c7b29006f162586",
+      "id": "tpl_695814a1491b809c6f107de8",
       "source": "tpl",
-      "title": "Toddler Time",
-      "description": "Join us for stories, songs and rhymes in this program for children, 19 months to 3 years, and their parents or caregivers.&nbsp; Drop in. No registration required.",
-      "location": "Daniel G. Hill",
-      "address": "620 Jane Street, Toronto",
-      "startDate": "2026-12-09 10:00",
-      "endDate": "2026-12-09 10:30",
+      "title": "Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Family Time runs from 10:30&nbsp;to 11:30. Drop in.&nbsp;No registration required, but space is limited.",
+      "location": "Fairview",
+      "address": "35 Fairview Mall Drive, Toronto",
+      "startDate": "2026-12-05 10:30",
+      "endDate": "2026-12-05 11:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -18096,10 +18071,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a7e3aae8c7b29006f162586",
-      "phone": "(416) 394-1014",
+      "url": "https://tpl.bibliocommons.com/events/695814a1491b809c6f107de8",
+      "phone": "(416) 395-5750",
       "isRecurring": true,
-      "locationId": "DGH"
+      "locationId": "FV"
     },
     {
       "id": "tpl_69b1b8566583d22e3c0ea9d5",
@@ -19284,28 +19259,29 @@
       "locationId": "JT"
     },
     {
-      "id": "tpl_6a5819b99943bdf31e9f2ba4",
+      "id": "tpl_6aa4bf586074830038265d9d",
       "source": "tpl",
-      "title": "Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Family Time runs from 10:30 to 11:00 am. Children, parents and caregivers are invited to Stay and Play, from 11:00 to 11:30.&nbsp; Drop-in. Space is limited.",
-      "location": "S. Walter Stewart",
-      "address": "170 Memorial Park Avenue, Toronto",
-      "startDate": "2026-12-19 10:30",
-      "endDate": "2026-12-19 11:00",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. Drop-in.",
+      "location": "Mount Dennis",
+      "address": "1123 Weston Road, Toronto",
+      "startDate": "2026-12-13 14:00",
+      "endDate": "2026-12-13 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
       "ages": "Ages 0-5",
       "categories": [
-        "Reading Programs & Storytimes"
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a5819b99943bdf31e9f2ba4",
-      "phone": "(416) 396-3854",
+      "url": "https://tpl.bibliocommons.com/events/6aa4bf586074830038265d9d",
+      "phone": "(416) 394-1008",
       "isRecurring": true,
-      "locationId": "SWS"
+      "locationId": "MD"
     },
     {
       "id": "tpl_6a67d2d64523092f003302cc",
@@ -20495,14 +20471,14 @@
       "locationId": "FV"
     },
     {
-      "id": "tpl_6a970e821c197d11325c69eb",
+      "id": "tpl_69f8c34d43b41b3d00640674",
       "source": "tpl",
-      "title": "EarlyON Together Time",
-      "description": "This is a program for parents and caregivers with children from birth - 6 years. Families have the opportunity to socialize while children develop new skills in an early learning environment. This program is offered in partnership with the Malvern Family Resource Centre (MFRC) . This is a drop-in program.&nbsp;No registration required.",
-      "location": "Woodside Square",
-      "address": "1571 Sandhurst Circle, Toronto",
-      "startDate": "2027-02-10 09:30",
-      "endDate": "2027-02-10 11:30",
+      "title": "Family Time",
+      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Family Time runs from 11am to 11:30am. Children, parents, and caregivers are invited to join us for a fun craft from 11:30am to 12:00pm. DROP-IN! Space is limited",
+      "location": "Albion",
+      "address": "1515 Albion Road, Toronto",
+      "startDate": "2027-01-02 11:00",
+      "endDate": "2027-01-02 12:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -20513,10 +20489,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a970e821c197d11325c69eb",
-      "phone": "(416) 396-8979",
+      "url": "https://tpl.bibliocommons.com/events/69f8c34d43b41b3d00640674",
+      "phone": "(416) 394-5200",
       "isRecurring": true,
-      "locationId": "WS"
+      "locationId": "AB"
     },
     {
       "id": "tpl_6a85cb6b2f41840bbfc30a11",
@@ -21695,14 +21671,14 @@
       "locationId": "WS"
     },
     {
-      "id": "tpl_6a9884a9be148200298c03cd",
+      "id": "tpl_6a970e821c197d11325c69f3",
       "source": "tpl",
-      "title": "Family Time",
-      "description": "Join us for rhymes, songs and stories for children from 0-5, with their parents or caregivers. A fun activity, game or craft to follow. Children, parents and caregivers are invited to Stay and Play.",
-      "location": "McGregor Park",
-      "address": "2219 Lawrence Avenue East, Toronto",
-      "startDate": "2027-05-26 11:00",
-      "endDate": "2027-05-26 11:45",
+      "title": "EarlyON Together Time",
+      "description": "This is a program for parents and caregivers with children from birth - 6 years. Families have the opportunity to socialize while children develop new skills in an early learning environment. This program is offered in partnership with the Malvern Family Resource Centre (MFRC) . This is a drop-in program.&nbsp;No registration required.",
+      "location": "Woodside Square",
+      "address": "1571 Sandhurst Circle, Toronto",
+      "startDate": "2027-04-07 09:30",
+      "endDate": "2027-04-07 11:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -21713,10 +21689,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a9884a9be148200298c03cd",
-      "phone": "(416) 396-8935",
+      "url": "https://tpl.bibliocommons.com/events/6a970e821c197d11325c69f3",
+      "phone": "(416) 396-8979",
       "isRecurring": true,
-      "locationId": "MCG"
+      "locationId": "WS"
     },
     {
       "id": "tpl_6a7b7e011401fd00606c0942",
@@ -22895,14 +22871,14 @@
       "locationId": "FV"
     },
     {
-      "id": "tpl_6aa189b9ab7a8e0037c088e9",
+      "id": "tpl_6a970e41aafa61002960bc5f",
       "source": "tpl",
-      "title": "Family Time",
-      "description": "Join us for stories, songs, rhymes and activities in this program for children ages 5 and under and their parents or caregivers. Family Time runs from 10:30&nbsp;to 11:30. Drop in.&nbsp;No registration required, but space is limited.",
-      "location": "Fairview",
-      "address": "35 Fairview Mall Drive, Toronto",
-      "startDate": "2028-02-26 10:30",
-      "endDate": "2028-02-26 11:30",
+      "title": "EarlyON Together Time",
+      "description": "This is a program for parents and caregivers with children from birth - 6 years. Families have the opportunity to socialize while children develop new skills in an early learning environment. This program is offered in partnership with the Malvern Family Resource Centre (MFRC) . This is a drop-in program.&nbsp;No registration required.",
+      "location": "Woodside Square",
+      "address": "1571 Sandhurst Circle, Toronto",
+      "startDate": "2027-07-27 13:00",
+      "endDate": "2027-07-27 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "0-5",
@@ -22913,10 +22889,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa189b9ab7a8e0037c088e9",
-      "phone": "(416) 395-5750",
+      "url": "https://tpl.bibliocommons.com/events/6a970e41aafa61002960bc5f",
+      "phone": "(416) 396-8979",
       "isRecurring": true,
-      "locationId": "FV"
+      "locationId": "WS"
     },
     {
       "id": "tpl_6aa189b9ab7a8e0037c088ea",
@@ -24390,7 +24366,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a7226960d65ac36004450e2",
       "phone": "(416) 395-5460",
@@ -25251,7 +25227,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69e25cc766c3387a9d07156a",
       "phone": "(416) 396-8939",
@@ -53646,7 +53622,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a75080e74e3b8b75db82b33",
       "phone": "(416) 396-8939",
