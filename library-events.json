@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T04:03:37.975Z",
+  "lastUpdated": "2026-09-14T12:13:20.890Z",
   "totalEvents": 2416,
   "source": "Toronto Public Library",
   "events": [
@@ -149,30 +149,6 @@
       "locationId": "TA"
     },
     {
-      "id": "tpl_6a7df4de3f18f80030bae2fc",
-      "source": "tpl",
-      "title": "Baby Time",
-      "description": "Join us for bouncing rhymes, songs and stories in this program for babies, birth to 18 months, and their parents or caregivers. Baby&nbsp;Time runs from 10:30&nbsp;to 11:00 &nbsp; . Children, parents and caregivers are invited to Stay and Play, from 11:00 &nbsp;to &nbsp;11:30.",
-      "location": "Victoria Village",
-      "address": "184 Sloane Avenue, Toronto",
-      "startDate": "2026-09-14 10:30",
-      "endDate": "2026-09-14 11:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "0-5",
-      "ages": "Ages 0-5",
-      "categories": [
-        "Reading Programs & Storytimes"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a7df4de3f18f80030bae2fc",
-      "phone": "(416) 395-5950",
-      "isRecurring": true,
-      "locationId": "VV"
-    },
-    {
       "id": "tpl_6a7e45f8d4b10d003006584c",
       "source": "tpl",
       "title": "Family Time and Parenting Workshop",
@@ -243,6 +219,30 @@
       "phone": "(416) 394-1040",
       "isRecurring": true,
       "locationId": "OV"
+    },
+    {
+      "id": "tpl_6a7df4de3f18f80030bae2fc",
+      "source": "tpl",
+      "title": "Baby Time",
+      "description": "Join us for bouncing rhymes, songs and stories in this program for babies, birth to 18 months, and their parents or caregivers. Baby&nbsp;Time runs from 10:30&nbsp;to 11:00 &nbsp; . Children, parents and caregivers are invited to Stay and Play, from 11:00 &nbsp;to &nbsp;11:30.",
+      "location": "Victoria Village",
+      "address": "184 Sloane Avenue, Toronto",
+      "startDate": "2026-09-14 10:30",
+      "endDate": "2026-09-14 11:30",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "0-5",
+      "ages": "Ages 0-5",
+      "categories": [
+        "Reading Programs & Storytimes"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a7df4de3f18f80030bae2fc",
+      "phone": "(416) 395-5950",
+      "isRecurring": true,
+      "locationId": "VV"
     },
     {
       "id": "tpl_6994b42c8b29ea2800d09e8b",
@@ -23926,7 +23926,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a778263f4e5db3d00c75fa0",
       "phone": "(416) 395-5710",
@@ -25966,7 +25966,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a778263f4e5db3d00c75fa1",
       "phone": "(416) 395-5710",
@@ -29773,7 +29773,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a778263f4e5db3d00c75fa3",
       "phone": "(416) 395-5710",
@@ -32569,7 +32569,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a778263f4e5db3d00c75fa5",
       "phone": "(416) 395-5710",
