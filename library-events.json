@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T03:53:10.438Z",
+  "lastUpdated": "2026-09-18T10:49:41.055Z",
   "totalEvents": 2449,
   "source": "Toronto Public Library",
   "events": [
@@ -50701,7 +50701,7 @@
         "Audio & Visual"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a6ba61bc7e02e3d006cbdf4",
       "phone": "(416) 393-7737",
@@ -53313,7 +53313,7 @@
         "Career & Job Search"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a57dcc1c7e02e3d00695806",
       "phone": "(416) 393-7149",
