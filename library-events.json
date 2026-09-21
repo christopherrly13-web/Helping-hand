@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T23:05:35.168Z",
+  "lastUpdated": "2026-09-21T04:03:11.179Z",
   "totalEvents": 2482,
   "source": "Toronto Public Library",
   "events": [
@@ -2870,7 +2870,7 @@
         "Reading Programs & Storytimes"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a8382d93b6c71003e59898f",
       "phone": "(416) 396-8960",
@@ -24282,7 +24282,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a8c4ddf2dac6e003721420c",
       "phone": "(416) 395-5525",
@@ -29541,7 +29541,7 @@
         "Coding & Robotics"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a8de27e4995480655ec6983",
       "phone": "(416) 393-7737",
@@ -40463,7 +40463,7 @@
         "Health & Wellness"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a69055ea0b1bdf860d8a0f4",
       "phone": "(416) 396-3854",
@@ -49760,7 +49760,7 @@
         "Audio & Visual"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a91f6a060ccaf01c021ca92",
       "phone": "(416) 395-5657",
@@ -49834,7 +49834,7 @@
         "Audio & Visual"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a84a7f860ccaf01c01f1ce6",
       "phone": "(416) 395-5646",
@@ -49882,7 +49882,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a8c4ddf2dac6e003721420c",
       "phone": "(416) 395-5525",
