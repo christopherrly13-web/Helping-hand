@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-21T23:56:16.666Z",
-  "totalEvents": 2499,
+  "lastUpdated": "2026-09-22T04:00:34.336Z",
+  "totalEvents": 2498,
   "source": "Toronto Public Library",
   "events": [
     {
@@ -24542,7 +24542,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a831df036204e08fbb4f96c",
       "phone": "(416) 394-5320",
@@ -24943,7 +24943,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/69fb9cf9caf93436005a3600",
       "phone": "(416) 394-1006",
@@ -49526,30 +49526,6 @@
       "locationId": "LS"
     },
     {
-      "id": "tpl_6a84a7f860ccaf01c01f1ce6",
-      "source": "tpl",
-      "title": "Audio Editing with Audacity",
-      "description": "Join us for an introductory workshop on Audacity. We will be exploring the basics of audio editing as we work towards a simple project. Time will also be set aside in the workshop to explore the Digital Innovation Hub's Audio Visual Studio and audio equipment. Keyboarding and mouse skills are required. Registration is required. Registration begins on September 7th at 12:30pm. Note: Your spot will not be guaranteed after 5 minutes of the start of the program. Information Collection Notice: The pe",
-      "location": "North York Central Library",
-      "address": "5120 Yonge Street, Toronto",
-      "startDate": "2026-09-21 18:00",
-      "endDate": "2026-09-21 20:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Audio & Visual"
-      ],
-      "isDropIn": false,
-      "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a84a7f860ccaf01c01f1ce6",
-      "phone": "(416) 395-5646",
-      "isRecurring": false,
-      "locationId": "CL"
-    },
-    {
       "id": "tpl_6a4d571d4b05243d005580a2",
       "source": "tpl",
       "title": "LivingWorks safeTALK",
@@ -50658,29 +50634,28 @@
       "locationId": "DM"
     },
     {
-      "id": "tpl_6a8dd9b957c264087ad3ab59",
+      "id": "tpl_6a85d9604cb69d003e21d5fb",
       "source": "tpl",
-      "title": "NatureTO: Trees Around the Branch Tour",
-      "description": "The Parkdale branch and its neighbourhood is home to a variety of trees. Join the City of Toronto Urban Forestry staff to explore the natural world on a local neighbourhood tour. Learn how to recognize different species and fun facts about their cultural and ecological importance. The tour will start and end at the Parkdale branch in the branch lobby area&nbsp;and will be guided by the City of Toronto Urban Forestry staff. This program takes place rain or shine. In the event of severe inclement ",
-      "location": "Parkdale",
-      "address": "1303 Queen Street West, Toronto",
-      "startDate": "2026-09-25 14:00",
-      "endDate": "2026-09-25 15:30",
+      "title": "Youth Hub: Parfait Making Workshop",
+      "description": "Participants will learn the basics of how to make a dairy-free parfait. *Each participant will create unique parfaits using ingredients such as rolled oats, chia seeds, granola, vegan yogurt, oat milk, fruit compote, and an assortment of fruits and finishing condiments*, all prepared by the Chef.(Allergy Alert: no nuts or dairy). This is a drop-in program. Spaces are limited.&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summe",
+      "location": "Fairview",
+      "address": "35 Fairview Mall Drive, Toronto",
+      "startDate": "2026-09-23 16:00",
+      "endDate": "2026-09-23 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Library Visits & Tours",
-        "Nature & the Environment"
+        "Culture, Arts & Entertainment"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a8dd9b957c264087ad3ab59",
-      "phone": "(416) 393-7686",
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a85d9604cb69d003e21d5fb",
+      "phone": "(416) 395-5750",
       "isRecurring": false,
-      "locationId": "PK"
+      "locationId": "FV"
     },
     {
       "id": "tpl_6a74c214e30fe48459676d95",
@@ -51869,28 +51844,28 @@
       "locationId": "MP"
     },
     {
-      "id": "tpl_6a95bd561c197d11325c242d",
+      "id": "tpl_6a7e2d8e4027d701ebc4319a",
       "source": "tpl",
-      "title": "Youth Hub: Gaming Café",
-      "description": "Drop-in every Monday and&nbsp;Thursday to take part in video games and board games! Nintendo Switch and PS5 games available. All games available on a first come, first serve basis. All teens are welcome! Drop-in, no registration required. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the br",
-      "location": "Northern District",
-      "address": "40 Orchard View Boulevard, Toronto",
-      "startDate": "2026-10-01 15:30",
-      "endDate": "2026-10-01 19:00",
+      "title": "Teen Art Club",
+      "description": "Calling all Teen artists! Unleash your creativity and join our teen art club. Come create, paint, and craft with us! No registration is required. Drop-in only.&nbsp; September 14: Origami Creations&nbsp; September 21:&nbsp; Shrinky Dinks September 28:&nbsp; Slime Lab",
+      "location": "St. James Town",
+      "address": "495 Sherbourne Street, Toronto",
+      "startDate": "2026-09-28 15:30",
+      "endDate": "2026-09-28 16:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Games & Sports"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a95bd561c197d11325c242d",
-      "phone": "(416) 393-7610",
+      "url": "https://tpl.bibliocommons.com/events/6a7e2d8e4027d701ebc4319a",
+      "phone": "(416) 393-7744",
       "isRecurring": true,
-      "locationId": "ND"
+      "locationId": "SJ"
     },
     {
       "id": "tpl_6ab01e7c86d8450031178135",
@@ -53074,28 +53049,28 @@
       "locationId": "PA"
     },
     {
-      "id": "tpl_6ab16957ca248a00291759af",
+      "id": "tpl_6aaad73586d84500311696d0",
       "source": "tpl",
-      "title": "Image Editing for Beginners with Photoshop 1",
-      "description": "Adobe Photoshop is one of the world’s leading imaging and graphic design software and is at the core of just about every creative project, from photo editing and compositing to digital painting, animation, and graphic design. Join us for an introductory lesson and learn about the most common tools. We'll explore the workspace and enhance images while investigating tools such as select & mask, hue & saturation, layers and more. See how an image can be altered and repaired using patch tools such a",
-      "location": "Fort York",
-      "address": "190 Fort York Boulevard, Toronto",
-      "startDate": "2026-10-07 14:30",
-      "endDate": "2026-10-07 16:00",
+      "title": "Indigenous Medicine Music with Aqua Nibii Waawaaskone",
+      "description": "Join Aqua Nibii Waawaaskone as they share their favourite original and traditional hand drum songs. All Nations, generations, and walks of life welcome. This is an interactive and transformative experience meant to heal and uplift our hearts and spirits.This program is open to all ages.&nbsp; Drop-in, no registration required.",
+      "location": "Brentwood",
+      "address": "36 Brentwood Road North, Toronto",
+      "startDate": "2026-10-03 14:00",
+      "endDate": "2026-10-03 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Audio & Visual"
+        "Culture, Arts & Entertainment"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6ab16957ca248a00291759af",
-      "phone": "(416) 393-6240",
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aaad73586d84500311696d0",
+      "phone": "(416) 394-5240",
       "isRecurring": false,
-      "locationId": "FO"
+      "locationId": "BR"
     },
     {
       "id": "tpl_6aa18d454ea230006f336439",
@@ -54287,28 +54262,28 @@
       "locationId": "MAS"
     },
     {
-      "id": "tpl_6aa18dee56fe62004a2f22d2",
+      "id": "tpl_6aa970bcd6577100383d0bb9",
       "source": "tpl",
-      "title": "Youth Hub: Phone Charms",
-      "description": "Stop by the Youth Hub to make yourself a cute new phone charm with the supplies we provide. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "York Woods",
-      "address": "1785 Finch Avenue West, Toronto",
-      "startDate": "2026-10-14 15:30",
-      "endDate": "2026-10-14 17:00",
+      "title": "Youth Hub: Vinyl Night",
+      "description": "Ever wonder how records compare to streaming? Explore the classics or vibe to contemporary hits - now's the time to discover the magic of analog media. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "Toronto Reference Library",
+      "address": "789 Yonge Street, Toronto",
+      "startDate": "2026-10-09 15:30",
+      "endDate": "2026-10-09 18:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Crafts & Hobbies"
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa18dee56fe62004a2f22d2",
-      "phone": "(416) 395-5980",
+      "url": "https://tpl.bibliocommons.com/events/6aa970bcd6577100383d0bb9",
+      "phone": "(416) 393-7007",
       "isRecurring": false,
-      "locationId": "YW"
+      "locationId": "TRL"
     },
     {
       "id": "tpl_6ab03a53607483003828545f",
@@ -55493,28 +55468,28 @@
       "locationId": "SL"
     },
     {
-      "id": "tpl_6aad917486d845003117283f",
+      "id": "tpl_6a85d1764c610f0038955240",
       "source": "tpl",
-      "title": "3D Design with Tinkercad – Halloween Bookmark Edition",
-      "description": "Learn the fundamentals of 3D design with Tinkercad, a free browser-based program. This hands-on session will walk you through a simple design project and teach you everything you need to know to get started while designing your own custom Halloween-themed&nbsp;bookmark. No prior design experience is necessary! Computers will be provided for this class. Registration is required. Information Collection Notice:&nbsp; The personal information on this form is collected by the Toronto Public Library u",
-      "location": "York Woods",
-      "address": "1785 Finch Avenue West, Toronto",
-      "startDate": "2026-10-19 16:30",
-      "endDate": "2026-10-19 17:30",
+      "title": "Friday Teen Social",
+      "description": "Drop in after school&nbsp;on Friday's&nbsp;to have fun with your friends,&nbsp;meet new folks, build connections, and tell us about programs and services you would like to see in the neighborhood!",
+      "location": "Guildwood",
+      "address": "123 Guildwood Parkway, Toronto",
+      "startDate": "2026-10-16 15:30",
+      "endDate": "2026-10-16 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "3D Printing"
+        "Culture, Arts & Entertainment"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6aad917486d845003117283f",
-      "phone": "(416) 395-5981",
-      "isRecurring": false,
-      "locationId": "YW"
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a85d1764c610f0038955240",
+      "phone": "(416) 396-8872",
+      "isRecurring": true,
+      "locationId": "GW"
     },
     {
       "id": "tpl_6ab15fd98cf597003f9562d7",
@@ -56699,28 +56674,28 @@
       "locationId": "SWS"
     },
     {
-      "id": "tpl_6ab03d17ab7a8e0037c332b0",
+      "id": "tpl_69711f61c967cb4120833b84",
       "source": "tpl",
-      "title": "Sunday STEM ",
-      "description": "Come in and have fun by exploring various building materials and technologies like Dash & Dot, LEGO, Snap Circuits and Sphero BOLT .&nbsp; All ages, drop in!&nbsp;",
-      "location": "Kennedy/Eglinton",
-      "address": "2380 Eglinton Avenue East, Toronto",
-      "startDate": "2026-10-25 14:00",
-      "endDate": "2026-10-25 15:00",
+      "title": "Youth Hub: Crafty Thursdays",
+      "description": "Join us in the Youth Hub every Thursday for a series of crafting activities like painting, clay sculpting, sewing and embroidery, resin art, jewelry making, perler beads, block printing, and more! Check tpl.ca or&nbsp;our monthly calendar for the activity of the week. All materials provided. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.",
+      "location": "Eatonville",
+      "address": "430 Burnhampthorpe Road, Toronto",
+      "startDate": "2026-10-22 16:00",
+      "endDate": "2026-10-22 18:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Science & Engineering"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6ab03d17ab7a8e0037c332b0",
-      "phone": "(416) 396-8924",
+      "url": "https://tpl.bibliocommons.com/events/69711f61c967cb4120833b84",
+      "phone": "(416) 394-5270",
       "isRecurring": true,
-      "locationId": "KE"
+      "locationId": "EA"
     },
     {
       "id": "tpl_6aa9a3414b3b06003083f440",
@@ -57904,28 +57879,28 @@
       "locationId": "RI"
     },
     {
-      "id": "tpl_6aa18cb9a5dbde002aa2ffa0",
+      "id": "tpl_6aa9d8e68cf597003f94252d",
       "source": "tpl",
-      "title": "Perler Beads",
-      "description": "Make your own custom creation out of beads and watch as they get ironed together into a 2D object . Ages 4 - 17 The program will take place in the Auditorium located in the basement. Elevator on site. If you have any questions, please call Bendale Branch at 416-396-8910. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and pr",
-      "location": "Bendale",
-      "address": "1515 Danforth Road, Toronto",
-      "startDate": "2026-10-31 14:00",
-      "endDate": "2026-10-31 15:00",
+      "title": "Sewing Basics",
+      "description": "Want to learn to sew or would like a refresher on how to use a sewing machine? Our intro to sewing course will cover the basics of threading the machine, basic stitches and more. We will be creating a small pouch. All materials will be provided. Children under 13 must be accompanied by an adult. Registration is required for this class and begins September 15, 2026 at 12:30 pm. Note: Your spot will not be guaranteed after 5 minutes of the start of the program. Information Collection Notice: The p",
+      "location": "North York Central Library",
+      "address": "5120 Yonge Street, Toronto",
+      "startDate": "2026-10-29 10:00",
+      "endDate": "2026-10-29 12:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Crafts & Hobbies"
+        "Fabrication Studio​"
       ],
       "isDropIn": false,
       "isFull": false,
       "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6aa18cb9a5dbde002aa2ffa0",
-      "phone": "(416) 396-8910",
+      "url": "https://tpl.bibliocommons.com/events/6aa9d8e68cf597003f94252d",
+      "phone": "(416) 395-5654",
       "isRecurring": false,
-      "locationId": "BD"
+      "locationId": "CL"
     },
     {
       "id": "tpl_6aab1777d6577100383d3cd2",
@@ -59115,28 +59090,28 @@
       "locationId": "MP"
     },
     {
-      "id": "tpl_6a14850ee13d3b4603b55c8c",
+      "id": "tpl_69711d50992fc18a86deb1a7",
       "source": "tpl",
-      "title": "Cercle de Conversation Française / French Conversation Circle",
-      "description": "Nous vous invitons à pratiquer votre français dans un environnement informel ! Tous les niveaux sont bienvenus. We invite you to practice your French in an informal environment! This French Conversation Circle is open to all levels. Cette session sera animée par Emilie Leblanc This session will be lead by Emilie Leblanc Accessibilité: Le sous-titrage en direct ou automatique, l’interprétation en langue des signes, les services d’intervenant, ou les services d’accompagnement sont disponibles sur ",
-      "location": "Junction Triangle",
-      "address": "305 Campbell Avenue, Toronto",
-      "startDate": "2026-11-19 18:00",
-      "endDate": "2026-11-19 19:00",
+      "title": "Youth Hub: Board Game Café ",
+      "description": "Join us in the Youth Hub every Tuesday to play board games with your friends! Ask us for our list of board games, and check our monthly calendar for Tournaments with prizes! All materials provided.&nbsp; This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
+      "location": "Eatonville",
+      "address": "430 Burnhampthorpe Road, Toronto",
+      "startDate": "2026-11-10 16:00",
+      "endDate": "2026-11-10 18:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Conversation Circles"
+        "Games & Sports"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a14850ee13d3b4603b55c8c",
-      "phone": "(416) 393-7677",
+      "url": "https://tpl.bibliocommons.com/events/69711d50992fc18a86deb1a7",
+      "phone": "(416) 394-5270",
       "isRecurring": true,
-      "locationId": "JT"
+      "locationId": "EA"
     },
     {
       "id": "tpl_6aaec14df9ed2e003851f0ac",
@@ -60327,28 +60302,28 @@
       "locationId": "KE"
     },
     {
-      "id": "tpl_6a3997502ea730c17ab8bda5",
+      "id": "tpl_6a95c1e72dac6e003722fd3d",
       "source": "tpl",
-      "title": "Knitting Circle",
-      "description": "Join Port Union Library's Knitting Circle. Chat and knit or crochet with a friendly group! You can also share your projects with others!&nbsp; This is a drop in program but limited to a room capacity of 20 participants. Arrive early to secure your spot.&nbsp; No registration required.",
-      "location": "Port Union",
-      "address": "5450 Lawrence Avenue East, Toronto",
-      "startDate": "2026-12-12 09:30",
-      "endDate": "2026-12-12 11:00",
+      "title": "Youth Hub: Study Hall",
+      "description": "Each Monday the Northern District Youth Hub becomes a quieter space for teens to study, work on projects and request help from staff. Grab a snack and work on your homework amongst friends! All teens are welcome! Drop-in, no registration required. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or ca",
+      "location": "Northern District",
+      "address": "40 Orchard View Boulevard, Toronto",
+      "startDate": "2026-11-30 15:30",
+      "endDate": "2026-11-30 19:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "13-17",
       "ages": "Ages 13-17",
       "categories": [
-        "Crafts & Hobbies"
+        "Personal Development"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a3997502ea730c17ab8bda5",
-      "phone": "(416) 396-8885",
+      "url": "https://tpl.bibliocommons.com/events/6a95c1e72dac6e003722fd3d",
+      "phone": "(416) 393-7610",
       "isRecurring": true,
-      "locationId": "PU"
+      "locationId": "ND"
     },
     {
       "id": "tpl_6aa3144bca248a002914f3b7",
