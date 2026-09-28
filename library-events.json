@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T04:27:45.901Z",
+  "lastUpdated": "2026-09-28T13:17:48.729Z",
   "totalEvents": 2476,
   "source": "Toronto Public Library",
   "events": [
@@ -23684,7 +23684,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a8c589ed4b10d003008ab00",
       "phone": "(416) 395-5750",
@@ -48761,7 +48761,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a8c589ed4b10d003008ab00",
       "phone": "(416) 395-5750",
@@ -50530,6 +50530,32 @@
       "locationId": "EA"
     },
     {
+      "id": "tpl_6aaafe708cf597003f945cb6",
+      "source": "tpl",
+      "title": "Youth Hub: The Magic of Science with Gambit the Magician",
+      "description": "Gambit the Magician leads a magical performance to pique the interest of young minds towards science! This fun and entertaining presentation reinforces youth STEM programs with discussions and magic tricks from each major branch of science. Discover the value of scientific education while also learning about the exciting benefits of science towards any career path! This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful ",
+      "location": "Kennedy/Eglinton",
+      "address": "2380 Eglinton Avenue East, Toronto",
+      "startDate": "2026-10-07 16:00",
+      "endDate": "2026-10-07 17:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment",
+        "Science & Engineering"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6aaafe708cf597003f945cb6",
+      "phone": "(416) 396-8924",
+      "isRecurring": false,
+      "locationId": "KE"
+    },
+    {
       "id": "tpl_6aad6353ab7a8e0037c2bd9c",
       "source": "tpl",
       "title": "Youth Hub: Bead & Conversate ",
@@ -51716,30 +51742,6 @@
       "phone": "(416) 396-8969",
       "isRecurring": false,
       "locationId": "MAL"
-    },
-    {
-      "id": "tpl_6ab029bd6074830038285062",
-      "source": "tpl",
-      "title": "Youth Hub: Video Games ",
-      "description": "Join us in the Youth Hub every Friday to play various video games with other teens. The video game consoles that are provided are the PS5 and Nintendo Switch. This program is part of Youth Hub service. Youth Hubs are a welcoming place for teens after school and in the summer, where helpful staff are always available.&nbsp;Free, nutritious snacks are offered daily.&nbsp;Drop by a branch with a Youth Hub or call the branch to find out more.",
-      "location": "Albion",
-      "address": "1515 Albion Road, Toronto",
-      "startDate": "2026-10-09 15:30",
-      "endDate": "2026-10-09 19:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Games & Sports"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6ab029bd6074830038285062",
-      "phone": "(416) 394-5170",
-      "isRecurring": true,
-      "locationId": "AB"
     },
     {
       "id": "tpl_6aa82a103dd190003e71d609",
