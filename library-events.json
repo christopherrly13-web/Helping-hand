@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T21:05:55.576Z",
+  "lastUpdated": "2026-09-28T04:27:45.901Z",
   "totalEvents": 2476,
   "source": "Toronto Public Library",
   "events": [
@@ -23563,7 +23563,7 @@
         "Games & Sports"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a7b47a3c80d09476c9403fe",
       "phone": "(416) 396-8969",
@@ -23611,7 +23611,7 @@
         "Book Clubs"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a149c5cf56bd86e00b2028e",
       "phone": "(416) 393-7727",
@@ -45170,7 +45170,7 @@
         "Book Clubs"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a149c5cf56bd86e00b20293",
       "phone": "(416) 393-7727",
@@ -45542,7 +45542,7 @@
         "Book Clubs"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a218280f56bd86e00b47ab5",
       "phone": "(416) 393-7727",
