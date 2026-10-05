@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T04:46:46.515Z",
+  "lastUpdated": "2026-10-05T14:01:06.037Z",
   "totalEvents": 2426,
   "source": "Toronto Public Library",
   "events": [
@@ -22223,30 +22223,6 @@
       "locationId": "LE"
     },
     {
-      "id": "tpl_6ab171afa5dbde002aa63981",
-      "source": "tpl",
-      "title": "Xylobots",
-      "description": "Join us to create music with our Dashbots! Code musical notes on an iPad that the Dashbot will play with a Xylophone. Try to play your favorite song or create your own! Ages 8-12 Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program registration, delivery and evaluation. Questions about how the library handles your inf",
-      "location": "Downsview",
-      "address": "2793 Keele Street, Toronto",
-      "startDate": "2026-10-05 16:00",
-      "endDate": "2026-10-05 17:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Science & Engineering"
-      ],
-      "isDropIn": false,
-      "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6ab171afa5dbde002aa63981",
-      "phone": "(416) 395-5720",
-      "isRecurring": false,
-      "locationId": "DO"
-    },
-    {
       "id": "tpl_6ab42df4da318a10e636431c",
       "source": "tpl",
       "title": "After School Club: Lego Challenge! ",
@@ -22424,6 +22400,30 @@
       "phone": "(416) 396-8876",
       "isRecurring": true,
       "locationId": "HC"
+    },
+    {
+      "id": "tpl_6ab171afa5dbde002aa63981",
+      "source": "tpl",
+      "title": "Xylobots",
+      "description": "Join us to create music with our Dashbots! Code musical notes on an iPad that the Dashbot will play with a Xylophone. Try to play your favorite song or create your own! Ages 8-12 Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program registration, delivery and evaluation. Questions about how the library handles your inf",
+      "location": "Downsview",
+      "address": "2793 Keele Street, Toronto",
+      "startDate": "2026-10-05 16:00",
+      "endDate": "2026-10-05 17:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Science & Engineering"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6ab171afa5dbde002aa63981",
+      "phone": "(416) 395-5720",
+      "isRecurring": false,
+      "locationId": "DO"
     },
     {
       "id": "tpl_6aab30d965abe8002a79da55",
@@ -23284,7 +23284,7 @@
       "id": "tpl_6aa1bdfc8cf597003f925a9b",
       "source": "tpl",
       "title": "Scratch Character Design for Kids (9+) PART 1",
-      "description": "This is Part 1 of a&nbsp;2 PART program on&nbsp;Scratch Coding for Kids. In Part 1 you will explore how to design your own customized sprites/characters. The characters will be designed for a&nbsp;game that you code yourself in Scratch during Part 2. BE SURE TO SIGN UP FOR BOTH DAYS!&nbsp; This class is open to children ages 9 and up. Computers will be provided. For more information about this program please contact dihonline@tpl.ca.",
+      "description": "This is Part 1 of a&nbsp;2 PART program on&nbsp;Scratch Coding for Kids. In Part 1 you will explore how to design your own customized sprites/characters. The characters will be designed for a&nbsp;game that you code yourself in Scratch during Part 2. BE SURE TO SIGN UP FOR BOTH DAYS!&nbsp; This class is open to children ages 9 and up. Computers will be provided. This program takes place during Digital Inclusion Week 2026.",
       "location": "Humberwood",
       "address": "850 Humberwood Boulevard, Toronto",
       "startDate": "2026-10-09 15:00",
@@ -23522,7 +23522,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6ab15fcea5dbde002aa631d7",
       "phone": "(416) 395-5657",
@@ -24462,7 +24462,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6ab4185a65abe8002a7b8b65",
       "phone": "(416) 396-8881",
@@ -47187,7 +47187,7 @@
         "3D Printing"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6aa314bc129d8e0031f1387d",
       "phone": "(416) 396-3717",
@@ -48812,30 +48812,6 @@
       "locationId": "HP"
     },
     {
-      "id": "tpl_6aa1bd33a5dbde002aa311c5",
-      "source": "tpl",
-      "title": "Digital Painting I: Introduction & Pen Control",
-      "description": "In this introductory workshop, participants will be able to explore the painting tools used to create digital art in Adobe Photoshop&nbsp;while using the WACOM Intuos tablet and pen. Computers and WACOM tablets will be provided. For more information about this program please contact dihonline@tpl.ca. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will",
-      "location": "Humberwood",
-      "address": "850 Humberwood Boulevard, Toronto",
-      "startDate": "2026-10-08 18:00",
-      "endDate": "2026-10-08 20:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Audio & Visual"
-      ],
-      "isDropIn": false,
-      "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6aa1bd33a5dbde002aa311c5",
-      "phone": "(416) 394-5230",
-      "isRecurring": false,
-      "locationId": "HW"
-    },
-    {
       "id": "tpl_6aa82827129d8e0031f21fea",
       "source": "tpl",
       "title": "Star Party with the Dunlap Institute",
@@ -48907,6 +48883,30 @@
       "phone": "(416) 395-5657",
       "isRecurring": false,
       "locationId": "DO"
+    },
+    {
+      "id": "tpl_6aa1bd33a5dbde002aa311c5",
+      "source": "tpl",
+      "title": "Digital Painting I: Introduction & Pen Control",
+      "description": "In this introductory workshop, participants will be able to explore the painting tools used to create digital art in Adobe Photoshop&nbsp;while using the WACOM Intuos tablet and pen. Computers and WACOM tablets will be provided. This program takes place during Digital Inclusion Week 2026. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be use",
+      "location": "Humberwood",
+      "address": "850 Humberwood Boulevard, Toronto",
+      "startDate": "2026-10-08 18:00",
+      "endDate": "2026-10-08 20:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Audio & Visual"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6aa1bd33a5dbde002aa311c5",
+      "phone": "(416) 394-5210",
+      "isRecurring": false,
+      "locationId": "HW"
     },
     {
       "id": "tpl_6aa3335e101eb7003f2f24bb",
@@ -49030,30 +49030,6 @@
       "locationId": "FV"
     },
     {
-      "id": "tpl_6ab41832da318a10e6363a81",
-      "source": "tpl",
-      "title": "Graphic Design with Canva",
-      "description": "This beginner-friendly Canva class helps you learn how to create simple, beautiful designs with ease. Participants will learn how to design cards, flyers, and social media posts using easy drag-and-drop tools. Registration will start 2 weeks before this class. Computers will be provided. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used",
-      "location": "Morningside",
-      "address": "4279 Lawrence Avenue East, Toronto",
-      "startDate": "2026-10-09 14:00",
-      "endDate": "2026-10-09 15:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Computer Basics & Office Software"
-      ],
-      "isDropIn": false,
-      "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6ab41832da318a10e6363a81",
-      "phone": "(416) 396-8881",
-      "isRecurring": false,
-      "locationId": "MS"
-    },
-    {
       "id": "tpl_6aa977c7ab7a8e0037c1f4d8",
       "source": "tpl",
       "title": "Photo Editing with Photoshop",
@@ -49076,6 +49052,30 @@
       "phone": "(416) 393-7655",
       "isRecurring": false,
       "locationId": "SL"
+    },
+    {
+      "id": "tpl_6ab41832da318a10e6363a81",
+      "source": "tpl",
+      "title": "Graphic Design with Canva",
+      "description": "This beginner-friendly Canva class helps you learn how to create simple, beautiful designs with ease. Participants will learn how to design cards, flyers, and social media posts using easy drag-and-drop tools. Registration will start 2 weeks before this class. Computers will be provided. This program takes place during Digital Inclusion Week 2026. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sectio",
+      "location": "Morningside",
+      "address": "4279 Lawrence Avenue East, Toronto",
+      "startDate": "2026-10-09 14:00",
+      "endDate": "2026-10-09 15:30",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Computer Basics & Office Software"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6ab41832da318a10e6363a81",
+      "phone": "(416) 396-8881",
+      "isRecurring": false,
+      "locationId": "MS"
     },
     {
       "id": "tpl_6a988faaaafa610029611ca7",
