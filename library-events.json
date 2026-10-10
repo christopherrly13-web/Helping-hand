@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T00:35:18.908Z",
+  "lastUpdated": "2026-10-10T09:35:32.862Z",
   "totalEvents": 2396,
   "source": "Toronto Public Library",
   "events": [
@@ -21061,30 +21061,6 @@
       "locationId": "FO"
     },
     {
-      "id": "tpl_6ab6d62f0c7bf418f4e3f8cf",
-      "source": "tpl",
-      "title": "Spooky Scavenger Hunt ",
-      "description": "Embrace the spooky season at St. James Town by partaking in a scavenger hunt! Just ask staff at the desk for a copy. Happy looking!&nbsp;",
-      "location": "St. James Town",
-      "address": "495 Sherbourne Street, Toronto",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-09",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "6-12",
-      "ages": "Ages 6-12",
-      "categories": [
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6ab6d62f0c7bf418f4e3f8cf",
-      "phone": "(416) 393-7744",
-      "isRecurring": true,
-      "locationId": "SJ"
-    },
-    {
       "id": "tpl_6ab6d62f0c7bf418f4e3f8d0",
       "source": "tpl",
       "title": "Spooky Scavenger Hunt ",
@@ -22194,31 +22170,28 @@
       "locationId": "HP"
     },
     {
-      "id": "tpl_6a90a02760ccaf01c0218136",
+      "id": "tpl_6aa1be568cf597003f925aa6",
       "source": "tpl",
-      "title": "After School Club",
-      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, meet other kids and have fun! For ages [ 6-12.] This week we will be having a workshop from Applefun Puppetry! Snacks are offered during the After School Club for participants. Ingredient lists will be available. Snacks are generously supported, in part, by donors.",
-      "location": "Annette Street",
-      "address": "145 Annette Street, Toronto",
-      "startDate": "2026-10-15 16:00",
-      "endDate": "2026-10-15 17:00",
+      "title": "3D Pull-Up Net Shapes",
+      "description": "Draw a pair of string and a (mostly) 2-dimensional cardstock pattern will close in on itself to form a 3-dimensional shape. Pyramids and cubes are possible but so are octahedrons, dodecahedrons, and icosahedrons. Expand your vocabulary and learn about the Platonic solids! Registration is required. For ages 6-12.",
+      "location": "Lillian H. Smith",
+      "address": "239 College Street, Toronto",
+      "startDate": "2026-10-13 16:00",
+      "endDate": "2026-10-13 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Coding & Robotics",
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment",
         "Science & Engineering"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a90a02760ccaf01c0218136",
-      "phone": "(416) 393-7692",
-      "isRecurring": true,
-      "locationId": "AN"
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6aa1be568cf597003f925aa6",
+      "phone": "(416) 393-7746",
+      "isRecurring": false,
+      "locationId": "LS"
     },
     {
       "id": "tpl_6ab1af81da318a10e635c5ca",
@@ -23426,32 +23399,28 @@
       "locationId": "BR"
     },
     {
-      "id": "tpl_6aa960dba433d308573b9f64",
+      "id": "tpl_6ac425769dbc2b002c8c918e",
       "source": "tpl",
-      "title": "Sunday Funday",
-      "description": "Join us for fun filled activities for children ages 6-12! DROP-IN! Space is limited. Located in the Auditorium.",
-      "location": "Albion",
-      "address": "1515 Albion Road, Toronto",
-      "startDate": "2026-10-18 14:30",
-      "endDate": "2026-10-18 15:30",
+      "title": "BenTastic Magic Show",
+      "description": "Join BenTastic for a fun-filled, interactive magic show packed with laughter, surprises, and amazing magic! Children and families will enjoy plenty of opportunities to participate as BenTastic brings his playful energy to the library. Get ready to laugh, be amazed, and help make the magic happen! For kids of all ages. Drop-in only.",
+      "location": "Scarborough Civic Centre",
+      "address": "156 Borough Drive, Toronto",
+      "startDate": "2026-10-17 14:00",
+      "endDate": "2026-10-17 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Coding & Robotics",
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment",
-        "Games & Sports",
-        "Science & Engineering"
+        "Culture, Arts & Entertainment"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6aa960dba433d308573b9f64",
-      "phone": "(416) 394-5170",
-      "isRecurring": true,
-      "locationId": "AB"
+      "url": "https://tpl.bibliocommons.com/events/6ac425769dbc2b002c8c918e",
+      "phone": "(416) 396-3599",
+      "isRecurring": false,
+      "locationId": "SC"
     },
     {
       "id": "tpl_6a60e7d50ed7b4521ed6cf7d",
@@ -24702,14 +24671,14 @@
       "locationId": "SWS"
     },
     {
-      "id": "tpl_6a9aeda4be148200298c7b47",
+      "id": "tpl_6ab2c1fe8cf597003f95a967",
       "source": "tpl",
-      "title": "Kids Painting",
-      "description": "Get creative and show off your painting skills on your very own mini canvas! All materials provided. Ages 4 and up.&nbsp; Registration required. Please contact 416-394-5320 with any questions.&nbsp;",
-      "location": "Long Branch",
-      "address": "3500 Lake Shore Boulevard West, Toronto",
-      "startDate": "2026-10-22 16:00",
-      "endDate": "2026-10-22 17:00",
+      "title": "After School: Paper Marbling",
+      "description": "Try your hand at creating beautiful, marbled paper masterpieces with household materials! All materials will be provided. This program is for children ages 6 and up. Register for a reminder. Drop-ins are welcome.",
+      "location": "Lillian H. Smith",
+      "address": "239 College Street, Toronto",
+      "startDate": "2026-10-20 16:00",
+      "endDate": "2026-10-20 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
@@ -24718,12 +24687,12 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a9aeda4be148200298c7b47",
-      "phone": "(416) 394-5320",
+      "url": "https://tpl.bibliocommons.com/events/6ab2c1fe8cf597003f95a967",
+      "phone": "(416) 393-7746",
       "isRecurring": false,
-      "locationId": "LB"
+      "locationId": "LS"
     },
     {
       "id": "tpl_6abaa219754bb0003ac238e1",
@@ -25933,14 +25902,14 @@
       "locationId": "AG"
     },
     {
-      "id": "tpl_6ac4262c9dbc2b002c8c91d6",
+      "id": "tpl_6a7f0f4e60ccaf01c01e2f34",
       "source": "tpl",
-      "title": "SUNDAY FUNDAY",
-      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and games. For children ages 4-12. Drop-in only.",
-      "location": "Scarborough Civic Centre",
-      "address": "156 Borough Drive, Toronto",
-      "startDate": "2026-10-25 14:00",
-      "endDate": "2026-10-25 15:00",
+      "title": "Builders' Club",
+      "description": "Build, create, and use your imagination! Join us every Saturday to&nbsp;play with&nbsp;Lego, Keva Planks, Feltro and more. For children 6-12 and their caregivers.",
+      "location": "St. James Town",
+      "address": "495 Sherbourne Street, Toronto",
+      "startDate": "2026-10-24 14:00",
+      "endDate": "2026-10-24 16:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
@@ -25951,10 +25920,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6ac4262c9dbc2b002c8c91d6",
-      "phone": "(416) 396-3599",
+      "url": "https://tpl.bibliocommons.com/events/6a7f0f4e60ccaf01c01e2f34",
+      "phone": "(416) 393-7744",
       "isRecurring": true,
-      "locationId": "SC"
+      "locationId": "SJ"
     },
     {
       "id": "tpl_6abaead2ebad220045419f4a",
@@ -27191,28 +27160,31 @@
       "locationId": "BF"
     },
     {
-      "id": "tpl_695d9cdd1f01fb76cec4f9f5",
+      "id": "tpl_6a88969265b929006b169dce",
       "source": "tpl",
-      "title": "Knitting and Crochet Circle",
-      "description": "Spend an afternoon at our weekly drop-in knitting and crochet circle! Bring your work in progress and enjoy visiting with other knitters and crocheters. A great place to show off your work, get advice, swap ideas, or just relax and visit with fellow fiber enthusiasts. Beginners&nbsp;and all ages welcome!&nbsp;A limited supply of materials will be available.",
-      "location": "Don Mills",
-      "address": "888 Lawrence Avenue East, Toronto",
-      "startDate": "2026-10-29 13:00",
-      "endDate": "2026-10-29 14:00",
+      "title": "After School Club",
+      "description": "Drop by to make new friends, colour, play with Lego, games, puzzles and more! Drop In. No Registration Required Snacks and refreshments will be provided",
+      "location": "Armour Heights",
+      "address": "2140 Avenue Road, Toronto",
+      "startDate": "2026-10-27 16:00",
+      "endDate": "2026-10-27 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Crafts & Hobbies"
+        "Coding & Robotics",
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment",
+        "Games & Sports"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/695d9cdd1f01fb76cec4f9f5",
-      "phone": "(416) 395-5710",
+      "url": "https://tpl.bibliocommons.com/events/6a88969265b929006b169dce",
+      "phone": "(416) 395-5430",
       "isRecurring": true,
-      "locationId": "DM"
+      "locationId": "AH"
     },
     {
       "id": "tpl_6abbf4e6377296003a4869a6",
@@ -28426,28 +28398,29 @@
       "locationId": "BF"
     },
     {
-      "id": "tpl_6a95ab1d60ccaf01c0224d54",
+      "id": "tpl_6a99dd58b20478002997d837",
       "source": "tpl",
-      "title": "Sunday Fun Day",
-      "description": "Come and enjoy a relaxing Sunday afternoon craft with us. Explore different mediums, create something different and brand new as well as making a few new friends along the way! Starting each Sunday from September 13th - Sunday December 13th. Ages 5-12, Drop in, no registration required.",
-      "location": "Junction Triangle",
-      "address": "305 Campbell Avenue, Toronto",
-      "startDate": "2026-11-01 14:00",
-      "endDate": "2026-11-01 15:00",
+      "title": "Halloween Fun Room! Session 1",
+      "description": "Celebrate Halloween at the Riverdale Branch and come to our spooktacular Halloween Fun Room! Check out our sensory table of unknown, weird and spooky things. Have fun creating with playdough. Try to uncover all the spooktacular images in our Halloween I Spy challenge!&nbsp;Children and adults are encouraged to dress up in their Halloween costumes. For children ages 3 and up. Please register for only one session. Registration is required.",
+      "location": "Riverdale",
+      "address": "370 Broadview Avenue, Toronto",
+      "startDate": "2026-10-31 10:30",
+      "endDate": "2026-10-31 11:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Crafts & Hobbies"
+        "Culture, Arts & Entertainment",
+        "Science & Engineering"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a95ab1d60ccaf01c0224d54",
-      "phone": "(416) 393-7677",
-      "isRecurring": true,
-      "locationId": "JT"
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6a99dd58b20478002997d837",
+      "phone": "(416) 393-7720",
+      "isRecurring": false,
+      "locationId": "RD"
     },
     {
       "id": "tpl_6a57e4dac7e02e3d00695b9c",
@@ -29703,31 +29676,29 @@
       "locationId": "SWS"
     },
     {
-      "id": "tpl_6ac9818529c3d600332ee8d5",
+      "id": "tpl_6aaaf9ca6074830038276ba3",
       "source": "tpl",
-      "title": "After School Club: STEM Newspaper Chair",
-      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, meet other kids and have fun! For ages [ 6-12.] November 6 &nbsp;&nbsp; STEM Newspaper Chair : a popular hands-on STEM and team-building activity with newspapers and tapes November 13 &nbsp;&nbsp; Puppetry Workshop : Mike Harding of AppleFun Puppetry shows you how to make your own puppets and put on a show for your friends! November 27 &nbsp;&nbsp; STEM Making a Flashlight : build a work",
-      "location": "Albert Campbell",
-      "address": "496 Birchmount Road, Toronto",
-      "startDate": "2026-11-06 16:00",
-      "endDate": "2026-11-06 17:00",
+      "title": "After School Chess Club",
+      "description": "Play a few rounds of chess with us after school.&nbsp;&nbsp;Challenge yourself and your friends! All levels welcome.",
+      "location": "Forest Hill",
+      "address": "700 Eglinton Avenue West, Toronto",
+      "startDate": "2026-11-03 16:00",
+      "endDate": "2026-11-03 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Coding & Robotics",
-        "Crafts & Hobbies",
         "Culture, Arts & Entertainment",
         "Science & Engineering"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6ac9818529c3d600332ee8d5",
-      "phone": "(416) 396-8890",
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aaaf9ca6074830038276ba3",
+      "phone": "(416) 393-7706",
       "isRecurring": true,
-      "locationId": "ACD"
+      "locationId": "FH"
     },
     {
       "id": "tpl_6a88b6b94cb69d003e2266bb",
@@ -30933,29 +30904,28 @@
       "locationId": "NE"
     },
     {
-      "id": "tpl_6a985a5369166f088b96cb8d",
+      "id": "tpl_6aba990d9abb62002c6aadf4",
       "source": "tpl",
-      "title": "After School Club",
-      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, meet other kids and have fun! For ages 6-12. Registration required. All registrations are online. Information Collection Notice: The personal information on this form is collected by the Toronto Public Library under the Public Libraries Act, sections 20(a), 20(c), and 20(d). The information will only be used for event and program registration, delivery and evaluation. Questions about how",
-      "location": "Mount Pleasant",
-      "address": "599 Mt. Pleasant Road, Toronto",
-      "startDate": "2026-11-11 15:30",
-      "endDate": "2026-11-11 16:30",
+      "title": "Sunday Build & Play",
+      "description": "Create exciting structures using Feltro tiles and KEVA blocks.&nbsp;For ages 4 - 12 .",
+      "location": "Parkdale",
+      "address": "1303 Queen Street West, Toronto",
+      "startDate": "2026-11-08 14:00",
+      "endDate": "2026-11-08 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
+        "Science & Engineering"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a985a5369166f088b96cb8d",
-      "phone": "(416) 393-7737",
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6aba990d9abb62002c6aadf4",
+      "phone": "(416) 393-7686",
       "isRecurring": true,
-      "locationId": "MP"
+      "locationId": "PK"
     },
     {
       "id": "tpl_69a098a32866a5b4883e9183",
@@ -32190,31 +32160,28 @@
       "locationId": "PL"
     },
     {
-      "id": "tpl_6a90a7624cb69d003e23de0f",
+      "id": "tpl_6a945e464cb69d003e2479ac",
       "source": "tpl",
-      "title": "After School Club",
-      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, meet other kids and have fun! For ages 6-12. Snacks are offered during the After School Club for participants are&nbsp;free of the top 10 priority allergens in Canada: peanuts, tree nuts, milk, eggs, seafood, soy, wheat, sesame seeds, mustard and sulphites. ​Ingredient lists will be available.&nbsp; Snacks are generously supported, in part, by donors. If you or your child lives with a di",
-      "location": "College/Shaw",
-      "address": "766 College Street, Toronto",
-      "startDate": "2026-11-16 16:00",
-      "endDate": "2026-11-16 17:00",
+      "title": "Puzzle Day",
+      "description": "Love a challenge? Or just want participate in a relaxing activity? Join us for a relaxing puzzle day! Kids can come and build jigsaw puzzles, in groups or alone, and challenge themselves. Drop-in, ages 4-12.",
+      "location": "Malvern",
+      "address": "30 Sewells Road, Toronto",
+      "startDate": "2026-11-14 14:00",
+      "endDate": "2026-11-14 15:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Coding & Robotics",
-        "Crafts & Hobbies",
-        "Culture, Arts & Entertainment",
-        "Science & Engineering"
+        "Games & Sports"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a90a7624cb69d003e23de0f",
-      "phone": "(416) 393-7539",
-      "isRecurring": true,
-      "locationId": "CS"
+      "url": "https://tpl.bibliocommons.com/events/6a945e464cb69d003e2479ac",
+      "phone": "(416) 396-8969",
+      "isRecurring": false,
+      "locationId": "MAL"
     },
     {
       "id": "tpl_6ab433ee129d8e0031f49505",
@@ -33474,29 +33441,28 @@
       "locationId": "SJ"
     },
     {
-      "id": "tpl_6abaf9f229c3d600332c4b57",
+      "id": "tpl_6a3996b68ea300e2631f88a1",
       "source": "tpl",
-      "title": "Girls Coding ",
-      "description": "This program introduces children to beginner computer programming and fosters the development of essential STEM skills. Delivered in collaboration with Macaulay Centres for Children, the initiative focuses on promoting educational growth and enhancing future employment opportunities, particularly for children in marginalized communities. Participants will engage in hands-on coding activities, make new friends, and have fun in a supportive. Space is limited, and advance registration with a commit",
-      "location": "Woodview Park",
-      "address": "16 Bradstock Road, Toronto",
-      "startDate": "2026-11-21 11:00",
-      "endDate": "2026-11-21 13:30",
+      "title": "Port Union Chess Club",
+      "description": "Looking for a fun after-school activity? Join our Youth Chess Program to learn new skills, play matches, and connect with others!&nbsp; This program is open to youth ages 7-17 years old. Facilitated by the University of Toronto Scarborough Chess Club. No registration required. Space is limited.",
+      "location": "Port Union",
+      "address": "5450 Lawrence Avenue East, Toronto",
+      "startDate": "2026-11-18 16:30",
+      "endDate": "2026-11-18 17:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Coding & Robotics",
-        "Science & Engineering"
+        "Games & Sports"
       ],
-      "isDropIn": false,
+      "isDropIn": true,
       "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6abaf9f229c3d600332c4b57",
-      "phone": "(416) 395-5960",
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a3996b68ea300e2631f88a1",
+      "phone": "(416) 396-8885",
       "isRecurring": true,
-      "locationId": "WP"
+      "locationId": "PU"
     },
     {
       "id": "tpl_6a8f47c54cb69d003e239532",
@@ -34711,29 +34677,28 @@
       "locationId": "LB"
     },
     {
-      "id": "tpl_6ac51603035faf0033dab4ca",
+      "id": "tpl_6aa81c42101eb7003f2ff011",
       "source": "tpl",
-      "title": "Drop In Chess Club",
-      "description": "Come and join chess players of all ages for drop in Chess Club!&nbsp; All levels are welcome.&nbsp; Bring your own board or use one of ours.",
-      "location": "Parliament Street",
-      "address": "269 Gerrard Street East, Toronto",
-      "startDate": "2026-11-25 18:00",
-      "endDate": "2026-11-25 19:30",
+      "title": "Builders Club",
+      "description": "Come and get creative and build something exciting and new. Use Keva, Lego or Feltro to create a new skyscraper or your own new thing. There’s no telling where your imagination will take you! Ages 5-12. Drop in, no registration required.",
+      "location": "Junction Triangle",
+      "address": "305 Campbell Avenue, Toronto",
+      "startDate": "2026-11-23 15:30",
+      "endDate": "2026-11-23 16:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Crafts & Hobbies",
-        "Games & Sports"
+        "Crafts & Hobbies"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6ac51603035faf0033dab4ca",
-      "phone": "(416) 393-7663",
+      "url": "https://tpl.bibliocommons.com/events/6aa81c42101eb7003f2ff011",
+      "phone": "(416) 393-7677",
       "isRecurring": true,
-      "locationId": "PL"
+      "locationId": "JT"
     },
     {
       "id": "tpl_695d9cdd1f01fb76cec4f9f9",
@@ -35953,28 +35918,30 @@
       "locationId": "WP"
     },
     {
-      "id": "tpl_6a69055ea0b1bdf860d8a0f4",
+      "id": "tpl_6a19ac06c6a1dc3d00d6ef54",
       "source": "tpl",
-      "title": "Therapy Dog Visits",
-      "description": "Join us for small group visits with therapy dogs. Children will have an opportunity to read, listen to stories and engage in therapeutic human-animal interaction. This free program is presented in partnership with One Health Partners. Children who live with a disability, are neurodivergent, or have experienced medical or other types of trauma are especially welcome. Suitable for school-aged children ages 6 and up. Siblings ages 6 and up are welcome. There are two 30-minute sessions available: 4-",
-      "location": "S. Walter Stewart",
-      "address": "170 Memorial Park Avenue, Toronto",
-      "startDate": "2026-11-30 16:30",
-      "endDate": "2026-11-30 17:00",
+      "title": "Sunday Funday",
+      "description": "Join us on Sunday afternoons for a variety of activities including STEM, arts & crafts and game. Drop-in.&nbsp;",
+      "location": "Weston",
+      "address": "2 King Street, Toronto",
+      "startDate": "2026-11-29 14:00",
+      "endDate": "2026-11-29 14:45",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Health & Wellness"
+        "Crafts & Hobbies",
+        "Games & Sports",
+        "Science & Engineering"
       ],
-      "isDropIn": false,
-      "isFull": true,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6a69055ea0b1bdf860d8a0f4",
-      "phone": "(416) 396-3854",
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a19ac06c6a1dc3d00d6ef54",
+      "phone": "(416) 394-1016",
       "isRecurring": true,
-      "locationId": "SWS"
+      "locationId": "WE"
     },
     {
       "id": "tpl_6aa18baf4ea230006f336425",
@@ -37227,29 +37194,28 @@
       "locationId": "LO"
     },
     {
-      "id": "tpl_6a90c28caafa6100295fad33",
+      "id": "tpl_6a5540820e562e2800999a59",
       "source": "tpl",
-      "title": "After School Club",
-      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, meet other kids and have fun! For ages 6-12. Program supplies are all provided. Snacks are offered during the After School Club for participants. Ingredient lists will be available. Snacks are generously supported, in part, by donors.&nbsp; Please check back each month to see what fun programs we'll be running! Accessibility Live or automated closed captioning, sign language interpretati",
-      "location": "York Woods",
-      "address": "1785 Finch Avenue West, Toronto",
-      "startDate": "2026-12-07 16:00",
-      "endDate": "2026-12-07 17:00",
+      "title": "STEM Saturday",
+      "description": "Come explore a different STEM-themed activity! STEM Saturday happens every other Saturday. Ages 6-12 Drop in until full. Space is limited.",
+      "location": "Cliffcrest",
+      "address": "3017 Kingston Road, Toronto",
+      "startDate": "2026-12-05 11:00",
+      "endDate": "2026-12-05 12:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Crafts & Hobbies",
         "Science & Engineering"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a90c28caafa6100295fad33",
-      "phone": "(416) 395-5980",
+      "url": "https://tpl.bibliocommons.com/events/6a5540820e562e2800999a59",
+      "phone": "(416) 396-8916",
       "isRecurring": true,
-      "locationId": "YW"
+      "locationId": "CC"
     },
     {
       "id": "tpl_6a7f4f20aafa6100295c9ed1",
@@ -38512,29 +38478,29 @@
       "locationId": "TH"
     },
     {
-      "id": "tpl_6a60e7d50ed7b4521ed6cf85",
+      "id": "tpl_6a9711bbbe148200298ba95e",
       "source": "tpl",
-      "title": "Sunday Lego Club",
-      "description": "Join us each Sunday (barring scheduled closures)&nbsp;to build LEGO structures and have fun at the Forest Hill library!&nbsp;For children under 12 years and their families. Please ensure young children are accompanied by an adult.",
-      "location": "Forest Hill",
-      "address": "700 Eglinton Avenue West, Toronto",
-      "startDate": "2026-12-13 15:00",
-      "endDate": "2026-12-13 16:00",
+      "title": "After School Club",
+      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, meet other kids and have fun! Snacks are offered during the After School Club for participants. Ingredient lists will be available. Snacks are generously supported, in part, by donors. For children ages 6-12. Drop-in.&nbsp;",
+      "location": "Kennedy/Eglinton",
+      "address": "2380 Eglinton Avenue East, Toronto",
+      "startDate": "2026-12-11 15:30",
+      "endDate": "2026-12-11 16:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
         "Crafts & Hobbies",
-        "Science & Engineering"
+        "Culture, Arts & Entertainment"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a60e7d50ed7b4521ed6cf85",
-      "phone": "(416) 393-7706",
+      "url": "https://tpl.bibliocommons.com/events/6a9711bbbe148200298ba95e",
+      "phone": "(416) 396-8924",
       "isRecurring": true,
-      "locationId": "FH"
+      "locationId": "KE"
     },
     {
       "id": "tpl_69ff9658e8af4a2f00715c12",
@@ -39795,28 +39761,31 @@
       "locationId": "CL"
     },
     {
-      "id": "tpl_69546b1e6724c63d00e96a95",
+      "id": "tpl_6a90a02760ccaf01c021813f",
       "source": "tpl",
-      "title": "Snap Circuits",
-      "description": "Explore electricity and circuitry during this hands-on program. Ages 6-12.&nbsp;Drop-in.",
-      "location": "Richview",
-      "address": "1806 Islington Avenue, Toronto",
-      "startDate": "2026-12-20 14:30",
-      "endDate": "2026-12-20 15:30",
+      "title": "After School Club",
+      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, meet other kids and have fun! For ages [ 6-12.] Snacks are offered during the After School Club for participants. Ingredient lists will be available. Snacks are generously supported, in part, by donors.",
+      "location": "Annette Street",
+      "address": "145 Annette Street, Toronto",
+      "startDate": "2026-12-17 16:00",
+      "endDate": "2026-12-17 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
+        "Coding & Robotics",
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment",
         "Science & Engineering"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/69546b1e6724c63d00e96a95",
-      "phone": "(416) 394-5120",
+      "url": "https://tpl.bibliocommons.com/events/6a90a02760ccaf01c021813f",
+      "phone": "(416) 393-7692",
       "isRecurring": true,
-      "locationId": "RI"
+      "locationId": "AN"
     },
     {
       "id": "tpl_69ecea12bd9a3c316a55500b",
@@ -41047,14 +41016,14 @@
       "locationId": "CS"
     },
     {
-      "id": "tpl_6a90c28caafa6100295fad38",
+      "id": "tpl_6a90c28caafa6100295fad36",
       "source": "tpl",
       "title": "After School Club",
       "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, meet other kids and have fun! For ages 6-12. Program supplies are all provided. Snacks are offered during the After School Club for participants. Ingredient lists will be available. Snacks are generously supported, in part, by donors.&nbsp; Please check back each month to see what fun programs we'll be running! Accessibility Live or automated closed captioning, sign language interpretati",
       "location": "York Woods",
       "address": "1785 Finch Avenue West, Toronto",
-      "startDate": "2027-01-18 16:00",
-      "endDate": "2027-01-18 17:00",
+      "startDate": "2027-01-04 16:00",
+      "endDate": "2027-01-04 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
@@ -41066,7 +41035,7 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a90c28caafa6100295fad38",
+      "url": "https://tpl.bibliocommons.com/events/6a90c28caafa6100295fad36",
       "phone": "(416) 395-5980",
       "isRecurring": true,
       "locationId": "YW"
@@ -42357,30 +42326,29 @@
       "locationId": "CS"
     },
     {
-      "id": "tpl_6a972da2be148200298bb451",
+      "id": "tpl_6a90c28caafa6100295fad3a",
       "source": "tpl",
       "title": "After School Club",
-      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, meet other kids and have fun!&nbsp; Drop-in for ages 6-12 . Snacks are offered during the After School Club for participants. Ingredient lists will be available. Snacks are generously supported, in part, by donors. Wednesday, October 7:&nbsp; Button-Making Wednesday, October 14:&nbsp; Design a Bookmark Contest Wednesday, October 21:&nbsp; LEGO Challenge Wednesday, October 28:&nbsp; Paper",
-      "location": "Jane/Sheppard",
-      "address": "1906 Sheppard Avenue West, Toronto",
-      "startDate": "2027-02-17 16:00",
-      "endDate": "2027-02-17 17:00",
+      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, meet other kids and have fun! For ages 6-12. Program supplies are all provided. Snacks are offered during the After School Club for participants. Ingredient lists will be available. Snacks are generously supported, in part, by donors.&nbsp; Please check back each month to see what fun programs we'll be running! Accessibility Live or automated closed captioning, sign language interpretati",
+      "location": "York Woods",
+      "address": "1785 Finch Avenue West, Toronto",
+      "startDate": "2027-02-01 16:00",
+      "endDate": "2027-02-01 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Coding & Robotics",
         "Crafts & Hobbies",
-        "Culture, Arts & Entertainment"
+        "Science & Engineering"
       ],
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a972da2be148200298bb451",
-      "phone": "(416) 395-5966",
+      "url": "https://tpl.bibliocommons.com/events/6a90c28caafa6100295fad3a",
+      "phone": "(416) 395-5980",
       "isRecurring": true,
-      "locationId": "JS"
+      "locationId": "YW"
     },
     {
       "id": "tpl_6a920995392e9c02993ce4ad",
@@ -43672,31 +43640,29 @@
       "locationId": "MAL"
     },
     {
-      "id": "tpl_6a9311651c197d11325bb348",
+      "id": "tpl_6a9711bbbe148200298ba96a",
       "source": "tpl",
       "title": "After School Club",
-      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, meet other kids and have fun! For ages 6-12. Now on Tuesdays, 4-5 pm. Drop in, until capacity. Snacks are offered during the After School Club for participants. Ingredient lists will be available. Snacks are generously supported, in part, by donors.",
-      "location": "Barbara Frum",
-      "address": "20 Covington Road, Toronto",
-      "startDate": "2027-03-30 16:00",
-      "endDate": "2027-03-30 17:00",
+      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, meet other kids and have fun! Snacks are offered during the After School Club for participants. Ingredient lists will be available. Snacks are generously supported, in part, by donors. For children ages 6-12. Drop-in.&nbsp;",
+      "location": "Kennedy/Eglinton",
+      "address": "2380 Eglinton Avenue East, Toronto",
+      "startDate": "2027-03-05 15:30",
+      "endDate": "2027-03-05 16:30",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
       "ages": "Ages 6-12",
       "categories": [
-        "Coding & Robotics",
         "Crafts & Hobbies",
-        "Culture, Arts & Entertainment",
-        "Science & Engineering"
+        "Culture, Arts & Entertainment"
       ],
-      "isDropIn": true,
+      "isDropIn": false,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a9311651c197d11325bb348",
-      "phone": "(416) 395-5440",
+      "url": "https://tpl.bibliocommons.com/events/6a9711bbbe148200298ba96a",
+      "phone": "(416) 396-8924",
       "isRecurring": true,
-      "locationId": "BF"
+      "locationId": "KE"
     },
     {
       "id": "tpl_6a8c440329a7dd0d67461d99",
@@ -45000,14 +44966,14 @@
       "locationId": "AN"
     },
     {
-      "id": "tpl_6a7b5e291401fd00606c0397",
+      "id": "tpl_6a919fe85e6fc10d05506235",
       "source": "tpl",
       "title": "After School Club",
-      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, meet other kids and have fun! For ages 6-12. Snacks are offered during the After School Club for participants. Ingredient lists will be available. Snacks are generously supported, in part, by donors. Drop in, no registration required.",
-      "location": "Highland Creek",
-      "address": "3550 Ellesmere Road, Toronto",
-      "startDate": "2027-05-03 16:00",
-      "endDate": "2027-05-03 17:00",
+      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, meet other kids and have fun! For ages [ 6-12.] Snacks are offered during the After School Club for participants. Ingredient lists will be available. Snacks are generously supported, in part, by donors.",
+      "location": "Malvern",
+      "address": "30 Sewells Road, Toronto",
+      "startDate": "2027-04-15 16:00",
+      "endDate": "2027-04-15 17:00",
       "isFree": true,
       "fee": "Free",
       "ageGroup": "6-12",
@@ -45021,10 +44987,10 @@
       "isDropIn": true,
       "isFull": false,
       "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6a7b5e291401fd00606c0397",
-      "phone": "(416) 396-8876",
+      "url": "https://tpl.bibliocommons.com/events/6a919fe85e6fc10d05506235",
+      "phone": "(416) 396-8969",
       "isRecurring": true,
-      "locationId": "HC"
+      "locationId": "MAL"
     },
     {
       "id": "tpl_6a848f4e2f41840bbfc2ebef",
@@ -46328,6 +46294,33 @@
       "locationId": "JS"
     },
     {
+      "id": "tpl_6a920995392e9c02993ce4b9",
+      "source": "tpl",
+      "title": "After School Club",
+      "description": "Looking for something to do after school? Come out to our After School Club and learn new things, make stuff, meet other kids and have fun! For ages 6-12. Snacks are offered during the After School Club for participants. Ingredient lists will be available. Snacks are generously supported, in part, by donors. Drop-in. No registration required.",
+      "location": "North York Central Library",
+      "address": "5120 Yonge Street, Toronto",
+      "startDate": "2027-05-20 16:00",
+      "endDate": "2027-05-20 17:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "6-12",
+      "ages": "Ages 6-12",
+      "categories": [
+        "Coding & Robotics",
+        "Crafts & Hobbies",
+        "Culture, Arts & Entertainment",
+        "Science & Engineering"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6a920995392e9c02993ce4b9",
+      "phone": "(416) 395-5630",
+      "isRecurring": true,
+      "locationId": "CL"
+    },
+    {
       "id": "tpl_6a4d01876bd493f6008f06ce",
       "source": "tpl",
       "title": "Set Phasers to Celebrate! 60 Years of Star Trek: A Merril Collection Exhibit",
@@ -46441,7 +46434,7 @@
         "Fabrication Studio​"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6aa9dcd0a5dbde002aa4e064",
       "phone": "(416) 395-5654",
@@ -47388,7 +47381,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a775c719006f7535315d84a",
       "phone": "(416) 396-8939",
@@ -50815,7 +50808,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a4d0003f29b560a065f03d8",
       "phone": "(416) 393-7748",
