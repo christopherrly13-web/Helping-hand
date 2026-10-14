@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T04:07:58.813Z",
+  "lastUpdated": "2026-10-14T11:27:42.653Z",
   "totalEvents": 2358,
   "source": "Toronto Public Library",
   "events": [
@@ -35402,7 +35402,7 @@
         "Health & Wellness"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a69055ea0b1bdf860d8a0f3",
       "phone": "(416) 396-3854",
