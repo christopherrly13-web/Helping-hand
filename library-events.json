@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T22:59:54.823Z",
+  "lastUpdated": "2026-10-25T03:50:47.718Z",
   "totalEvents": 2310,
   "source": "Toronto Public Library",
   "events": [
@@ -21082,7 +21082,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a750c3674e3b8b75db82d9b",
       "phone": "(416) 393-7737",
