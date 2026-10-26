@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T23:05:12.764Z",
+  "lastUpdated": "2026-10-26T03:54:39.562Z",
   "totalEvents": 2324,
   "source": "Toronto Public Library",
   "events": [
@@ -19602,7 +19602,7 @@
         "Health & Wellness"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a69055ea0b1bdf860d8a0f1",
       "phone": "(416) 396-3854",
@@ -19704,7 +19704,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a88a653aafa6100295e3111",
       "phone": "(416) 393-7717",
@@ -19960,7 +19960,7 @@
         "Games & Sports"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a7b47a3c80d09476c9403ff",
       "phone": "(416) 396-8969",
@@ -54146,7 +54146,7 @@
         "Personal Development"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6abc3851de300e0045171492",
       "phone": "(416) 395-5660",
