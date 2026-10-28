@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T04:45:47.108Z",
+  "lastUpdated": "2026-10-28T12:22:56.456Z",
   "totalEvents": 2340,
   "source": "Toronto Public Library",
   "events": [
@@ -51369,7 +51369,7 @@
         "Computer Basics & Office Software"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6ad61a2b377296003a4cf59d",
       "phone": "(416) 393-7007",
