@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T01:26:20.138Z",
+  "lastUpdated": "2026-11-06T10:33:32.113Z",
   "totalEvents": 2239,
   "source": "Toronto Public Library",
   "events": [
@@ -2784,7 +2784,7 @@
         "Writing Groups"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6adf8e2e035faf0033df185d",
       "phone": "(416) 396-8881",
@@ -21042,7 +21042,7 @@
         "Writing Groups"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6adf8e2e035faf0033df185d",
       "phone": "(416) 396-8881",
@@ -44009,7 +44009,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a8479d2d4b10d0030074c7d",
       "phone": "(416) 395-5750",
@@ -45773,7 +45773,7 @@
         "Writing Groups"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6adf8e2e035faf0033df185d",
       "phone": "(416) 396-8881",
