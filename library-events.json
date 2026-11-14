@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T05:35:07.149Z",
+  "lastUpdated": "2026-11-14T13:12:04.782Z",
   "totalEvents": 2150,
   "source": "Toronto Public Library",
   "events": [
@@ -4750,7 +4750,7 @@
         "Reading Programs & Storytimes"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a83830f3b6c71003e5989d5",
       "phone": "(416) 396-8960",
