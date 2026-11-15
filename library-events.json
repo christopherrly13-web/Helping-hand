@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T00:53:03.602Z",
+  "lastUpdated": "2026-11-15T10:31:50.933Z",
   "totalEvents": 2139,
   "source": "Toronto Public Library",
   "events": [
@@ -20541,7 +20541,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6ac90a24c6cddb00459624d5",
       "phone": "(416) 395-5750",
@@ -23174,7 +23174,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6ac90a24c6cddb00459624d6",
       "phone": "(416) 395-5750",
@@ -43232,30 +43232,6 @@
       "locationId": "DGH"
     },
     {
-      "id": "tpl_6ad61a2b377296003a4cf59d",
-      "source": "tpl",
-      "title": "Intro to Photoshop",
-      "description": "Get started on the basics of using Adobe Photoshop, the industry standard software for photo editing. In this class, you will get hands on with: Essential Tools Layers Selecting Subjects and Removing Backgrounds Working with text Free alternatives to Photoshop We will try to accommodate all who arrive, but registration is recommended. Prerequisites : Mouse and keyboarding skills required. Please have an Adobe account (free at account.adobe.com) or Google (gmail)&nbsp;account.",
-      "location": "Toronto Reference Library",
-      "address": "789 Yonge Street, Toronto",
-      "startDate": "2026-11-18 18:00",
-      "endDate": "2026-11-18 19:30",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Computer Basics & Office Software"
-      ],
-      "isDropIn": false,
-      "isFull": false,
-      "registrationRequired": true,
-      "url": "https://tpl.bibliocommons.com/events/6ad61a2b377296003a4cf59d",
-      "phone": "(416) 393-7007",
-      "isRecurring": false,
-      "locationId": "TRL"
-    },
-    {
       "id": "tpl_6ac51603035faf0033dab4c9",
       "source": "tpl",
       "title": "Drop In Chess Club",
@@ -43305,6 +43281,30 @@
       "phone": "(416) 395-5660",
       "isRecurring": false,
       "locationId": "CL"
+    },
+    {
+      "id": "tpl_6ad61a2b377296003a4cf59d",
+      "source": "tpl",
+      "title": "Intro to Photoshop",
+      "description": "Get started on the basics of using Adobe Photoshop, the industry standard software for photo editing. In this class, you will get hands on with: Essential Tools Layers Selecting Subjects and Removing Backgrounds Working with text Free alternatives to Photoshop We will try to accommodate all who arrive, but registration is recommended. Prerequisites : Mouse and keyboarding skills required. Please have an Adobe account (free at account.adobe.com) or Google (gmail)&nbsp;account.",
+      "location": "Toronto Reference Library",
+      "address": "789 Yonge Street, Toronto",
+      "startDate": "2026-11-18 18:00",
+      "endDate": "2026-11-18 19:30",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Computer Basics & Office Software"
+      ],
+      "isDropIn": false,
+      "isFull": false,
+      "registrationRequired": true,
+      "url": "https://tpl.bibliocommons.com/events/6ad61a2b377296003a4cf59d",
+      "phone": "(416) 393-7007",
+      "isRecurring": false,
+      "locationId": "TRL"
     },
     {
       "id": "tpl_6ab41f1da5dbde002aa6b720",
@@ -44213,7 +44213,7 @@
         "Audio & Visual"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6abbe83c9abb62002c6af92a",
       "phone": "(416) 393-7732",
