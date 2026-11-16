@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T00:51:59.113Z",
+  "lastUpdated": "2026-11-16T10:48:01.730Z",
   "totalEvents": 2067,
   "source": "Toronto Public Library",
   "events": [
@@ -26807,7 +26807,7 @@
         "Book Clubs"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6a581ac682c03c5c17d85004",
       "phone": "(416) 396-3854",
@@ -40909,7 +40909,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6ad61ace9dbc2b002c8f90dc",
       "phone": "(416) 395-5613",
