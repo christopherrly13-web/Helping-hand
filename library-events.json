@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T02:23:02.489Z",
+  "lastUpdated": "2026-11-19T11:18:30.408Z",
   "totalEvents": 2092,
   "source": "Toronto Public Library",
   "events": [
@@ -41700,7 +41700,7 @@
         "Audio & Visual"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6ace7e0be06996003a83410b",
       "phone": "(416) 393-7706",
