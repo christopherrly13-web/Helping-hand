@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T02:06:25.727Z",
+  "lastUpdated": "2026-11-20T11:03:59.609Z",
   "totalEvents": 2075,
   "source": "Toronto Public Library",
   "events": [
@@ -1080,7 +1080,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6acfd5f4a85a2c00337f87ae",
       "phone": "(416) 396-8970",
@@ -19023,7 +19023,7 @@
         "Culture, Arts & Entertainment"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6acfd5f4a85a2c00337f87ae",
       "phone": "(416) 396-8970",
@@ -19192,7 +19192,7 @@
         "Science & Engineering"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6ac5313d9abb62002c6ca3b2",
       "phone": "(416) 395-5480",
@@ -19216,7 +19216,7 @@
         "Crafts & Hobbies"
       ],
       "isDropIn": false,
-      "isFull": false,
+      "isFull": true,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6ad7eedc96ec3a003adbdf29",
       "phone": "(416) 393-7746",
