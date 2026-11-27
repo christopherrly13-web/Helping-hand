@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T01:34:45.715Z",
+  "lastUpdated": "2026-11-27T11:53:54.217Z",
   "totalEvents": 2055,
   "source": "Toronto Public Library",
   "events": [
@@ -39953,7 +39953,7 @@
         "Personal Development"
       ],
       "isDropIn": false,
-      "isFull": true,
+      "isFull": false,
       "registrationRequired": true,
       "url": "https://tpl.bibliocommons.com/events/6abc3851de300e0045171492",
       "phone": "(416) 395-5660",
@@ -40562,30 +40562,6 @@
       "locationId": "BL"
     },
     {
-      "id": "tpl_6ae7b21bede3fd91a82dbf27",
-      "source": "tpl",
-      "title": "Open Mic at Toronto Reference Library (Music, Poetry & Storytelling)",
-      "description": "Are you a musician, poet, or storyteller? If so, then you are invited to share your talents at the Toronto Reference Library Open Mic! Please note: stand-up comedy is no longer featured at this event. Guitar and piano&nbsp;provided. 5 minutes for each performance. Program is for adults, teens, and seniors. Sign-up is at 5:30 pm. For more information, please contact the Arts Department at 416-393-7157. ** Accessibility at Toronto Public Library: Toronto Public Library is committed to accessibilit",
-      "location": "Toronto Reference Library",
-      "address": "789 Yonge Street, Toronto",
-      "startDate": "2026-11-27 18:00",
-      "endDate": "2026-11-27 20:00",
-      "isFree": true,
-      "fee": "Free",
-      "ageGroup": "13-17",
-      "ages": "Ages 13-17",
-      "categories": [
-        "Culture, Arts & Entertainment"
-      ],
-      "isDropIn": true,
-      "isFull": false,
-      "registrationRequired": false,
-      "url": "https://tpl.bibliocommons.com/events/6ae7b21bede3fd91a82dbf27",
-      "phone": "(416) 393-7157",
-      "isRecurring": false,
-      "locationId": "TRL"
-    },
-    {
       "id": "tpl_6aa1b15d56fe62004a2f2947",
       "source": "tpl",
       "title": "Family Knit and Crochet Circle",
@@ -40608,6 +40584,30 @@
       "phone": "(416) 396-8979",
       "isRecurring": false,
       "locationId": "WS"
+    },
+    {
+      "id": "tpl_6ae7b21bede3fd91a82dbf27",
+      "source": "tpl",
+      "title": "CANCELLED: Open Mic at Toronto Reference Library (Music, Poetry & Storytelling)",
+      "description": "*** PLEASE NOTE: THIS SESSION HAS BEEN CANCELLED . THE NEXT SESSION WILL BE HELD ON DEC 18, 2026. *** Are you a musician, poet, or storyteller? If so, then you are invited to share your talents at the Toronto Reference Library Open Mic! Please note: stand-up comedy is no longer featured at this event. Guitar and piano&nbsp;provided. 5 minutes for each performance. Program is for adults, teens, and seniors. Sign-up is at 5:30 pm. For more information, please contact the Arts Department at 416-393",
+      "location": "Toronto Reference Library",
+      "address": "789 Yonge Street, Toronto",
+      "startDate": "2026-11-27 18:00",
+      "endDate": "2026-11-27 20:00",
+      "isFree": true,
+      "fee": "Free",
+      "ageGroup": "13-17",
+      "ages": "Ages 13-17",
+      "categories": [
+        "Culture, Arts & Entertainment"
+      ],
+      "isDropIn": true,
+      "isFull": false,
+      "registrationRequired": false,
+      "url": "https://tpl.bibliocommons.com/events/6ae7b21bede3fd91a82dbf27",
+      "phone": "(416) 393-7157",
+      "isRecurring": false,
+      "locationId": "TRL"
     },
     {
       "id": "tpl_6ac67683377296003a4a5297",
